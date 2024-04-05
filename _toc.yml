@@ -1,0 +1,8 @@
+# Table of contents
+
+format: jb-book
+root: intro
+chapters:
+- file: funding
+#- file: notebooks
+#- file: markdown-notebooks
