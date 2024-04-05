@@ -18,7 +18,7 @@ The initial analysis of CAL FIRE's Business and Workforce Development Grants fou
 
 [CAL FIRE's Wood Products and Bioenergy Program](https://www.fire.ca.gov/what-we-do/natural-resource-management/environmental-protection-program/wood-products-and-bioenergy) manages the BWD grants and works to maintain and enhance California's wood products infrastructure to support healthy, resilient forests and the people and ecosystems that depend on them.
 
-![CALFIRElogo](https://download.logo.wine/logo/California_Department_of_Forestry_and_Fire_Protection/California_Department_of_Forestry_and_Fire_Protection-Logo.wine.png)
+![CALFIRElogo](calfire.png)
 
 ## Fire
 Climate change and more than a century of fire suppression have created forced foreste ecosystems well outside their natural conditions. Prior to European settlement, fires were common throughout California, used as a tool for managing food, game, disease, and community safety by Tribal communities with as many as 4 million acres/yr burning throughout the state.
