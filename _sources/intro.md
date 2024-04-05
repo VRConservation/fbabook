@@ -10,5 +10,13 @@ The Forest Business Alliance provides technical assistance, workshops, and a pee
 
 Businesses, Tribal organizations, nonprofits, and other entities creating sustainable wood product facilities and businesses. The guide offers key insights and advice to access funds. More information and templates for the CAL FIRE Business and Workforce Development Grants and USDA Forest Service Wood Innovation Grants can be found at the [Forest Business Alliance](https://www.forestbusinessalliance.org/) website. Contact us directly at [forestbusinessalliance@gmail.com](mailto:'forestbusinessalliance.com').
 
+### Acknowledgements
+Funding for the Forest Business Alliance is provided by the CAL FIRE Business and Workforce Development Grant Program.
+
+```{image} /calfire.png
+:height: 200px
+:name: vance
+```
+
 ```{tableofcontents}
 ```

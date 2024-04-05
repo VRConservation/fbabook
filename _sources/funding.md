@@ -80,6 +80,6 @@ The proposal data is freely available on CAL FIRE's Wood Products & Bioenergy  
 Funding for the Forest Business Alliance is provided by the CAL FIRE Business and Workforce Development Grant Program.
 
 ```{image} /calfire.png
-:height: 300px
+:height: 200px
 :name: vance
 ```
