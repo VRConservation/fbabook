@@ -1,3 +1,3 @@
 # fbabook
 
-Forest Business Alliance [Guide](https://vrconservation.github.io/fbabook/)
+Forest Business Alliance [Guide](https://forestbiz.info/)
