@@ -19,7 +19,7 @@ The initial analysis of CAL FIRE's Business and Workforce Development Grants fou
 [CAL FIRE's Wood Products and Bioenergy Program](https://www.fire.ca.gov/what-we-do/natural-resource-management/environmental-protection-program/wood-products-and-bioenergy) manages the BWD grants and works to maintain and enhance California's wood products infrastructure to support healthy, resilient forests and the people and ecosystems that depend on them.
 
 ## Fire
-Climate change and more than a century of fire suppression have created forced foreste ecosystems well outside their natural conditions. Prior to European settlement, fires were common throughout California, used as a tool for managing food, game, disease, and community safety by Tribal communities with as many as 4 million acres/yr burning throughout the state.
+Climate change and more than a century of fire suppression have created forced forest ecosystems well outside their natural conditions. Prior to European settlement, fires were common throughout California, used as a tool for managing food, game, disease, and community safety by Tribal communities. Approximately 4.4 million acres/yr burned in California prior to 1800 {cite}`stephens_etal_2007`.
 
 However, in the present, severe wildfires, negatively affecting communities and ecosystems, have burned much of the state in the past several decades (red polygons).
 
@@ -31,22 +31,22 @@ Some areas have burned multiple times. The bright red area southeast of Lake Ber
 
 In other regions, large wildfires created devastating consequences. The 2018 Camp Fire (pink) killed 85 people and destroyed Paradise. Three years later, the Dixie Fire (red) burned nearly 1 million acres and caused $1.15 billion in damage.
 
-![Dixie](https://i.imgur.com/xu1LKsG.png))
+![Dixie](https://i.imgur.com/xu1LKsG.png)
 
 The multitude of fires starting in the early 2000s built a wealth of support for forest health projects to thin unhealthy forest stands and reintroduce fire into forested ecosystems. Those projects created a lot of wood, especially small-diameter wood, without markets. 
 
 CAL FIRE responded by supporting the creation and expansion of wood products and bioenergy businesses and organizations focused on processing this wood. The Forest Business Alliance conducted an initial study on where the funds went to analyze patterns and identify areas of potential future need or funding focus.
 
 ## Analysis
-The initial funding analysis examined awards by county. The darker green counties indicate a higher amount awarded from CAL FIRE's Business and Workforce Development Grant Program. The total amounts ('000s $USD) are normalized by each county's total square kilometers of forest (total awarded/sq. km forest).
+The initial funding analysis examined awards by county. The darker green counties indicate a higher amount awarded from CAL FIRE's Business and Workforce Development Grant Program. The total amounts (1,000s $USD) are normalized by each county's total square kilometers of forest (total awarded/sq. km forest).
 
 ![Awarded_CA](https://i.imgur.com/oeoKMBw.png)
 
-Not surprisingly, the highest grants/square km of forest are in the north state, dominated by Sierra and North Coast counties. Surprisingly, some agriculturally dominant counties rank highly, e.g., Yolo, in part because large bioenergy projects were funded there.
+Not surprisingly, the highest grants/square km of forest are in the north state, dominated by Sierra Nevada and North Coast counties. Surprisingly, some agriculturally dominant counties rank highly, e.g., Yolo, in part because large bioenergy projects were funded there.
 
 ![Northstate](https://i.imgur.com/lWONb8a.png)
 
-Much of Southern California is chaparral and desert, and fire mitigation is focused more on preventing ignition sources. As of autumn 2023, only two counties had projects with funding in Southern California: San Luis Obispo and Ventura (Tulare not considered part of Socal).
+As of autumn 2023, only two counties had projects with funding in Southern California: San Luis Obispo and Ventura (Tulare is not considered part of Southern California). Much of Southern California is chaparral and desert, and fire mitigation is focused more on preventing ignition sources rather than thinning forests and processing sawlogs or biomass.
 
 ![Socal](https://i.imgur.com/eYDXVi5.png)
 
