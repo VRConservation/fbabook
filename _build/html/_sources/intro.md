@@ -13,7 +13,6 @@ Businesses, Tribal organizations, nonprofits, and other entities creating sustai
 
 ```{tableofcontents}
 ```
-
 ### Acknowledgements
 Funding for the Forest Business Alliance is provided by the [CAL FIRE Business and Workforce Development Grant Program](https://www.fire.ca.gov/what-we-do/natural-resource-management/environmental-protection-program/wood-products-and-bioenergy).
 

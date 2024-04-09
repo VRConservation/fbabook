@@ -377,7 +377,12 @@ document.write(`
                 <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#summary">Summary</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#fire">Fire</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#analysis">Analysis</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#analysis">Analysis</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#awarded">Awarded</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#bivariate">Bivariate</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#gaps">Gaps</a></li>
+</ul>
+</li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#next">Next</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#data">Data</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#acknowledgements">Acknowledgements</a></li>
@@ -395,7 +400,7 @@ document.write(`
   <section class="tex2jax_ignore mathjax_ignore" id="funding-analysis">
 <h1>Funding Analysis<a class="headerlink" href="#funding-analysis" title="Link to this heading">#</a></h1>
 <p><strong>Forests and Business</strong>: An Analysis of CAL FIRE’s Business and Workforce Development Grants</p>
-<p>Vance Russell | Forest Business Alliance</p>
+<p>Forest Business Alliance</p>
 <section id="summary">
 <h2>Summary<a class="headerlink" href="#summary" title="Link to this heading">#</a></h2>
 <p>To better understand the geographic distribution, success rates, and funding gaps/needs, <a class="reference external" href="https://www.forestbusinessalliance.org/">The Forest Business Alliance</a> undertook a preliminary study examining CAL FIRE’s Business and Workforce Development Grants. The initial analysis of CAL FIRE’s Business and Workforce Development Grants found the following:</p>
@@ -438,6 +443,8 @@ document.write(`
 <section id="analysis">
 <h2>Analysis<a class="headerlink" href="#analysis" title="Link to this heading">#</a></h2>
 <p>The initial funding analysis examined awards by county from the 1st quarter of 2022 to the 3rd quarter of 2023 (<a class="reference internal" href="#awarded-ca"><span class="std std-numref">Fig. 4</span></a>). The darker green counties indicate a higher amount awarded from CAL FIRE’s Business and Workforce Development Grant Program. The total amounts (1,000s $USD) are normalized by each county’s total square kilometers of forest (total awarded/sq. km forest).</p>
+<section id="awarded">
+<h3>Awarded<a class="headerlink" href="#awarded" title="Link to this heading">#</a></h3>
 <figure class="align-default" id="awarded-ca">
 <img alt="_images/awarded_ca.png" src="_images/awarded_ca.png" />
 <figcaption>
@@ -458,6 +465,9 @@ document.write(`
 <p><span class="caption-number">Fig. 6 </span><span class="caption-text">Grant concentrations in Southern California. Note: Tulare is not considered part of the Socal region.</span><a class="headerlink" href="#socal" title="Link to this image">#</a></p>
 </figcaption>
 </figure>
+</section>
+<section id="bivariate">
+<h3>Bivariate<a class="headerlink" href="#bivariate" title="Link to this heading">#</a></h3>
 <p>A bivariate analysis querying the data by total requests and awards paints a slightly different picture than the awards analysis (<a class="reference internal" href="#biv"><span class="std std-numref">Fig. 7</span></a>). Where the success rate is the value of funded/requested grants, the lightest shades tend to indicate low success rates, whereas the light blue to dark purple indicate counties with high grant success rates.</p>
 <figure class="align-default" id="biv">
 <img alt="_images/biv.png" src="_images/biv.png" />
@@ -465,13 +475,31 @@ document.write(`
 <p><span class="caption-number">Fig. 7 </span><span class="caption-text">Bivariate analysis comparing amounts of requested to awarded grants simultaneously.</span><a class="headerlink" href="#biv" title="Link to this image">#</a></p>
 </figcaption>
 </figure>
-<p>The total funding requests and awards by county show the divide between the northern and southern portions of the state(<code class="xref std std-numref docutils literal notranslate"><span class="pre">chart</span></code>). The large number of grants requested and awarded in the Sierra Cascade Region. However, the totals do not explain what may happen across organizations and businesses by region, county, and community. The Forest Business Alliance addresses the lack of capacity in each entity’s ability to apply for grants to strengthen sustainable forest businesses and process more wood to ultimately increase forest health across the state.</p>
-<figure class="align-default" id="id3">
+</section>
+<section id="gaps">
+<h3>Gaps<a class="headerlink" href="#gaps" title="Link to this heading">#</a></h3>
+<p>The total funding requests and awards by county show the divide between the northern and southern portions of the state(<a class="reference internal" href="#chart"><span class="std std-numref">Fig. 8</span></a>). The large number of grants requested and awarded in the Sierra Cascade Region. However, the totals do not explain what may happen across organizations and businesses by region, county, and community. The Forest Business Alliance addresses the lack of capacity in each entity’s ability to apply for grants to strengthen sustainable forest businesses and process more wood to ultimately increase forest health across the state.</p>
+<figure class="align-default" id="chart">
 <img alt="_images/chart.png" src="_images/chart.png" />
 <figcaption>
-<p><span class="caption-number">Fig. 8 </span><span class="caption-text">Stacked bar chart of requested and awarded grants by Wildfire Task Force Region and county.</span><a class="headerlink" href="#id3" title="Link to this image">#</a></p>
+<p><span class="caption-number">Fig. 8 </span><span class="caption-text">Stacked bar chart of requested and awarded grants by Wildfire Task Force Region and county.</span><a class="headerlink" href="#chart" title="Link to this image">#</a></p>
 </figcaption>
 </figure>
+<p>Funding by project type showed the most funding for workforce development training, biomass, transportation, and equipment projects (<a class="reference internal" href="#type"><span class="std std-numref">Fig. 9</span></a>). Business development, marketing, and thinning projects were the least funded project types.</p>
+<figure class="align-default" id="type">
+<a class="reference internal image-reference" href="_images/type.png"><img alt="_images/type.png" src="_images/type.png" style="height: 300px;" /></a>
+<figcaption>
+<p><span class="caption-number">Fig. 9 </span><span class="caption-text">Awarded grants by project type.</span><a class="headerlink" href="#type" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+<p>The number of unfunded projects by county reveals interesting patterns (<a class="reference internal" href="#nofund"><span class="std std-numref">Fig. 10</span></a>). Many of the applicants that were not funded are located in Northern California, largely from the Sierra Cascade counties.</p>
+<figure class="align-default" id="nofund">
+<a class="reference internal image-reference" href="_images/nofund.png"><img alt="_images/nofund.png" src="_images/nofund.png" style="height: 300px;" /></a>
+<figcaption>
+<p><span class="caption-number">Fig. 10 </span><span class="caption-text">Unfunded requests by California County.</span><a class="headerlink" href="#nofund" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+</section>
 </section>
 <section id="next">
 <h2>Next<a class="headerlink" href="#next" title="Link to this heading">#</a></h2>
@@ -482,7 +510,6 @@ document.write(`
 <li><p>More analysis is needed to determine the reasons for the county and regional differences. Is it organizational and business capacity? Is it more related to capabilities to create strong projects and proposals? Or could it be something more pervasive, such as regional economics or broader institutional support?</p></li>
 <li><p>Given the need for wildfire mitigation in the state, the bottleneck of processing biomass in a sustainable manner, and the mismatch in requested vs. funded businesses, we highly recommend the state consider increasing funding for this valuable program.</p></li>
 </ul>
-<p><strong>We plan to add the distribution of unfunded projects to the analysis and the interrogation of the data to examine funding by project type.</strong></p>
 </section>
 <section id="data">
 <h2>Data<a class="headerlink" href="#data" title="Link to this heading">#</a></h2>
@@ -562,7 +589,12 @@ document.write(`
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#summary">Summary</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#fire">Fire</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#analysis">Analysis</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#analysis">Analysis</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#awarded">Awarded</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#bivariate">Bivariate</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#gaps">Gaps</a></li>
+</ul>
+</li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#next">Next</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#data">Data</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#acknowledgements">Acknowledgements</a></li>

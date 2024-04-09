@@ -45,6 +45,7 @@ CAL FIRE responded by creating the Wood Products and Bioenergy Program with the 
 ## Analysis
 The initial funding analysis examined awards by county from the 1st quarter of 2022 to the 3rd quarter of 2023 ({numref}`awarded_ca`). The darker green counties indicate a higher amount awarded from CAL FIRE's Business and Workforce Development Grant Program. The total amounts (1,000s $USD) are normalized by each county's total square kilometers of forest (total awarded/sq. km forest).
 
+### Awarded
 ```{figure} /figures/awarded_ca.png
 :name: awarded_ca
 Awarded grants by California County. Numbers in thousands $USD. 
@@ -64,6 +65,7 @@ As of autumn 2023, only two counties had projects with funding in Southern Calif
 Grant concentrations in Southern California. Note: Tulare is not considered part of the Socal region.
 ```
 
+### Bivariate
 A bivariate analysis querying the data by total requests and awards paints a slightly different picture than the awards analysis ({numref}`biv`). Where the success rate is the value of funded/requested grants, the lightest shades tend to indicate low success rates, whereas the light blue to dark purple indicate counties with high grant success rates.
 
 ```{figure} /figures/biv.png
@@ -71,10 +73,27 @@ A bivariate analysis querying the data by total requests and awards paints a sli
 Bivariate analysis comparing amounts of requested to awarded grants simultaneously.
 ```
 
+### Gaps
 The total funding requests and awards by county show the divide between the northern and southern portions of the state({numref}`chart`). The large number of grants requested and awarded in the Sierra Cascade Region. However, the totals do not explain what may happen across organizations and businesses by region, county, and community. The Forest Business Alliance addresses the lack of capacity in each entity's ability to apply for grants to strengthen sustainable forest businesses and process more wood to ultimately increase forest health across the state.
 
 ```{figure} /figures/chart.png
+:name: chart
 Stacked bar chart of requested and awarded grants by Wildfire Task Force Region and county.
+```
+
+Funding by project type showed the most funding for workforce development training, biomass, transportation, and equipment projects ({numref}`type`). Business development, marketing, and thinning projects were the least funded project types.
+
+```{figure} /figures/type.png
+:name: type
+:height: 300px
+Awarded grants by project type.
+```
+The number of unfunded projects by county reveals interesting patterns ({numref}`nofund`). Many of the applicants that were not funded are located in Northern California, largely from the Sierra Cascade counties.
+
+```{figure} /figures/nofund.png
+:name: nofund
+:height: 300px
+Unfunded requests by California County.
 ```
 
 ## Next
@@ -84,8 +103,6 @@ The Forest Business Alliance will continue to add new projects to the Business a
 - As more projects are funded through subsequent grant rounds how do the funding success rates change geographically?
 - More analysis is needed to determine the reasons for the county and regional differences. Is it organizational and business capacity? Is it more related to capabilities to create strong projects and proposals? Or could it be something more pervasive, such as regional economics or broader institutional support?
 - Given the need for wildfire mitigation in the state, the bottleneck of processing biomass in a sustainable manner, and the mismatch in requested vs. funded businesses, we highly recommend the state consider increasing funding for this valuable program.
-
-**We plan to add the distribution of unfunded projects to the analysis and the interrogation of the data to examine funding by project type.**
 
 ## Data
 The proposal data is freely available on CAL FIRE's Wood Products & Bioenergy website. To conduct the analysis, we removed statewide grants since they could not be placed geographically. For projects covering multiple counties, we averaged the total requests and awards across each county identified for the project. The data was compiled in Excel and then joined to a county spatial (California Tiger Census layer) and a vegetation layer (Calveg) to create the spatial database. For any questions, please contact us at forestbusinessalliance@gmail.com.
