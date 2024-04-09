@@ -92,7 +92,6 @@ The number of unfunded projects by county reveals interesting patterns ({numref}
 
 ```{figure} /figures/nofund.png
 :name: nofund
-:height: 300px
 Unfunded requests by California County.
 ```
 

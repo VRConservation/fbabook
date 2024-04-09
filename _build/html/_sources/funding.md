@@ -85,14 +85,12 @@ Funding by project type showed the most funding for workforce development traini
 
 ```{figure} /figures/type.png
 :name: type
-:height: 300px
 Awarded grants by project type.
 ```
 The number of unfunded projects by county reveals interesting patterns ({numref}`nofund`). Many of the applicants that were not funded are located in Northern California, largely from the Sierra Cascade counties.
 
 ```{figure} /figures/nofund.png
 :name: nofund
-:height: 300px
 Unfunded requests by California County.
 ```
 
