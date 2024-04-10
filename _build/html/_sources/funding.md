@@ -15,7 +15,7 @@ To better understand the geographic distribution, success rates, and funding gap
 - To increase the analysis accuracy, a more precise project location is needed. Further analysis by regions with the most need, e.g., disadvantaged communities, fire probability, or underinvestment, is also needed.
 
 ## Fire
-Climate change and more than a century of fire suppression have created forced forest ecosystems well outside their natural conditions. Before European settlement, fires were common throughout California and were used as a tool for managing food, game, disease, and community safety by Tribal communities. Approximately 4.4 million acres burned annually in California prior to 1800 {cite}`stephens_etal_2007`.
+Climate change and more than a century of fire suppression have created forest ecosystems well outside their natural conditions. Before European settlement, fires were common throughout California and were used as a tool for managing food, game, disease, and community safety by Tribal communities. Approximately 4.4 million acres burned annually in California prior to 1800 {cite}`stephens_etal_2007`.
 
 However, in the present, severe wildfires, negatively affecting communities and ecosystems, have burned much of the state in the past several decades ({numref}`california`).
 
@@ -38,7 +38,7 @@ In other regions, large wildfires created devastating consequences ({numref}`dix
 Camp (pink) and Dixie (red) fires. 
 ```
 
-The preponderance of large fires in the early 2000s built a wealth of support for forest health projects to thin unhealthy forest stands and reintroduce fire into forested ecosystems. Those projects created a lot of wood, especially small-diameter wood, without markets. To encourage wood utilization, the USDA Forest Service had the Wood Innovations Grant Program. At the state level, CAL FIRE responded by creating the Wood Products and Bioenergy Program with the first grants awarded in 2022. The Forest Business Alliance conducted an initial study on where the funds went to analyze patterns and identify areas of potential future need or funding focus.
+The preponderance of large fires in the early 2000s built a wealth of support for forest health projects to thin unhealthy forest stands and reintroduce fire into forested ecosystems. Those projects created excess wood and biomass that needed to be removed from the forest to avoid additional wildfire risk. To encourage wood utilization, the USDA Forest Service had the Wood Innovations Grant Program. At the state level, CAL FIRE responded by creating the Wood Products and Bioenergy Program with the first grants awarded in 2022. The Forest Business Alliance conducted an initial study on where the funds went to analyze patterns and identify areas of potential future need or funding focus.
 
 ## Analysis
 The initial funding analysis examined awards by county from the 1st quarter of 2022 to the 3rd quarter of 2023 ({numref}`awarded_ca`).
