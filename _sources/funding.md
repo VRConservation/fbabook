@@ -12,7 +12,7 @@ To better understand the geographic distribution, success rates, and funding gap
 - Every county had projects that requested funds, but Merced, Los Angeles, Inyo, Colusa, DelNorte, Orange, Kern, Riverside, Kings, and Monterey counties did not receive funding in the period examined.
 - The largest proportion of grants awarded in November 2023 went to Northern California, with 80% going to the North Coast (19%) and Sierra Cascade (61%) regions. The Central Coast (3%) and Southern California (1%) were far behind. The total requested mirrors these percentages by region, although they are slightly higher for the Central Coast (4%) and Southern California (3%).
 - The counties with the highest grant success rate (% successfully funded) were Sutter, Stanislaus, San Mateo, Santa Clara, Solano, Siskiyou, Sacramento, Nevada, Mariposa, and Alpine counties. However, a bivariate analysis simultaneously examining requested and awarded amounts showed that the most successful counties (high amount awarded with low amount requested) were Ventura, Alpine, San Francisco, Sacramento, and Sutter Counties.
-- To increase the analysis accuracy, a more precise project location of the applicants is needed. Precise location data for applicants and grantees would also help in the analysis of counties and regions with the most need (e.g., disadvantaged communities).
+- To increase the analysis accuracy, a more precise project location of the applicants is needed. Precise location data for applicants and grantees would also help in the analysis of counties and regions with the most need, e.g., disadvantaged communities.
 
 ## Fire
 Climate change and more than a century of fire suppression have created forest ecosystems well outside their natural conditions. Before European settlement, fires were common throughout California and were used by Tribal communities as a tool for managing food, game, disease, and community safety by Tribal communities. Approximately 4.4 million acres burned annually in California prior to 1800 {cite}`stephens_etal_2007`.
@@ -102,7 +102,7 @@ The Forest Business Alliance will continue to add new projects to the Business a
 
 - More accurate project locations, e.g., latitude/longitude points should be added to reflect where the funding is directed and look at the relationship between forest health and wood products businesses.
 - As more projects are funded through subsequent grant rounds how do the funding success rates change geographically?
-- More analysis is needed to determine the reasons for the county and regional differences. Is it organizational and business capacity? Is it more related to capabilities to create strong projects and proposals? Or could it be something more pervasive such as regional economic differences or available institutional support for potential applicants?
+- More analysis is needed to determine the reasons for the county and regional differences. Is it organizational and business capacity? Is it more related to capabilities to create strong projects and proposals? Could it be something more pervasive such as regional economic differences or available institutional support for potential applicants?
 - Given the need for wildfire mitigation in the state, the bottleneck of processing biomass in a sustainable manner, and the mismatch in requested vs. funded businesses, we highly recommend the state consider increasing funding for this valuable program.
 
 ## Data
