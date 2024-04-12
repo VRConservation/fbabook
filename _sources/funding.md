@@ -15,9 +15,7 @@ To better understand the geographic distribution, success rates, and funding gap
 - To increase the analysis accuracy, a more precise project location of the applicants is needed. Precise location data for applicants and grantees would also help in the analysis of counties and regions with the most need, e.g., disadvantaged communities.
 
 ## Fire
-Climate change and more than a century of fire suppression have created forest ecosystems well outside their natural conditions. Before European settlement, fires were common throughout California and were used by Tribal communities as a tool for managing food, game, disease, and community safety by Tribal communities. Approximately 4.4 million acres burned annually in California prior to 1800 {cite}`stephens_etal_2007`.
-
-However, in the present, severe wildfires, negatively affecting communities and ecosystems, have burned much of the state in the past several decades ({numref}`california`).
+Prior to European settlement, fires were commonly utilized throughout California by Tribal communities as a tool for managing food, game, disease, and community safety. Approximately 4.4 million acres burned annually in California before 1800 {cite}`stephens_etal_2007`. This acreage is far more than recent years, but likely differs in the total acres burned at high severity. Fast forward to the present, fire suppression, severe drought, and climate change have created forest ecosystems well outside their natural conditions, making them prone to severe wildfires and negatively affecting habitats and communities ({numref}`California`).
 
 ```{figure} /figures/california.png
 :name: california
