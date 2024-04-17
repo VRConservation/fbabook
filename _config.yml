@@ -2,7 +2,7 @@
 
 title: Forest Business Alliance Guide
 author: Vance Russell
-copyright: "2024"
+copyright: "2024, Built with Jupyter Book"
 logo: fba-square.png
 
 # Force re-execution of notebooks on each build.
