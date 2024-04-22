@@ -14,7 +14,7 @@ To better understand the geographic distribution, success rates, and funding gap
 - The counties with the highest grant success rate (% successfully funded) were Sutter, Stanislaus, San Mateo, Santa Clara, Solano, Siskiyou, Sacramento, Nevada, Mariposa, and Alpine counties. However, a bivariate analysis simultaneously examining requested and awarded amounts showed that the most successful counties (high amount awarded with low amount requested) were Ventura, Alpine, San Francisco, Sacramento, and Sutter Counties.
 - To increase the analysis accuracy, a more precise project location of the applicants is needed. Precise location data for applicants and grantees would also help in the analysis of counties and regions with the most need, e.g., disadvantaged communities.
 
-## Forest health
+## Background
 Prior to European settlement, fires were commonly utilized throughout California by Tribal communities as a tool for managing food, game, disease, and community safety. Approximately 4.4 million acres burned annually in California before 1800 {cite}`stephens_etal_2007`. This acreage is far more than in recent years but likely differs in the total acres burned at high severity. Fast forward, fire suppression, severe drought, and climate change have created forest ecosystems well outside their natural conditions, making them prone to severe wildfires and negatively affecting habitats and communities.
 
 ```{figure} /figures/health.png
@@ -22,7 +22,7 @@ Prior to European settlement, fires were commonly utilized throughout California
 Simplified forest health theory of change. 
 ```
 
-This century's increase in large fires has underscored the urgent need for forest health projects. These projects aim to thin unhealthy forest stands and reintroduce fire into forested ecosystems ({numref}`health`). However, they have also created a new challenge-excess wood and biomass that pose additional wildfire risks. California is in dire need of more infrastructure and workforce capacity to effectively manage this situation. To encourage wood utilization, the USDA Forest Service has the Wood Innovations Grant Program. At the state level, CAL FIRE created the Wood Products and Bioenergy Program with the first grants awarded in 2022. The Forest Business Alliance conducted an initial study on where the funds went to analyze patterns and identify areas of potential future need or funding focus.
+This century's increase in large fires has underscored the urgent need for forest health projects. These projects aim to thin unhealthy forest stands and reintroduce fire into forested ecosystems ({numref}`health`). However, they have also created a new challenge—excess wood and biomass that pose additional wildfire risks. California is in dire need of more infrastructure and workforce capacity to effectively manage this situation. To encourage wood utilization, the USDA Forest Service has the Wood Innovations Grant Program. At the state level, CAL FIRE created the Wood Products and Bioenergy Program with the first grants awarded in 2022. The Forest Business Alliance conducted an initial study on where the funds went to analyze patterns and identify areas of potential future need or funding focus.
 
 ## Analysis
 The initial funding analysis examined awards by county from the 1st quarter of 2022 to the 3rd quarter of 2023 ({numref}`awarded_ca`).
