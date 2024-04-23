@@ -15,7 +15,7 @@ To better understand the geographic distribution, success rates, and funding gap
 - To increase the analysis accuracy, a more precise project location of the applicants is needed. Precise location data for applicants and grantees would also help in the analysis of counties and regions with the most need, e.g., disadvantaged communities.
 
 ## Background
-Prior to European settlement, fires were commonly utilized throughout California by Tribal communities as a tool for managing food, game, disease, and community safety. Approximately 4.4 million acres burned annually in California before 1800 {cite}`stephens_etal_2007`. This acreage is far more than in recent years but likely differs in the total acres burned at high severity. Fast forward, fire suppression, severe drought, and climate change have created forest ecosystems well outside their natural conditions, making them prone to severe wildfires and negatively affecting habitats and communities.
+Prior to European settlement, fires were commonly utilized throughout California by Tribal communities as a tool for managing food, game, disease, and community safety. Approximately 4.4 million acres burned annually in California before 1800 {cite}`stephens_etal_2007`. This acreage is far more than in recent years but likely differs in the total acres burned at high severity. Fast forward—fire suppression, severe drought, and climate change have created forest ecosystems well outside their natural conditions, making them prone to severe wildfires and negatively affecting habitats and communities.
 
 ```{figure} /figures/health.png
 :name: health
