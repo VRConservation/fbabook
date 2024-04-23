@@ -1,6 +1,6 @@
 # Funding Analysis
 
-The Business of Wildfire and Forest Health Is Booming: An Analysis of CAL FIRE's Business and Workforce Development Grants
+The Business of Forest Health Is Booming: An Analysis of CAL FIRE's Business and Workforce Development Grants
 
 [Forest Business Alliance](https://www.forestbusinessalliance.org/)
 
