@@ -1,0 +1,735 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="./" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Program Design &#8212; Forest Business Alliance Guide</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.1/css/all.min.css?digest=8d27b9dea8ad943066ae" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.1/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.1/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.1/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=fa44fd50" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=384b581d" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.1e8bd061cd6da7fc9cf755528e8ffc24.min.css?v=0a3b3ea7" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=8d27b9dea8ad943066ae" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=8d27b9dea8ad943066ae" />
+  <script src="_static/vendor/fontawesome/6.5.1/js/all.min.js?digest=8d27b9dea8ad943066ae"></script>
+
+    <script src="_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="_static/doctools.js?v=888ff710"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="_static/copybutton.js?v=f281be69"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=efea14e4"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="_static/design-tabs.js?v=36754332"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'program_design';</script>
+    <link rel="icon" href="_static/fba-square.png"/>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Bibliography" href="bibliography.html" />
+    <link rel="prev" title="Funding Analysis" href="funding.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <a id="pst-skip-link" class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+
+<a class="navbar-brand logo" href="intro.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="_static/fba-square.png" class="logo__image only-light" alt="Forest Business Alliance Guide - Home"/>
+    <script>document.write(`<img src="_static/fba-square.png" class="logo__image only-dark" alt="Forest Business Alliance Guide - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn navbar-btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="intro.html">
+                    Introduction
+                </a>
+            </li>
+        </ul>
+        <ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="funding.html">Funding Analysis</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Program Design</a></li>
+
+
+
+
+
+
+
+
+
+<li class="toctree-l1"><a class="reference internal" href="bibliography.html">Bibliography</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/VRConservation/fbabook" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/VRConservation/fbabook/issues/new?title=Issue%20on%20page%20%2Fprogram_design.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/program_design.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Program Design</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Program Design</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#general-instructions"><a name="_toc143099708"></a><strong>GENERAL INSTRUCTIONS</strong></a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#assessment-problem-analysis"><a name="_toc143099709"></a><strong>ASSESSMENT &amp; PROBLEM ANALYSIS</strong></a><ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#problems-to-objectives">PROBLEMS TO OBJECTIVES</a></li>
+</ul>
+</li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#results-framework"><a name="_toc143099711"></a><strong>RESULTS FRAMEWORK</strong></a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#back-of-the-envelope-budget"><a name="_toc143099712"></a><strong>BACK-OF-THE-ENVELOPE BUDGET</strong></a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#strategy-options"><a name="_toc143099713"></a><strong>STRATEGY OPTIONS</strong></a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#theory-of-change"><a name="_toc143099714"></a><strong>THEORY OF CHANGE</strong></a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#proframe-detailed-implementation-plan"><a name="_toc143099715"></a><strong>PROFRAME &amp; DETAILED IMPLEMENTATION PLAN</strong></a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#next-steps"><a name="_toc143099716"></a><strong>NEXT STEPS</strong></a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#project-monitoring-reporting"><a name="_toc143099717"></a><strong>PROJECT MONITORING &amp; REPORTING</strong></a></li>
+</ul>
+
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="program-design">
+<h1>Program Design<a class="headerlink" href="#program-design" title="Link to this heading">#</a></h1>
+<p>*<em>Forest Business Alliance</em></p>
+<p><em>Originally Published: 18 August 2023; Revised 31 January 2024</em></p>
+</section>
+<section class="tex2jax_ignore mathjax_ignore" id="general-instructions">
+<h1><a name="_toc143099708"></a><strong>GENERAL INSTRUCTIONS</strong><a class="headerlink" href="#general-instructions" title="Link to this heading">#</a></h1>
+<p>The Forest Business Alliance (FBA) created the templates in this workbook to help grant seekers design project proposals for submission to the California Department of Forestry and Fire Protection’s (CAL FIRE) FY 2023-2024 <a class="reference external" href="https://www.fire.ca.gov/what-we-do/natural-resource-management/environmental-protection-program/wood-products-and-bioenergy">Wood Products and Bioenergy Business and Workforce</a></p>
+<p><a class="reference external" href="https://www.fire.ca.gov/what-we-do/natural-resource-management/environmental-protection-program/wood-products-and-bioenergy">Development Grant Program</a>. These templates and guidance may also be useful for <a class="reference external" href="https://www.fs.usda.gov/science-technology/energy-forest-products/wood-innovation/grants">US Forest Service Wood Innovation and Community Wood Grant Programs</a>, as well as other related grant programs.</p>
+<p>During the design process, your project team will decide which problems and causes to address, what strengths and opportunities to leverage, where you will work, with whom, and at what scale. Your project team will also specify what the project will do (and what it will not do) by establishing achievable and measurable goals and objectives, selecting sound strategies, developing detailed activity plans, and setting targets.</p>
+<p>Worksheets 1 through 7 are meant to help you during the project design phase. The workbook also contains monitoring and reporting worksheets, which will only be used by projects that are funded by CAL FIRE. The monitoring and reporting worksheets are included in this workbook because they automatically populate from the information you input during the project design phase, but you do not need to complete the remaining information during the design phase.</p>
+<p>The worksheets are meant to be used together and, therefore, many cells are linked. For example, when you enter the goal, objective, and intermediate result (IR) statements on the Problems to Objectives worksheet, the workbook automatically populates this information on all subsequent worksheets. This ensures that these statements are consistent throughout the document. Additionally, the four Tracking &amp; Reporting worksheets contain formulas that calculate annual and year-over-year progress. Please read the instructions carefully to avoid overwriting formulas. If you have any questions about modifying these templates, please contact FBA staff.</p>
+<p>The contents of this guidance document and the accompanying worksheets are presented chronologically:</p>
+<ol class="arabic simple">
+<li><p>Assessment / Problem Analysis</p></li>
+<li><p>Results Framework (RF)</p></li>
+<li><p>Back-of-the-Envelope Budget</p></li>
+<li><p>Strategy Options / Ranking</p></li>
+<li><p>Theory of Change (TOC)</p></li>
+<li><p>Project Framework (ProFrame) / Detailed Implementation Plan (DIP)</p></li>
+</ol>
+<p>After you complete your project design, you will use it to create a Detailed Budget and Budget Narrative and a Technical Narrative.</p>
+<p>The step-by-step organization of the guidance and workbook help you move deliberately through the design process, but keep in mind that project design is iterative and dynamic. As you add detail when progressing from one step to the next, you may find it necessary to go back and revise information you input during prior steps. In the end, all elements of your proposal must tell the same story in a logical manner.</p>
+<p>FBA referenced numerous publicly available sources to create the project design and monitoring templates and adapted information from them to create resources suited to the CAL FIRE funding opportunity. The <a class="reference external" href="https://conservationstandards.org/wp-content/uploads/sites/3/2020/12/CMP-Open-Standards-for-the-Practice-of-Conservation-v4.0-English.pdf">Open Standards for the Practice of Conservation</a>, developed by the Conservation Measures Partnership (CMP), and <a class="reference external" href="https://ics.crs.org/resource/propack-i-project-design-and-proposal-guidance-crs-project-and-program-managers">ProPack I: Project Design Guidance for Project and Program Managers</a>, developed by Catholic Relief Services, are among the sources we relied upon.</p>
+<p><em>The templates and information provided herein are for reference only. While FBA has made every effort to provide information that is up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the information, templates, or related graphics contained herein.</em></p>
+<p><em>Should any conflict exist between this document and CAL FIRE’s <a class="reference external" href="https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/calfire-website/what-we-do/natural-resource-management/wood-products-and-bioenergy/bwd_grant_guidelines_20240114.pdf?rev=0d99955ef36044f99d232b01d1f08b57&amp;amp;hash=480B9A41E7EE77FCA2B38EDED9E41AE4">FY2023-2024 Grant Guidelines</a> or the <a class="reference external" href="https://34c031f8-c9fd-4018-8c5a-4159cdff6b0d-cdn-endpoint.azureedge.net/-/media/calfire-website/what-we-do/grants/other/ecivis-grants-portal-application-submittal-user-guide_ada-accessible_revised-2-15-22.pdf?rev=9bfab3b2499646b3b1391c065c91acc8&amp;amp;hash=910F6B89082DF48914D3D5A623BF063D">e-Civis Portal Application Submittal User Guide</a>, the guidelines provided by CAL FIRE and e-Civis supersede any guidance or suggestions provided herein. Additionally, please note that applicants are not required to use the FBA guidance or templates to prepare their proposals, and applicants must submit their final applications through the e-Civis portal.</em></p>
+<p><em><strong>For more information and templates, including the Budget Templates, go to <a class="reference external" href="http://forestbusinessalliance.org">forestbusinessalliance.org</a> or get in touch with us at <a class="reference external" href="mailto:forestbusinessalliance&#37;&#52;&#48;gmail&#46;com">forestbusinessalliance<span>&#64;</span>gmail<span>&#46;</span>com</a>.</strong></em></p>
+<p>**</p>
+</section>
+<section class="tex2jax_ignore mathjax_ignore" id="assessment-problem-analysis">
+<h1><a name="_toc143099709"></a><strong>ASSESSMENT &amp; PROBLEM ANALYSIS</strong><a class="headerlink" href="#assessment-problem-analysis" title="Link to this heading">#</a></h1>
+<p>During the assessment phase, you will specify the basic parameters for your project and improve your understanding of the project’s context. Pages 13 through 24 of the <a class="reference external" href="https://conservationstandards.org/wp-content/uploads/sites/3/2020/12/CMP-Open-Standards-for-the-Practice-of-Conservation-v4.0-English.pdf">Open Standards for the Practice of Conservation</a> provide an excellent primer on assessment. We recommend you take some time to review it.</p>
+<p>Conducting a thorough situation or problem analysis is central to your assessment work. Your design team should review available evidence to complete your analysis, identifying the direct threats (or core problems) and the indirect threats (also known as drivers and causes).</p>
+<p><em><strong>Figure 1. Situation Model</strong></em></p>
+<p><img alt="" src="Aspose.Words.10aa1f8b-dd27-484a-b4ed-cc7c8b7185ee.001.jpeg" /></p>
+<p>A situation model is a tool that visually portrays the relationships among the various factors in your situation analysis. See the generic situation model from CMP’s Open Standards in Figure 1 above. The model should illustrate the main cause-and effect relationships, include the most important details yet be as simple as possible. To the degree that it is feasible and useful, you should identify the actors behind key factors.</p>
+<p>Project design teams also frequently use assessment findings to construct problem trees. These causal diagrams help you to identify and study core problems by identifying their immediate and underlying causes and the negative effects they create. This in turn allows you to identify solutions that will address the problems rather than their symptoms. A problem tree is also a useful tool for understanding cause‑and‑effect relationships, and, as such, it provides a vital bridge to the objectives hierarchy in a results framework in the next step of the project design process.</p>
+<p><img alt="" src="Aspose.Words.10aa1f8b-dd27-484a-b4ed-cc7c8b7185ee.002.png" /></p>
+<p><img alt="" src="Aspose.Words.10aa1f8b-dd27-484a-b4ed-cc7c8b7185ee.003.jpeg" />During problem analysis, process is as important as the end product. The exercise should be treated as a learning experience. Problem tree analysis is typically done at a participatory workshop with your design team and possibly other stakeholders. Participants write problems, immediate causes, root causes, and effects on sticky notes or note cards. Each card should contain only one item. This allows participants to move the cards around and discuss where they best fit within the problem tree. Experience in facilitating the use of the problem tree method and familiarity with the local context are important considerations when selecting a facilitator. Once you have constructed a problem tree with a logical flow, record it on the Problem Analysis worksheet.</p>
+<p>You may need to go through the problem tree analysis multiple times if you are planning to include multiple distinct goals in your proposal to CAL FIRE. There are three trees on the Problem Analysis worksheet. Complete as many as you need to.</p>
+<p>Once you complete the problem tree(s), the workbook will automatically populate portions of the next Problems to Objectives worksheet.</p>
+<p>If the Problem Analysis worksheet is insufficient to accommodate your tree(s), you can use your own graphic or simply take a picture of the tree(s) you have constructed. You should still record the core problems, immediate causes, and root causes from your trees on the Problems to Objectives worksheet. This will make it easier to construct their corresponding goal, objective and intermediate result statements. If you decide to create a situation model instead of a problem tree, translate the direct and indirect threats to core problems, immediate and root causes on the Problems to Objectives worksheet.</p>
+<p>The problems, immediate and root causes, and effects should be supported by evidence that verifies they are true. The evidence and sources should be noted while doing the problem analysis and documented on the Problems to Objectives worksheet when the analysis is completed.</p>
+<p>Once you have created your problem tree(s) or situation model, review the logic by asking these questions:</p>
+<ul class="simple">
+<li><p>Does each cause-effect link make sense? Is each link plausible? Why or why not?</p></li>
+<li><p>How well have the causes gone down to the roots? Are there any unidentified root causes?</p></li>
+<li><p>What appears to be the relative contribution of each causal stream to the problem/threat? Do some causes appear more than once? Why is this?</p></li>
+</ul>
+<p>Finally, in addition to helping you design a project that responds to causes instead of their symptoms, the assessment and problem analysis you have done will provide findings and conclusions that help you to write a compelling and context‑specific problem analysis for the proposal narrative.</p>
+<section id="problems-to-objectives">
+<h2>PROBLEMS TO OBJECTIVES<a class="headerlink" href="#problems-to-objectives" title="Link to this heading">#</a></h2>
+<p>The Problems to Objectives worksheet should be completed after your Problem Analysis has been finalized. The purpose of the Problems to Objectives worksheet is two-fold:</p>
+<ol class="arabic simple">
+<li><p>It documents the links between the problems/causes and their evidence. You will provide citations to documents that provide the evidence that confirms the existence and degree of each problem and cause. This information will be useful for developing your project narrative.</p></li>
+<li><p>It documents the links between the current negative condition and the desired future positive condition. The current negative condition is documented in the problems and causes from the problem analysis. The expected results of the project (solution) are the inverse of the problem/cause and are written as goal, objective, and intermediate result statements, which will be necessary to complete the e-Civis Grant Portal Goals worksheet, as well as other required proposal documents.</p></li>
+</ol>
+<p><em><strong>Figure 3. Problem Tree to Results Framework</strong></em></p>
+<p><img alt="" src="Aspose.Words.10aa1f8b-dd27-484a-b4ed-cc7c8b7185ee.004.png" /></p>
+<p>The core problems, immediate causes, and root causes will be automatically transferred from the Problem Analysis worksheet to Column B (Problem/Cause) of the Problem to Objectives worksheet. Next, you should record the evidence and sources for the problems and causes in column C (Evidence for Problem/Cause). Finally, complete the Goal / Objective / Intermediate Result Statements column by turning the problem tree’s core problems, immediate and root causes into mirrored, positive goal, objective and intermediate result statements. See Figure 3 above. These goal, objective, and intermediate results statements will be transferred automatically to the Results Framework worksheet where the IF-THEN logic can be tested.</p>
+<p>Well written objective statements follow specific formulas at different levels of the project’s hierarchy. Below we provide guidance on creating statements for each level. Review CAL FIRE’s required metrics before you develop your goals and objective statements because these metrics are specific and required. Reviewing and understanding them is necessary for you to create goals and objectives that align with CAL FIRE’s goals.</p>
+<ul class="simple">
+<li><p><strong>Goals</strong> are the high-level, long-term results that a project seeks to achieve. Factors outside the intervention may contribute to the goals. The goal statements are important in defining the scope of change the project expects to achieve. Write goals in complete sentences, as if already achieved. Put the general population of intended beneficiaries as the subject of the sentence.</p>
+<ul>
+<li><p>Example: Residents of low-income, fire-prone, rural areas of Northern California experience a reduction in property loss from forest fires because expanded forest sector businesses contribute to making forests more resilient to wildfires.</p></li>
+</ul>
+</li>
+<li><p><strong>Objectives</strong> are** the primary results that an intervention seeks to achieve. Other grant makers commonly refer to this level of project hierarchy as strategic objectives or outcomes. Objective statements describe the noticeable or significant benefits that are actually achieved and enjoyed by targeted groups by the end of the project. Progress at this level is necessary to achieve the goals. To create objectives, ask where do we want to be at the end of the project? What are the most immediate things we are trying to change? What are the things that must be in place before we can achieve our goals? Write each objective as a complete sentence, as if already achieved. Put the targeted primary beneficiary group(s) whose behavior is expected to change as the subject of the sentence.</p>
+<ul>
+<li><p>Example: Forest sector businesses have increased their capacity to clear forested rights-of-way.</p></li>
+</ul>
+</li>
+<li><p><strong>Intermediate results</strong> state the expected changes in identifiable behaviors by participants or in identifiable approaches by interventions, systems, policies or institutions as a result of what was gained (outputs) through project actions (activities). Progress at this level is a necessary precondition towards achieving the objectives. Write intermediate results as complete sentences, as if already achieved. Put the targeted primary beneficiary group(s) whose behavior is expected to change as the subject of the sentence.</p>
+<ul>
+<li><p>Example: Forest sector businesses are consistently using improved technology and practices to clear forested rights-of-way.</p></li>
+</ul>
+</li>
+<li><p><strong>Outputs</strong> are the tangible products, goods and services that result from the implementation of specific activities. More than one output may be needed to achieve a single intermediate result or objective. To create outputs, ask what are the things that need to be produced or provided by the project to achieve short- to medium- term results? Write outputs as complete sentences, as if already achieved. Put the targeted primary beneficiary group(s) receiving the outputs as the subject of the sentence.</p>
+<ul>
+<li><p>Example: Forest sector businesses have demonstrably increased their knowledge related to improved technologies and practices to clear forested rights-of-way.</p></li>
+</ul>
+</li>
+<li><p><strong>Activities</strong> describe the functions to be undertaken and managed to deliver the project’s outputs to the targeted beneficiaries and participants. Normally more than one activity is needed to achieve an individual output. To avoid over-complicating the project results framework, activities are not included at that stage of the project design. You will include the full breadth of specific activities when you develop the Project Framework (ProFrame) &amp; Detailed Implementation Plan (DIP).</p>
+<ul>
+<li><p>Example: Organization X provides training for owners and staff of forest sector businesses on improved technology and practices to clear forested rights-of-way.</p></li>
+</ul>
+</li>
+</ul>
+</section>
+</section>
+<section class="tex2jax_ignore mathjax_ignore" id="results-framework">
+<h1><a name="_toc143099711"></a><strong>RESULTS FRAMEWORK</strong><a class="headerlink" href="#results-framework" title="Link to this heading">#</a></h1>
+<p>A results framework (RF) is an easy‑to‑read diagram that gives a snapshot of the project’s objectives hierarchy (means‑to‑end relationship) and describes the change the project aims to bring about, why this change is important, and what needs to happen for this change to occur. Here you will make explicit how you expect the project will lead to intended goals and objectives and generate meaningful impact.</p>
+<p>On the Results Framework worksheet, the goal, objective, and intermediate results statements will automatically populate from the Problems to Objectives worksheet. Review the list of questions below and use the “if – then” test to confirm the logic between each level of the RF. Every statement should clearly lead to the next higher-level statement. If the logic is not clear, go back and revise your goal, objective, and intermediate result statements.</p>
+<ul class="simple">
+<li><p>Do the objectives describe the central purpose of the project?</p></li>
+<li><p>Are the objectives specific to the project context?</p></li>
+<li><p>Can the objectives be realistically achieved by the end of the project?</p></li>
+<li><p>Do the objectives logically contribute towards achievement of the goal?</p></li>
+<li><p>Does the number of objectives make sense given the project timeframe, scope, scale and budget?</p></li>
+<li><p>Do the intermediate results reflect the project strategy and TOC?</p></li>
+<li><p>Do the intermediate results reflect the right change agents and behaviors?</p></li>
+<li><p>Is the complement of intermediate results necessary and sufficient to deliver change at the objective level?</p></li>
+</ul>
+<p><img alt="" src="Aspose.Words.10aa1f8b-dd27-484a-b4ed-cc7c8b7185ee.005.jpeg" /><img alt="" src="Aspose.Words.10aa1f8b-dd27-484a-b4ed-cc7c8b7185ee.006.png" />You should revisit this list of questions as you move through the design process because you will not have all of the necessary information to make informed decisions until you have gone through all the steps at least once.</p>
+</section>
+<section class="tex2jax_ignore mathjax_ignore" id="back-of-the-envelope-budget">
+<h1><a name="_toc143099712"></a><strong>BACK-OF-THE-ENVELOPE BUDGET</strong><a class="headerlink" href="#back-of-the-envelope-budget" title="Link to this heading">#</a></h1>
+<p>Identifying and reviewing CAL FIRE’s requirements and other set project parameters early will help focus project design efforts and keep expectations in line with reality. One key parameter is the amount of money available for direct program implementation. FBA has developed a tool to help you determine approximately how much money you can expect to have to implement field-level activities. Having a rough estimate of how much you will have to do field work will help you make realistic decisions on project scope and scale.</p>
+<p>Calculate the approximate amount of money available for field-level program costs as follows:</p>
+<ol class="arabic simple">
+<li><p>Review Table 1. Funding Limits and Match Requirements on page 6 of the CAL FIRE FY 2023-2024 Grant Guidelines and decide how much you plan to request based on the grant type, minimum and maximum award amounts, and match requirements. Input this dollar amount into Step 1 of the table.</p></li>
+<li><p>In Step 2, set the indirect cost rate that will apply to your project. In the table, the default indirect rate is set at 12.00%. It is expressed as a number (1.12) for division. Please note that workforce development projects managed by non-profit grantees are the only project types eligible for indirect charges, AND the maximum allowable indirect charge is 12% for eligible projects unless an exemption is granted by CAL FIRE. Change this to 1.00 if you cannot charge indirect, or to a number between 1.00 and 1.12 if you plan to charge indirect less than the maximum allowable rate.</p></li>
+<li><p>In Step 3, estimate what percentage of the total direct costs (budget ceiling less indirect costs) will be required for project support. Input this figure as a percentage. Project support typically includes finance and administrative personnel, facility and vehicle use expenses, and other costs necessary for the project but which are not part of the field-level implementation. Typically, these costs run between 10% and 15% of a total grant. These costs must be budgeted as direct costs and they must be necessary for the project. For example, you might budget a staff person’s time, who is not otherwise involved in project implementation, to conduct project monitoring and write grant reports. Staff time related to accounting, business services, etc. are allowed only if those functions are not included in the grantee’s overhead cost.</p></li>
+<li><p>Step 4 automatically calculates (by subtracting indirect costs and allocated direct support costs) the amount available to you for all other project costs. In other words, this is the amount you will have available for salaries and benefits, travel, supplies, etc. required to implement the project’s field-level activities.</p></li>
+</ol>
+</section>
+<section class="tex2jax_ignore mathjax_ignore" id="strategy-options">
+<h1><a name="_toc143099713"></a><strong>STRATEGY OPTIONS</strong><a class="headerlink" href="#strategy-options" title="Link to this heading">#</a></h1>
+<p>Once you determine what you want to accomplish (your goals and main objectives) and roughly how much money is available for direct field-level work, you need to think about what strategies are required to achieve the project’s desired impacts.</p>
+<p>Please note that even though you drafted preliminary goal, objective, and intermediate result statements when completing the Problems to Objectives worksheet, you can and should refine those statements as you proceed through the design process. Drafting these statements, like much of the work you will do when designing your project, is iterative. As the project design solidifies, it is also important to make sure that your goals, objectives, intermediate results, outputs and activities retain their logical flow.</p>
+<p>In most situations, there are usually various plausible strategies to addressing problems and achieving the project’s desired impacts. Consider evidence to identify relevant, appropriate and potentially effective strategy options. Evidence you might consult includes:</p>
+<ul class="simple">
+<li><p>Your own assessment findings about needs, gaps and opportunities.</p></li>
+<li><p>Industry best practices that are accepted as most effective or that have consistently shown superior results.</p></li>
+<li><p>Lessons learned and findings from case studies, research, and reports that illustrate a strategy works well in contexts similar to those in which your project will be implemented.</p></li>
+</ul>
+<p>Make a list of plausible strategies, and then work with your project team using a systematic process to weigh the pros and cons of each. Depending on the complexity and scope of your project, you may need to repeat these steps for each goal or objective. Answer the questions below for each strategy option. Use the table on the Strategy Options worksheet to summarize your answers.</p>
+<ol class="arabic simple">
+<li><p>Who is involved: Who does this project strategy work with and who would benefit?</p></li>
+<li><p>Evidence of impact: What do technical advice, literature and standards tell you about this strategy’s likelihood to bring about the desired change? What made this project strategy successful elsewhere?</p></li>
+<li><p>Advantages: What are the advantages of this project strategy option (e.g., cost, feasibility, value for money, leveraging opportunities, scale versus scope, sustainability, etc.)?</p></li>
+<li><p>Disadvantages: What are the disadvantages of this project strategy option (e.g., cost, feasibility, value for money, leveraging opportunities, scale versus scope, sustainability, etc.)?</p></li>
+<li><p>Assumptions: What assumptions does the project strategy make about interests and influence of project partners? Environmental conditions? Market conditions?</p></li>
+<li><p>Risks: What are the risks associated with this project strategy option? How can the project strategy mitigate these risks?</p></li>
+<li><p>Likelihood of impact in this project context: In light of the assessment findings, how likely is it that this project strategy can address problems, leverage opportunities and bring about desired change equally well in this project’s context?</p></li>
+</ol>
+<p>Eliminate all strategies from the list that are obviously inappropriate, not feasible or that show little potential for impact in the project context. Then, regroup plausible strategies into mutually exclusive project strategy options, by considering whether some identified strategies can also be combined into a more integrated project strategy. Consider the minimum package of interventions required to achieve the desired impact.</p>
+<p>Once you have consolidated your list of strategy options, work with your project team to identify evaluation criteria to compare and select the best strategies. The Ranking Strategy Options worksheet includes common ranking criteria, yet you may establish your own criteria and adapt this table based on your project’s context and other factors. You may want to reduce the list to the most essential, relevant criteria, add other criteria relevant to the project context, and/or adjust the evaluation scale to better fit your project. Additionally, if appropriate, you may want to weight certain criteria when conducting your ranking. For example, some criteria, such as addressing donor requirements and priorities, may be so important that any strategy option with a score below 4 (meets most expectations) for these criteria will automatically be excluded.</p>
+<p>Now that you have selected project strategy options, use evaluative thinking to confirm they are likely to produce the desired outcomes and impact.
+**</p>
+</section>
+<section class="tex2jax_ignore mathjax_ignore" id="theory-of-change">
+<h1><a name="_toc143099714"></a><strong>THEORY OF CHANGE</strong><a class="headerlink" href="#theory-of-change" title="Link to this heading">#</a></h1>
+<p>A Theory of Change (TOC) bridges the problem analysis visualized in the problem tree(s) and the proposed responses reflected in the project’s RF and ProFrame. The TOC makes explicit why you believe that the selected project strategies will work in the project context and justifies and checks the logic and feasibility of the project’s change hypothesis. A TOC can be expressed in narrative, diagrammatic, or other forms.</p>
+<p>A narrative TOC is a concise, explicit explanation of:</p>
+<p>“IF we do X, and Y holds true, THEN we’ll achieve Z because a, b, and c.”</p>
+<p>With this structure, the TOC makes clear how (if–then) and why (because) the project team expects or assumes that certain actions will produce desired changes for individuals, groups, communities or institutions in the environment where the project will be implemented.</p>
+<p>Once you have articulated your project’s TOC, use the Theory of Change Checklist worksheet to review and assess its validity.</p>
+<p><em><strong>Figure 5. Theory of Change</strong></em></p>
+<p><img alt="" src="Aspose.Words.10aa1f8b-dd27-484a-b4ed-cc7c8b7185ee.007.jpeg" /></p>
+<p>The TOC (see Figure 4) is not simply a narrative description of the RF, because the RF only reflects the elements (the “ifs” and “then” parts) that will be delivered by the project, whereas the TOC also states those actions or contributions critical to the project success but</p>
+<p>which you expect other actors to deliver. In other words, the TOC reflects both the RF and the project’s critical hypotheses or assumptions.</p>
+<p>Keep in mind that TOCs can be developed for different levels of the objectives hierarchy. A “high‑level” TOC articulates how successful achievement of the project’s objectives will be contributing to longer‑term, broader, lasting change (project’s goal). You should minimally create a TOC at this level. However, often TOCs are developed to describe the whole causal chain—from activities to outputs, from outputs to intermediate results, from intermediate results to objectives, and from objectives to the overall project goal.</p>
+<p>If you decide to visually express your TOC, you may want to use a results chain diagrammatic tool. This is a good choice if you plan to create a TOC from activities all the way up to the goal(s). Below is a Generic Situation Model “Factors” with Associated Results Chain taken from CMP’s Open Standards for the Practice of Conservation.</p>
+<p><em><strong>Figure 6. Results Chain</strong></em></p>
+<p>![A diagram of a business process</p>
+<p>Description automatically generated](Aspose.Words.10aa1f8b-dd27-484a-b4ed-cc7c8b7185ee.008.png)</p>
+<p>Designers of project’s with place-based scopes (those with a geographic focus) might find <a class="reference external" href="https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview">ArcGIS StoryMaps</a> tool useful to complement their assessment, TOC, and planning efforts. FBA prepared a storymap about <a class="reference external" href="https://storymaps.arcgis.com/stories/647313bcdb3e4d6c82e4733eee7ab693">Spatial Business Planning</a> as an example of how this powerful tool can be used.</p>
+</section>
+<section class="tex2jax_ignore mathjax_ignore" id="proframe-detailed-implementation-plan">
+<h1><a name="_toc143099715"></a><strong>PROFRAME &amp; DETAILED IMPLEMENTATION PLAN</strong><a class="headerlink" href="#proframe-detailed-implementation-plan" title="Link to this heading">#</a></h1>
+<p>As you developed your RF and TOC and selected viable project strategies, you made clear how intermediate results led to objectives, which in turn contributed towards the goal, and you highlighted underlying assumptions and established the evidence base for the project strategies. During prior steps in design process, you also likely defined broad illustrative activities and possibly outputs. Now, you will use the Project Framework (ProFrame) &amp; Detailed Implementation Plan (DIP) worksheet to build upon and flesh out this earlier work.</p>
+<p>Discuss how activities lead to outputs (and in turn their related intermediate results). Focus on major, illustrative activities or categories of activities. Do not get distracted by details, but rather, focus on making the “how” clear. As you discuss and refine activities and outputs – and how they lead to achievement of related intermediate results – think ahead and consider what is feasible given the project budget, timeline, etc. Developing project activities is an iterative process. As you provide more details in the ProFrame (and eventually the budget), you will have a better idea of costs and this will allow you to adjust project targets accordingly.</p>
+<p>First, in column B, record the outputs you have identified and the various activities necessary to achieve them. Additionally, in columns L through AA, indicate in which project year and quarter the activities will be implemented. You are in effect planning project implementation by creating and scheduling activities that will generate the necessary outputs required to achieve the intermediate results, which will contribute to the project’s objectives and goals.</p>
+<p>Second, in Column C, record risks and assumptions. You should have already discussed these as they relate to goals, objectives and intermediate results when you developed your RF and TOC. Review them now, revise if necessary, and record them on the ProFrame. Additionally, identify any risks and assumptions relevant at the output and activity levels. Write assumptions in full sentences as desirable, positive conditions that need to be met if the project is to stay on course towards achieving the next level up on objectives hierarchy. The assumption must hold true for an activity to lead to an output, for an output to lead to an intermediate result, and so forth on up the results chain. If you identify any potential critical assumptions, your team should determine whether you:</p>
+<ul class="simple">
+<li><p>Adjust the design to minimize the risk;</p></li>
+<li><p>Redesign the program or project because the risk is too high; or</p></li>
+<li><p>Maintain the design as is, recognizing that the risk exists, but is unlikely to affect the project.</p></li>
+</ul>
+<p>Third, use Column D to identify the relevant CAL FIRE metrics for project goals and objectives. And, in Column E, identify means of verification (measurement methods and data sources) for each metric. In other words, in Column E you should concisely describe how you will obtain the information needed to calculate and verify the metric. You will need this information to complete the e-Civis Grant Portal Goals worksheet. Though not required, you should consider developing custom metrics for any intermediate results and outputs you have included.</p>
+<p>Fourth, use columns F through J to set annual targets for the metrics you have selected. Only complete metrics for the length of your grant request. In other words, if you intend to ask for three years’ worth of grant support, set targets for three years. Setting targets helps clarify the services or level of change that the project aims to deliver over time. This helps develop an accurate activities schedule and budget that aligns with donor timeframes and budget ceilings.</p>
+<p>FBA created the ProFrame/DIP worksheet specifically to identify CAL FIRE metrics and set associated targets required for the application. This worksheet does not replace a good monitoring, evaluation and learning (MEL) plan. Design teams, especially those creating complex, multi-year projects, should consider drafting a MEL plan for their own use and which also responds to CAL FIRE’s information needs. Pages 38 through 43 of CMP’s Open Standards for the Practice of Conservation provide a good primer to help you create a MEL plan. In developing a MEL plan, you would create specific, measurable, achievable, relevant and time‑bound (SMART) indicators for all your goals, objectives, intermediate results, and outputs. The e-Civis Grant Portal Goals worksheet you will use to input project metrics and targets does not require fully articulated indicators. Nevertheless, it is worthwhile to develop such indicators, as well as the rest of the MEL plan, to facilitate your monitoring and evaluation work.</p>
+</section>
+<section class="tex2jax_ignore mathjax_ignore" id="next-steps">
+<h1><a name="_toc143099716"></a><strong>NEXT STEPS</strong><a class="headerlink" href="#next-steps" title="Link to this heading">#</a></h1>
+<p>Once you have completed your project design, you should proceed to develop a project budget and budget narrative. FBA has created budget templates and guidance to assist you, which are available on our website. The ProFrame/DIP worksheet will be a foundational document during the budgeting process.</p>
+<p>Finally, only after you have completed the project design and budget should you proceed to writing your technical narrative (i.e., Scope of Work and other related CAL FIRE documents). This will ensure that you have all the information you need to write an accurate, realistic, and compelling proposal.</p>
+</section>
+<section class="tex2jax_ignore mathjax_ignore" id="project-monitoring-reporting">
+<h1><a name="_toc143099717"></a><strong>PROJECT MONITORING &amp; REPORTING</strong><a class="headerlink" href="#project-monitoring-reporting" title="Link to this heading">#</a></h1>
+<p>FBA has included worksheets to help you track progress and prepare reports if your project is funded by CAL FIRE. You do not need to complete these worksheets during the design phase.</p>
+<p>Before the start of your project, you should update the design as necessary to reflect any changes that may have been negotiated with CAL FIRE. Columns B (Goals, Objectives, Intermediate Results &amp; Outputs), C (Metrics), and D (Means of Verification) on all four worksheets will automatically populate with information from the ProFrame &amp; DIP worksheet.</p>
+<p>In Year 1, you will input your annual targets in Column E. Then, each quarter you will input your quarterly progress in Columns F through I. Column J (Year 1 Actual Completed # Units) and Column K (% Year 1 Target Achieved) will calculate automatically. Write notes in Column L to explain any considerable variance from the established targets.</p>
+<p>In Years 2 through 4, Columns B (Goals, Objectives &amp; Outputs), C (Metrics), and D (Means of Verification) will automatically populate as they did for Year 1. Column E (Year 1 Actual # Units – Baseline) will also automatically populate with the numbers from Column J (Actual Completed # Units) from the previous year. In Column F (Projected # Units – Target), input your annual targets. Then, each quarter input your quarterly progress in Columns H through K. Column L (Year X Actual Completed # Units) and Column M (% Year X Target Achieved will calculate automatically as they did in Year 1. Columns N (Actual Cumulative # Units Achieved) and Column O (% Cumulative Target Achieved will also automatically calculate to give your progress to date. Write notes in Column P to explain any considerable variance from the established targets.</p>
+<p>15</p>
+<p>FBA Project Design &amp; Monitoring Guidance</p>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="funding.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Funding Analysis</p>
+      </div>
+    </a>
+    <a class="right-next"
+       href="bibliography.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Bibliography</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#">Program Design</a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#general-instructions"><a name="_toc143099708"></a><strong>GENERAL INSTRUCTIONS</strong></a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#assessment-problem-analysis"><a name="_toc143099709"></a><strong>ASSESSMENT &amp; PROBLEM ANALYSIS</strong></a><ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#problems-to-objectives">PROBLEMS TO OBJECTIVES</a></li>
+</ul>
+</li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#results-framework"><a name="_toc143099711"></a><strong>RESULTS FRAMEWORK</strong></a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#back-of-the-envelope-budget"><a name="_toc143099712"></a><strong>BACK-OF-THE-ENVELOPE BUDGET</strong></a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#strategy-options"><a name="_toc143099713"></a><strong>STRATEGY OPTIONS</strong></a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#theory-of-change"><a name="_toc143099714"></a><strong>THEORY OF CHANGE</strong></a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#proframe-detailed-implementation-plan"><a name="_toc143099715"></a><strong>PROFRAME &amp; DETAILED IMPLEMENTATION PLAN</strong></a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#next-steps"><a name="_toc143099716"></a><strong>NEXT STEPS</strong></a></li>
+<li class="toc-h1 nav-item toc-entry"><a class="reference internal nav-link" href="#project-monitoring-reporting"><a name="_toc143099717"></a><strong>PROJECT MONITORING &amp; REPORTING</strong></a></li>
+</ul>
+
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Vance Russell
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2024, Built with Jupyter Book.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=8d27b9dea8ad943066ae"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=8d27b9dea8ad943066ae"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
