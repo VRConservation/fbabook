@@ -12,7 +12,7 @@ To better understand the geographic distribution, success rates, and funding gap
 - Every county had projects that requested funds, but Merced, Los Angeles, Inyo, Colusa, DelNorte, Orange, Kern, Riverside, Kings, and Monterey counties did not receive funding in the period examined.
 - The largest proportion of grants awarded in November 2023 went to Northern California, with 80% going to the North Coast (19%) and Sierra Cascade (61%) regions. The Central Coast (3%) and Southern California (1%) were far behind. The total requested mirrors these percentages by region, although they are slightly higher for the Central Coast (4%) and Southern California (3%).
 - The counties with the highest grant success rate (% successfully funded) were Sutter, Stanislaus, San Mateo, Santa Clara, Solano, Siskiyou, Sacramento, Nevada, Mariposa, and Alpine counties. However, a bivariate analysis simultaneously examining requested and awarded amounts showed that the most successful counties (high amount awarded with low amount requested) were Ventura, Alpine, San Francisco, Sacramento, and Sutter Counties.
-- To increase the analysis accuracy, a more precise project location of the applicants is needed. Precise location data for applicants and grantees would also help in the analysis of counties and regions with the most need, e.g., disadvantaged communities.
+To increase the analysis's accuracy, the applicants' project locations need to be more precise. Precise location data for applicants and grantees would also help analyze counties and regions with the most need, e.g., disadvantaged communities.
 
 ## Background
 Prior to European settlement, fires were commonly utilized throughout California by Tribal communities as a tool for managing food, game, disease, and community safety. Approximately 4.4 million acres burned annually in California before 1800 {cite}`stephens_etal_2007`. This acreage is far more than in recent years but likely differs in the total acres burned at high severity. Fast forward—fire suppression, severe drought, and climate change have created forest ecosystems well outside their natural conditions, making them prone to severe wildfires and negatively affecting habitats and communities.
@@ -22,7 +22,9 @@ Prior to European settlement, fires were commonly utilized throughout California
 Simplified forest health theory of change. 
 ```
 
-This century's increase in large fires has underscored the urgent need for forest health projects. These projects aim to thin unhealthy forest stands and reintroduce fire into forested ecosystems ({numref}`health`). However, they have also created a new challenge—excess wood and biomass that pose additional wildfire risks. California is in dire need of more infrastructure and workforce capacity to effectively manage this situation. To encourage wood utilization, the USDA Forest Service has the Wood Innovations Grant Program. At the state level, CAL FIRE created the Wood Products and Bioenergy Program with the first grants awarded in 2022. The Forest Business Alliance conducted an initial study on where the funds went to analyze patterns and identify areas of potential future need or funding focus.
+This century's increase in large fires has underscored the urgent need for forest health projects. These projects aim to thin unhealthy forest stands and reintroduce fire into forested ecosystems ({numref}`health`). However, they have also created a new challenge—excess wood and biomass that pose additional wildfire risks. California is in dire need of more infrastructure and workforce capacity to effectively manage this situation. The USDA Forest Service has the Wood Innovations Grant Program to encourage wood utilization. At the state level, CAL FIRE created the Wood Products and Bioenergy Program with the first grants awarded in 2022. Both programs aim to fund projects that process woody biomass and build capacity for work in the woods.
+
+The Forest Business Alliance conducted an initial study on where the funds went to analyze patterns and identify areas of potential future need or funding focus.
 
 ## Analysis
 The initial funding analysis examined awards by county from the 1st quarter of 2022 to the 3rd quarter of 2023 ({numref}`awarded_ca`).
@@ -50,13 +52,13 @@ Grant concentrations in Southern California. Note: Tulare is not considered part
 ```
 
 ### Bivariate
-A bivariate analysis querying the data by total requests and awards paints a slightly different picture than the awards analysis ({numref}`biv`). Where the success rate is the relationship between funded and requested grants, the lightest shades tend to indicate low success rates, whereas the light blue to dark purple indicate counties with high grant success rates.
+A bivariate analysis querying the data by total requests and awards paints a slightly different picture than the awards analysis ({numref}`biv`). Where the success rate is the relationship between funded and requested grants, the lightest shades tend to indicate low success rates, whereas the light blue to dark purple indicates counties with high grant success rates.
 
 ```{figure} /figures/biv.png
 :name: biv
 Bivariate analysis comparing amounts of requested to awarded grants.
 ```
-{numref}`biv` reveals some Southern California counties have requested grants but not been successful (e.g., San Luis Obispo, Kern, Orange, Riverside) and Ventura has a high success rate (high awarded to requested). Sacramento, Sutter, and Alpine Counties, shown in light blue, are similar high success rate counties, whereas counties such as Tulare, Plumas, and Shasta have received a large amount of funding and have also made a large number of requests.
+{numref}`biv` reveals some Southern California counties have requested grants but not been successful (e.g., San Luis Obispo, Kern, Orange, Riverside), and Ventura has a high success rate (high awarded to requested). Sacramento, Sutter, and Alpine Counties, shown in light blue, are similar high success rate counties, whereas counties such as Tulare, Plumas, and Shasta have received a large amount of funding and have also made many requests.
 
 ### Gaps
 The total funding requests and awards by county show the divide between the northern and southern portions of the state({numref}`chart`). The largest number of grants requested and awarded were in the Sierra Cascade Region. Nevertheless, the totals do not explain grant and project quality within the region. For instance, Inyo, Kings, and Merced have not funded any projects. The Forest Business Alliance addresses the lack of capacity in each entity's ability to apply for grants to strengthen sustainable forest businesses and process more wood to ultimately increase forest health across the state.
@@ -74,7 +76,7 @@ Funding by project type showed the most funding for workforce development traini
 Awarded grants by project type.
 ```
 
-The number of unfunded projects by county reveals interesting patterns ({numref}`nofund`). Some counties with the highest number of unsuccessful applications are in the Sierra Cascade Region, e.g., Tuolumne, Shasta, Plumas. Counties with low success raters submitted fewer proposals, e.g., Inyo, Kings, and Alpine.
+The number of unfunded projects by county reveals interesting patterns ({numref}`nofund`). Some counties with the highest number of unsuccessful applications are in the Sierra Cascade Region, e.g., Tuolumne, Shasta, and Plumas. Counties with low success rates submitted fewer proposals, e.g., Inyo, Kings, and Alpine.
 
 ```{figure} /figures/nofund.png
 :name: nofund
@@ -85,8 +87,8 @@ Unfunded requests by California County.
 The Forest Business Alliance will continue to add new projects to the Business and Workforce Development funding analysis database as applications are submitted and awards granted. We recommend the following:
 
 - More accurate project locations, e.g., latitude/longitude points should be added to reflect where the funding is directed and look at the relationship between forest health and wood products businesses.
-- As more projects are funded through subsequent grant rounds how do the funding success rates change geographically?
-- More analysis is needed to determine the reasons for the county and regional differences. Is it organizational and business capacity? Is it more related to capabilities to create strong projects and proposals? Could it be something more pervasive such as regional economic differences or available institutional support for potential applicants?
+- As more projects are funded through subsequent grant rounds, how do the funding success rates change geographically?
+- More analysis is needed to determine the reasons for the county and regional differences. Is it organizational and business capacity? Is it more related to capabilities to create strong projects and proposals? Could it be something more pervasive, such as regional economic differences or available institutional support for potential applicants?
 - Given the need for wildfire mitigation in the state, the bottleneck of processing biomass in a sustainable manner, and the mismatch in requested vs. funded businesses, we highly recommend the state consider increasing funding for this valuable program.
 
 ## Data

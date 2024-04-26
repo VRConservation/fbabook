@@ -5,4 +5,6 @@ root: intro
 chapters:
 - file: funding
 - file: program
+- file: monitoring
+- file: ceqa
 - file: bibliography

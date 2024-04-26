@@ -1,16 +1,19 @@
 ﻿# Program Design
+Coming Soon!
+
+<!-- # Program Design
 
 Chris Sacco & Vance Russell | Forest Business Alliance
 
 *Originally Published: 18 August 2023, the full version of this article is available at the [Forest Business Alliance](https://www.forestbusinessalliance.org) templates page (contact us for password and access: forestbusinessalliance@gmail.com).*
 
-## KEY TAKEAWAYS
+## Takeaways
 
 
-## BACKGROUND
-The Forest Business Alliance (FBA) created the templates in this workbook to help grant seekers design project proposals for submission to the California Department of Forestry and Fire Protection’s (CAL FIRE) FY 2023-2024 [Wood Products and Bioenergy Business and Workforce Development Grant Program](http://gg.gg/1agl2y). These templates and guidance may also be useful for [US Forest Service Wood Innovation and Community Wood Grant Programs](http://gg.gg/1agk52), as well as other related grant programs.
+## Background
+The Forest Business Alliance (FBA) created the templates in this workbook to help grant seekers design project proposals for submission to the California Department of Forestry and Fire Protection’s (CAL FIRE) FY 2023-2024 [Wood Products and Bioenergy Business and Workforce Development Grant Program](http://gg.gg/1agl2y). These templates and guidance may also be useful for [US Forest Service Wood Innovation and Community Wood Grant Programs](http://gg.gg/1agk52) and other related grant programs.
 
-During the design process, your project team will decide which problems and causes to address, what strengths and opportunities to leverage, where you will work, with whom, and at what scale. Your project team will also specify what the project will do (and what it will not do) by establishing achievable and measurable goals and objectives, selecting sound strategies, developing detailed activity plans, and setting targets.
+During the design process, your project team will decide which problems and causes to address, what strengths and opportunities to leverage, where you will work, with whom, and at what scale. Your project team will also specify what it will do (and will not do) by establishing achievable and measurable goals and objectives, selecting sound strategies, developing detailed activity plans, and setting targets.
 
 The contents of this guidance document and the accompanying worksheets are presented chronologically: 
 
@@ -23,18 +26,18 @@ The contents of this guidance document and the accompanying worksheets are prese
 
 After you complete your project design, you will use it to create a Detailed Budget and Budget Narrative and a Technical Narrative.  
 
-The step-by-step organization of the guidance and workbook help you move deliberately through the design process, but keep in mind that project design is iterative and dynamic. As you add detail when progressing from one step to the next, you may find it necessary to go back and revise information you input during prior steps. In the end, all elements of your proposal must tell the same story in a logical manner.
+The guidance and workbook's step-by-step organization helps you move deliberately through the design process, but keep in mind that project design is iterative and dynamic. As you add detail when progressing from one step to the next, you may find it necessary to go back and revise the information you input during prior steps. In the end, all elements of your proposal must tell the same story in a logical manner.
 
-FBA referenced numerous publicly available sources to create the project design and monitoring templates and adapted information from them to create resources suited to the CAL FIRE funding opportunity. The [Open Standards for the Practice of Conservation](http://gg.gg/1agk6k), developed by the Conservation Measures Partnership (CMP), and [ProPack I: Project Design Guidance for Project and Program Managers](http://gg.gg/1agk6l), developed by Catholic Relief Services, are among the sources we relied upon.
+FBA referenced numerous publicly available sources to create the project design and monitoring templates and adapted information to create resources suited to the CAL FIRE funding opportunity. The [Open Standards for the Practice of Conservation](http://gg.gg/1agk6k), developed by the Conservation Measures Partnership (CMP), and [ProPack I: Project Design Guidance for Project and Program Managers](http://gg.gg/1agk6l), developed by Catholic Relief Services, are among the sources we relied upon.
 
 ```{note}
 The templates and information provided herein are for reference only. While FBA has made every effort to provide information that is up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the information, templates, or related graphics contained herein.
 
-Should any conflict exist between CAL FIRE's grant guidleines or the e-Civis user guide and this docusmne,t the CAL FIRE and e-Civis guidelines online supercede and guidance provided herein. **Applicants are not required to use the FBA guidance or templates to prepare their proposals, and applicants must submit their final applications through the e-Civis portal.**
+Should any conflict exist between CAL FIRE's grant guidelines or the e-Civis user guide and this document,t the CAL FIRE and e-Civis guidelines online supercede the guidance provided herein. **Applicants are not required to use the FBA guidance or templates to prepare their proposals, and applicants must submit their final applications through the e-Civis portal.**
 ```
 
-## ASSESSMENT & PROBLEM ANALYSIS
-During the assessment phase, you will specify the basic parameters for your project and improve your understanding of the project’s context. Pages 13 through 24 of the [Open Standards for the Practice of Conservation](https://conservationstandards.org/wp-content/uploads/sites/3/2020/12/CMP-Open-Standards-for-the-Practice-of-Conservation-v4.0-English.pdf) provide an excellent primer on assessment. We recommend you take some time to review it. 
+## Assessment
+During the assessment phase, you will specify the basic parameters for your project and improve your understanding of the project’s context. Pages 13 through 24 of the [Open Standards for the Practice of Conservation](http://gg.gg/1agli2) provide an excellent primer on assessment. We recommend you take some time to review it. 
 
 Conducting a thorough situation or problem analysis is central to your assessment work. Your design team should review available evidence to complete your analysis, identifying the direct threats, or core problems, and the indirect threats, also known as drivers and causes.
 
@@ -42,23 +45,25 @@ Conducting a thorough situation or problem analysis is central to your assessmen
 :name: situation
 Situation model. 
 ```
-A situation model is a tool that visually portrays the relationships among the various factors in your situation analysis ({numref}`situation`). See the generic situation model from CMP’s Open Standards in Figure 1 above. The model should illustrate the main cause-and effect relationships, include the most important details yet be as simple as possible. To the degree that it is feasible and useful, you should identify the actors behind key factors.
 
-Project design teams also frequently use assessment findings to construct problem trees. These causal diagrams help you to identify and study core problems by identifying their immediate and underlying causes and the negative effects they create. This in turn allows you to identify solutions that will address the problems rather than their symptoms. A problem tree is also a useful tool for understanding cause‑and‑effect relationships, and, as such, it provides a vital bridge to the objectives hierarchy in a results framework in the next step of the project design process.
+A situation model is a tool that visually portrays the relationships among the various factors in your situation analysis ({numref}`situation`). See the generic situation model from CMP’s Open Standards in Figure 1 above. The model should illustrate the main cause-and-effect relationships, and include the most important details, yet be as simple as possible. To the degree that it is feasible and useful, you should identify the actors behind key factors.
 
+Project design teams frequently use assessment findings to construct problem trees ({numref}`tree`). These causal diagrams help you identify and study core problems by identifying their immediate and underlying causes and their negative effects. This, in turn, allows you to identify solutions that will address the problems rather than their symptoms. A problem tree is also a useful tool for understanding cause‑and‑effect relationships, and, as such, it provides a vital bridge to the objectives hierarchy in a results framework in the next step of the project design process.
 
+```{figure} /figures/tree.jpeg
+:name: tree
+Problem tree. 
+```
 
-![](Aspose.Words.10aa1f8b-dd27-484a-b4ed-cc7c8b7185ee.002.png)
+During problem analysis, process is as important as the end product. The exercise should be treated as a learning experience. Problem tree analysis is typically done with your design team and possibly other stakeholders at a participatory workshop. Participants write problems, immediate causes, root causes, and effects on sticky notes or note cards. Each card should contain only one item. This allows participants to move the cards around and discuss where they best fit within the problem tree. Experience in facilitating the problem tree method and familiarity with the local context are important considerations when selecting a facilitator. Once you have constructed a problem tree with a logical flow, record it on the Problem Analysis worksheet. 
 
-![](Aspose.Words.10aa1f8b-dd27-484a-b4ed-cc7c8b7185ee.003.jpeg)During problem analysis, process is as important as the end product. The exercise should be treated as a learning experience. Problem tree analysis is typically done at a participatory workshop with your design team and possibly other stakeholders. Participants write problems, immediate causes, root causes, and effects on sticky notes or note cards. Each card should contain only one item. This allows participants to move the cards around and discuss where they best fit within the problem tree. Experience in facilitating the use of the problem tree method and familiarity with the local context are important considerations when selecting a facilitator. Once you have constructed a problem tree with a logical flow, record it on the Problem Analysis worksheet. 
-
-You may need to go through the problem tree analysis multiple times if you are planning to include multiple distinct goals in your proposal to CAL FIRE. There are three trees on the Problem Analysis worksheet. Complete as many as you need to. 
+You may need to go through the problem tree analysis multiple times if you plan to include multiple distinct goals in your proposal to CAL FIRE. There are three trees on the Problem Analysis worksheet. Complete as many as you need to. 
 
 Once you complete the problem tree(s), the workbook will automatically populate portions of the next Problems to Objectives worksheet. 
 
-If the Problem Analysis worksheet is insufficient to accommodate your tree(s), you can use your own graphic or simply take a picture of the tree(s) you have constructed. You should still record the core problems, immediate causes, and root causes from your trees on the Problems to Objectives worksheet. This will make it easier to construct their corresponding goal, objective and intermediate result statements. If you decide to create a situation model instead of a problem tree, translate the direct and indirect threats to core problems, immediate and root causes on the Problems to Objectives worksheet.
+If the Problem Analysis worksheet cannot accommodate your tree(s), you can use your own graphic or simply take a picture of the tree(s) you have constructed. You should still record the core problems, immediate causes, and root causes from your trees on the Problems to Objectives worksheet. This will make constructing their corresponding goal, objective and intermediate result statements easier. If you create a situation model instead of a problem tree, translate the direct and indirect threats to core problems, immediate and root causes on the Problems to Objectives worksheet.
 
-The problems, immediate and root causes, and effects should be supported by evidence that verifies they are true. The evidence and sources should be noted while doing the problem analysis and documented on the Problems to Objectives worksheet when the analysis is completed.
+The problems, immediate and root causes, and effects should be supported by evidence that verifies they are true. The evidence and sources should be noted during the problem analysis and documented on the Problems to Objectives worksheet when the analysis is completed.
 
 Once you have created your problem tree(s) or situation model, review the logic by asking these questions:
 
@@ -68,44 +73,53 @@ Once you have created your problem tree(s) or situation model, review the logic 
 
 Finally, in addition to helping you design a project that responds to causes instead of their symptoms, the assessment and problem analysis you have done will provide findings and conclusions that help you to write a compelling and context‑specific problem analysis for the proposal narrative.
 
-## PROBLEMS TO OBJECTIVES
-The Problems to Objectives worksheet should be completed after your Problem Analysis has been finalized. The purpose of the Problems to Objectives worksheet is two-fold:
+## Problems->Objectives
+The Problems to Objectives worksheet should be completed after your Problem Analysis has been finalized ({numref}`treeg`). The purpose of the Problems to Objectives worksheet is two-fold:
 
 1. It documents the links between the problems/causes and their evidence. You will provide citations to documents that provide the evidence that confirms the existence and degree of each problem and cause. This information will be useful for developing your project narrative.
 
-1. It documents the links between the current negative condition and the desired future positive condition. The current negative condition is documented in the problems and causes from the problem analysis. The expected results of the project (solution) are the inverse of the problem/cause and are written as goal, objective, and intermediate result statements, which will be necessary to complete the e-Civis Grant Portal Goals worksheet, as well as other required proposal documents.
+2. It documents the links between the current negative condition and the desired future positive condition. The current negative condition is documented in the problems and causes from the problem analysis. The expected results of the project (solution) are the inverse of the problem/cause and are written as goal, objective, and intermediate result statements, which will be necessary to complete the e-Civis Grant Portal Goals worksheet, as well as other required proposal documents.
 
-***Figure 3. Problem Tree to Results Framework***
+```{figure} /figures/treeg.png
+:name: treeg
+Problem tree. 
+```
 
-![](Aspose.Words.10aa1f8b-dd27-484a-b4ed-cc7c8b7185ee.004.png)
+The core problems, immediate causes, and root causes will be automatically transferred from the Problem Analysis worksheet to Column B (Problem/Cause) of the Problem to Objectives worksheet. Next, you should record the evidence and sources for the problems and causes in column C (Evidence for Problem/Cause). Finally, complete the Goal/Objective/Intermediate Result Statements column by turning the problem tree’s core problems, immediate and root causes into mirrored, positive goal, objective and intermediate result statements. See Figure 3 above. These goal, objective, and intermediate results statements will be transferred automatically to the Results Framework worksheet, where the IF-THEN logic can be tested.
 
-The core problems, immediate causes, and root causes will be automatically transferred from the Problem Analysis worksheet to Column B (Problem/Cause) of the Problem to Objectives worksheet. Next, you should record the evidence and sources for the problems and causes in column C (Evidence for Problem/Cause). Finally, complete the Goal / Objective / Intermediate Result Statements column by turning the problem tree’s core problems, immediate and root causes into mirrored, positive goal, objective and intermediate result statements. See Figure 3 above. These goal, objective, and intermediate results statements will be transferred automatically to the Results Framework worksheet where the IF-THEN logic can be tested.
+Well-written objective statements follow specific formulas at different levels of the project’s hierarchy. Below, we provide guidance on creating statements for each level. Review CAL FIRE’s required metrics before you develop your goals and objective statements because these metrics are specific and required. Reviewing and understanding them is necessary for creating goals and objectives that align with CAL FIRE’s goals.
 
-Well written objective statements follow specific formulas at different levels of the project’s hierarchy. Below we provide guidance on creating statements for each level. Review CAL FIRE’s required metrics before you develop your goals and objective statements because these metrics are specific and required. Reviewing and understanding them is necessary for you to create goals and objectives that align with CAL FIRE’s goals.
+**Goals** are the high-level, long-term results that a project seeks to achieve. Factors outside the intervention may contribute to the goals. The goal statements are important in defining the scope of change the project expects to achieve. Write goals in complete sentences, as if already achieved. Put the general population of intended beneficiaries as the subject of the sentence. 
 
-- **Goals** are the high-level, long-term results that a project seeks to achieve. Factors outside the intervention may contribute to the goals. The goal statements are important in defining the scope of change the project expects to achieve. Write goals in complete sentences, as if already achieved. Put the general population of intended beneficiaries as the subject of the sentence. 
+```{admonition} Example
+Residents of Northern California's low-income, fire-prone, rural areas experience a reduction in property loss from forest fires because expanded forest sector businesses contribute to making forests more resilient to wildfires.
+```
 
-  - Example: Residents of low-income, fire-prone, rural areas of Northern California experience a reduction in property loss from forest fires because expanded forest sector businesses contribute to making forests more resilient to wildfires.
+**Objectives** are the primary results that an intervention seeks to achieve. Other grant makers commonly refer to this level of project hierarchy as strategic objectives or outcomes. Objective statements describe the noticeable or significant benefits that are actually achieved and enjoyed by targeted groups by the end of the project. Progress at this level is necessary to achieve the goals. To create objectives, ask where do we want to be at the end of the project? What are the most immediate things we are trying to change? What are the things that must be in place before we can achieve our goals? Write each objective as a complete sentence, as if already achieved. Put the targeted primary beneficiary group(s) whose behavior is expected to change as the subject of the sentence.
 
-- **Objectives** are** the primary results that an intervention seeks to achieve. Other grant makers commonly refer to this level of project hierarchy as strategic objectives or outcomes. Objective statements describe the noticeable or significant benefits that are actually achieved and enjoyed by targeted groups by the end of the project. Progress at this level is necessary to achieve the goals. To create objectives, ask where do we want to be at the end of the project? What are the most immediate things we are trying to change? What are the things that must be in place before we can achieve our goals? Write each objective as a complete sentence, as if already achieved. Put the targeted primary beneficiary group(s) whose behavior is expected to change as the subject of the sentence.
+```{admonition} Example
+Forest sector businesses have increased their capacity to clear forested rights-of-way.
+```
 
-  - Example: Forest sector businesses have increased their capacity to clear forested rights-of-way.
+**Intermediate results** state the expected changes in identifiable behaviors by participants or in identifiable approaches by interventions, systems, policies or institutions as a result of what was gained (outputs) through project actions (activities). Progress at this level is a necessary precondition towards achieving the objectives. Write intermediate results as complete sentences, as if already achieved. Put the targeted primary beneficiary group(s) whose behavior is expected to change as the subject of the sentence.
 
-- **Intermediate results** state the expected changes in identifiable behaviors by participants or in identifiable approaches by interventions, systems, policies or institutions as a result of what was gained (outputs) through project actions (activities). Progress at this level is a necessary precondition towards achieving the objectives. Write intermediate results as complete sentences, as if already achieved. Put the targeted primary beneficiary group(s) whose behavior is expected to change as the subject of the sentence.
+```{admonition} Example
+Forest sector businesses are consistently using improved technology and practices to clear forested rights-of-way.
+```
 
-  - Example: Forest sector businesses are consistently using improved technology and practices to clear forested rights-of-way.
+**Outputs** are the tangible products, goods and services that result from the implementation of specific activities. More than one output may be needed to achieve a single intermediate result or objective. To create outputs, ask what are the things that need to be produced or provided by the project to achieve short- to medium- term results? Write outputs as complete sentences, as if already achieved. Put the targeted primary beneficiary group(s) receiving the outputs as the subject of the sentence. 
 
-- **Outputs** are the tangible products, goods and services that result from the implementation of specific activities. More than one output may be needed to achieve a single intermediate result or objective. To create outputs, ask what are the things that need to be produced or provided by the project to achieve short- to medium- term results? Write outputs as complete sentences, as if already achieved. Put the targeted primary beneficiary group(s) receiving the outputs as the subject of the sentence. 
+```{admonition} Example
+Forest sector businesses have demonstrably increased their knowledge related to improved technologies and practices to clear forested rights-of-way.
+```
 
-  - Example: Forest sector businesses have demonstrably increased their knowledge related to improved technologies and practices to clear forested rights-of-way.
+**Activities** describe the functions to be undertaken and managed to deliver the project’s outputs to the targeted beneficiaries and participants. Normally more than one activity is needed to achieve an individual output. To avoid over-complicating the project results framework, activities are not included at that stage of the project design. You will include the full breadth of specific activities when you develop the Project Framework (ProFrame) & Detailed Implementation Plan (DIP).
 
-- **Activities** describe the functions to be undertaken and managed to deliver the project’s outputs to the targeted beneficiaries and participants. Normally more than one activity is needed to achieve an individual output. To avoid over-complicating the project results framework, activities are not included at that stage of the project design. You will include the full breadth of specific activities when you develop the Project Framework (ProFrame) & Detailed Implementation Plan (DIP).
+```{admonition} Example
+Organization X provides training for owners and staff of forest sector businesses on improved technology and practices to clear forested rights-of-way.
+```
 
-  - Example: Organization X provides training for owners and staff of forest sector businesses on improved technology and practices to clear forested rights-of-way.
-
-# <a name="_toc143099711"></a>**RESULTS FRAMEWORK**
-
-
+# Results Framework
 A results framework (RF) is an easy‑to‑read diagram that gives a snapshot of the project’s objectives hierarchy (means‑to‑end relationship) and describes the change the project aims to bring about, why this change is important, and what needs to happen for this change to occur. Here you will make explicit how you expect the project will lead to intended goals and objectives and generate meaningful impact.
 
 On the Results Framework worksheet, the goal, objective, and intermediate results statements will automatically populate from the Problems to Objectives worksheet. Review the list of questions below and use the “if – then” test to confirm the logic between each level of the RF. Every statement should clearly lead to the next higher-level statement. If the logic is not clear, go back and revise your goal, objective, and intermediate result statements.
@@ -119,13 +133,9 @@ On the Results Framework worksheet, the goal, objective, and intermediate result
 - Do the intermediate results reflect the right change agents and behaviors?
 - Is the complement of intermediate results necessary and sufficient to deliver change at the objective level?
 
-
-
 ![](Aspose.Words.10aa1f8b-dd27-484a-b4ed-cc7c8b7185ee.005.jpeg)![](Aspose.Words.10aa1f8b-dd27-484a-b4ed-cc7c8b7185ee.006.png)You should revisit this list of questions as you move through the design process because you will not have all of the necessary information to make informed decisions until you have gone through all the steps at least once.
 
-# <a name="_toc143099712"></a>**BACK-OF-THE-ENVELOPE BUDGET**
-
-
+# Budget
 Identifying and reviewing CAL FIRE’s requirements and other set project parameters early will help focus project design efforts and keep expectations in line with reality. One key parameter is the amount of money available for direct program implementation. FBA has developed a tool to help you determine approximately how much money you can expect to have to implement field-level activities. Having a rough estimate of how much you will have to do field work will help you make realistic decisions on project scope and scale.
 
 Calculate the approximate amount of money available for field-level program costs as follows: 
@@ -134,10 +144,8 @@ Calculate the approximate amount of money available for field-level program cost
 1. In Step 2, set the indirect cost rate that will apply to your project. In the table, the default indirect rate is set at 12.00%. It is expressed as a number (1.12) for division. Please note that workforce development projects managed by non-profit grantees are the only project types eligible for indirect charges, AND the maximum allowable indirect charge is 12% for eligible projects unless an exemption is granted by CAL FIRE. Change this to 1.00 if you cannot charge indirect, or to a number between 1.00 and 1.12 if you plan to charge indirect less than the maximum allowable rate.
 1. In Step 3, estimate what percentage of the total direct costs (budget ceiling less indirect costs) will be required for project support. Input this figure as a percentage. Project support typically includes finance and administrative personnel, facility and vehicle use expenses, and other costs necessary for the project but which are not part of the field-level implementation. Typically, these costs run between 10% and 15% of a total grant. These costs must be budgeted as direct costs and they must be necessary for the project. For example, you might budget a staff person’s time, who is not otherwise involved in project implementation, to conduct project monitoring and write grant reports. Staff time related to accounting, business services, etc. are allowed only if those functions are not included in the grantee's overhead cost.
 1. Step 4 automatically calculates (by subtracting indirect costs and allocated direct support costs) the amount available to you for all other project costs. In other words, this is the amount you will have available for salaries and benefits, travel, supplies, etc. required to implement the project’s field-level activities.
-# <a name="_toc143099713"></a>**STRATEGY OPTIONS**
 
-
-
+# Strategies
 Once you determine what you want to accomplish (your goals and main objectives) and roughly how much money is available for direct field-level work, you need to think about what strategies are required to achieve the project’s desired impacts. 
 
 Please note that even though you drafted preliminary goal, objective, and intermediate result statements when completing the Problems to Objectives worksheet, you can and should refine those statements as you proceed through the design process. Drafting these statements, like much of the work you will do when designing your project, is iterative. As the project design solidifies, it is also important to make sure that your goals, objectives, intermediate results, outputs and activities retain their logical flow.
@@ -151,12 +159,12 @@ In most situations, there are usually various plausible strategies to addressing
 Make a list of plausible strategies, and then work with your project team using a systematic process to weigh the pros and cons of each. Depending on the complexity and scope of your project, you may need to repeat these steps for each goal or objective. Answer the questions below for each strategy option. Use the table on the Strategy Options worksheet to summarize your answers.
 
 1. Who is involved: Who does this project strategy work with and who would benefit?
-1. Evidence of impact: What do technical advice, literature and standards tell you about this strategy’s likelihood to bring about the desired change? What made this project strategy successful elsewhere?
-1. Advantages: What are the advantages of this project strategy option (e.g., cost, feasibility, value for money, leveraging opportunities, scale versus scope, sustainability, etc.)?
-1. Disadvantages: What are the disadvantages of this project strategy option (e.g., cost, feasibility, value for money, leveraging opportunities, scale versus scope, sustainability, etc.)?
-1. Assumptions: What assumptions does the project strategy make about interests and influence of project partners? Environmental conditions? Market conditions?
-1. Risks: What are the risks associated with this project strategy option? How can the project strategy mitigate these risks?
-1. Likelihood of impact in this project context: In light of the assessment findings, how likely is it that this project strategy can address problems, leverage opportunities and bring about desired change equally well in this project’s context?
+2. Evidence of impact: What do technical advice, literature and standards tell you about this strategy’s likelihood to bring about the desired change? What made this project strategy successful elsewhere?
+3. Advantages: What are the advantages of this project strategy option (e.g., cost, feasibility, value for money, leveraging opportunities, scale versus scope, sustainability, etc.)?
+4. Disadvantages: What are the disadvantages of this project strategy option (e.g., cost, feasibility, value for money, leveraging opportunities, scale versus scope, sustainability, etc.)?
+5. Assumptions: What assumptions does the project strategy make about interests and influence of project partners? Environmental conditions? Market conditions?
+6. Risks: What are the risks associated with this project strategy option? How can the project strategy mitigate these risks?
+7. Likelihood of impact in this project context: In light of the assessment findings, how likely is it that this project strategy can address problems, leverage opportunities and bring about desired change equally well in this project’s context?
 
 Eliminate all strategies from the list that are obviously inappropriate, not feasible or that show little potential for impact in the project context. Then, regroup plausible strategies into mutually exclusive project strategy options, by considering whether some identified strategies can also be combined into a more integrated project strategy. Consider the minimum package of interventions required to achieve the desired impact.
 
@@ -165,7 +173,7 @@ Once you have consolidated your list of strategy options, work with your project
 Now that you have selected project strategy options, use evaluative thinking to confirm they are likely to produce the desired outcomes and impact.
 **
 
-# <a name="_toc143099714"></a>**THEORY OF CHANGE**
+# THEORY OF CHANGE
 A Theory of Change (TOC) bridges the problem analysis visualized in the problem tree(s) and the proposed responses reflected in the project’s RF and ProFrame. The TOC makes explicit why you believe that the selected project strategies will work in the project context and justifies and checks the logic and feasibility of the project’s change hypothesis. A TOC can be expressed in narrative, diagrammatic, or other forms. 
 
 A narrative TOC is a concise, explicit explanation of:
@@ -197,7 +205,7 @@ Description automatically generated](Aspose.Words.10aa1f8b-dd27-484a-b4ed-cc7c8b
 Designers of project’s with place-based scopes (those with a geographic focus) might find [ArcGIS StoryMaps](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview) tool useful to complement their assessment, TOC, and planning efforts. FBA prepared a storymap about [Spatial Business Planning](https://storymaps.arcgis.com/stories/647313bcdb3e4d6c82e4733eee7ab693) as an example of how this powerful tool can be used. 
 
 
-# <a name="_toc143099715"></a>**PROFRAME & DETAILED IMPLEMENTATION PLAN**
+# Implementation
 
 As you developed your RF and TOC and selected viable project strategies, you made clear how intermediate results led to objectives, which in turn contributed towards the goal, and you highlighted underlying assumptions and established the evidence base for the project strategies. During prior steps in design process, you also likely defined broad illustrative activities and possibly outputs. Now, you will use the Project Framework (ProFrame) & Detailed Implementation Plan (DIP) worksheet to build upon and flesh out this earlier work. 
 
@@ -216,25 +224,10 @@ Third, use Column D to identify the relevant CAL FIRE metrics for project goals 
 Fourth, use columns F through J to set annual targets for the metrics you have selected. Only complete metrics for the length of your grant request. In other words, if you intend to ask for three years’ worth of grant support, set targets for three years. Setting targets helps clarify the services or level of change that the project aims to deliver over time. This helps develop an accurate activities schedule and budget that aligns with donor timeframes and budget ceilings.
 
 FBA created the ProFrame/DIP worksheet specifically to identify CAL FIRE metrics and set associated targets required for the application. This worksheet does not replace a good monitoring, evaluation and learning (MEL) plan. Design teams, especially those creating complex, multi-year projects, should consider drafting a MEL plan for their own use and which also responds to CAL FIRE’s information needs. Pages 38 through 43 of CMP’s Open Standards for the Practice of Conservation provide a good primer to help you create a MEL plan. In developing a MEL plan, you would create specific, measurable, achievable, relevant and time‑bound (SMART) indicators for all your goals, objectives, intermediate results, and outputs. The e-Civis Grant Portal Goals worksheet you will use to input project metrics and targets does not require fully articulated indicators. Nevertheless, it is worthwhile to develop such indicators, as well as the rest of the MEL plan, to facilitate your monitoring and evaluation work.
-# <a name="_toc143099716"></a>**NEXT STEPS**
 
-
-
+# Next
 Once you have completed your project design, you should proceed to develop a project budget and budget narrative. FBA has created budget templates and guidance to assist you, which are available on our website. The ProFrame/DIP worksheet will be a foundational document during the budgeting process.
 
 Finally, only after you have completed the project design and budget should you proceed to writing your technical narrative (i.e., Scope of Work and other related CAL FIRE documents). This will ensure that you have all the information you need to write an accurate, realistic, and compelling proposal.
 
-# <a name="_toc143099717"></a>**PROJECT MONITORING & REPORTING** 
-
-
-FBA has included worksheets to help you track progress and prepare reports if your project is funded by CAL FIRE. You do not need to complete these worksheets during the design phase.
-
-Before the start of your project, you should update the design as necessary to reflect any changes that may have been negotiated with CAL FIRE. Columns B (Goals, Objectives, Intermediate Results & Outputs), C (Metrics), and D (Means of Verification) on all four worksheets will automatically populate with information from the ProFrame & DIP worksheet. 
-
-In Year 1, you will input your annual targets in Column E. Then, each quarter you will input your quarterly progress in Columns F through I. Column J (Year 1 Actual Completed # Units) and Column K (% Year 1 Target Achieved) will calculate automatically. Write notes in Column L to explain any considerable variance from the established targets.
-
-In Years 2 through 4, Columns B (Goals, Objectives & Outputs), C (Metrics), and D (Means of Verification) will automatically populate as they did for Year 1. Column E (Year 1 Actual # Units – Baseline) will also automatically populate with the numbers from Column J (Actual Completed # Units) from the previous year. In Column F (Projected # Units – Target), input your annual targets. Then, each quarter input your quarterly progress in Columns H through K. Column L (Year X Actual Completed # Units) and Column M (% Year X Target Achieved will calculate automatically as they did in Year 1. Columns N (Actual Cumulative # Units Achieved) and Column O (% Cumulative Target Achieved will also automatically calculate to give your progress to date. Write notes in Column P to explain any considerable variance from the established targets.
-
-15
-
-FBA Project Design & Monitoring Guidance		
+Link to monitoring, reporting, and learning chapter. -->
