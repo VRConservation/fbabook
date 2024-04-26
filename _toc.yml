@@ -2,9 +2,15 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: funding
-- file: program
-- file: monitoring
-- file: ceqa
-- file: bibliography
+parts:
+  - caption: Chapters
+    numbered: True
+    chapters:
+    - file: chapters/funding
+    - file: chapters/program
+    - file: chapters/monitoring
+    - file: chapters/ceqa
+  - caption: Appendices
+    numbered: False
+    chapters:  
+    - file: bibliography
