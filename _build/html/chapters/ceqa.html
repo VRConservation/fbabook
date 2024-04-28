@@ -359,7 +359,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
 </div></div>
       
     </div>
@@ -375,6 +377,14 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#background">4.1. Background</a></li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -386,7 +396,30 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="compliance">
 <h1><span class="section-number">4. </span>Compliance<a class="headerlink" href="#compliance" title="Link to this heading">#</a></h1>
-<p>Coming soon!</p>
+<section id="background">
+<h2><span class="section-number">4.1. </span>Background<a class="headerlink" href="#background" title="Link to this heading">#</a></h2>
+<p>A general flowchart showing the decision making process for Calfornia Environmental Quality Act (CEQA) for any project on nonfederal land in California (<a class="reference internal" href="#ceqa"><span class="std std-numref">Fig. 4.1</span></a>).</p>
+<figure class="align-default" id="ceqa">
+<img alt="../_images/ceqa.png" src="../_images/ceqa.png" />
+<figcaption>
+<p><span class="caption-number">Fig. 4.1 </span><span class="caption-text">CEQA flowchart adapted from <span id="id1">[<a class="reference internal" href="../bibliography.html#id10">RBB+12</a>]</span>.</span><a class="headerlink" href="#ceqa" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+<p>The California Vegetation Treatment Program (CalVTP) (<a class="reference internal" href="#vtp"><span class="std std-numref">Fig. 4.2</span></a>). For more see the CalVTP site.</p>
+<figure class="align-default" id="vtp">
+<img alt="../_images/vtp.png" src="../_images/vtp.png" />
+<figcaption>
+<p><span class="caption-number">Fig. 4.2 </span><span class="caption-text">CalVTP flowchart adapted from Environmental planning strategies to reach the million-acre goal (Ascent Environmental).</span><a class="headerlink" href="#vtp" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+<p>A diagram showing compliance pathways for wood products and forest health projects (<a class="reference internal" href="#example"><span class="std std-numref">Fig. 4.3</span></a>).</p>
+<figure class="align-default" id="example">
+<img alt="../_images/example.png" src="../_images/example.png" />
+<figcaption>
+<p><span class="caption-number">Fig. 4.3 </span><span class="caption-text">Example projects and CEQA/NEPA compliance.</span><a class="headerlink" href="#example" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -444,7 +477,20 @@ document.write(`
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"></div>
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#background">4.1. Background</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>
