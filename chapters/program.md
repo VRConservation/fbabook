@@ -1,13 +1,13 @@
-﻿# Program Design
+﻿# Program & Business Design
 
 Chris Sacco & Vance Russell | Forest Business Alliance
 
-*Originally Published: August 18, 2023, the full version of this article is available at the [Forest Business Alliance](https://www.forestbusinessalliance.org) templates page (contact us for password and access: forestbusinessalliance@gmail.com).*
+*Originally Published: August 18, 2023, the full version of this article is available at the [Forest Business Alliance](https://www.forestbusinessalliance.org) templates page (please contact us for access to templates: forestbusinessalliance@gmail.com).*
 
 ## Takeaways
 - **Programmatic = Proactive**. A programmatic or portfolio design approach creates a pro-active strategy for your business or nonprofit allowing prioritiztaion for the projects and funding you pursue. Instead of the "tail wagging the dog" where you respond to funding requests and potentially change your organization, you create a framework to build programmatic and financial sustainability to reach your objectives, goals, and mission.
 - **Acknowledge Assumptions**. All project implmentation interventions have inherent assumptions. Acknowledge these in your theory of change and periodically test if they are correct, e.g., does the intervention lead to the intended outcomes.
-- **Iterate and Scale**. Iterate and learn. Start small, experiment, and scale your successes {cite}`ears`. Scaling cite quote from Salafsky and Margoluis {cite}`scaling`.
+- **Iterate and Scale**. Iterate and learn. Start small, experiment, and scale your successes {cite}`ears`. Scaling quote from Salafsky and Margoluis {cite}`scaling`.
 
 ## Background
 The Forest Business Alliance (FBA) created the templates in this workbook to help grant seekers design project proposals for submission to the California Department of Forestry and Fire Protection’s (CAL FIRE) FY 2023-2024 Wood Products and Bioenergy Business and Workforce Development Grant [Program](http://gg.gg/1agl2y). These templates and guidance may also be useful for USDA Forest Service Wood Innovation and Community Wood Grant [Programs](http://gg.gg/1agk52) and other related grants.
@@ -32,7 +32,7 @@ The templates and information provided herein are for reference only. While FBA 
 ```
 
 ## Assessment
-Program and project planning typically beging with a participatory assessment with your business, organization, and with board, stakeholders and clients. During the assessment phase, you will specify the basic parameters for your project and improve your understanding of the project’s context. Pages 13 through 24 of the [Open Standards for the Practice of Conservation](http://gg.gg/1agli2) provide an excellent primer on assessment. We recommend you take some time to review it. 
+Program and project planning typically begin with a participatory assessment with your business, organization, and with board, stakeholders and clients. During the assessment phase, you will specify the basic parameters for your project and improve your understanding of the project’s context. Pages 13 through 24 of the [Open Standards for the Practice of Conservation](http://gg.gg/1agli2) provide an excellent primer on assessment. We recommend you take some time to review it. 
 
 Conducting a thorough situation or problem analysis is central to your assessment work. Your design team should review available evidence to complete your analysis, identifying the direct threats, or core problems, and the indirect threats, also known as drivers and causes.
 
