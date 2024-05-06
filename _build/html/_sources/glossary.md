@@ -1,7 +1,10 @@
 # Glossary
 
+EIS/EIR - Environmental Impact Statement/Report
 
 FPA/FPR - Forest Practice Act/Rules
+
+IS - Initial Study
 
 MMRP - Mitigation Monitoring & Reporting Program
 

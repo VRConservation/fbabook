@@ -25,7 +25,7 @@ The California Vegetation Treatment Program ([CalVTP(http://gg.gg/1anhib)]) incl
  
 ```{figure} /figures/vtp.png
 :name: vtp
-CalVTP flowchart adapted from Environmental planning strategies to reach the million-acre goal (Ascent Environmental). Key to acronyms: FPA/FPR - Forest Practice Act/Rules, MMRP - Mitigation Monitoring & Reporting Program, NOD - Notice of Determination, NOE - Notice of Exemption, NTMP - Nonindustrial Timber Management Plan, FEIR - Final Environmental Impact Report, PEIR - Program Environmental Impact Report, PSA - Project-Specific Analysis, PTEIR - Program Timberland EIR, PTHP - Program Timberland Harvest Plan, THP - Timber Harvest Plan.
+CalVTP flowchart adapted from Environmental planning strategies to reach the million-acre goal (Ascent Environmental). See glossary for a key to acronyms.
 ```
 
 Important timber/commercial definitions from California Code PRC 4527 include:
