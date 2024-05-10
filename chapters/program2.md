@@ -18,9 +18,9 @@ The contents of this guidance document and the accompanying worksheets are prese
 
 1. Situation assessment
 2. Theory of Change
-3. Results Framework
-4. Budget
-5. Strategies
+3. Goals & Objectives
+4. Monitoring (see monitoring chapter for more detail)
+5. Budget
 6. Implementation
 
 The guidance and workbook's step-by-step organization helps you move deliberately through the design process. However, keep in mind that project design is iterative and dynamic. As you add detail when progressing from one step to the next, you may find it necessary to go back and revise the information you input during prior steps.
