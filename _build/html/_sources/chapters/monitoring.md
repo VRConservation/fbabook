@@ -14,6 +14,8 @@ Like the Korean and Vietnam Wars in your high school history class, monitoring a
 
 Unfortunately, not many donors cover monitoring costs, or monitoring is completed, but project managers and teams do not have time to analyze the data and create a learning environment around the results. There are many resources available to plan projects and develop monitoring plans. This guide is not an exhaustive resource but is focused on developing your monitoring and measuring success when evaluation resources and capacity are limited.
 
+FBA created the ProFrame/DIP worksheet to identify CAL FIRE metrics and set associated targets required for the application. This worksheet does not replace a good monitoring, evaluation, and learning (MEL) plan. Design teams, especially those creating complex, multi-year projects, should consider drafting a MEL plan for their own use that also responds to CAL FIRE’s information needs. Pages 38 through 43 of the Open Standards for the Practice of Conservation provide a good primer to help you create a MEL plan {cite}`cmp`. In developing a MEL plan, you would create specific, measurable, achievable, relevant, and time‑bound (SMART) indicators for all your goals, objectives, intermediate results, and outputs. The e-Civis Grant Portal Goals worksheet you will use to input project metrics and targets does not require fully articulated indicators. Nevertheless, it is worthwhile to develop such indicators and the rest of the MEL plan to facilitate your monitoring and evaluation work.
+
 {cite}`recipes`
 
 ## Monitoring plan

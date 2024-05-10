@@ -5,20 +5,20 @@ Chris Sacco & Vance Russell | Forest Business Alliance
 *Originally Published: August 18, 2023, the full version of this article is available at the [Forest Business Alliance](https://www.forestbusinessalliance.org) templates page (please contact us for access to templates: forestbusinessalliance@gmail.com).*
 
 ## Takeaways
-- **Programmatic = Proactive**. A programmatic or portfolio design approach creates a pro-active strategy for your business or nonprofit, allowing prioritization of the projects and funding you pursue. Instead of the "tail wagging the dog" where you respond to funding requests and potentially change your organization, you create a framework to build programmatic and financial sustainability to reach your objectives, goals, and mission.
-- **Acknowledge Assumptions**. All project implementation interventions have inherent assumptions. Acknowledge these in your theory of change and periodically test if they are correct, e.g., does the intervention lead to the intended outcomes?
-- **Iterate and Scale**. Iterate and learn. Start small, experiment, and scale your successes {cite}`ears`. Scaling quote from Salafsky and Margoluis {cite}`scaling`.
+- **Programmatic = proactive**. A programmatic or portfolio design approach creates a pro-active strategy for your business or nonprofit, allowing prioritization of the projects and funding you pursue. Instead of the "tail wagging the dog" where you respond to funding requests and potentially change your organization, you create a framework to build programmatic and financial sustainability to reach your objectives, goals, and mission.
+- **Acknowledge assumptions**. All project implementation interventions have inherent assumptions. Acknowledge these in your theory of change and periodically test if they are correct, e.g., does the intervention lead to the intended outcomes?
+- **Iterate and scale**. Iterate and learn. Start small, experiment, and scale your successes {cite}`ears`. Scaling quote from Salafsky and Margoluis {cite}`scaling`.
 
 ## Background
 The Forest Business Alliance (FBA) created the templates in this workbook to help grant seekers design project proposals for submission to the CAL FIRE's Wood Products and Bioenergy Business and Workforce Development Grant [Program](http://gg.gg/1agl2y). These templates and guidance may also be useful for USDA Forest Service Wood Innovation and Community Wood Grant [Programs](http://gg.gg/1agk52) and other state/federal grants.
 
 During the design process, your project team will decide which problems and causes to address, what strengths and opportunities to leverage, where you will work, with whom, and at what scale. Your project team will also specify what it will and will not do by establishing achievable and measurable goals and objectives, selecting sound strategies, developing detailed activity plans, and setting targets.
-..
+
 The contents of this guidance document and the accompanying worksheets are presented chronologically: 
 
 1. Assessment / Problem Analysis
-2. Theory of Change (TOC)
-3. Results Framework (RF)
+2. Theory of Change
+3. Results Framework
 4. Budget
 5. Strategy Options / Ranking
 6. Project Framework (ProFrame) / Detailed Implementation Plan (DIP)
@@ -36,7 +36,7 @@ Program and project planning typically begin with a participatory assessment of 
 
 ```{figure} /figures/situation.jpeg
 :name: situation
-Situation model. 
+Situation model {cite}`cmp`.
 ```
 
 A situation model is a tool that visually portrays the relationships among the various factors in your situation analysis ({numref}`situation`). The model should illustrate the main cause-and-effect relationships and include the most important details, yet be as simple as possible. To the degree that it is feasible and useful, you should identify the actors behind key factors. 
@@ -59,7 +59,7 @@ Once you have created your problem tree(s) or situation model, review the logic 
 In addition to helping you design a project that responds to causes instead of their symptoms, the assessment and problem analysis you have done will provide findings and conclusions that help you to write a compelling and context‑specific problem analysis for the proposal narrative.
 
 ## Theory of Change
-A Theory of Change (TOC) bridges the problem analysis visualized in the problem tree(s) and the proposed responses reflected in the project’s results framework or ProFrame {numref}`toc`. The TOC clarifies why you believe the selected project strategies will work in the project context and justifies and checks the logic and feasibility of the change hypothesis. A TOC can be expressed in narrative, diagrammatic, or other forms. 
+A Theory of Change bridges the problem analysis visualized in the problem tree(s) and the proposed responses reflected in the project’s results framework or ProFrame {numref}`toc`. The theory of change clarifies why you believe the selected project strategies will work in the project context and justifies and checks the logic and feasibility of the change hypothesis. A theory of change can be expressed in narrative, diagrammatic, or other forms. 
 
 ```{note}
 A narrative Theory of Change is a concise, explicit explanation of:
@@ -67,23 +67,23 @@ A narrative Theory of Change is a concise, explicit explanation of:
 “IF we do X, and Y holds true, THEN we’ll achieve Z because a, b, and c.”
 ```
 
-With this structure, the TOC clarifies how (if–then) and why (because) the project team expects or assumes that certain actions will produce desired changes for individuals, groups, communities, or institutions in the environment where the project will be implemented.
+With this structure, the theory of change clarifies how (if–then) and why (because) the project team expects or assumes that certain actions will produce desired changes for individuals, groups, communities, or institutions in the environment where the project will be implemented.
 
 ```{figure} /figures/toc.jpeg
 :name: toc
 Simplified theory of change.
 ```
 
-The TOC is not simply a narrative description of the results framework because the results framework only reflects the elements (the “ifs” and “then” parts) that will be delivered by the project, whereas the TOC also states those actions or contributions critical to the project success but which you expect other actors to deliver. In other words, the TOC reflects both the RF and the project’s critical hypotheses or assumptions. Remember that TOC can be developed for different levels of the objectives hierarchy. A “high‑level” TOC articulates how successful achievement of the project’s objectives will contribute to longer‑term, broader, lasting change (project’s goal). You should minimally create a TOC at this level. However, often, TOCs are developed to describe the whole causal chain—from activities to outputs, from outputs to intermediate results, from intermediate results to objectives, and from objectives to the overall project goal. 
+The theory of change is not simply a narrative description of the results framework because the results framework only reflects the elements (the “ifs” and “then” parts) that will be delivered by the project, whereas the theory of change also states those actions or contributions critical to the project success but which you expect other actors to deliver. In other words, the theory of change reflects both the results framework and the project’s critical hypotheses or assumptions. Remember that theory of change can be developed for different levels of the objectives hierarchy. A “high‑level” theory of change articulates how successful achievement of the project’s objectives will contribute to longer‑term, broader, lasting change (project’s goal). You should minimally create a theory of change at this level. However, often, theories of change are developed to describe the whole causal chain—from activities to outputs, from outputs to intermediate results, from intermediate results to objectives, and from objectives to the overall project goal. 
 
-If you express your TOC visually, you may want to use a results chain diagrammatic tool. This is a good choice if you plan to create a TOC from activities to the goal(s). Below is a Generic Situation Model “Factors” with an associated Results Chain taken from Conservation Measures Partnership’s Open Standards for the Practice of Conservation.
+If you express your theory of change visually, you may want to use a results chain; a visual diagram of a theory of change. This is a good choice if you plan to create a theory of change from activities to the goal(s). Below is a Generic Situation Model “Factors” with an associated Results Chain taken from Conservation Measures Partnership’s Open Standards for the Practice of Conservation.
 
 ```{figure} /figures/rc.png
 :name: rc
-Example of a results chain.
+Results chains are a visual diagram of a theory of change {cite}`cmp`.
 ```
 
-[Miradi](https://www.miradishare.org/ux/home) is designed to help project proponents move through and plan the various stages of a program and projects and is widely adaptable. Project managers with place-based scopes (those with a geographic focus) might find [ArcGIS StoryMaps](http://gg.gg/1ahzng) useful to complement their assessment, TOC, and planning efforts. FBA prepared a storymap about [Spatial Business Planning](https://storymaps.arcgis.com/stories/647313bcdb3e4d6c82e4733eee7ab693) as an example of how this powerful tool can be used and added in geospatial analyses to their planning efforts.
+[Miradi](https://www.miradishare.org/ux/home) is designed to help project proponents move through and plan the various stages of a program and projects and is widely adaptable. Project managers with place-based scopes (those with a geographic focus) might find [ArcGIS StoryMaps](http://gg.gg/1ahzng) useful to complement their assessment, theory of change, and planning efforts. FBA prepared a storymap about [Spatial Business Planning](https://storymaps.arcgis.com/stories/647313bcdb3e4d6c82e4733eee7ab693) as an example of how this poweresults frameworkul tool can be used and added in geospatial analyses to their planning efforts.
 
 ## Problems -> Objectives
 There is a two-fold reason to connect problems to objectives:
@@ -132,21 +132,21 @@ Organization X provides training for owners and staff of forest sector businesse
 ```
 
 ## Results Framework
-A results framework (RF) is an easy‑to‑read diagram that gives a snapshot of the project’s objectives hierarchy (means‑to‑end relationship) and describes the change the project aims to bring about, why this change is important, and what needs to happen for this change to occur. Here you will make explicit how you expect the project will lead to intended goals and objectives and generate meaningful impact {numref}`goals`.
+A results framework is an easy‑to‑read diagram that gives a snapshot of the project’s objectives hierarchy (means‑to‑end relationship) and describes the change the project aims to bring about, why this change is important, and what needs to happen for this change to occur. Here you will make explicit how you expect the project will lead to intended goals and objectives and generate meaningful impact {numref}`goals`.
 
 ```{figure} /figures/goals.jpeg
 :name: goals
 Relationship between goals, objectives, and results. 
 ```
 
-The goal, objective, and intermediate results statements will automatically populate the Results Framework worksheet from the Problems to Objectives worksheet. Review the list of questions below and use the “if-then” test to confirm the logic between each level of the RF. Every statement should clearly lead to the next higher-level statement. If the logic is unclear, revise your goal, objective, and intermediate result statements.
+The goal, objective, and intermediate results statements will automatically populate the Results Framework worksheet from the Problems to Objectives worksheet. Review the list of questions below and use the “if-then” test to confirm the logic between each level of the results framework. Every statement should clearly lead to the next higher-level statement. If the logic is unclear, revise your goal, objective, and intermediate result statements.
 
 - Do the objectives describe the central purpose of the project?
 - Are the objectives specific to the project context?
 - Can the objectives be realistically achieved by the end of the project?
 - Do the objectives logically contribute towards the achievement of the goal?
 - Does the number of objectives make sense given the project timeframe, scope, scale, and budget?
-- Do the intermediate results reflect the project strategy and TOC?
+- Do the intermediate results reflect the project strategy and theory of change?
 - Do the intermediate results reflect the right change agents and behaviors?
 - Is the complement of intermediate results necessary and sufficient to deliver change at the objective level?
 
@@ -197,7 +197,7 @@ Once you have selected project strategy options, use evaluative thinking to conf
 **
 
 ## Implementation
-As you developed your RF and TOC and selected viable project strategies, you clarified how intermediate results led to objectives, contributing to the goal. You highlighted underlying assumptions and established the evidence base for the project strategies. During prior steps in the design process, you also likely defined broad illustrative activities and possibly outputs.
+As you developed your results framework and theory of change and selected viable project strategies, you clarified how intermediate results led to objectives, contributing to the goal. You highlighted underlying assumptions and established the evidence base for the project strategies. During prior steps in the design process, you also likely defined broad illustrative activities and possibly outputs.
 
 Discuss how activities lead to outputs (and, in turn, their related intermediate results). Focus on major, illustrative activities or categories of activities. Do not get distracted by details, but rather, focus on making the “how” clear. As you discuss and refine activities and outputs – and how they lead to achieving related intermediate results – think ahead and consider what is feasible given the project budget, timeline, etc. Developing project activities is an iterative process. As you provide more details in the ProFrame (and eventually the budget), you will have a better idea of costs, allowing you to adjust project targets accordingly.
 
