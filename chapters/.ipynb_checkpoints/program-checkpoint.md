@@ -1,4 +1,4 @@
-﻿# Program Design
+﻿# Program & Business Design
 
 Chris Sacco & Vance Russell | Forest Business Alliance
 
@@ -13,7 +13,7 @@ Chris Sacco & Vance Russell | Forest Business Alliance
 The Forest Business Alliance (FBA) created the templates in this workbook to help grant seekers design project proposals for submission to the CAL FIRE's Wood Products and Bioenergy Business and Workforce Development Grant [Program](http://gg.gg/1agl2y). These templates and guidance may also be useful for USDA Forest Service Wood Innovation and Community Wood Grant [Programs](http://gg.gg/1agk52) and other state/federal grants.
 
 During the design process, your project team will decide which problems and causes to address, what strengths and opportunities to leverage, where you will work, with whom, and at what scale. Your project team will also specify what it will and will not do by establishing achievable and measurable goals and objectives, selecting sound strategies, developing detailed activity plans, and setting targets.
-..
+
 The contents of this guidance document and the accompanying worksheets are presented chronologically: 
 
 1. Assessment / Problem Analysis
@@ -78,7 +78,7 @@ The TOC is not simply a narrative description of the results framework because t
 
 If you express your TOC visually, you may want to use a results chain diagrammatic tool. This is a good choice if you plan to create a TOC from activities to the goal(s). Below is a Generic Situation Model “Factors” with an associated Results Chain taken from Conservation Measures Partnership’s Open Standards for the Practice of Conservation.
 
-```{figure} /figures/rc.png
+```{figure} /figures/rc.jpeg
 :name: rc
 Example of a results chain.
 ```

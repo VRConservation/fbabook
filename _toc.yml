@@ -10,6 +10,7 @@ parts:
     - file: chapters/program
     - file: chapters/monitoring
     - file: chapters/ceqa
+    - file: chapters/scale
   - caption: Appendices
     numbered: False
     chapters:  
