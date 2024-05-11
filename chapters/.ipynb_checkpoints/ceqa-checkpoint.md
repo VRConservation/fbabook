@@ -1,7 +1,7 @@
-# CEQA/NEPA
+# Compliance Pathways
 
 ## Background
-California Environmental Quality Act (CEQA) and National Environmental Protection Act (NEPA) compliance and documentation are required for all planned projects. Projects on federal lands require NEPA; everything else requires CEQA. However, most California state-funded projects may require CEQA regardless of project location.
+Compliance and documentation with the California Environmental Quality Act (CEQA) and the National Environmental Protection Act (NEPA) are required for all planned projects. Projects on federal lands require NEPA; everything else requires CEQA. However, most California state-funded projects may require CEQA regardless of project location.
 
 ## CEQA
 This flowchart is a general CEQA process for any project requiring CEQA compliance. With forest health and wood products projects, please use the diagram as an overall environmental frame of reference rather than the exact process to obtain compliance for your project.
