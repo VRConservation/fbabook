@@ -1,7 +1,4 @@
 ﻿# Program Design
-Coming Soon!
-
-<!-- # Program Design
 
 Chris Sacco & Vance Russell | Forest Business Alliance
 
@@ -92,142 +89,141 @@ Well-written objective statements follow specific formulas at different levels o
 **Goals** are the high-level, long-term results that a project seeks to achieve. Factors outside the intervention may contribute to the goals. The goal statements are important in defining the scope of change the project expects to achieve. Write goals in complete sentences, as if already achieved. Put the general population of intended beneficiaries as the subject of the sentence. 
 
 ```{admonition} Example
-Residents of Northern California's low-income, fire-prone, rural areas experience a reduction in property loss from forest fires because expanded forest sector businesses contribute to making forests more resilient to wildfires.
+Residents of Northern California's low-income, fire-prone, rural areas experience reduced property loss from forest fires because expanded forest sector businesses make forests more resilient to wildfires.
 ```
 
-**Objectives** are the primary results that an intervention seeks to achieve. Other grant makers commonly refer to this level of project hierarchy as strategic objectives or outcomes. Objective statements describe the noticeable or significant benefits that are actually achieved and enjoyed by targeted groups by the end of the project. Progress at this level is necessary to achieve the goals. To create objectives, ask where do we want to be at the end of the project? What are the most immediate things we are trying to change? What are the things that must be in place before we can achieve our goals? Write each objective as a complete sentence, as if already achieved. Put the targeted primary beneficiary group(s) whose behavior is expected to change as the subject of the sentence.
+**Objectives** are the primary results that an intervention seeks to achieve. Other grantmakers commonly refer to this project hierarchy level as strategic objectives or outcomes. Objective statements describe the noticeable or significant benefits that are actually achieved and enjoyed by targeted groups by the end of the project. Progress at this level is necessary to achieve the goals. To create objectives, ask where we want to be at the end of the project. What are the most immediate things we are trying to change? What elements must be in place before we can achieve our goals? Write each objective as a complete sentence, as if it has already been achieved. Put the targeted primary beneficiary group(s) whose behavior is expected to change as the sentence's subject.
 
 ```{admonition} Example
 Forest sector businesses have increased their capacity to clear forested rights-of-way.
 ```
 
-**Intermediate results** state the expected changes in identifiable behaviors by participants or in identifiable approaches by interventions, systems, policies or institutions as a result of what was gained (outputs) through project actions (activities). Progress at this level is a necessary precondition towards achieving the objectives. Write intermediate results as complete sentences, as if already achieved. Put the targeted primary beneficiary group(s) whose behavior is expected to change as the subject of the sentence.
+**Intermediate results** state the expected changes in identifiable behaviors by participants or in identifiable approaches by interventions, systems, policies or institutions as a result of what was gained (outputs) through project actions (activities). Progress at this level is a necessary precondition towards achieving the objectives. Write intermediate results as complete sentences, as if already achieved. Put the targeted primary beneficiary group(s) whose behavior is expected to change as the sentence's subject.
 
 ```{admonition} Example
-Forest sector businesses are consistently using improved technology and practices to clear forested rights-of-way.
+Forest sector businesses consistently use improved technology and practices to clear forested rights-of-way.
 ```
 
-**Outputs** are the tangible products, goods and services that result from the implementation of specific activities. More than one output may be needed to achieve a single intermediate result or objective. To create outputs, ask what are the things that need to be produced or provided by the project to achieve short- to medium- term results? Write outputs as complete sentences, as if already achieved. Put the targeted primary beneficiary group(s) receiving the outputs as the subject of the sentence. 
+**Outputs** are the tangible products, goods, and services resulting from implementing specific activities. More than one output may be needed to achieve a single intermediate result or objective. To create outputs, ask what the project needs to produce or provide to achieve short to medium-term results. Write outputs as complete sentences, as if already achieved. Put the targeted primary beneficiary group(s) receiving the outputs as the sentence's subject. 
 
 ```{admonition} Example
-Forest sector businesses have demonstrably increased their knowledge related to improved technologies and practices to clear forested rights-of-way.
+Forest sector businesses have demonstrably increased their knowledge of improved technologies and practices to clear forested rights-of-way.
 ```
 
-**Activities** describe the functions to be undertaken and managed to deliver the project’s outputs to the targeted beneficiaries and participants. Normally more than one activity is needed to achieve an individual output. To avoid over-complicating the project results framework, activities are not included at that stage of the project design. You will include the full breadth of specific activities when you develop the Project Framework (ProFrame) & Detailed Implementation Plan (DIP).
+**Activities** describe the functions to be undertaken and managed to deliver the project’s outputs to the targeted beneficiaries and participants. Normally, more than one activity is needed to achieve an individual output. To avoid overcomplicating the project results framework, activities are not included at that stage of the project design. You will include the full breadth of specific activities when you develop the Project Framework (ProFrame) and Detailed Implementation Plan (DIP).
 
 ```{admonition} Example
 Organization X provides training for owners and staff of forest sector businesses on improved technology and practices to clear forested rights-of-way.
 ```
 
-# Results Framework
-A results framework (RF) is an easy‑to‑read diagram that gives a snapshot of the project’s objectives hierarchy (means‑to‑end relationship) and describes the change the project aims to bring about, why this change is important, and what needs to happen for this change to occur. Here you will make explicit how you expect the project will lead to intended goals and objectives and generate meaningful impact.
+## Results Framework
+A results framework (RF) is an easy‑to‑read diagram that gives a snapshot of the project’s objectives hierarchy (means‑to‑end relationship) and describes the change the project aims to bring about, why this change is important, and what needs to happen for this change to occur. Here you will make explicit how you expect the project will lead to intended goals and objectives and generate meaningful impact {numref}`goals`.
 
-On the Results Framework worksheet, the goal, objective, and intermediate results statements will automatically populate from the Problems to Objectives worksheet. Review the list of questions below and use the “if – then” test to confirm the logic between each level of the RF. Every statement should clearly lead to the next higher-level statement. If the logic is not clear, go back and revise your goal, objective, and intermediate result statements.
+```{figure} /figures/goals.jpeg
+:name: goals
+Relationship between goals, objectives, and results. 
+```
+
+The goal, objective, and intermediate results statements will automatically populate the Results Framework worksheet from the Problems to Objectives worksheet. Review the list of questions below and use the “if-then” test to confirm the logic between each level of the RF. Every statement should clearly lead to the next higher-level statement. If the logic is not clear, go back and revise your goal, objective, and intermediate result statements.
 
 - Do the objectives describe the central purpose of the project?
 - Are the objectives specific to the project context?
 - Can the objectives be realistically achieved by the end of the project?
-- Do the objectives logically contribute towards achievement of the goal?
-- Does the number of objectives make sense given the project timeframe, scope, scale and budget?
+- Do the objectives logically contribute towards the achievement of the goal?
+- Does the number of objectives make sense given the project timeframe, scope, scale, and budget?
 - Do the intermediate results reflect the project strategy and TOC?
 - Do the intermediate results reflect the right change agents and behaviors?
 - Is the complement of intermediate results necessary and sufficient to deliver change at the objective level?
 
-![](Aspose.Words.10aa1f8b-dd27-484a-b4ed-cc7c8b7185ee.005.jpeg)![](Aspose.Words.10aa1f8b-dd27-484a-b4ed-cc7c8b7185ee.006.png)You should revisit this list of questions as you move through the design process because you will not have all of the necessary information to make informed decisions until you have gone through all the steps at least once.
+You should revisit this list of questions as you move through the design process because you will not have all of the necessary information to make informed decisions until you have gone through all the steps at least once.
 
-# Budget
-Identifying and reviewing CAL FIRE’s requirements and other set project parameters early will help focus project design efforts and keep expectations in line with reality. One key parameter is the amount of money available for direct program implementation. FBA has developed a tool to help you determine approximately how much money you can expect to have to implement field-level activities. Having a rough estimate of how much you will have to do field work will help you make realistic decisions on project scope and scale.
+## Budget
+Identifying and reviewing CAL FIRE’s requirements and other set project parameters early will help focus project design efforts and keep expectations in line with reality. One key parameter is the amount of money available for direct program implementation. FBA has developed a tool to help you determine approximately how much money you can expect to have to implement field-level activities. A rough estimate of how much you will have to do field work will help you make realistic project scope and scale decisions.
 
 Calculate the approximate amount of money available for field-level program costs as follows: 
 
-1. Review Table 1. Funding Limits and Match Requirements on page 6 of the CAL FIRE FY 2023-2024 Grant Guidelines and decide how much you plan to request based on the grant type, minimum and maximum award amounts, and match requirements. Input this dollar amount into Step 1 of the table.
-1. In Step 2, set the indirect cost rate that will apply to your project. In the table, the default indirect rate is set at 12.00%. It is expressed as a number (1.12) for division. Please note that workforce development projects managed by non-profit grantees are the only project types eligible for indirect charges, AND the maximum allowable indirect charge is 12% for eligible projects unless an exemption is granted by CAL FIRE. Change this to 1.00 if you cannot charge indirect, or to a number between 1.00 and 1.12 if you plan to charge indirect less than the maximum allowable rate.
-1. In Step 3, estimate what percentage of the total direct costs (budget ceiling less indirect costs) will be required for project support. Input this figure as a percentage. Project support typically includes finance and administrative personnel, facility and vehicle use expenses, and other costs necessary for the project but which are not part of the field-level implementation. Typically, these costs run between 10% and 15% of a total grant. These costs must be budgeted as direct costs and they must be necessary for the project. For example, you might budget a staff person’s time, who is not otherwise involved in project implementation, to conduct project monitoring and write grant reports. Staff time related to accounting, business services, etc. are allowed only if those functions are not included in the grantee's overhead cost.
-1. Step 4 automatically calculates (by subtracting indirect costs and allocated direct support costs) the amount available to you for all other project costs. In other words, this is the amount you will have available for salaries and benefits, travel, supplies, etc. required to implement the project’s field-level activities.
+1. Review Table 1. Funding Limits and Match Requirements on page 6 of the CAL FIRE FY 2023-2024 Grant Guidelines. Based on the grant type, minimum and maximum award amounts, and match requirements, decide how much you plan to request. Input this dollar amount into Step 1 of the table.
+1. In Step 2, set the indirect cost rate that will apply to your project. In the table, the default indirect rate is set at 12.00%. It is expressed as a number (1.12) for division. Please note that workforce development projects managed by non-profit grantees are the only project types eligible for indirect charges, AND the maximum allowable indirect charge is 12% for eligible projects unless CAL FIRE grants an exemption. Change this to 1.00 if you cannot charge indirectly or to a number between 1.00 and 1.12 if you plan to charge indirectly less than the maximum allowable rate.
+1. In Step 3, estimate what percentage of the total direct costs (budget ceiling less indirect costs) will be required for project support. Input this figure as a percentage. Project support typically includes finance and administrative personnel, facility and vehicle use expenses, and other costs necessary for the project but which are not part of the field-level implementation. Typically, these costs run between 10% and 15% of a total grant. These costs must be budgeted as direct costs and must be necessary for the project. For example, you might budget a staff person’s time not otherwise involved in project implementation to conduct project monitoring and write grant reports. Staff time related to accounting, business services, etc., is allowed only if those functions are not included in the grantee's overhead cost.
+1. Step 4 automatically calculates (by subtracting indirect costs and allocated direct support costs) the amount available to you for all other project costs. In other words, this is the amount you will have available for salaries and benefits, travel, and supplies required to implement the project’s field-level activities.
 
-# Strategies
-Once you determine what you want to accomplish (your goals and main objectives) and roughly how much money is available for direct field-level work, you need to think about what strategies are required to achieve the project’s desired impacts. 
+## Strategies
+Once you determine what you want to accomplish (your goals and main objectives) and roughly how much money is available for direct field-level work, you must consider the strategies required to achieve the project’s desired impacts. 
 
-Please note that even though you drafted preliminary goal, objective, and intermediate result statements when completing the Problems to Objectives worksheet, you can and should refine those statements as you proceed through the design process. Drafting these statements, like much of the work you will do when designing your project, is iterative. As the project design solidifies, it is also important to make sure that your goals, objectives, intermediate results, outputs and activities retain their logical flow.
+Please note that even though you drafted preliminary goal, objective, and intermediate result statements when completing the Problems to Objectives worksheet, you can and should refine those statements as you proceed through the design process. Drafting these statements is iterative, like much of the work you will do when designing your project. As the project design solidifies, ensuring that your goals, objectives, intermediate results, outputs, and activities retain their logical flow is also important.
 
-In most situations, there are usually various plausible strategies to addressing problems and achieving the project’s desired impacts. Consider evidence to identify relevant, appropriate and potentially effective strategy options. Evidence you might consult includes:
+In most situations, various plausible strategies are usually for addressing problems and achieving the project’s desired impacts. Consider evidence to identify relevant, appropriate, and potentially effective strategy options. Evidence you might consult includes:
 
-- Your own assessment findings about needs, gaps and opportunities.
-- Industry best practices that are accepted as most effective or that have consistently shown superior results.
+- Your own assessment findings about needs, gaps, and opportunities.
+- Industry best practices that are accepted as most effective or consistently show superior results.
 - Lessons learned and findings from case studies, research, and reports that illustrate a strategy works well in contexts similar to those in which your project will be implemented.
 
 Make a list of plausible strategies, and then work with your project team using a systematic process to weigh the pros and cons of each. Depending on the complexity and scope of your project, you may need to repeat these steps for each goal or objective. Answer the questions below for each strategy option. Use the table on the Strategy Options worksheet to summarize your answers.
 
-1. Who is involved: Who does this project strategy work with and who would benefit?
-2. Evidence of impact: What do technical advice, literature and standards tell you about this strategy’s likelihood to bring about the desired change? What made this project strategy successful elsewhere?
+1. Who is involved: Who does this project strategy work with, and who would benefit?
+2. Evidence of impact: What do technical advice, literature, and standards tell you about this strategy’s likelihood of bringing about the desired change? What made this project strategy successful elsewhere?
 3. Advantages: What are the advantages of this project strategy option (e.g., cost, feasibility, value for money, leveraging opportunities, scale versus scope, sustainability, etc.)?
 4. Disadvantages: What are the disadvantages of this project strategy option (e.g., cost, feasibility, value for money, leveraging opportunities, scale versus scope, sustainability, etc.)?
-5. Assumptions: What assumptions does the project strategy make about interests and influence of project partners? Environmental conditions? Market conditions?
-6. Risks: What are the risks associated with this project strategy option? How can the project strategy mitigate these risks?
-7. Likelihood of impact in this project context: In light of the assessment findings, how likely is it that this project strategy can address problems, leverage opportunities and bring about desired change equally well in this project’s context?
+5. Assumptions: What assumptions does the project strategy make about the interests and influence of project partners, environmental conditions, and market conditions?
+6. Risks: What risks are associated with this project strategy option? How can the project strategy mitigate these risks?
+7. Likelihood of impact in this project context: In light of the assessment findings, how likely is it that this project strategy can equally address problems, leverage opportunities, and bring about desired change in this project context?
 
-Eliminate all strategies from the list that are obviously inappropriate, not feasible or that show little potential for impact in the project context. Then, regroup plausible strategies into mutually exclusive project strategy options, by considering whether some identified strategies can also be combined into a more integrated project strategy. Consider the minimum package of interventions required to achieve the desired impact.
+Eliminate all strategies from the list that are obviously inappropriate, not feasible, or show little potential for impact in the project context. Then, regroup plausible strategies into mutually exclusive project strategy options, by considering whether some identified strategies can be combined into a more integrated project strategy. Consider the minimum package of interventions required to achieve the desired impact.
 
-Once you have consolidated your list of strategy options, work with your project team to identify evaluation criteria to compare and select the best strategies. The Ranking Strategy Options worksheet includes common ranking criteria, yet you may establish your own criteria and adapt this table based on your project’s context and other factors. You may want to reduce the list to the most essential, relevant criteria, add other criteria relevant to the project context, and/or adjust the evaluation scale to better fit your project. Additionally, if appropriate, you may want to weight certain criteria when conducting your ranking. For example, some criteria, such as addressing donor requirements and priorities, may be so important that any strategy option with a score below 4 (meets most expectations) for these criteria will automatically be excluded.
+Once you have consolidated your list of strategy options, work with your project team to identify evaluation criteria to compare and select the best strategies. The Ranking Strategy Options worksheet includes common ranking criteria, yet you may establish your own criteria and adapt this table based on your project’s context and other factors. You may want to reduce the list to the most essential, relevant criteria, add other criteria relevant to the project context, and/or adjust the evaluation scale to better fit your project. Additionally, you may want to weight certain criteria during your ranking if appropriate. For example, some criteria, such as addressing donor requirements and priorities, may be so important that any strategy option with a score below 4 (meets most expectations) for these criteria will automatically be excluded.
 
-Now that you have selected project strategy options, use evaluative thinking to confirm they are likely to produce the desired outcomes and impact.
+Now that you have selected project strategy options use evaluative thinking to confirm they will likely produce the desired outcomes and impact.
 **
 
-# THEORY OF CHANGE
-A Theory of Change (TOC) bridges the problem analysis visualized in the problem tree(s) and the proposed responses reflected in the project’s RF and ProFrame. The TOC makes explicit why you believe that the selected project strategies will work in the project context and justifies and checks the logic and feasibility of the project’s change hypothesis. A TOC can be expressed in narrative, diagrammatic, or other forms. 
+## Theory of Change
+A Theory of Change (TOC) bridges the problem analysis visualized in the problem tree(s) and the proposed responses reflected in the project’s RF and ProFrame {numref}`toc`. The TOC clarifies why you believe the selected project strategies will work in the project context and justifies and checks the logic and feasibility of the project’s change hypothesis. A TOC can be expressed in narrative, diagrammatic, or other forms. 
 
+```{note}
 A narrative TOC is a concise, explicit explanation of:
 
 “IF we do X, and Y holds true, THEN we’ll achieve Z because a, b, and c.”
+```
 
-With this structure, the TOC makes clear how (if–then) and why (because) the project team expects or assumes that certain actions will produce desired changes for individuals, groups, communities or institutions in the environment where the project will be implemented.
+With this structure, the TOC clarifies how (if–then) and why (because) the project team expects or assumes that certain actions will produce desired changes for individuals, groups, communities or institutions in the environment where the project will be implemented.
 
-Once you have articulated your project’s TOC, use the Theory of Change Checklist worksheet to review and assess its validity.
+```{figure} /figures/toc.jpeg
+:name: toc
+Simplified theory of change.
+```
 
-***Figure 5. Theory of Change***
+The TOC is not simply a narrative description of the RF, because the RF only reflects the elements (the “ifs” and “then” parts) that will be delivered by the project, whereas the TOC also states those actions or contributions critical to the project success but which you expect other actors to deliver. In other words, the TOC reflects both the RF and the project’s critical hypotheses or assumptions. Keep in mind that TOCs can be developed for different levels of the objectives hierarchy. A “high‑level” TOC articulates how successful achievement of the project’s objectives will be contributing to longer‑term, broader, lasting change (project’s goal). You should minimally create a TOC at this level. However, often TOCs are developed to describe the whole causal chain—from activities to outputs, from outputs to intermediate results, from intermediate results to objectives, and from objectives to the overall project goal. 
 
-![](Aspose.Words.10aa1f8b-dd27-484a-b4ed-cc7c8b7185ee.007.jpeg)
+If you decide to express your TOC visually, you may want to use a results chain diagrammatic tool. This is a good choice if you plan to create a TOC from activities to the goal(s). Below is a Generic Situation Model “Factors” with an associated Results Chain taken from Conservation Measures Partnership’s Open Standards for the Practice of Conservation.
 
-The TOC (see Figure 4) is not simply a narrative description of the RF, because the RF only reflects the elements (the “ifs” and “then” parts) that will be delivered by the project, whereas the TOC also states those actions or contributions critical to the project success but
+```{figure} /figures/rc.jpeg
+:name: rc
+Example of a results chain.
+```
 
-which you expect other actors to deliver. In other words, the TOC reflects both the RF and the project’s critical hypotheses or assumptions.
+[Miradi](https://www.miradishare.org/ux/home) is specifically made to help project proponents move through and plan the various stages of a program and projects and is widely adaptible. Project managers with place-based scopes (those with a geographic focus) might find [ArcGIS StoryMaps](http://gg.gg/1ahzng) useful to complement their assessment, TOC, and planning efforts. FBA prepared a storymap about [Spatial Business Planning](https://storymaps.arcgis.com/stories/647313bcdb3e4d6c82e4733eee7ab693) as an example of how this powerful tool can be used and add in geospatial analyses to their planning efforts.
 
-Keep in mind that TOCs can be developed for different levels of the objectives hierarchy. A “high‑level” TOC articulates how successful achievement of the project’s objectives will be contributing to longer‑term, broader, lasting change (project’s goal). You should minimally create a TOC at this level. However, often TOCs are developed to describe the whole causal chain—from activities to outputs, from outputs to intermediate results, from intermediate results to objectives, and from objectives to the overall project goal. 
+## Implementation
+As you developed your RF and TOC and selected viable project strategies, you clarified how intermediate results led to objectives, which in turn contributed towards the goal, and you highlighted underlying assumptions and established the evidence base for the project strategies. During prior steps in the design process, you also likely defined broad illustrative activities and possibly outputs. Now, you will use the Project Framework (ProFrame) & Detailed Implementation Plan (DIP) worksheet to build upon and flesh out this earlier work. 
 
-If you decide to visually express your TOC, you may want to use a results chain diagrammatic tool. This is a good choice if you plan to create a TOC from activities all the way up to the goal(s). Below is a Generic Situation Model “Factors” with Associated Results Chain taken from CMP’s Open Standards for the Practice of Conservation.
+Discuss how activities lead to outputs (and, in turn, their related intermediate results). Focus on major, illustrative activities or categories of activities. Do not get distracted by details, but rather, focus on making the “how” clear. As you discuss and refine activities and outputs – and how they lead to achieving related intermediate results – think ahead and consider what is feasible given the project budget, timeline, etc. Developing project activities is an iterative process. As you provide more details in the ProFrame (and eventually the budget), you will have a better idea of costs, allowing you to adjust project targets accordingly.
 
-***Figure 6. Results Chain***
+First, in column B, record the outputs you have identified and the activities necessary to achieve them. Additionally, columns L through AA indicate in which project year and quarter the activities will be implemented. You are, in effect, planning project implementation by creating and scheduling activities that will generate the necessary outputs required to achieve the intermediate results, which will contribute to the project’s objectives and goals.
 
-![A diagram of a business process
-
-Description automatically generated](Aspose.Words.10aa1f8b-dd27-484a-b4ed-cc7c8b7185ee.008.png)
-
-Designers of project’s with place-based scopes (those with a geographic focus) might find [ArcGIS StoryMaps](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview) tool useful to complement their assessment, TOC, and planning efforts. FBA prepared a storymap about [Spatial Business Planning](https://storymaps.arcgis.com/stories/647313bcdb3e4d6c82e4733eee7ab693) as an example of how this powerful tool can be used. 
-
-
-# Implementation
-
-As you developed your RF and TOC and selected viable project strategies, you made clear how intermediate results led to objectives, which in turn contributed towards the goal, and you highlighted underlying assumptions and established the evidence base for the project strategies. During prior steps in design process, you also likely defined broad illustrative activities and possibly outputs. Now, you will use the Project Framework (ProFrame) & Detailed Implementation Plan (DIP) worksheet to build upon and flesh out this earlier work. 
-
-Discuss how activities lead to outputs (and in turn their related intermediate results). Focus on major, illustrative activities or categories of activities. Do not get distracted by details, but rather, focus on making the “how” clear. As you discuss and refine activities and outputs – and how they lead to achievement of related intermediate results – think ahead and consider what is feasible given the project budget, timeline, etc. Developing project activities is an iterative process. As you provide more details in the ProFrame (and eventually the budget), you will have a better idea of costs and this will allow you to adjust project targets accordingly.
-
-First, in column B, record the outputs you have identified and the various activities necessary to achieve them. Additionally, in columns L through AA, indicate in which project year and quarter the activities will be implemented. You are in effect planning project implementation by creating and scheduling activities that will generate the necessary outputs required to achieve the intermediate results, which will contribute to the project’s objectives and goals.
-
-Second, in Column C, record risks and assumptions. You should have already discussed these as they relate to goals, objectives and intermediate results when you developed your RF and TOC. Review them now, revise if necessary, and record them on the ProFrame. Additionally, identify any risks and assumptions relevant at the output and activity levels. Write assumptions in full sentences as desirable, positive conditions that need to be met if the project is to stay on course towards achieving the next level up on objectives hierarchy. The assumption must hold true for an activity to lead to an output, for an output to lead to an intermediate result, and so forth on up the results chain. If you identify any potential critical assumptions, your team should determine whether you:
+Second, in Column C, record risks and assumptions. You should have already discussed these as they relate to goals, objectives, and intermediate results when you developed your RF and TOC. Review them now, revise if necessary, and record them on the ProFrame. Identify any risks and assumptions relevant to the output and activity levels. Write assumptions in full sentences as desirable, positive conditions that need to be met if the project is to stay on course towards achieving the next level up on the objectives hierarchy. The assumption must hold true for an activity to lead to an output, an output to lead to an intermediate result, and so forth on the results chain. If you identify any potential critical assumptions, your team should determine whether you:
 
 - Adjust the design to minimize the risk;
 - Redesign the program or project because the risk is too high; or
-- Maintain the design as is, recognizing that the risk exists, but is unlikely to affect the project.
+- Maintain the design as is, recognizing that the risk exists but is unlikely to affect the project.
 
-Third, use Column D to identify the relevant CAL FIRE metrics for project goals and objectives. And, in Column E, identify means of verification (measurement methods and data sources) for each metric. In other words, in Column E you should concisely describe how you will obtain the information needed to calculate and verify the metric. You will need this information to complete the e-Civis Grant Portal Goals worksheet. Though not required, you should consider developing custom metrics for any intermediate results and outputs you have included. 
+Third, use Column D to identify the relevant CAL FIRE metrics for project goals and objectives. And, in Column E, identify means of verification (measurement methods and data sources) for each metric. In other words, in Column E, you should concisely describe how you will obtain the information needed to calculate and verify the metric. You will need this information to complete the e-Civis Grant Portal Goals worksheet. Though not required, you should consider developing custom metrics for any intermediate results and outputs you have included. 
 
-Fourth, use columns F through J to set annual targets for the metrics you have selected. Only complete metrics for the length of your grant request. In other words, if you intend to ask for three years’ worth of grant support, set targets for three years. Setting targets helps clarify the services or level of change that the project aims to deliver over time. This helps develop an accurate activities schedule and budget that aligns with donor timeframes and budget ceilings.
+Fourth, use columns F through J to set annual targets for your selected metrics. Only complete metrics for the length of your grant request. In other words, if you intend to ask for three years’ worth of grant support, set targets for three years. Setting targets helps clarify the services or level of change that the project aims to deliver over time. This helps develop an accurate activities schedule and budget that aligns with donor timeframes and budget ceilings.
 
-FBA created the ProFrame/DIP worksheet specifically to identify CAL FIRE metrics and set associated targets required for the application. This worksheet does not replace a good monitoring, evaluation and learning (MEL) plan. Design teams, especially those creating complex, multi-year projects, should consider drafting a MEL plan for their own use and which also responds to CAL FIRE’s information needs. Pages 38 through 43 of CMP’s Open Standards for the Practice of Conservation provide a good primer to help you create a MEL plan. In developing a MEL plan, you would create specific, measurable, achievable, relevant and time‑bound (SMART) indicators for all your goals, objectives, intermediate results, and outputs. The e-Civis Grant Portal Goals worksheet you will use to input project metrics and targets does not require fully articulated indicators. Nevertheless, it is worthwhile to develop such indicators, as well as the rest of the MEL plan, to facilitate your monitoring and evaluation work.
+FBA created the ProFrame/DIP worksheet to identify CAL FIRE metrics and set associated targets required for the application. This worksheet does not replace a good monitoring, evaluation and learning (MEL) plan. Design teams, especially those creating complex, multi-year projects, should consider drafting a MEL plan for their own use and which also responds to CAL FIRE’s information needs. Pages 38 through 43 of CMP’s Open Standards for the Practice of Conservation provide a good primer to help you create a MEL plan. In developing a MEL plan, you would create specific, measurable, achievable, relevant, and time‑bound (SMART) indicators for all your goals, objectives, intermediate results, and outputs. The e-Civis Grant Portal Goals worksheet you will use to input project metrics and targets does not require fully articulated indicators. Nevertheless, it is worthwhile to develop such indicators, as well as the rest of the MEL plan, to facilitate your monitoring and evaluation work.
 
-# Next
-Once you have completed your project design, you should proceed to develop a project budget and budget narrative. FBA has created budget templates and guidance to assist you, which are available on our website. The ProFrame/DIP worksheet will be a foundational document during the budgeting process.
+## Next
+Once you have completed your project design, you should develop a budget and narrative. FBA has created budget templates and guidance to assist you, available on the [FBA](https://www.forestbusinessalliance.org) website. The ProFrame/DIP worksheet will be a foundational document during the budgeting process.
 
-Finally, only after you have completed the project design and budget should you proceed to writing your technical narrative (i.e., Scope of Work and other related CAL FIRE documents). This will ensure that you have all the information you need to write an accurate, realistic, and compelling proposal.
+Finally, only after completing the project design and budget should you write your technical narrative (i.e., Scope of Work and other related CAL FIRE documents). This will ensure you have all the necessary information to write an accurate, realistic, and compelling proposal.
 
-Link to monitoring, reporting, and learning chapter. -->
+Link to monitoring, reporting, and learning chapter.
