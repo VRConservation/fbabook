@@ -104,22 +104,22 @@ Results chains are a visual diagram of a theory of change showing anticipated ou
 
 Goals and objectives are often reversed, conflated, or used interchangeably. That defeats the purpose of having two words for two important planning terms. Well-written goals and objective statements follow specific formulas at different levels of the project’s hierarchy. Below, we provide guidance on creating statements for each level. Review CAL FIRE’s required metrics before you develop your goals and objective statements. Reviewing and understanding them is necessary for creating goals and objectives that align with CAL FIRE’s goals.
 
-**Goals** are the high-level, long-term results that a project seeks to achieve. Factors outside the intervention may contribute to the goals. The goal statements are important in defining the scope of change the project expects to achieve. Write goals in complete sentences, as if already achieved. Put the general population of intended beneficiaries as the subject of the sentence.
+**Goals** are the high-level, long-term results and impacts that a project ultimately seeks to achieve. Derived from the scope of your situation assessment, they represent the desired status of the specific targets identified. Like objectives, goals are specific, measurable, and time bound but typically over a much longer period of time, e.g., decades rather than months or years.
 
 ```{admonition} Example
-Residents of Northern California's low-income, fire-prone, rural areas experience reduced property loss from forest fires because expanded forest sector businesses make forests more resilient to wildfires.
+By 2035 the Central Coast Region of California will increase forest thinning and prescribed fire capacity by 10%.
 ```
 
-**Objectives** are the primary results that an intervention seeks to achieve. Other grantmakers refer to this project hierarchy level as strategic objectives or outcomes. Objective statements describe the noticeable or significant benefits that are actually achieved and enjoyed by targeted groups by the end of the project. Progress at this level is necessary to achieve the goals. To create objectives, ask where we want to be at the end of the project. What are the most immediate things we are trying to change? What elements must be in place before we can achieve our goals? Write each objective as a complete sentence, as if it has already been achieved. Put the targeted primary beneficiary group(s) whose behavior is expected to change as the sentence's subject.
+**Objectives** are the outcomes or intermediate results necessary to attain project goals ({cite}`cmp`). Well written objectives are SMART = specific, measurable, achievable, results-oriented, and time bound and are tied to the intermediate results and outcomes in a theory of change or results chains.
 
 ```{admonition} Example
-Forest sector businesses have increased their capacity to clear forested rights-of-way.
+At least 300 future thinning and prescribed fire crew members from the Central Coast Region will be trained and red-carded by September 2025.
 ```
 
 **Intermediate results** state the expected changes in identifiable behaviors by participants or in identifiable approaches by interventions, systems, policies, or institutions as a result of what was gained (outputs) through project actions (activities). Progress at this level is a necessary precondition for achieving the objectives. Write intermediate results as complete sentences, as if already achieved. Put the targeted primary beneficiary group(s) whose behavior is expected to change as the sentence's subject.
 
 ```{admonition} Example
-Forest sector businesses consistently use improved technology and practices to clear forested rights-of-way.
+Training organizations will coordinate to identify 1,000 potential crew members from disadvantaged communities of the Central Coast to participate in comprehensive thinning and prescribed fire practical courses by 2023.
 ```
 
 **Outputs** are the tangible products, goods, and services from implementing specific activities. More than one output may be needed to achieve a single intermediate result or objective. To create outputs, ask what the project needs to produce or provide to achieve short to medium-term results. Write outputs as complete sentences, as if already achieved. Put the targeted primary beneficiary group(s) receiving the outputs as the sentence's subject.

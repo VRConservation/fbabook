@@ -7,10 +7,10 @@ parts:
     numbered: True
     chapters:
       - file: chapters/funding
-      - file: chapters/program
-      - file: chapters/monitoring
-      - file: chapters/ceqa
-      - file: chapters/scale
+      - file: chapters/program2
+      - file: chapters/monitoring2
+      - file: chapters/ceqa2
+      - file: chapters/scale2
   - caption: Appendices
     numbered: False
     chapters:
