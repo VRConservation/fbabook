@@ -6,14 +6,13 @@ parts:
   - caption: Chapters
     numbered: True
     chapters:
-    - file: chapters/funding
-    - file: chapters/program
-    - file: chapters/program2
-    - file: chapters/monitoring
-    - file: chapters/ceqa
-    - file: chapters/scale
+      - file: chapters/funding
+      - file: chapters/program
+      - file: chapters/monitoring
+      - file: chapters/ceqa
+      - file: chapters/scale
   - caption: Appendices
     numbered: False
-    chapters:  
-    - file: bibliography
-    - file: glossary
+    chapters:
+      - file: bibliography
+      - file: glossary
