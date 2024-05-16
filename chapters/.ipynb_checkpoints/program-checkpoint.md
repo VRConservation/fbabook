@@ -30,7 +30,7 @@ The guidance and workbook's step-by-step organization helps you move deliberatel
 We used numerous publicly available sources to create the project design and monitoring templates and adapted information to create resources suited to the CAL FIRE funding opportunity. The [Open Standards for the Practice of Conservation](http://gg.gg/1agk6k), developed by the Conservation Measures Partnership {cite}`cmp`, and [ProPack I: Project Design Guidance for Project and Program Managers](http://gg.gg/1agk6l), developed by Catholic Relief Services {cite}`propack`, are among the key sources we relied upon to develop this chapter.
 
 ```{caution}
-The templates and information provided are for reference only. While FBA has made every effort to provide up-to-date and correct information, we make no representations concerning the contents contained herein.
+The templates and information provided are for reference only. While FBA has made every effort to provide up-to-date and correct information, we make no representations concerning the contents.
 ```
 
 ## Assessment
@@ -58,7 +58,7 @@ Project design teams frequently use assessment findings to construct problem tre
 Problem tree.
 ```
 
-During problem analysis, the process is as important as the end product. The exercise should be treated as a learning experience. Problem tree analysis is typically done with your design team and possibly other stakeholders at a participatory workshop. Participants write problems, immediate causes, root causes, and effects on sticky notes or note cards. Each card should contain only one item. This allows participants to move the cards around and discuss where they best fit within the problem tree. Experience in facilitating the problem tree method and familiarity with the local context are important considerations when selecting a facilitator. Once you have constructed a problem tree with a logical flow, record it on the Problem Analysis worksheet.
+During problem analysis, the process is as important as the end product. The exercise should be treated as a learning experience. Problem tree analysis is typically done with your design team and possibly other stakeholders at a participatory workshop or video call using Miro or other whiteboards. Participants write problems, immediate causes, root causes, and effects on sticky notes or note cards. Each card should contain only one item. This allows participants to move the cards around and discuss where they best fit within the problem tree. Experience in facilitating the problem tree method and familiarity with the local context are important considerations when selecting a facilitator. Once you have constructed a problem tree with a logical flow, record it on the Problem Analysis worksheet.
 
 Once you have created your situation model or problem trees, review the logic by asking these questions:
 
@@ -109,19 +109,19 @@ A simplified workforce capacity results chain.
 
 Goals and objectives are often reversed, conflated, or used interchangeably. That defeats the purpose of having two words for two important planning terms. Well-written goals and objective statements follow specific formulas at different levels of the project’s hierarchy. Below, we provide guidance on creating statements for each level. Review CAL FIRE’s required metrics before you develop your goals and objective statements. Reviewing and understanding them is necessary for creating goals and objectives that align with CAL FIRE’s goals.
 
-**Goals** are the high-level, long-term results and impacts a project seeks to achieve. Derived from the scope of your situation assessment, they represent the desired status of the specific targets identified. Like objectives, goals are specific, measurable, and time-bound but typically over a much longer period of time, e.g., decades rather than months or years.
+**Goals** are the high-level, long-term results and impacts a project seeks to achieve. Derived from the scope of your situation assessment, they represent the desired status of the specific targets identified. Like objectives, goals are specific, measurable, and time-bound but typically over a much longer period of time, e.g., decades rather than months or years. Unlike objectives, the project’s goal statement is usually general and abstract, describing a desired state beyond the project's life. For this reason, often, a goal will not have an associated indicator associated with it.
 
 ```{admonition} Example
 By 2035 the Central Coast Region of California will increase forest thinning and prescribed fire capacity by 10%.
 ```
 
-**Objectives** are the outcomes or intermediate results necessary to attain project goals ({cite}`cmp`). Well-written objectives are SMART = specific, measurable, achievable, results-oriented, and time-bound and are tied to the intermediate results and outcomes in a theory of change or results chains.
+**Objectives** represent the higher-order changes in systems, communities, or organizations that can reasonably be achieved during a project's time frame and provide the building blocks to achieve goals. Well-written objectives are SMART = specific, measurable, achievable, results-oriented, and time-bound and are tied to the intermediate results and outcomes in a theory of change or results chains. In many projects, objectives reflect the benefits expected to occur for communities by the end of the project as a result of behavioral changes at the interim results level.
 
 ```{admonition} Example
-By September 2025, at least 300 future thinning and prescribed fire crew members from the Central Coast Region will be trained and red-carded.
+By September 2025, 300 future thinning and prescribed fire crew members from the Central Coast Region will be trained and red-carded.
 ```
 
-**Intermediate results** state the expected changes in identifiable behaviors by participants or in identifiable approaches by interventions, systems, policies, or institutions as a result of what was gained (outputs) through project actions (activities). Progress at this level is a necessary precondition for achieving the objectives. Write intermediate results as complete sentences, as if already achieved. Put the targeted primary beneficiary group(s) whose behavior is expected to change as the sentence's subject.
+**Interim results** state the expected changes in identifiable behaviors by participants or in identifiable approaches by interventions, systems, policies, or institutions as a result of what was gained (outputs) through project actions (activities). Progress at this level is a necessary precondition for achieving the objectives. Write intermediate results as complete sentences, as if already achieved. Put the targeted primary beneficiary group(s) whose behavior is expected to change as the sentence's subject. Interim results may focus on demonstrable evidence of behavior change, such as adoption, uptake, or coverage.
 
 ```{admonition} Example
 Training organizations will coordinate to identify 1,000 potential crew members from disadvantaged communities of the Central Coast to participate in comprehensive thinning and prescribed fire practical courses by 2023.
@@ -145,12 +145,12 @@ The goal, objective, and intermediate results statements will begin to flesh out
 - Are the objectives specific to the project context?
 - Can the objectives be realistically achieved by the end of the project?
 - Do the objectives logically contribute towards the achievement of the goal?
-- Does the number of objectives make sense given the project timeframe, scope, scale, and budget?
+- Does the number of objectives make sense given the project time frame, scope, scale, and budget?
 - Do the intermediate results reflect the project strategy and theory of change?
 - Do the intermediate results reflect the right change agents and behaviors?
 - Is the complement of intermediate results necessary and sufficient to deliver change at the objective level?
 
-You should revisit this list of questions as you move through the design process because you will not have all of the necessary information to make informed decisions until you have gone through all the steps at least once.
+You should revisit this list of questions as you progress through the design process.
 
 ## Monitoring
 
@@ -161,19 +161,19 @@ This is a logical point to start developing a monitoring plan. Please see the Me
 Monitoring plan showing the relationship between results chains metrics and plan.
 ```
 
-The monitoring plan should also indicate clear steps toward data analysis, learning, and adaptation. The Measuring Success chapter covers more details on these steps.
+The monitoring plan should also indicate clear steps toward data analysis, learning, and adaptation. The Measuring Success chapter covers these steps in more detail.
 
 ```{caution}
-Remember to create a realistic monitoring plan feasible for your budget, program, or business. Most leave monitoring for last, neglect it or fail to analyze and learn from the results. See the monitoring chapter for a practitioner's approach to developing and implementing a monitoring and learning plan.
+Create a realistic monitoring plan for your budget, program, or business. Most leave monitoring for last, neglect it or fail to analyze and learn from the results. See the monitoring chapter for a practitioner's approach to developing and implementing a monitoring and learning plan.
 ```
 
 ## Budget
 
-We've left the budget for last as it depends on the overall framework of situation assessment, results chains, and goals/objectives. However, when writing a proposal, it's often important to flesh out the budget first, then move on to specific project goals, objectives, and tasks.
+We've left the budget for last as it depends on the overall framework of situation assessment, results chains, and goals/objectives. However, we recommend developing a back-of-the-envelope budget early in the proposal writing. Just like the entire design process, budget development is iterative. You will need to adjust budget line items and amounts as other project elements take shape or change.
 
 Identifying and reviewing a proposal's requirements and other set project parameters early will help focus project design efforts and keep expectations in line with reality. One key parameter is the amount of money available for direct program implementation. Starting with a rough estimate of the required fieldwork will help you make realistic project scope and scale decisions.
 
-Let's look at an example. A one million dollar project still seems like a large amount of funding for many organizations. Let's put this into a simple budget calculator ({numref}`budget`). In this simplified example, salaries (35%) include benefits and contracted labor. Implementation (50%) is for all non-salary project costs, such as supplies, equipment, and travel. Indirect (15%) is for an organization's operating costs, e.g., rent, utilities, and fees. This immediately informs the project team that roughly half of the total request will go to implementation.
+Let's look at an example. A one million dollar project still seems like a large amount of funding for many organizations. Let's put this into a simple budget calculator ({numref}`budget`). In this simplified example, salaries (35%) include benefits and contracted labor. Implementation (50%) is for all non-salary project costs, such as supplies, equipment, and travel. Indirect (15%) is for an organization's operating costs, e.g., rent, utilities, and fees. This immediately informs the project team that roughly half of the request will be implemented.
 
 ```{list-table} Back-of-the-envelope budget calculator.
 :header-rows: 1
@@ -192,12 +192,11 @@ Let's look at an example. A one million dollar project still seems like a large 
 ```
 
 ```{warning} **Critical**: include inflationary increases in your budget, including salaries and costs for supplies and equipment (at least 4%/yr). If an application only allows one number per item, calculate costs in your budget spreadsheet over the number of years of the project.
-
 ```
 
 ### Budget process
 
-Creating an internal budget development process is critical for developing defensible numbers that will fund the project over time.
+An internal budget development process is critical for developing defensible numbers to fund the project over time.
 
 1. Create draft goals and metrics for the project
 2. Draft a back-of-the-envelope budget by project category or deliverable, roughing out the approximate costs with rules that divide out salaries implementation
@@ -206,7 +205,6 @@ Creating an internal budget development process is critical for developing defen
 5. Return to the budget and update numbers
 
 ```{tip} When you create a GANTT chart in Excel, make the deliverable names equal in the chart to your budget deliverable headings in the budget spreadsheet. When you change the budget deliverables, the GANTT deliverables will also change.
-
 ```
 
 ## Implementation
