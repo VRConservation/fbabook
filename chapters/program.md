@@ -12,7 +12,7 @@ Chris Sacco & Vance Russell | Forest Business Alliance
 
 Originally published in 2023, the full version of this article is available at the [Forest Business Alliance](https://www.forestbusinessalliance.org) templates page.[^1]
 
-The Forest Business Alliance (FBA) created this guide to help grant seekers, program managers, and business owners design projects for submission to CAL FIRE's Wood Products and Bioenergy Business and Workforce Development Grant [Program](http://gg.gg/1agl2y). These templates and guidance may also be useful for USDA Forest Service Wood Innovation and Community Wood Grant [Programs](http://gg.gg/1agk52) and other state/federal grants.
+The Forest Business Alliance (FBA) created this guide to help grant seekers, program managers, and business owners design projects for submission to CAL FIRE's Wood Products and Bioenergy Business and Workforce Development Grant <a href="http://gg.gg/1agl2y" target="_blank">Program</a>. These templates and guidance may also be useful for USDA Forest Service Wood Innovation and Community Wood Grant <a href="http://gg.gg/1agk52" target="_blank">Programs</a> and other state/federal grants.
 
 During the design process, your project team will decide which problems and causes to address, what strengths and opportunities to leverage, where you will work, with whom, and at what scale. Your project team will also specify what it will and will not do by establishing achievable and measurable goals and objectives, selecting sound strategies, developing detailed activity plans, and setting targets.
 
@@ -27,7 +27,7 @@ The contents of this guidance document and the accompanying worksheets are prese
 
 The guidance and workbook's step-by-step organization helps you move deliberately through the design process. However, keep in mind that project design is iterative and dynamic. As you add detail when progressing from one step to the next, you may find it necessary to go back and revise the information you input during prior steps.
 
-We used numerous publicly available sources to create the project design and monitoring templates and adapted information to create resources suited to the CAL FIRE funding opportunity. The [Open Standards for the Practice of Conservation](http://gg.gg/1agk6k), developed by the Conservation Measures Partnership {cite}`cmp`, and [ProPack I: Project Design Guidance for Project and Program Managers](http://gg.gg/1agk6l), developed by Catholic Relief Services {cite}`propack`, are among the key sources we relied upon to develop this chapter.
+We used numerous publicly available sources to create the project design and monitoring templates and adapted information to create resources suited to the CAL FIRE funding opportunity. The Open Standards for the Practice of Conservation, developed by the Conservation Measures Partnership {cite}`cmp`, and ProPack I: Project Design Guidance for Project and Program Managers, developed by Catholic Relief Services {cite}`propack`, are among the key sources we relied upon to develop this chapter.
 
 ```{caution}
 The templates and information provided are for reference only. While FBA has made every effort to provide up-to-date and correct information, we make no representations concerning the contents.
@@ -35,7 +35,7 @@ The templates and information provided are for reference only. While FBA has mad
 
 ## Assessment
 
-Program and project planning typically begins with a participatory assessment of your business and organization and with the board, stakeholders, and clients. During this situation assessment phase, you will specify the basic parameters for your project and improve your understanding of the project’s context. Pages 13 through 24 of the [Open Standards for the Practice of Conservation](http://gg.gg/1agli2) provide an excellent primer on assessment. Conducting a thorough situation or problem analysis is central to your assessment work. Your design team should review available evidence to complete your analysis, identifying the direct threats, core problems, and indirect threats, also known as drivers and causes.
+Program and project planning typically begins with a participatory assessment of your business and organization and with the board, stakeholders, and clients. During this situation assessment phase, you will specify the basic parameters for your project and improve your understanding of the project’s context. Pages 13 through 24 of the Open Standards {cite}`cmp` provide an excellent primer on assessment. Conducting a thorough situation or problem analysis is central to your assessment work. Your design team should review available evidence to complete your analysis, identifying the direct threats, core problems, and indirect threats, also known as drivers and causes.
 
 ```{figure} /figures/situ.png
 :name: situation
@@ -158,6 +158,7 @@ This is a logical point to start developing a monitoring plan. Please see the Me
 
 ```{figure} /figures/mel.png
 :name: mel
+:height: 300px
 Monitoring plan showing the relationship between results chains metrics and plan.
 ```
 
@@ -227,7 +228,7 @@ If you identify any potential assumptions, your team should determine whether yo
 - [ProPack I: Project Design Guidance for Project and Program Managers](http://gg.gg/1agk6l), developed by Catholic Relief Services {cite}`propack` is a useful resource.
 - Business planning can be different from organizational planning and typically focuses on developing a strategic business plan and pitch deck. See the [Forest Business Alliance](https://www.forestbusinessalliance.org/) templates page for a business plan template.
 - [Miradi](https://www.miradishare.org/ux/home) is designed to help project proponents move through and plan the various stages of a program and projects and is widely adaptable.
-- [ArcGIS StoryMaps](http://gg.gg/1ahzng) useful to complement their assessment, theory of change, and planning efforts. FBA prepared a storymap about [Spatial Business Planning](https://storymaps.arcgis.com/stories/647313bcdb3e4d6c82e4733eee7ab693) as an example of how this powerful tool can be used with geospatial analyses for program or business planning efforts.
+- [ArcGIS StoryMaps](http://gg.gg/1ahzng) is useful for communication purposes. FBA prepared a storymap about [Spatial Business Planning](https://storymaps.arcgis.com/stories/647313bcdb3e4d6c82e4733eee7ab693) as an example of how this powerful tool can be used with geospatial analyses for program or business planning efforts. However, it is not open source and can be difficult for some to access. For this reason, we have often switched to Jupyter Books for storymapping articles.
 - Geospatial analysis tools such as QGIS, Geemap, Leafmap, Google Earth Engine, R, and geospatial Python libraries are critical for planning forest conservation and businesses using spatial data and analysis. Looking for ways to integrate program design to guide geospatial analysis and the analysis to ratify or measure components created in the program design is a beneficial way to incorporate spatial data into planning.
 
 [^1]: Please contact us to access the templates: forestbusinessalliance@gmail.com.
