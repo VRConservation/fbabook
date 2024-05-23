@@ -12,7 +12,7 @@ Pace and scale of forest health and resilience
 - Public capital is not being leveraged with private.
 - Coordination across multiple actors in a region is challenging, but do-able. Look at projects in the CNRA tracking and they look puny compared to the 
 ## Scaling frameworks
-
+- Notes from call with Kent
 ## Funding
 
 ## Lessons
