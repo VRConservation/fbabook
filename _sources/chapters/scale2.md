@@ -1,3 +1,3 @@
 # Scaling
 
-Coming Soon MFDoom!
+Coming Soon!
