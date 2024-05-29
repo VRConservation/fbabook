@@ -5,15 +5,20 @@ Chris Sacco & Vance Russell | Forest Business Alliance
 ## Key Concepts
 Key concepts laid out in this document include
 
-- **Programmatic = proactive**. A program design approach creates a proactive strategy for your business or nonprofit, allowing prioritization of the projects and funding you pursue. Instead of the "tail wagging the dog" where you respond to funding requests and potentially change your organization, you create a framework to build programmatic and financial sustainability to reach your mission, goals, and objectives.
-- **Acknowledge assumptions**. All programs have inherent assumptions in their tasks and how the tasks affect desired outcomes. Acknowledge these in your theory of change and periodically test whether they are correct, e.g., does the intervention lead to the intended outcomes?
-- **Iterate and scale**. Iterate and learn. Start small, experiment, and scale your successes {cite}`ears`. Scaling quote from Salafsky and Margoluis {cite}`scaling`.
+- **Programmatic = proactive**. A program design approach creates a proactive strategy for your business or nonprofit, allowing prioritization of projects within the program and the funding you pursue. A key distinction is creating a framework to build programmatic and financial sustainability to reach your mission, goals, and objectives. So instead of the "tail wagging the dog" where you respond to any funding request that seems feasible, your priorities guide which funding you pursue to fill the gaps in your financial portfolio. 
+- **Acknowledge assumptions**. All programs have inherent assumptions in how they're implemented. Acknowledge these in your theory of change and periodically review whether they are correct. In other words do the project level tasks and interventions to solve the problem or create a solution to a problem lead to the (assumed) intended outcomes?
+- **Iterate and scale**. Start small, experiment, and scale your successes {cite}`ears`. Scaling successes is not just about expanding, it involves careful planning, cost estimates for more projects, and {cite}`scaling`.
 
 ## Background
 
-Originally published in 2023, the full version of this article is available at the [Forest Business Alliance](https://www.forestbusinessalliance.org) templates page.[^1]
 
-The Forest Business Alliance (FBA) created this guide to help grant seekers, program managers, and business owners design projects for submission to CAL FIRE's Wood Products and Bioenergy Business and Workforce Development Grant <a href="http://gg.gg/1agl2y" target="_blank">Program</a>. These templates and guidance may also be useful for USDA Forest Service Wood Innovation and Community Wood Grant <a href="http://gg.gg/1agk52" target="_blank">Programs</a> and other state/federal grants.
+The Forest Business Alliance (FBA) created this guide to help grant seekers, program managers, and business owners design projects for submission to CAL FIRE's Wood Products and Bioenergy Business and Workforce Development Grant <a href="http://gg.gg/1agl2y" target="_blank">Program</a>.[^1] These guidance documents may also be useful for USDA Forest Service Wood Innovation and Community Wood Grant <a href="http://gg.gg/1agk52" target="_blank">Programs</a> and other state/federal grant programs.
+
+```{important} **Program vs. Project**
+**Program** = 
+**Project** = 
+A project may be analogous to building a house, whereas a program is creating a neighborhood or city, depending on its complexity and scale.
+```
 
 During the design process, your project team will decide which problems and causes to address, what strengths and opportunities to leverage, where you will work, with whom, and at what scale. Your project team will also specify what it will and will not do by establishing achievable and measurable goals and objectives, selecting sound strategies, developing detailed activity plans, and setting targets.
 
@@ -232,4 +237,5 @@ If you identify any potential assumptions, your team should determine whether yo
 - [ArcGIS StoryMaps](http://gg.gg/1ahzng) is useful for communication purposes. FBA prepared a storymap about [Spatial Business Planning](https://storymaps.arcgis.com/stories/647313bcdb3e4d6c82e4733eee7ab693) as an example of how this powerful tool can be used with geospatial analyses for program or business planning efforts. However, it is not open source and can be difficult for some to access. For this reason, we have often switched to Jupyter Books for storymapping articles.
 - Geospatial analysis tools such as QGIS, Geemap, Leafmap, Google Earth Engine, R, and geospatial Python libraries are critical for planning forest conservation and businesses using spatial data and analysis. Looking for ways to integrate program design to guide geospatial analysis and the analysis to ratify or measure components created in the program design is a beneficial way to incorporate spatial data into planning.
 
-[^1]: Please contact us to access the templates: forestbusinessalliance@gmail.com.
+---
+[^1]: Originally published in 2023, the full version of this article is available at the [Forest Business Alliance](https://www.forestbusinessalliance.org) templates page. Please contact us at forestbusinessalliance@gmail.com to access the templates.
