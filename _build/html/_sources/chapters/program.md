@@ -2,10 +2,11 @@
 
 Chris Sacco & Vance Russell | Forest Business Alliance
 
-## Takeaways
+## Key Concepts
+Key concepts laid out in this document include
 
-- **Programmatic = proactive**. A programmatic or portfolio design approach creates a proactive strategy for your business or nonprofit, allowing prioritization of the projects and funding you pursue. Instead of the "tail wagging the dog" where you respond to funding requests and potentially change your organization, you create a framework to build programmatic and financial sustainability to reach your objectives, goals, and mission.
-- **Acknowledge assumptions**. All project implementation interventions have inherent assumptions. Acknowledge these in your theory of change and periodically test whether they are correct, e.g., does the intervention lead to the intended outcomes?
+- **Programmatic = proactive**. A program design approach creates a proactive strategy for your business or nonprofit, allowing prioritization of the projects and funding you pursue. Instead of the "tail wagging the dog" where you respond to funding requests and potentially change your organization, you create a framework to build programmatic and financial sustainability to reach your mission, goals, and objectives.
+- **Acknowledge assumptions**. All programs have inherent assumptions in their tasks and how the tasks affect desired outcomes. Acknowledge these in your theory of change and periodically test whether they are correct, e.g., does the intervention lead to the intended outcomes?
 - **Iterate and scale**. Iterate and learn. Start small, experiment, and scale your successes {cite}`ears`. Scaling quote from Salafsky and Margoluis {cite}`scaling`.
 
 ## Background
