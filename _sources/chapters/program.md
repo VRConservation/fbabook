@@ -14,9 +14,9 @@ The Forest Business Alliance (FBA) created this chapter to help grant seekers, p
 
 However, while providing technical assistance to businesses and nonprofits, we realized there was too much emphasis on creating projects to respond to proposal requests. Many organizations were developing projects without considering how they fit into a program or the broader organizational purpose, or, at worst, chasing funds without a plan or organizational priorities. Therefore, the guide emphasizes taking a step back from project planning to consider how it may fit into programmatic priorities and how you may need to retrofit strategic-level priorities in your organization.
 
-```{important} **The Program vs. Project lexicon** <br>
-- **Program** = A long-term collection of interrelated projects designed to achieve strategic goals and supporting objectives. <br>
-- **Project** = A time-bound endeavor undertaken to produce a specific output or deliverable. <br>
+```{important}
+**Program** = A long-term collection of interrelated projects designed to achieve strategic goals and supporting objectives. <br>
+**Project** = A time-bound endeavor undertaken to produce a specific output or deliverable. <br>
 <br>A project may be analogous to building a house, whereas a program, depending on its complexity and scale, could be creating a neighborhood or city.
 ```
 
@@ -69,11 +69,9 @@ Program design teams frequently use assessment findings to construct problem tre
 Problem tree.
 ```
 
-
-
 ```{tip} **Creating a Problem Tree**
 
-During problem analysis, the process is as important as the end product. The exercise should be treated as a learning experience and will be most effective if collaborative. Problem tree analysis is typically done with stakeholders at a participatory workshop or video call using Miro or other whiteboards. Participants write problems, immediate causes, root causes, and effects on sticky notes or note cards. Each card should contain only one item. This allows participants to move the cards around and discuss where they best fit within the problem tree. Experience in facilitating the problem tree method and familiarity with the local context are important considerations when selecting a facilitator. Once you have constructed a problem tree with a logical flow, record it on the Problem Analysis worksheet.<br>
+Problem tree analysis is typically done with stakeholders at a participatory workshop or video call using Miro or other whiteboards. Participants write problems, immediate causes, root causes, and effects on sticky notes or note cards. Each card should contain only one item. This allows participants to move the cards around and discuss where they best fit within the problem tree. Experience in facilitating the problem tree method and familiarity with the local context are important considerations when selecting a facilitator. Once you have constructed a problem tree with a logical flow, record it on the Problem Analysis worksheet.<br>
 
 Once you have created your situation model or problem trees, review the logic by asking these questions:
 
@@ -142,7 +140,7 @@ Training organizations will coordinate to identify 1,000 potential crew members 
 ```
 
 ```{attention} 
-<mark>Chris, the remainder of the chapter was moved to the project.md file since it was project focused. We can develop that portion in a short piece connecting goals/objectives to budget and scope. The next steps section below is meant to bridge the subsequent chapters.<mark>
+<mark>Chris, I moved the remainder of the chapter to the project.md file since it was project focused. We can develop that portion in a short piece connecting goals/objectives to budget and scope. The next steps section below is meant to bridge to the subsequent chapters.<mark>
 ```
 
 ## Next Steps
