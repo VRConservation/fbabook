@@ -1,3 +1,3 @@
 # Program Design
 
-Editing, coming soon!
+Coming soon!

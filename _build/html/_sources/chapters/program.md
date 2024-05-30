@@ -3,16 +3,16 @@
 Vance Russell & Chris Sacco | Forest Business Alliance
 
 ## Key Concepts
-Key concepts laid out in this document include
+Key concepts in this document include
 
-- **Programmatic = proactive**. A program design approach creates a proactive strategy for your business or nonprofit, allowing prioritization of projects within the program and the funding you pursue. A key distinction is creating a framework to build programmatic and financial sustainability to reach your mission, goals, and objectives. So instead of the "tail wagging the dog" where you respond to any funding request that seems feasible, your priorities guide which funding you pursue to fill the gaps in your financial portfolio. 
-- **Acknowledge assumptions**. All programs have inherent assumptions in how they're implemented. Acknowledge these in your theory of change and periodically review whether they are correct. In other words do the project level tasks and interventions to solve the problem or create a solution to a problem lead to the (assumed) intended outcomes?
-- **Iterate and scale**. Start small, experiment, and scale your successes {cite}`ears`. Scaling successes is not just about expanding, it involves planning and cost estimates across a wider scope/region, lightweight analytical standards feasible for organizations, and linking strategy pathways to a theory of change {cite}`scaling`.
+- **Programmatic = proactive**. A program design approach creates a proactive strategy for your business or nonprofit, allowing prioritization of projects within the program and the funding you pursue. A key distinction is creating a framework to build programmatic and financial sustainability to reach your mission, goals, and objectives. Instead of the "tail wagging the dog" where you respond to any feasible funding request, your priorities guide which funding you pursue to fill the gaps in your financial portfolio. 
+- **Acknowledge assumptions**. All programs have inherent assumptions in how they are implemented. Acknowledge these in your theory of change and periodically review whether they are correct. In other words, do the project-level tasks and interventions to solve the problem or create a solution to a problem lead to the (assumed) intended outcomes?
+- **Iterate and scale**. Start small, experiment, and scale your successes {cite}`ears`. Scaling successes is not just about expanding; it involves planning and cost estimates across a wider scope/region, feasible analytical methods, and strategy to theory of change linkages {cite}`scaling`.
 
 ## Background
-The Forest Business Alliance (FBA) originally created this chapter to help grant seekers, program managers, and business owners design projects for submission to CAL FIRE's Wood Products and Bioenergy Business and Workforce Development Grant <a href="http://gg.gg/1agl2y" target="_blank">Program</a>.[^1] These guidance documents may also be useful for USDA Forest Service Wood Innovation and Community Wood Grant <a href="http://gg.gg/1agk52" target="_blank">Programs</a> and other grants.
+The Forest Business Alliance (FBA) created this chapter to help grant seekers, program managers, and business owners design projects for submission to CAL FIRE's Wood Products and Bioenergy Business and Workforce Development Grant <a href="http://gg.gg/1agl2y" target="_blank">Program</a>.[^1] These guidance documents may also be useful for USDA Forest Service Wood Innovation and Community Wood Grant <a href="http://gg.gg/1agk52" target="_blank">Programs</a> and other grants.
 
-However, while providing technical assistance to businesses and nonprofits, we realized that there was too much emphasis on creating projects to respond to requests for proposals. Many organizations were developing projects without considering how they fit into a program or the broader organizational purpose, or, at worse, chasing funds without a plan or organizational priorities. Therefore, the guide's empahsis is to take a step back from project planning to consider how it may fit into programmatic priorities and how you may need to retrofit strategic level priorities in your organization.
+However, while providing technical assistance to businesses and nonprofits, we realized there was too much emphasis on creating projects to respond to proposal requests. Many organizations were developing projects without considering how they fit into a program or the broader organizational purpose, or, at worst, chasing funds without a plan or organizational priorities. Therefore, the guide emphasizes taking a step back from project planning to consider how it may fit into programmatic priorities and how you may need to retrofit strategic-level priorities in your organization.
 
 ```{important} **The Program vs. Project lexicon** <br>
 - **Program** = A long-term collection of interrelated projects designed to achieve strategic goals and supporting objectives. <br>
@@ -20,7 +20,7 @@ However, while providing technical assistance to businesses and nonprofits, we r
 <br>A project may be analogous to building a house, whereas a program, depending on its complexity and scale, could be creating a neighborhood or city.
 ```
 
- Competitive grant proposals are built around well-designed projects. Projects that are well-designed are most effectively identified through proactive program planning. Program planning moves from the big picture (problems, needs, overarching goals and desired outcomes) to an action-oriented project scale (what will you do to achieve the goals and outcomes, how long will that take, and how much will it cost). 
+ Competitive grant proposals are built around well-designed projects. Projects that are well-designed are most effectively identified through proactive program planning. Program planning moves from the big picture (problems, needs, overarching goals, and desired outcomes) to an action-oriented project scale (what will you do to achieve the goals and outcomes, how long will that take, and how much will it cost). 
 
 This guidance document and the accompanying worksheets are intended to be used step-by-step to move you through the following design process:
 
@@ -31,7 +31,7 @@ This guidance document and the accompanying worksheets are intended to be used s
 5. Budget
 6. Implementation
 
-Please keep in mind that project design is iterative and dynamic. As you add detail when progressing from one step to the next, it may be necessary to go back and revise the information you input during prior steps.
+Please keep in mind that project design is iterative and dynamic. As you add detail and progress from one step to the next, it may be necessary to revise the information you input during prior steps.
 
 We used numerous publicly available sources to create the project design and monitoring templates and adapted information to create resources suited to the CAL FIRE Business and Workforce Development Program grant program. The Open Standards for the Practice of Conservation, developed by the Conservation Measures Partnership {cite}`cmp`, and ProPack I: Project Design Guidance for Project and Program Managers, developed by Catholic Relief Services {cite}`propack`, are among the key sources we relied upon to develop this chapter.
 
@@ -40,20 +40,20 @@ The templates and information provided are for reference only. While FBA has mad
 ```
 
 ## Assessment
-Program planning typically begins with a participatory assessment of your business and organization and with the board, stakeholders, and clients. Conducting a thorough situation or problem analysis is central to your assessment. Your organization or business should review available evidence to complete your analysis, identifying the direct threats, core problems, and indirect threats, also known as drivers and causes. Evidence can be a many formats, for example [Conservation Evidence](https://www.conservationevidence.com/), local studies or research on forest health, interviews with experts who possess historical knowledge and experience, or proven projects, pilots, or technologies with data to back up their outcomes.
+Program planning typically begins with a participatory assessment of your business and organization and with the board, stakeholders, and clients. Conducting a thorough situation or problem analysis is central to your assessment. Your organization or business should review available evidence to complete your analysis, identifying the direct threats, core problems, and indirect threats, also known as drivers and causes. Evidence can be in many formats, for example [Conservation Evidence](https://www.conservationevidence.com/), local studies or research on forest health, interviews with experts who possess historical knowledge and experience, or proven projects, pilots, or technologies with data to back up their outcomes.
 
 ```{important} 
 **Situation Assessment** =  A model of the system in which conservation projects and programs are taking place and trying to effect change {cite}`scaling`.
 ```
 
-We recommend you review pages 13 through 24 of the Open Standards {cite}`cmp` which provide an excellent primer on assessment. 
+We recommend you review pages 13 through 24 of the Open Standards {cite}`cmp`, which provides an excellent primer on assessment. 
 
 ```{figure} /figures/situ.png
 :name: situation
 Simplified forest health situation model.
 ```
 
-A situation model is a tool that visually portrays the relationships among the various factors in your situation analysis ({numref}`situation`). This analysis is more powerful when presented visually, using a model such as a situation model or problem tree. Both of these tools can be used to explore and ultimately illustrate a program and its context. The model should illustrate the main cause-and-effect relationships and include the most important details, yet be as simple as possible. To the degree that it is feasible and useful, you should identify the actors behind key factors and discuss assumptions between the relationship factors. For example in {numref}`situation` arrows are essentially assumptions about the relationships between boxes in the assessment, e.g., tree mortality leads to increased fuel in a stand and alters the fire regime, especially in the absence of fire.
+A situation model is a tool that visually portrays the relationships among the various factors in your situation analysis ({numref}`situation`). When presented visually, this analysis is more powerful. Both tools can explore and ultimately illustrate a program and its context. The model should illustrate the main cause-and-effect relationships and include the most important details, yet be as simple as possible. To the degree that it is feasible and useful, you should identify the actors behind key factors and discuss assumptions between the relationship factors. For example, in {numref}`situation` arrows are essentially assumptions about the relationships between boxes in the assessment, e.g., tree mortality leads to increased fuel in a stand and alters the fire regime, especially in the absence of fire.
 
 Although Figure 2.1 depicts a conservation-focused model, a business can easily adapt it to suit its business model. The drivers and threats to healthy forests will remain the same in a forested system, but the strategy, scope, and targets may change. For instance, a wood products business may be focused on utilizing the wood removed by thinning projects and possibly increasing workforce capacity. Adapting the situation model to a forest business may look like {numref}`situ-biz`.
 
@@ -73,7 +73,7 @@ Problem tree.
 
 ```{tip} **Creating a Problem Tree**
 
-During problem analysis, the process is as important as the end product. The exercise should be treated as a learning experience and will be most effective if it is collaborative. Problem tree analysis is typically done with stakeholders at a participatory workshop or video call using Miro or other whiteboards. Participants write problems, immediate causes, root causes, and effects on sticky notes or note cards. Each card should contain only one item. This allows participants to move the cards around and discuss where they best fit within the problem tree. Experience in facilitating the problem tree method and familiarity with the local context are important considerations when selecting a facilitator. Once you have constructed a problem tree with a logical flow, record it on the Problem Analysis worksheet.<br>
+During problem analysis, the process is as important as the end product. The exercise should be treated as a learning experience and will be most effective if collaborative. Problem tree analysis is typically done with stakeholders at a participatory workshop or video call using Miro or other whiteboards. Participants write problems, immediate causes, root causes, and effects on sticky notes or note cards. Each card should contain only one item. This allows participants to move the cards around and discuss where they best fit within the problem tree. Experience in facilitating the problem tree method and familiarity with the local context are important considerations when selecting a facilitator. Once you have constructed a problem tree with a logical flow, record it on the Problem Analysis worksheet.<br>
 
 Once you have created your situation model or problem trees, review the logic by asking these questions:
 
@@ -102,7 +102,7 @@ With this structure, the theory of change clarifies how (if–then) and why (bec
 Simplified theory of change.
 ```
 
-The theory of change is not simply a narrative description of the results framework because the results framework only reflects the elements (the “ifs” and “then” parts) that the project will deliver, whereas the theory of change also states those actions or contributions critical to the project success but which you expect other actors to deliver. In other words, the theory of change reflects both the results framework and the project’s hypotheses and assumptions. Remember that the theory of change can be developed for different levels of the objectives hierarchy. A “high‑level” theory of change articulates how successful achievement of the project’s objectives will contribute to longer‑term, broader, lasting change (project’s goal). You should minimally create a theory of change at this level. However, it may be necessary to create links from all project strategies to outcomes.
+The theory of change is not simply a narrative description of the results framework because the results framework only reflects the elements (the “ifs” and “then” parts) that the project will deliver, whereas the theory of change also states those actions or contributions critical to the project success but which you expect other actors to deliver. In other words, the theory of change reflects both the results framework and the project’s hypotheses and assumptions. Remember that the theory of change can be developed for different levels of the objectives hierarchy. A “high‑level” theory of change articulates how achievement of the project’s objectives will contribute to longer‑term, broader, lasting change (project’s goal). You should minimally create a theory of change at this level. However, it may be necessary to create links from all project strategies to outcomes.
 
 ### Results Chains
 
@@ -121,15 +121,15 @@ A simplified workforce capacity results chain.
 ```
 
 ## Goals & Objectives
-Goals and objectives are often reversed, conflated, or used interchangeably by organizations, businesses, and agencies. Goals and objectives are distinct, important planning terms that, when clearly conceived and well-written, clarify different stages of a project's success. Below, we provide guidance on creating statements for each level. Review CAL FIRE’s required metrics before you develop your goals and objective statements. Reviewing and understanding them is necessary for creating goals and objectives that align with CAL FIRE’s goals.
+Goals and objectives are often reversed, conflated, or used interchangeably by organizations, businesses, and agencies. Goals and objectives are distinct, important planning terms that, when conceived and well-written, clarify different stages of a project's success. Below, we provide guidance on creating statements for each level. Review CAL FIRE’s required metrics before you develop your goals and objective statements. Reviewing and understanding them is necessary for creating goals and objectives that align with CAL FIRE’s goals.
 
-**Goals** are the high-level, long-term results and impacts a project seeks to achieve. Derived from the scope of your situation assessment, they represent the desired status of the specific targets identified. Like objectives, goals are specific, measurable, and time-bound but typically over a much longer period of time, e.g., decades rather than months or years. Unlike objectives, the project’s goal statement is usually general and abstract, describing a desired state beyond the project's life. For this reason, often, a goal will not have an associated indicator associated with it.
+**Goals** are the high-level, long-term results and impacts an organization or business seeks to achieve. Derived from the scope of your situation assessment, they represent the desired status of the specific targets identified. Like objectives, goals are specific, measurable, and time-bound but typically over a much longer period, e.g., decades rather than months or years. Unlike objectives, the project’s goal statement is usually general and abstract, describing a desired state beyond the project's life. For this reason, often, a goal will not have an associated indicator associated with it.
 
 ```{admonition} Example
-By 2035 the Central Coast Region of California will increase forest thinning and prescribed fire capacity by 10%.
+By 2035, forest health will be significantly improved in California's Central Coast region through management techniques such as thinning and prescribed fire.
 ```
 
-**Objectives** represent the higher-order changes in systems, communities, or organizations that can reasonably be achieved during a project's time frame and provide the building blocks to achieve goals. Well-written objectives are SMART = specific, measurable, achievable, results-oriented, and time-bound and are tied to the intermediate results and outcomes in a theory of change or results chains. In many projects, objectives reflect the benefits expected to occur for communities by the end of the project as a result of behavioral changes at the interim results level.
+**Objectives** represent the higher-order changes in systems, communities, or organizations that can reasonably be achieved during a project's time frame and provide the building blocks to achieve goals. Well-written objectives are SMART = specific, measurable, achievable, results-oriented, and time-bound and are tied to the intermediate results and outcomes in a theory of change or results chain. In many projects, objectives reflect the benefits expected to occur by the end of the project as a result of behavioral changes at the interim results level.
 
 ```{admonition} Example
 By September 2025, 300 future thinning and prescribed fire crew members from the Central Coast Region will be trained and red-carded.
@@ -142,13 +142,13 @@ Training organizations will coordinate to identify 1,000 potential crew members 
 ```
 
 ```{attention} 
-<mark>Chris, the remainder of the chapter was moved to the project.md file since it was project focused. We can develop that portion in a short piece connecting goals/objectives to budget and scope. The next steps is meant to be a bridge to the subsequent chapters.<mark>
+<mark>Chris, the remainder of the chapter was moved to the project.md file since it was project focused. We can develop that portion in a short piece connecting goals/objectives to budget and scope. The next steps section below is meant to bridge the subsequent chapters.<mark>
 ```
 
 ## Next Steps
-1. **Monitoring Plan**. Once the situation assessment, theory of change and programmatic goals/objectives are completed it's time to develop a monitoring plan. We will cover this in more depth in Chapter 3.
+1. **Monitoring Plan**. Once the situation assessment, theory of change, and programmatic goals/objectives are completed, it's time to develop a monitoring plan. We will cover this in more depth in Chapter 3.
 2. **Project Plans**. Project planning follows and can be driven and prioritized by your program strategy. See the project planning chapter for details.
-3. **Analysis and Learning**. As your business or organization matures and your project experiences yields successes and data you are tracking, it is time to periodically analyze and learn from the results. We'll cover this in Chapter 3, however, reflective organizations/businesses learn the most from their experience, including mistakes, and use this learning to build a better organization. Don't short shrift this component! Even better set aside organizational time to complete it through regular analysis, learning, and writing workshops or strategic planning retreats.
+3. **Analysis and Learning**. As your business or organization matures and your project experiences yield successes and data you track, it is time to analyze and learn from the results periodically. We'll cover this in Chapter 3, however, reflective organizations/businesses learn the most from their experience, including mistakes, and use this learning to build a better organization. Don't short-shrift this component! Set aside organizational time to complete it through regular analysis, learning, and writing workshops or strategic planning retreats.
 
 ## Resources
 - The [Open Standards for the Practice of Conservation](http://gg.gg/1agk6k), developed by the Conservation Measures Partnership {cite}`cmp` is a definitive resource for program and project design.
