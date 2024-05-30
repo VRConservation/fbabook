@@ -1,6 +1,6 @@
 # Program Design
 
-Vance Russell & Chris Sacco | Forest Business Alliance
+[Forest Business Alliance](https://www.forestbusinessalliance.org/)
 
 ## Key Concepts
 Key concepts in this document include
