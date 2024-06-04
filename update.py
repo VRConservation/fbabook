@@ -5,7 +5,7 @@ import subprocess
 orig_dir = os.getcwd()
 
 # run the ghp-import -n -p -f _build/html
-subprocess.run(["ghp-import", "-n", "-p", "-f", "_build/html"], check=True)
+# subprocess.run(["ghp-import", "-n", "-p", "-f", "_build/html"], check=True)
 
 # Run the command jb build --all . after the loop
 subprocess.run(["jb", "build", "--all", "."], check=True)
