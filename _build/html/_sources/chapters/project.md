@@ -14,7 +14,22 @@ The project and proposal workflow is iterative like program design and similar t
 
 Don't worry about fleshing out these sections in detail. Like a first draft of any document, get the ideas down, the details can be developed later.
 
-2. **Budget**. Create a back-of-the envelope budget broken down by objectives and tasks
+```{tip}
+Nest your Goals, objectives and tasks like an outline:
+
+1. Goal 1
+  A. Objective 1
+    1). Task 1
+  B. Objective 2
+    1). Task 1
+    2). Task 2  
+2. Goal 2
+  A. Objective 1
+```
+
+2. **Budget**. Create a back-of-the envelope budget broken down by objectives and tasks. You can just rough out costs of Task by staff, equipment, materials, etc. It's always useful 
+
+
 
 ## Budget
 We've left the budget for last as it depends on the overall framework of situation assessment, results chains, and goals/objectives. However, we recommend developing a back-of-the-envelope budget early in the proposal writing. Just like the entire design process, budget development is iterative. You will need to adjust budget line items and amounts as other project elements take shape or change.
@@ -54,7 +69,13 @@ An internal budget development process is critical for developing defensible num
 4. Create a project GANTT chart with deliverables from the budget and narrative
 5. Return to the budget and update numbers
 
-```{tip} When you create a GANTT chart in Excel, make the deliverable names equal in the chart to your budget deliverable headings in the budget spreadsheet. When you change the budget deliverables, the GANTT deliverables will also change.
+```{tip} Creating budgets by scratch using a spreadsheet can be tedious, especially when funders ask for detailed and summary budgets or the project tiers from a program budget. If you use Excel, create a table with your budget detail 
+
+![detail](https://i.imgur.com/oigwS0v.png)
+
+Then select insert pivot table and select the rows and information you want and, presto, you have a summary budget
+
+![pivot](https://i.imgur.com/gS6JnLK.png)
 
 ```
 
