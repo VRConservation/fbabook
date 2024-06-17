@@ -21,7 +21,7 @@ We've left the budget for last as it depends on the overall framework of situati
 
 Identifying and reviewing a proposal's requirements and other set project parameters early will help focus project design efforts and keep expectations in line with reality. One key parameter is the amount of money available for direct program implementation. Starting with a rough estimate of the required fieldwork will help you make realistic project scope and scale decisions.
 
-Let's look at an example. A one million dollar project still seems like a large amount of funding for many organizations. Let's put this into a simple budget calculator ({numref}`budget`). In this simplified example, salaries (35%) include benefits and contracted labor. Implementation (50%) is for all non-salary project costs, such as supplies, equipment, and travel. Indirect (15%) is for an organization's operating costs, e.g., rent, utilities, and fees. This immediately informs the project team that roughly half of the request will be implemented.
+Let's look at an example. A one million dollar project still seems like a large amount of funding for many organizations. Let's put this into a simple budget calculator ({numref}`budget`). In this simplified example, salaries (35%) include benefits and contracted labor. Implementation (50%) is for all non-salary project costs, such as supplies, equipment, and travel. Indirect (15%) is for an organization's operating costs, e.g., rent, utilities, and fees. This immediately informs the project team that roughly half of the request will be implmented.
 
 ```{list-table} Back-of-the-envelope budget calculator.
 :header-rows: 1
