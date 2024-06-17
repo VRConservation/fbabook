@@ -3,15 +3,15 @@ Measuring project success and learning from implementation is critical to long-t
 
 **Note: what if the focus is how to do success monitoring on a shoestring?**
 
-Goals of workforce and reducing fire risk or health is really the responsibility of gov or broader agencies to measure
-But triple bottom line biz and org's want to measure social, economic, env impact
+Goals of the workforce and reducing fire risk or health is the responsibility of gov the broader agencies to measure
+But triple bottom-line businesses biz and org's want to measure social, economic, env impact
 storytelling with data analysis
 
 ## Takeaways
 - **Effective success measurement is challenging**. Funding, implementing, and getting staff, stakeholders, and key audiences about 'M&E' is difficult at best and impossible. It's also easy to get wrong, get left behind doing it at the project's end (since everyone is chasing the next funding or project implementation), and mindfully reflect on lessons learned. Look for ways to make it cost-feasible and maximize outcomes measurement.  Use remote sensing or citizen science volunteers to reduce costs and determine other ways to measure your outcomes. Donors and investors will pay attention to your results and iterative learning.
 - **Theory -> Monitoring -> Learning**. Link your assessment or theory of change to your monitoring and learning
 - **Take time to learn**. Build learning into our organizational culture. Plan a retreat to analyze results and write about project learning that you publish in blogs, posts, and journals.
-- **Do the big picture 1st**. There is a tendency to jump straight to metrics and indicators before developing a theory of change and programmatic goals and objectives. Monitoring plans should tier from the big picture, so go through the process to develop the program strategy first. However, once developed, don't be afraid to change items, such as false assumptions or critical pathways that don't reflect reality.
+- **Do the big picture 1st**. There is a tendency to jump straight to metrics and indicators before developing a theory of change and programmatic goals and objectives. Monitoring plans should consider the big picture, so go through the process of developing the program strategy first. However, once developed, don't be afraid to change items, such as false assumptions or critical pathways that don't reflect reality.
 - **Partner with science-based organizations**. If your business or organization doesn't have staff capacity or funding for measuring success, partner with an organization working in your region that does.
 
 ## Background
