@@ -8,6 +8,7 @@ parts:
     chapters:
       - file: chapters/funding
       - file: chapters/program
+      - file: chapters/project2
       - file: chapters/monitoring2
       - file: chapters/ceqa2
       - file: chapters/scale2
