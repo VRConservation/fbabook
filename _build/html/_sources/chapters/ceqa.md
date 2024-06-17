@@ -26,11 +26,11 @@ The types of CEQA documents are many but generally encompass the following broad
 
 ## CalVTP
 
-The California Vegetation Treatment Program ([CalVTP(http://gg.gg/1anhib)]) includes the use of prescribed burning, mechanical treatments, manual treatments (including reforestation), herbicide application, and prescribed herbivory as tools to reduce hazardous vegetation around communities in the Wildland-Urban Interface (WUI), to construct fuel breaks (shaded or non-shaded), and to promote ecological restoration. A general VTP process flowchart is shown in {numref}`vtp`.
+[The California Vegetation Treatment Program](http://gg.gg/1anhib) includes the use of prescribed burning, mechanical treatments, manual treatments (including reforestation), herbicide application, and prescribed herbivory as tools to reduce hazardous vegetation around communities in the Wildland-Urban Interface (WUI), to construct fuel breaks (shaded or non-shaded), and to promote ecological restoration. A general VTP process flowchart is shown in {numref}`vtp`.
 
 ```{figure} /figures/vtp.png
 :name: vtp
-CalVTP flowchart adapted from Environmental planning strategies to reach the million-acre goal (Ascent Environmental). See glossary for a key to acronyms.
+CalVTP flowchart adapted from Environmental planning strategies to reach the million-acre goal (Adapted from Ascent Environmental). See glossary for a key to acronyms.
 ```
 
 Important timber/commercial definitions from California Code PRC 4527 include:
@@ -49,7 +49,7 @@ A diagram showing compliance pathways for wood products and forest health projec
 Example projects and CEQA/NEPA compliance.
 ```
 
-Notes on the examples:
+### Figure notes
 
 <sup>1</sup> Often added to an existing project where CEQA has been completed. In these cases, project proponents can use existing CEQA analysis and make the determination there are no new significant impacts via an addendum to the existing document.
 
@@ -59,6 +59,4 @@ Notes on the examples:
 
 <sup>4</sup> Projects could utilize the CEQA documents that created the biomass. In some cases, the transport is included in the facility analysis, so the facility impacts CEQA documents can be used if they include the biomass transport to the facility. See CEQA Statutory Exemption 21080(b)(3) and CEQA Guidelines Section 15269(a) for reforestation and emergency exemptions.
 
-## Exemptions
-
-Notes on key forest exemptions coming soon.
+## Glossary

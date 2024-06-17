@@ -1,9 +1,10 @@
-# Project Design
+# Project & Proposal Design
 How to design projects for proposals and cohesive programs
 
-Move goals/objectives here too?
+## Key concepts
+Key concepts in this document include
 
-Pasted from the program chapter:
+## Work flow
 
 
 **Outputs** are the tangible products, goods, and services from implementing specific activities. More than one output may be needed to achieve a single intermediate result or objective. To create outputs, ask what the project needs to produce or provide to achieve short to medium-term results. Write outputs as complete sentences, as if already achieved. Put the targeted primary beneficiary group(s) receiving the outputs as the sentence's subject.
@@ -30,21 +31,6 @@ The goal, objective, and intermediate results statements will begin to flesh out
 - Is the complement of intermediate results necessary and sufficient to deliver change at the objective level?
 
 You should revisit this list of questions as you progress through the design process.
-
-## Monitoring
-This is a logical point to start developing a monitoring plan. Please see the Measuring Success chapter for more details on developing this. Very briefly, however, a monitoring plan measures your progress on project goals and objectives by developing indicators or metrics linked to objectives. The plan creates a framework for the methodology, frequency, timing, and responsibility of measuring outcomes ({numref}`mel`). As shown in the figure, some plans include an at-a-glance graphic for trends in the metric status to assist managers in prioritizing their time to project success.
-
-```{figure} /figures/mel.png
-:name: mel
-:height: 300px
-Monitoring plan showing the relationship between results chains metrics and plan.
-```
-
-The monitoring plan should also indicate clear steps toward data analysis, learning, and adaptation. The Measuring Success chapter covers these steps in more detail.
-
-```{caution}
-Create a realistic monitoring plan for your budget, program, or business. Most leave monitoring for last, neglect it or fail to analyze and learn from the results. See the monitoring chapter for a practitioner's approach to developing and implementing a monitoring and learning plan.
-```
 
 ## Budget
 We've left the budget for last as it depends on the overall framework of situation assessment, results chains, and goals/objectives. However, we recommend developing a back-of-the-envelope budget early in the proposal writing. Just like the entire design process, budget development is iterative. You will need to adjust budget line items and amounts as other project elements take shape or change.
