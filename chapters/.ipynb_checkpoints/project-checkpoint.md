@@ -92,9 +92,4 @@ Put together your project design and share it. You might be surprised how sharin
 The FBA can also review projects and proposals, with our staff writers' years of experience with proposal development and successful funding track records. However, we ask that you send them early on in the process, e.g., months before the due date or during the conceptual phase. Please contact us if you're interested in a review.
 
 ## Resources
-The project design chapter is a very brief look at how to develop projects and proposals. You'll want to dive deeper to develop your project and proposal craft. Here are few additional resources to get going:
-
-- **[Forest Business Alliance](https://www.forestbusinessalliance.org)**. Templates and upcoming workshops to prepare you for proposals and past workshop recordings on various aspects of program, project, and proposal development. 
-- **[Grammarly](https://www.grammarly.com)**. Paying for a much better grammar checker is worthwhile and may even help improve your writing.
-- **[Sierra Nevada Conservancy Grant Resources](https://sierranevada.ca.gov/grants/)**. SNC offers a grants newsletter and regular grant writing workshops. If you're in the Sierra, contact your local Area Representative to find out more. The [North Coast Resource Partnership](https://northcoastresourcepartnership.org/) also offers technical assistance for proposals and project development.
-- **Add others**.
+The project design chapter is a very brief look at how to develop projects and proposals. See the [Forest Business Alliance](https://www.forestbusinessalliance.org) for more resources, including upcoming workshops to prepare you for proposals and past workshop recordings on various aspects of program, project, and proposal development. 
