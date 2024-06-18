@@ -1,57 +1,43 @@
 # Project Design
+TEST CHANGE
 How to design projects for proposals and cohesive programs
 
-Move goals/objectives here too?
+## Key concepts
+Key concepts in this document include
 
-Pasted from the program chapter:
+## Work flow
+The project and proposal workflow is iterative like program design and similar to the budget process described in the budget section. In general you will follow these steps to develop a project or proposal
 
+1. **Brief**. Create a 1-2 page brief with the following sections:
+    - Executive summary. Three-five sentences max outlining the reason for the project, tasks, outcomes, timeline, and budget (and posssibly how much is needed if some funding is secured).
+    - Project goals. Project link to programmatic theory of change and goals then project goals/objectives.
+    - Tasks. Or interventions. These could be listed under project objectives (see example).
 
-**Outputs** are the tangible products, goods, and services from implementing specific activities. More than one output may be needed to achieve a single intermediate result or objective. To create outputs, ask what the project needs to produce or provide to achieve short to medium-term results. Write outputs as complete sentences, as if already achieved. Put the targeted primary beneficiary group(s) receiving the outputs as the sentence's subject.
+Don't worry about fleshing out these sections in detail. Like a first draft of any document, get the ideas down, the details can be developed later.
 
-```{admonition} Example
-Forest sector businesses increased their knowledge of improved technologies and practices to clear forested rights-of-way.
+```{tip}
+Nest your Goals, objectives and tasks like an outline:
+
+1. Goal 1 <br>
+  A. Objective 1 <br>
+    1). Task 1  <br>
+  B. Objective 2 <br>
+    1). Task 1 <br>
+    2). Task 2  <br>
+2. Goal 2 <br>
+  A. Objective 1
 ```
 
-**Activities** describe the functions to be undertaken and managed to deliver the project’s outputs to the targeted beneficiaries and participants. Normally, more than one activity is needed to achieve an individual output. Activities are not included at the project design stage to avoid overcomplicating the project results framework. You will include the full breadth of specific activities when you develop the Project Framework (ProFrame) and Detailed Implementation Plan (DIP).
+2. **Budget**. Create a back-of-the envelope budget broken down by objectives and tasks. You can just rough out costs of Task by staff, equipment, materials, etc. It's always useful 
 
-```{admonition} Example
-Organization X provides training for owners and staff of forest sector businesses on improved technology and practices to clear forested rights-of-way.
-```
 
-The goal, objective, and intermediate results statements will begin to flesh out a programmatic level of planning that projects can tier from. Review the list of questions below and use an “if-then” test to confirm the logic between each level of the results framework. Every statement should clearly lead to the next higher-level statement. Revise your goal, objective, and intermediate result statements if the logic is unclear. Review your results chains and situation assessments to evaluate whether or not collective your goals and objectives will address the problems and measure long-term outcomes inherent in the results chains:
-
-- Do the objectives describe the central purpose of the project?
-- Are the objectives specific to the project context?
-- Can the objectives be realistically achieved by the end of the project?
-- Do the objectives logically contribute towards the achievement of the goal?
-- Does the number of objectives make sense given the project time frame, scope, scale, and budget?
-- Do the intermediate results reflect the project strategy and theory of change?
-- Do the intermediate results reflect the right change agents and behaviors?
-- Is the complement of intermediate results necessary and sufficient to deliver change at the objective level?
-
-You should revisit this list of questions as you progress through the design process.
-
-## Monitoring
-This is a logical point to start developing a monitoring plan. Please see the Measuring Success chapter for more details on developing this. Very briefly, however, a monitoring plan measures your progress on project goals and objectives by developing indicators or metrics linked to objectives. The plan creates a framework for the methodology, frequency, timing, and responsibility of measuring outcomes ({numref}`mel`). As shown in the figure, some plans include an at-a-glance graphic for trends in the metric status to assist managers in prioritizing their time to project success.
-
-```{figure} /figures/mel.png
-:name: mel
-:height: 300px
-Monitoring plan showing the relationship between results chains metrics and plan.
-```
-
-The monitoring plan should also indicate clear steps toward data analysis, learning, and adaptation. The Measuring Success chapter covers these steps in more detail.
-
-```{caution}
-Create a realistic monitoring plan for your budget, program, or business. Most leave monitoring for last, neglect it or fail to analyze and learn from the results. See the monitoring chapter for a practitioner's approach to developing and implementing a monitoring and learning plan.
-```
 
 ## Budget
 We've left the budget for last as it depends on the overall framework of situation assessment, results chains, and goals/objectives. However, we recommend developing a back-of-the-envelope budget early in the proposal writing. Just like the entire design process, budget development is iterative. You will need to adjust budget line items and amounts as other project elements take shape or change.
 
 Identifying and reviewing a proposal's requirements and other set project parameters early will help focus project design efforts and keep expectations in line with reality. One key parameter is the amount of money available for direct program implementation. Starting with a rough estimate of the required fieldwork will help you make realistic project scope and scale decisions.
 
-Let's look at an example. A one million dollar project still seems like a large amount of funding for many organizations. Let's put this into a simple budget calculator ({numref}`budget`). In this simplified example, salaries (35%) include benefits and contracted labor. Implementation (50%) is for all non-salary project costs, such as supplies, equipment, and travel. Indirect (15%) is for an organization's operating costs, e.g., rent, utilities, and fees. This immediately informs the project team that roughly half of the request will be implemented.
+Let's look at an example. A one million dollar project still seems like a large amount of funding for many organizations. Let's put this into a simple budget calculator ({numref}`budget`). In this simplified example, salaries (35%) include benefits and contracted labor. Implementation (50%) is for all non-salary project costs, such as supplies, equipment, and travel. Indirect (15%) is for an organization's operating costs, e.g., rent, utilities, and fees. This immediately informs the project team that roughly half of the request will be implmented.
 
 ```{list-table} Back-of-the-envelope budget calculator.
 :header-rows: 1
@@ -69,7 +55,9 @@ Let's look at an example. A one million dollar project still seems like a large 
   - **1,000,000**
 ```
 
-```{warning} **Critical**: include inflationary increases in your budget, including salaries and costs for supplies and equipment (at least 4%/yr). If an application only allows one number per item, calculate costs in your budget spreadsheet over the number of years of the project.
+This calculator will give you rough amounts for each broad category. You could also break it down by your already identified objectives and tasks.
+
+```{warning} **Critical**: include inflationary increases in your budget, especially for salaries and material costs that will increase over the project lifetime (at least 4%/yr). If an application only allows one number per item, calculate costs in your budget spreadsheet over the number of years of the project.
 
 ```
 
@@ -82,12 +70,19 @@ An internal budget development process is critical for developing defensible num
 4. Create a project GANTT chart with deliverables from the budget and narrative
 5. Return to the budget and update numbers
 
-```{tip} When you create a GANTT chart in Excel, make the deliverable names equal in the chart to your budget deliverable headings in the budget spreadsheet. When you change the budget deliverables, the GANTT deliverables will also change.
+```{tip} Creating budgets by scratch using a spreadsheet can be tedious, especially when you may need to submit it in different formats or summaries. If you use Excel, create a table with your budget detail (Select rows/columns then Styles>Format as Table and select the table format):
 
+![sum](https://i.imgur.com/MrfdYme.png)
+
+Then with your curso in one of the table cells Insert>PivotTable>OK. Click in the pivot table report field and, in this case, draft Category and Task to the Rows field, Year to the Columns field and Total to the Σ Values field:
+
+![pivot](https://i.imgur.com/SLY8TvS.png)
+
+Add more rows to the detail sheet repeating activities by year to build out your budget. After adding new rows, always click Data>Refresh All to update the summary table(s).
 ```
 
 ## Implementation
-As you developed your results framework and theory of change and selected viable project strategies, you clarified how intermediate results led to objectives, contributing to the goal. You highlighted underlying assumptions and established the evidence base for the project strategies. During prior steps in the design process, you also likely defined broad illustrative activities and possibly outputs.
+As you develop your results framework and theory of change and selected viable project strategies, you clarified how intermediate results led to objectives, contributing to the goal. You highlighted underlying assumptions and established the evidence base for the project strategies. During prior steps in the design process, you also likely defined broad illustrative activities and possibly outputs.
 
 Discuss how activities lead to outputs (and, in turn, their related intermediate results). Focus on major, illustrative activities or categories of activities. Do not get distracted by details, but rather, focus on making the “how” clear. As you discuss and refine activities and outputs – and how they lead to achieving related intermediate results – think ahead and consider what is feasible given the project budget, timeline, etc. Developing project activities is an iterative process. As you provide more details in the ProFrame (and eventually the budget), you will have a better idea of costs, allowing you to adjust project targets accordingly.
 
