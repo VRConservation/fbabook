@@ -96,5 +96,6 @@ The project design chapter is a very brief look at how to develop projects and p
 
 - **[Forest Business Alliance](https://www.forestbusinessalliance.org)**. Templates and upcoming workshops to prepare you for proposals and past workshop recordings on various aspects of program, project, and proposal development. 
 - **[Grammarly](https://www.grammarly.com)**. Paying for a much better grammar checker is worthwhile and may even help improve your writing.
-- **[Sierra Nevada Conservancy Grant Resources](https://sierranevada.ca.gov/grants/)**. SNC offers a grants newsletter and regular grant writing workshops. If you're in the Sierra, contact your local Area Representative to find out more. The [North Coast Resource Partnership](https://northcoastresourcepartnership.org/) also offers technical assistance for proposals and project development.
+- **[Sierra Nevada Conservancy Grant Resources](https://sierranevada.ca.gov/grants/)**. SNC offers a grants newsletter and regular grant writing workshops. If you're in the Sierra, contact your local Area Representative to find out more. 
+- **The [North Coast Resource Partnership](https://northcoastresourcepartnership.org/)**. NCRP offers technical assistance for proposals and project development and are currently offering weekly office hours for real time assistance. See the no-registration Zoom link on their What's New page to join.
 - **Add others**.
