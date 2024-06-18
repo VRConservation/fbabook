@@ -1,5 +1,4 @@
 # Project Design
-TEST CHANGE
 How to design projects for proposals and cohesive programs
 
 ## Key concepts
