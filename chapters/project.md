@@ -1,4 +1,4 @@
-# Project & Proposal Design
+# Project Design
 How to design projects for proposals and cohesive programs
 
 ## Key concepts
@@ -17,13 +17,13 @@ Don't worry about fleshing out these sections in detail. Like a first draft of a
 ```{tip}
 Nest your Goals, objectives and tasks like an outline:
 
-1. Goal 1
-  A. Objective 1
-    1). Task 1
-  B. Objective 2
-    1). Task 1
-    2). Task 2  
-2. Goal 2
+1. Goal 1 <br>
+  A. Objective 1 <br>
+    1). Task 1  <br>
+  B. Objective 2 <br>
+    1). Task 1 <br>
+    2). Task 2  <br>
+2. Goal 2 <br>
   A. Objective 1
 ```
 
@@ -69,14 +69,15 @@ An internal budget development process is critical for developing defensible num
 4. Create a project GANTT chart with deliverables from the budget and narrative
 5. Return to the budget and update numbers
 
-```{tip} Creating budgets by scratch using a spreadsheet can be tedious, especially when funders ask for detailed and summary budgets or the project tiers from a program budget. If you use Excel, create a table with your budget detail 
+```{tip} Creating budgets by scratch using a spreadsheet can be tedious, especially when you may need to submit it in different formats or summaries. If you use Excel, create a table with your budget detail (Select rows/columns then Styles>Format as Table and select the table format):
 
-![detail](https://i.imgur.com/oigwS0v.png)
+![sum](https://i.imgur.com/MrfdYme.png)
 
-Then select insert pivot table and select the rows and information you want and, presto, you have a summary budget
+Then with your curso in one of the table cells Insert>PivotTable>OK. Click in the pivot table report field and, in this case, draft Category and Task to the Rows field, Year to the Columns field and Total to the Σ Values field:
 
-![pivot](https://i.imgur.com/gS6JnLK.png)
+![pivot](https://i.imgur.com/SLY8TvS.png)
 
+Add more rows to the detail sheet repeating activities by year to build out your budget. After adding new rows, always click Data>Refresh All to update the summary table(s).
 ```
 
 ## Implementation
