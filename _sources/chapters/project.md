@@ -19,10 +19,10 @@ Nest your goals, objectives, and tasks similar to an outline:
 
 1. Goal 1 <br>
   A. Objective 1 <br>
-      1). Task 1  <br>
+    1). Task 1  <br>
   B. Objective 2 <br>
-      1). Task 1 <br>
-      2). Task 2  <br>
+    1). Task 1 <br>
+    2). Task 2  <br>
 2. Goal 2 <br>
   A. Objective 1
 ```
