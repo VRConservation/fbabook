@@ -16,6 +16,7 @@ We will be adding new chapters when they are ready. Please check back regularly!
 
 - **Funding Analysis**. Examines funding distribution to date of the CAL FIRE Business and Workforce Development Grants Program.
 - **Program Design**. How to create a program or strategy for your organization/business.
+- **Proposals**. A startup guide for project design and writing proposal.
 - **Measuring Success**. Monitoring and evaluation of your program and projects. Testing assumptions inherent in your theory of change.
 - **CEQA**. Overview of the California Environmental Quality Act and how it applies to forest based business/organization projects.
 - **Scale**. Scaling forest business and organizational reach and impact.
