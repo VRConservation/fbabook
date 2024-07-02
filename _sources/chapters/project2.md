@@ -1,9 +1,8 @@
 # Project Design
 
-Coming soon!
-
-
 <!--  
+
+draft items removed from project
 **Outputs** are the tangible products, goods, and services from implementing specific activities. More than one output may be needed to achieve a single intermediate result or objective. To create outputs, ask what the project needs to produce or provide to achieve short to medium-term results. Write outputs as complete sentences, as if already achieved. Put the targeted primary beneficiary group(s) receiving the outputs as the sentence's subject.
 
 ```{admonition} Example
