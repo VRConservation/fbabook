@@ -43,6 +43,11 @@ Not surprisingly, the highest grants/square km of forest are in the north state,
 
 ```{figure} /figures/norcal.png
 :name: norcal
+Business & Workforce Development grant funding in Northern California.
+```
+
+```{figure} /figures/norcal.png
+:name: norcal
 Grant concentrations in Northern California. 
 ```
 
