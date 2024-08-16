@@ -4,14 +4,16 @@ The Business of Forest Health Is Booming: An Analysis of CAL FIRE's Business and
 
 [Forest Business Alliance](https://www.forestbusinessalliance.org/)
 
+Updated to include 2024q1 grants
+
 ## Findings
 To better understand the geographic distribution, success rates, and funding gaps/needs, the Forest Business Alliance undertook a preliminary study examining CAL FIRE's Business and Workforce Development Grants from the first quarter of 2022 through the third quarter of 2023 (new data and analysis will be added when available). The initial analysis of CAL FIRE's Business and Workforce Development Grants Program found the following:
 
 - More funding is needed for the Program; funding requests or needs far outstrip the grant funds awarded. As of Q3 2023, about \$70 million in requests were funded, but the total requests were nearly \$263 million. Sustainable infrastructure to process wood biomass in California and workforce development are critical elements of the <a href="http://gg.gg/1a38lc" target="_blank">Roadmap to a Million Acres</a>.
-- The top 10 grant-receiving counties in order were Tuolumne, Shasta, Yolo, Placer, Tulare, Siskiyou, Humboldt, Plumas, Fresno, and Mariposa Counties. 
-- Every county had projects that requested funds, but Merced, Los Angeles, Inyo, Colusa, DelNorte, Orange, Kern, Riverside, Kings, and Monterey counties did not receive funding in the period examined.
-- The largest proportion of grants awarded in November 2023 went to Northern California, with 80% going to the North Coast (19%) and Sierra Cascade (61%) regions. The Central Coast (3%) and Southern California (1%) were far behind. The total requested mirrors these percentages by region, although they are slightly higher for the Central Coast (4%) and Southern California (3%).
-- The counties with the highest grant success rate (% successfully funded) were Sutter, Stanislaus, San Mateo, Santa Clara, Solano, Siskiyou, Sacramento, Nevada, Mariposa, and Alpine counties. However, a bivariate analysis simultaneously examining requested and awarded amounts showed that the most successful counties (high amount awarded with low amount requested) were Ventura, Alpine, San Francisco, Sacramento, and Sutter Counties.
+- The top 10 grant-receiving counties in order were Tuolumne, Shasta, Plumas, Tulare, Humboldt, Yolo, Placer, Siskiyou, Fresno, and Mariposa Counties. 
+- The counties that have not yet received funds are Colusa, Del Norte, Glenn, Imperial, Inyo, Kern, Kings, Merced, and Santa Barbara. Imperial is the sole county not making a funding request (and unlikely to do so given its landscape dominated by desert and agriculture)
+- The largest proportion of grants awarded as of March 2024 went to the Sierra Cascade (64%) and North Coast (30%)regions. The Central Coast (5%) and Southern California (1%) were far behind, although the Central Coast increased by two percentage points and Southern California by 0.5.
+- The counties with the highest grant success rate (proportion successfully funded or awarded/requested) were Stanislaus, Sutter, Solano, Siskiyou, Modoc, Humboldt, Alpine, Sacramento, Mariposa, and Lake counties. However, a bivariate analysis simultaneously examining requested and awarded amounts showed that the most successful counties (high amount awarded with the low amount requested) were Ventura, Alpine, San Francisco, Sacramento, and Sutter Counties.
 To increase the analysis's accuracy, the applicants' project locations need to be more precise. Precise location data for applicants and grantees would also help analyze counties and regions with the most need, e.g., disadvantaged communities.
 
 ## Background
@@ -22,7 +24,7 @@ Prior to European settlement, fires were commonly utilized throughout California
 Simplified forest health theory of change. 
 ```
 
-This century's increase in large fires has underscored the urgent need for forest health projects. These projects aim to thin unhealthy forest stands and reintroduce fire into forested ecosystems ({numref}`health`). However, they have also created a new challenge—excess wood and biomass that pose additional wildfire risks. California is in dire need of more infrastructure and workforce capacity to effectively manage this situation. The USDA Forest Service has the Wood Innovations Grant Program to encourage wood utilization. At the state level, CAL FIRE created the Wood Products and Bioenergy Program with the first grants awarded in 2022. Both programs aim to fund projects that process woody biomass and build capacity for work in the woods.
+This century's increase in large fires has underscored the urgent need for forest health projects. These projects aim to thin unhealthy forest stands and reintroduce fire into forested ecosystems ({numref}`health`). However, they have also created a new challenge—excess wood and biomass that pose additional wildfire risks. California is in dire need of more infrastructure and workforce capacity to manage this situation effectively. The USDA Forest Service has the Wood Innovations Grant Program to encourage wood utilization. At the state level, CAL FIRE created the Wood Products and Bioenergy Program with the first grants awarded in 2022. Both programs aim to fund projects that process woody biomass and build capacity for work in the woods.
 
 The Forest Business Alliance conducted an initial study on where the funds went to analyze patterns and identify areas of potential future need or funding focus.
 
@@ -44,11 +46,11 @@ Not surprisingly, the highest grants/square km of forest are in the north state,
 Grant concentrations in Northern California. 
 ```
 
-As of autumn 2023, only two counties in Southern California had projects with funding: San Luis Obispo and Ventura ({numref}`socal`). However, much of Southern California is chaparral and desert, and fire mitigation in this region is focused more on preventing ignition sources rather than thinning forests or processing wood products.
+As of autumn 2023, only two counties in Southern California had projects with funding: San Luis Obispo and Ventura . However, this changed substantively in the 2024 first quarter grant round when all but Santa Barbara, Kern, and Imperial Counties had received funding ({numref}`socal`).  Much of Southern California is chaparral and desert, and fire mitigation in this region is focused more on preventing ignition sources rather than thinning forests or processing wood products. And Imperial County is unlikely to apply for funding, so as of 2024, that only leaves two counties in Southern California without funding from this program.
 
 ```{figure} /figures/socal.png
 :name: socal
-Grant concentrations in Southern California. Note: Tulare is not considered part of the Southern California region.
+Grant funding in Southern California. Note: Tulare is not considered part of the Southern California region.
 ```
 
 ### Bivariate
@@ -76,7 +78,7 @@ Funding by project type showed the most funding for workforce development traini
 Awarded grants by project type.
 ```
 
-The number of unfunded projects by county reveals interesting patterns ({numref}`nofund`). Some counties with the highest number of unsuccessful applications are in the Sierra Cascade Region, e.g., Tuolumne, Shasta, and Plumas. Counties with low success rates submitted fewer proposals, e.g., Inyo, Kings, and Alpine.
+The number of unfunded projects by county reveals interesting patterns ({numref}`nofund`). Some counties with the most unsuccessful applications are in the Sierra Cascade Region, e.g., Tuolumne, Shasta, and Plumas. Counties with low success rates submitted fewer proposals, e.g., Inyo, Kings, and Alpine.
 
 ```{figure} /figures/nofund.png
 :name: nofund
@@ -86,13 +88,13 @@ Unfunded requests by California County.
 ## Next
 The Forest Business Alliance will continue to add new projects to the Business and Workforce Development funding analysis database as applications are submitted and awards granted. We recommend the following:
 
-- More accurate project locations, e.g., latitude/longitude points should be added to reflect where the funding is directed and look at the relationship between forest health and wood products businesses.
+- More accurate project locations, e.g., latitude/longitude points, should be added to reflect where the funding is directed and examine the relationship between forest health and wood products businesses.
 - As more projects are funded through subsequent grant rounds, how do the funding success rates change geographically?
 - More analysis is needed to determine the reasons for the county and regional differences. Is it organizational and business capacity? Is it more related to capabilities to create strong projects and proposals? Could it be something more pervasive, such as regional economic differences or available institutional support for potential applicants?
 - Given the need for wildfire mitigation in the state, the bottleneck of processing biomass in a sustainable manner, and the mismatch in requested vs. funded businesses, we highly recommend the state consider increasing funding for this valuable program.
 
 ## Data
-The proposal data is freely available on CAL FIRE's Wood Products & Bioenergy website. To conduct the analysis, we removed statewide grants since they could not be placed geographically. For projects covering multiple counties, we averaged the total requests and awards across each county identified for the project. The data was compiled in Excel and then joined to a county spatial (California Tiger Census layer) and a vegetation layer (Calveg) to create the spatial database. The spatial analysis was completed using ArcGIS Pro. See [Local Bivariate Relationship](http://gg.gg/19yw9b) for an explanation of the bivariate analysis tool. For any questions or feedback, please contact us at forestbusinessalliance@gmail.com.
+The proposal data is freely available on CAL FIRE's Wood Products & Bioenergy website. To conduct the analysis, we removed statewide grants since they could not be placed geographically. For projects covering multiple counties, we averaged the total requests and awards across each county identified for the project. The data was compiled in Excel and then joined to a county spatial (California Tiger Census layer) and a vegetation layer (Calveg) to create the spatial database. The spatial analysis was completed using ArcGIS Pro. See [Local Bivariate Relationship](http://gg.gg/19yw9b) for an explanation of the bivariate analysis tool. Don't hesitate to contact us at forestbusinessalliance@gmail.com for any questions or feedback.
 
 ## Acknowledgements
 Funding for the Forest Business Alliance is provided by the CAL FIRE Business and Workforce Development Grant Program. [CAL FIRE's Wood Products and Bioenergy Program](https://www.fire.ca.gov/what-we-do/natural-resource-management/environmental-protection-program/wood-products-and-bioenergy) manages the BWD grants and works to maintain and enhance California's wood products infrastructure to support healthy, resilient forests and the people and ecosystems that depend on them.
