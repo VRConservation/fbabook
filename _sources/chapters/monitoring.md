@@ -11,6 +11,7 @@ Measuring project success and learning from implementation is critical to long-t
 - **Storytelling with impact**. Writing workshops
 - **Measure more than acres & bucks**. 
 
+
 ## Background
 Monitoring and evaluation (M&E) are essential components of any successful project or program because they provide valuable insights into progress and effectiveness which organizations use to:
 
@@ -35,8 +36,6 @@ Monitoring could possibly be the subject written about the most but implemented 
 3. No staff capacity or applied scientists
 4. Project funding doesn't including monitoring
 5. It could demonstrate that your theory of change or organizational mission is incorrect. That's a big elephant in the room
-
-
 
 {cite}`recipes`
 
@@ -74,4 +73,3 @@ Learning/writing workshops
 
 ## Resources
 - **[Recipes for Conservation](http://gg.gg/1anhaa)**. A summary of how to develop the conservation standards within or among organizations. The recipes have some valuable sections for businesses but are nonprofit and agency-focused.
-
