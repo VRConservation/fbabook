@@ -46,17 +46,13 @@ Not surprisingly, the highest grants/square km of forest are in the north state,
 Business & Workforce Development grant funding in Northern California.
 ```
 
-```{figure} /figures/norcal.png
-:name: norcal
-Grant concentrations in Northern California. 
-```
-
 As of autumn 2023, only two counties in Southern California had projects with funding: San Luis Obispo and Ventura . However, this changed substantively in the 2024 first quarter grant round when all but Santa Barbara, Kern, and Imperial Counties had received funding ({numref}`socal`).  Much of Southern California is chaparral and desert, and fire mitigation in this region is focused more on preventing ignition sources rather than thinning forests or processing wood products. And Imperial County is unlikely to apply for funding, so as of 2024, that only leaves two counties in Southern California without funding from this program.
 
 ```{figure} /figures/socal.png
 :name: socal
-Grant funding in Southern California. Note: Tulare is not considered part of the Southern California region.
+Grant funding in Southern California.
 ```
+![socal](/figures/socal.png)
 
 ### Bivariate
 A bivariate analysis querying the data by total requests and awards paints a slightly different picture than the awards analysis ({numref}`biv`). Where the success rate is the relationship between funded and requested grants, the lightest shades tend to indicate low success rates, whereas the light blue to dark purple indicates counties with high grant success rates.
