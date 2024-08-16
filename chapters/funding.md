@@ -52,7 +52,6 @@ As of autumn 2023, only two counties in Southern California had projects with fu
 :name: socal
 Grant funding in Southern California.
 ```
-![socal](/figures/socal.png)
 
 ### Bivariate
 A bivariate analysis querying the data by total requests and awards paints a slightly different picture than the awards analysis ({numref}`biv`). Where the success rate is the relationship between funded and requested grants, the lightest shades tend to indicate low success rates, whereas the light blue to dark purple indicates counties with high grant success rates.
