@@ -69,23 +69,18 @@ Learning/writing workshops
 ## Yugo vs. Cadillac
 What is the absolute bare bones monitoring system that could be implemented (Yugo) vs. a higher end deal (Cadillac)? We suggest a couple of examples in the drop downs.
 
-```{admonition} Yugo Monitoring Plan
+
+
+```{admonition} Cadillac Monitoring Methods
 :class: dropdown
 
-
+This is a custom dropdown for the Cadillac monitoring methods
 ```
 
-```{note}
+```{admonition} Yugo Monitoring Methods
 :class: dropdown
 
-This admonition has been collapsed,
-meaning you can add longer form content here,
-```
-
-```{admonition} My custom title with *Markdown*!
-:class: dropdown
-
-This is a custom title for a tip admonition.
+This is a custom dropdown for the Yugo monitoring methods
 ```
 
 ## Resources
