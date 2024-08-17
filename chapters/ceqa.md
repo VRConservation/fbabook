@@ -49,9 +49,6 @@ Example projects and CEQA/NEPA compliance. See notes below for explanations.
 ### Figure notes
 
 <sup>1</sup> Often added to an existing project where CEQA has been completed. In these cases, project proponents can use existing CEQA analysis and determine no new significant impacts via an addendum to the existing document.
-
 <sup>2</sup> Before the training, those lands must have completed CEQA and provide a copy of the analyses to CAL FIRE.
-
 <sup>3</sup> Projects submitting NEPA documents that created the biomass would be statutorily exempt from CEQA (AB211 - PRC 4799.05(d)(1)).
-
 <sup>4</sup> Projects could utilize the CEQA documents that created the biomass. In some cases, the transport is included in the facility analysis, so the facility impacts CEQA documents can be used if they include the biomass transport to the facility. See CEQA Statutory Exemption 21080(b)(3) and CEQA Guidelines Section 15269(a) for reforestation and emergency exemptions.
