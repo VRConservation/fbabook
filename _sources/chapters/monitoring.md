@@ -15,9 +15,9 @@ Measuring project success and learning from implementation is critical to long-t
 ## Background
 Monitoring and evaluation (M&E) are essential components of any successful project or program because they provide valuable insights into progress and effectiveness which organizations use to:
 
-🎯 Ensure accountability and demonstrate results to stakeholders;
-🎯 Inform decision making for improved program management and quality; and
-🎯 Provide information needed to generate revenue (fundraising, marketing, loans, etc.).
+- 🎯 Ensure accountability and demonstrate results to stakeholders;
+- 🎯 Inform decision making for improved program management and quality; and
+- 🎯 Provide information needed to generate revenue (fundraising, marketing, loans, etc.).
 
 While there is no doubt that M&E is necessary, often organizations, especially nonprofits and small businesses, do not adequately implement M&E because of resource constraints – lack of personnel, time, and budget. This document outlines five strategies for implementing M&E with limited resources.
 
@@ -71,6 +71,12 @@ What is the absolute bare bones monitoring system that could be implemented (Yug
 
 ```{admonition} Yugo Monitoring Plan
 :class: dropdown
+
+
+```
+
+```{admonition} Yugo Monitoring Plan
+
 
 
 ```
