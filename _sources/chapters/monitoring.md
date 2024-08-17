@@ -9,12 +9,11 @@ Measuring project success and learning from implementation is critical to long-t
 - **Participatory research and measurement**. Partner with science-based organizations to increase your learning and expand capacity, or use citizen science to engage and connect the general public to your mission and collect data/demystify conservation science at the same time. Employing participatory approaches at all levels of evaluation also takes more time but makes for more meaningful, longer-lasting, and effective results in the long term.
 
 ## Background
-## Background
 Monitoring and evaluation (M&E) are essential components of any successful project or program because they provide valuable insights into progress and effectiveness which organizations use to:
 
-- 🎯 Ensure accountability and demonstrate results to stakeholders;
-- 🎯 Inform decision making for improved program management and quality; and
-- 🎯 Provide information needed to generate revenue (fundraising, marketing, loans, etc.).
+🎯 Ensure accountability and demonstrate results to stakeholders; <br>
+🎯 Inform decision making for improved program management and quality; and <br>
+🎯 Provide information needed to generate revenue (fundraising, marketing, loans, etc.).
 
 Monitoring and evaluation (M&E) are essential components of any successful project or program because they provide valuable insights into progress and effectiveness, which organizations use to:
 
@@ -36,7 +35,7 @@ Monitoring could be the subject written about the most but implemented the least
 ## Solutions
 How can these challenges be overcome without requiring massive institutional investment and resources? Let’s start with the big picture of starting with the whole and work through other recommendations.
 
-## Start with the Whole
+### Start with the Whole
 Working from the big picture to your metrics is critical. Follow a process and be deliberate about creating your success measurement system. 
 
 - **Situation assessment**. Utilizing metrics without a measurement system or situation assessment (see the Program Design Chapter) is like building a house without a blueprint. Start with a situation assessment and understand how you, your staff, team, and partners understand the current contextual situation of the system you’re working in and how your project interventions or business application will positively change that system. Do not just assume everyone gets what you’re going to do. For example, if you ask the ten people you work with to define restoration, you might get ten different responses. Memorializing the situation, debating the relationships, and sharing them reach that common understanding.
@@ -45,7 +44,7 @@ Working from the big picture to your metrics is critical. Follow a process and b
 
 Workshopping these steps, preferably with staff and partners, can get you to a cost-effective system sooner. Don’t worry if it seems to take a while at the outset. Socializing across staff and partners can seem to delay the process, but it will ultimately create longer-term solutions.
 
-```{tip}: Invite existing or potential funders to a planning workshop. There’s no guarantee this will lead to funding, but you will certainly engage them, make your project more memorable, and tap into their deep knowledge regarding project success.
+```{tip} Invite existing or potential funders to a planning workshop. There’s no guarantee this will lead to funding, but you will certainly engage them, make your project more memorable, and tap into their deep knowledge regarding project success.
 ```
 
 ### Utilize Existing Data Sources
