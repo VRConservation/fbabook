@@ -66,10 +66,14 @@ Learning/writing workshops
 
 [Pause & Reflect Toolkit](https://biodiversitylinks.org/library/resources/pause-and-reflect-toolkit.pdf/view)
 
+## Yugo vs. Cadillac
+What is the absolute bare bones monitoring system that could be implemented (Yugo) vs. a higher end deal (Cadillac)? We suggest a couple of examples in the pull downs.
 
-## Caveats
-- **Consult experts (but not too much)**. Consult experts and have them review your monitoring plan, methodologies, analyses, and results. However, do not look to academics or graduate students to run or fully develop your monitoring and learning. On the other hand, developing a research agenda with academics and students to guide research to your work and create learning that is deeper than monitoring results is extremely worthwhile. Here's why: applied research and monitoring are unlike in many ways. Research can guide your methods and direct your learning, but it is about finding levels of significance (>90% confidence) that are typically not feasible for programmatic implementation (~ > 75% but depends on the project, and the confidence may be qualitative). Researchers want to publish, and so should NGOs, but not as often in peer-reviewed journals. You should experiment at small scales and then scale when experimentation works. 
-- **Create and revisit your monitoring plan**. 
+```{admonition} Yugo Monitoring Plan
+:class: dropdown
+
+
+```
 
 ## Resources
 - **[Recipes for Conservation](http://gg.gg/1anhaa)**. A summary of how to develop the conservation standards within or among organizations. The recipes have some valuable sections for businesses but are nonprofit and agency-focused.
