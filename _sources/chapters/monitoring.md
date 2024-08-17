@@ -9,11 +9,11 @@ Measuring project success and learning from implementation is critical to long-t
 - **Participatory research and measurement**. Partner with science-based organizations to increase your learning and expand capacity, or use citizen science to engage and connect the general public to your mission and collect data/demystify conservation science at the same time. Employing participatory approaches at all levels of evaluation also takes more time but makes for more meaningful, longer-lasting, and effective results in the long term.
 
 ## Background
-Monitoring and evaluation (M&E) are essential components of any successful project or program because they provide valuable insights into progress and effectiveness which organizations use to:
+Monitoring and evaluation (M&E) are essential components of any successful project or program because they provide valuable insights into progress and effectiveness, which organizations use to:
 
 🎯 Ensure accountability and demonstrate results to stakeholders; <br>
-🎯 Inform decision making for improved program management and quality; and <br>
-🎯 Provide information needed to generate revenue (fundraising, marketing, loans, etc.).
+🎯 Inform decision-making for improved program management and quality; and <br>
+🎯 Provide information to generate revenue (fundraising, marketing, loans, etc.).
 
 Monitoring and evaluation (M&E) are essential components of any successful project or program because they provide valuable insights into progress and effectiveness, which organizations use to:
 
@@ -36,7 +36,7 @@ Monitoring could be the subject written about the most but implemented the least
 How can these challenges be overcome without requiring massive institutional investment and resources? Let’s start with the big picture of starting with the whole and work through other recommendations.
 
 ### Start with the Whole
-Working from the big picture to your metrics is critical. Follow a process and be deliberate about creating your success measurement system. 
+It is critical to work from the big picture to your metrics. Follow a process and be deliberate about creating your success measurement system. 
 
 - **Situation assessment**. Utilizing metrics without a measurement system or situation assessment (see the Program Design Chapter) is like building a house without a blueprint. Start with a situation assessment and understand how you, your staff, team, and partners understand the current contextual situation of the system you’re working in and how your project interventions or business application will positively change that system. Do not just assume everyone gets what you’re going to do. For example, if you ask the ten people you work with to define restoration, you might get ten different responses. Memorializing the situation, debating the relationships, and sharing them reach that common understanding.
 - **Results chains**. Create results chains from your interventions to project outcomes. For more details on results chains, see the Program Development chapter and the Open Standards (link in resources section).
@@ -58,7 +58,7 @@ Participatory approaches may also employ apps to crowd-source data and engage ke
 ### Embrace Technology
 Technology offers cost-effective and time-saving data collection, analysis, and reporting solutions. There are many open-source and low-cost software, mobile applications, and digital platforms that can streamline M&E data collection, facilitate data analysis, and enhance data visualization (See Russell, 2024). For instance, a conservation organization might use a mobile data app such as Survey123, QField, or Kobo Toolbox to collect real-time forest health indicators, utilize GIS software such as ArcGIS Pro and QGIS to analyze, and use cloud-based platforms to store data, eliminating manual data entry and paper-based reporting. App-based data collection also allows multiple users to collect and input data.
 
-ArcGIS Survey 123, from ESRI, is a good example of a mobile app used for field data collection and mapping. It can be customized to collect various forest metrics such as tree species, diameter at breast height (DBH), and tree condition, and this information can be fed directly into ArcGIS software. It is very easy to use and synchs effortlessly to your desktop or online GIS software. However, it does require a subscription, which can be expensive for some organizations.
+ArcGIS Survey 123, from ESRI, is a good example of a mobile app for field data collection and mapping. It can be customized to collect various forest metrics such as tree species, diameter at breast height (DBH), and tree condition, and this information can be fed directly into ArcGIS software. It is easy to use and synchs effortlessly to your desktop or online GIS software. However, it does require a subscription, which can be expensive for some organizations.
  
 ### Build Internal Capacity
 Consider training existing staff to build internal M&E capacity, reducing your reliance on costly external consultants and service providers. By equipping staff with the necessary skills and knowledge, organizations can conduct M&E activities in-house, saving costs and ensuring sustainability. A small non-profit organization might provide M&E training workshops for its staff, empowering them to design surveys, analyze data, and generate reports independently, enhancing organizational efficiency and effectiveness.
@@ -67,41 +67,41 @@ Consider training existing staff to build internal M&E capacity, reducing your r
 Collaborating with other organizations, academic institutions, and government agencies can facilitate resource-sharing, knowledge exchange, and joint M&E initiatives. By pooling resources and expertise, organizations can achieve more comprehensive M&E outcomes at a lower cost. For example, a consortium of NGOs working on a regional conservation project might establish a joint M&E framework, share data, tools, and methodologies, and coordinate evaluation activities to avoid duplication and maximize efficiency.
 
 ### Seek Creative Ways to Fund Monitoring
-Many funders don’t provide funding for monitoring, but they almost always require project reporting. Incorporating your measurement into reporting may help cover the costs. Educate the funders, too. For example, don’t let them just require reporting on ‘acres and bucks’ and explain why those metrics are okay but don’t tell the full picture about complex states such as forest health or resilience. 
+Many funders don’t provide funding for monitoring, but they almost always require project reporting. Incorporating your measurement into reporting may help cover the costs. Educate the funders, too. For example, don’t let them require reporting on ‘acres and bucks’ and explain why those metrics are okay, but don’t tell the full picture about complex states such as forest health or resilience. 
 
 Going back to partnering with other organizations might be critical here. For example, you could partner with a university on a research project. First, create a research agenda for your work to point researchers to what data and information you need (rather than them coming to you with pre-formed research). Academic researchers will want specific outcomes that might not connect with your data and outcomes needs, but they could help develop technology or collect some data you need.
 Resources
 
 Recipes for Conservation. A summary of how to develop the conservation standards within or among organizations. The recipes have some valuable sections for businesses but are nonprofit and agency-focused.
 
-Open Standards for the Practice of Conservation. Developed by the Conservation Measures Partnership, the Open Standards combine the principles and best practices of evidence-based conservation, adaptive management, and other decision-support approaches. They bring together common concepts, approaches, and terminology in conservation project management to help improve the practice of conservation. 
+Open Standards for the Practice of Conservation. Developed by the Conservation Measures Partnership, the Open Standards combine the principles and best practices of evidence-based conservation, adaptive management, and other decision-support approaches. They bring together common concepts, approaches, and terminology in conservation project management to help improve conservation practice. 
 CRS MEL framework.
 
 ## Yugo vs. Cadillac
-What is the absolute bare bones monitoring system that could be implemented (Yugo) vs. a higher end deal (Cadillac)? We suggest a couple of examples in the Cadillac and Yugo drop downs. Becuase everybody needs a Yugo sometime!
+What is the absolute bare-bones monitoring system that could be implemented (Yugo) vs. a higher-end deal (Cadillac)? We suggest a couple of examples in the Cadillac and Yugo dropdowns because everybody needs a Yugo sometime!
 
 ![yugo](https://i.imgur.com/UFL0rYa.png)
 
 ```{admonition} Cadillac Monitoring Methods Checklist
 :class: dropdown
 
-Intervention is stand thinning to reduce wildfire risk followed by regular prescribed fire treatments
+Intervention is stand thinning to reduce wildfire risk followed by regular prescribed fire treatments.
 
-1. Stand inventory by species and dbh every 10 years using Survey123 and ArcGIS Pro
+1. Stand inventory by species and dbh every ten years using Survey123 and ArcGIS Pro
 2. Photo witness posts at reference and treatment sites
 3. Total acres treated, total acres burned
 4. Total $s spent
 5. [Audiomoth](https://www.openacousticdevices.info/audiomoth) IoT set up in stand to monitor birds and bats
-6. Pollinator survey once/yr to morpho spp. to measure impact of thinning and fire on invertebrates
+6. Pollinator survey once/yr to morpho spp. to measure the impact of thinning and fire on invertebrates
 7. Understory vegetation survey every five years
 ```
 
 ```{admonition} Yugo Monitoring Methods Checklist
 :class: dropdown
 
-Intervention is stand thinning to reduce wildfire risk followed by regular prescribed fire treatments
+Intervention is stand thinning to reduce wildfire risk followed by regular prescribed fire treatments.
 
-1. Stand inventory by species and dbh every 10 years using Kobo Toolbox and QGIS
+1. Stand inventory by species and dbh every ten years using Kobo Toolbox and QGIS
 2. Photo witness posts at reference and treatment sites
 3. Total acres treated, total acres burned
 4. Total $s spent
@@ -110,4 +110,4 @@ Intervention is stand thinning to reduce wildfire risk followed by regular presc
 ## Resources
 - **[Recipes for Conservation](http://gg.gg/1anhaa)**. A summary of how to develop the conservation standards within or among organizations. The recipes have some valuable sections for businesses but are nonprofit and agency-focused.
 - **[Pause & Reflect Toolkit](https://biodiversitylinks.org/library/resources/pause-and-reflect-toolkit.pdf/view)**.
-- **[Measures of Success](https://fosonline.org/library/measures/)**. Practical guide (in English and Spanish) for designing, planning, and implementing conservation projects. The Spanish version is available as a free downlaod, and the English version, Measures of Success, is available for purchase from Island Press {cite}`measures`.
+- **[Measures of Success](https://fosonline.org/library/measures/)**. Practical guide (in English and Spanish) for designing, planning, and implementing conservation projects. The Spanish version is a free download, and the English version, Measures of Success, is available for purchase from Island Press {cite}`measures`.
