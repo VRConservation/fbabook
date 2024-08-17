@@ -67,7 +67,7 @@ Learning/writing workshops
 [Pause & Reflect Toolkit](https://biodiversitylinks.org/library/resources/pause-and-reflect-toolkit.pdf/view)
 
 ## Yugo vs. Cadillac
-What is the absolute bare bones monitoring system that could be implemented (Yugo) vs. a higher end deal (Cadillac)? We suggest a couple of examples in the pull downs.
+What is the absolute bare bones monitoring system that could be implemented (Yugo) vs. a higher end deal (Cadillac)? We suggest a couple of examples in the drop downs.
 
 ```{admonition} Yugo Monitoring Plan
 :class: dropdown
@@ -75,10 +75,11 @@ What is the absolute bare bones monitoring system that could be implemented (Yug
 
 ```
 
-```{admonition} Yugo Monitoring Plan
+```{note}
+:class: dropdown
 
-
-
+This admonition has been collapsed,
+meaning you can add longer form content here,
 ```
 
 ## Resources
