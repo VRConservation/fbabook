@@ -82,5 +82,11 @@ This admonition has been collapsed,
 meaning you can add longer form content here,
 ```
 
+```{admonition} My custom title with *Markdown*!
+:class: dropdown
+
+This is a custom title for a tip admonition.
+```
+
 ## Resources
 - **[Recipes for Conservation](http://gg.gg/1anhaa)**. A summary of how to develop the conservation standards within or among organizations. The recipes have some valuable sections for businesses but are nonprofit and agency-focused.
