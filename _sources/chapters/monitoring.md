@@ -71,11 +71,24 @@ Recipes for Conservation. A summary of how to develop the conservation standards
 Open Standards for the Practice of Conservation. Developed by the Conservation Measures Partnership, the Open Standards combine the principles and best practices of evidence-based conservation, adaptive management, and other decision-support approaches. They bring together common concepts, approaches, and terminology in conservation project management to help improve conservation practice. 
 
 ## Yugo vs. Cadillac
-What is the absolute bare-bones monitoring system that could be implemented (Yugo) vs. a higher-end deal (Cadillac)? We suggest a couple of examples in the Cadillac and Yugo dropdowns because everybody needs a Yugo sometime!
+What is the absolute bare-bones monitoring system that could be implemented (Yugo) vs. a higher-end deal (Cadillac)? We suggest a couple of examples in the pulldowns below. Both examples are a hypothetical stand thinning project with prescribed fire applied periodically after thinning for maintenance. The project assumption is that thinning will lead to increased forest health and reduced high intensity wildfire. Sometimes you just need a Yugo:
 
 ![yugo](https://i.imgur.com/UFL0rYa.png)
 
-Both examples are a hypothetical stand thinning project with prescribed fire applied periodically after thinning for maintenance. The project assumption is that thinning will lead to increased forest health and reduced high intensity wildfire.
+```{admonition} Yugo Monitoring Methods Checklist
+:class: dropdown
+
+Intervention is stand thinning to reduce wildfire risk followed by regular prescribed fire treatments.
+
+1. Stand inventory by species and dbh every ten years using Kobo Toolbox and QGIS
+2. Photo witness posts at reference and treatment sites
+3. Total acres treated, total acres burned
+4. Total $s spent
+```
+
+And sometimes you need a Cadillac:
+
+![caddy](https://i.imgur.com/vKt4eQG.png)
 
 ```{admonition} Cadillac Monitoring Methods Checklist
 :class: dropdown
@@ -89,17 +102,6 @@ Intervention is stand thinning to reduce wildfire risk followed by regular presc
 5. [Audiomoth](https://www.openacousticdevices.info/audiomoth) IoT set up in stand to monitor birds and bats
 6. Pollinator survey once/yr to morpho spp. to measure the impact of thinning and fire on invertebrates
 7. Understory vegetation survey every five years
-```
-
-```{admonition} Yugo Monitoring Methods Checklist
-:class: dropdown
-
-Intervention is stand thinning to reduce wildfire risk followed by regular prescribed fire treatments.
-
-1. Stand inventory by species and dbh every ten years using Kobo Toolbox and QGIS
-2. Photo witness posts at reference and treatment sites
-3. Total acres treated, total acres burned
-4. Total $s spent
 ```
 
 ## Resources
