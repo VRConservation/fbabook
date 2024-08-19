@@ -69,12 +69,13 @@ Resources
 Recipes for Conservation. A summary of how to develop the conservation standards within or among organizations. The recipes have some valuable sections for businesses but are nonprofit and agency-focused.
 
 Open Standards for the Practice of Conservation. Developed by the Conservation Measures Partnership, the Open Standards combine the principles and best practices of evidence-based conservation, adaptive management, and other decision-support approaches. They bring together common concepts, approaches, and terminology in conservation project management to help improve conservation practice. 
-CRS MEL framework.
 
 ## Yugo vs. Cadillac
 What is the absolute bare-bones monitoring system that could be implemented (Yugo) vs. a higher-end deal (Cadillac)? We suggest a couple of examples in the Cadillac and Yugo dropdowns because everybody needs a Yugo sometime!
 
 ![yugo](https://i.imgur.com/UFL0rYa.png)
+
+Both examples are a hypothetical stand thinning project with prescribed fire applied periodically after thinning for maintenance. The project assumption is that thinning will lead to increased forest health and reduced high intensity wildfire.
 
 ```{admonition} Cadillac Monitoring Methods Checklist
 :class: dropdown
