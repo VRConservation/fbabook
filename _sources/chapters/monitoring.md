@@ -108,3 +108,4 @@ Intervention is stand thinning to reduce wildfire risk followed by regular presc
 - **[Recipes for Conservation](http://gg.gg/1anhaa)**. A summary of how to develop the conservation standards within or among organizations. The recipes have some valuable sections for businesses but are nonprofit and agency-focused.
 - **[Pause & Reflect Toolkit](https://biodiversitylinks.org/library/resources/pause-and-reflect-toolkit.pdf/view)**.
 - **[Measures of Success](https://fosonline.org/library/measures/)**. Practical guide (in English and Spanish) for designing, planning, and implementing conservation projects. The Spanish version is a free download, and the English version, Measures of Success, is available for purchase from Island Press {cite}`measures`.
+- The [Open Standards for the Practice of Conservation](http://gg.gg/1agk6k), developed by the Conservation Measures Partnership {cite}`cmp` is a definitive resource for program and project design.
