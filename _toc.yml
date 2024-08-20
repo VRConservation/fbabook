@@ -6,10 +6,10 @@ parts:
   - caption: Chapters
     numbered: True
     chapters:
-      - file: chapters/funding
       - file: chapters/program
       - file: chapters/project
       - file: chapters/monitoring2
+      - file: chapters/funding
       - file: chapters/ceqa
       - file: chapters/scale2
   - caption: Appendices
