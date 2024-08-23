@@ -96,7 +96,7 @@ Option 1 for creating and submitting an Activity Report is to access it under Pe
 ```
 
 ```{figure} /figures/ecivis/act_report.png
-:name: pending
+:name: act_report
 Option 2 for creating and submitting an Activity Report is to click on the green button that says “Submit Activity Report.”
 ```
 
