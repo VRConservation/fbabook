@@ -10,6 +10,7 @@ parts:
       - file: chapters/program
       - file: chapters/project
       - file: chapters/monitoring2
+      - file: chapters/ecivis
       - file: chapters/funding
       - file: chapters/ceqa
       - file: chapters/scale2
