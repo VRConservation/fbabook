@@ -28,7 +28,7 @@ eCivis system log-in page.
 
 ```{figure} /figures/ecivis/login2.png
 :name: login2
-Application log-in page on eCivis that appears after logging into the eCivis platform.
+Page that appears after logging into the eCivis platform.
 ```
 
 Before beginning your application in eCivis, download all of the required forms and templates that you will fill out and upload as part of your complete application (e.g., Work Plan and Environmental Compliance Worksheet, State of California Payee Data Record, Non-Discrimination Compliance Statement). These are provided on the Grantee Resources section of the BWD program website and within the Files tab of the application portal access page ({numref}`files`). 
@@ -38,8 +38,8 @@ Before beginning your application in eCivis, download all of the required forms 
 Screenshot of CAL FIRE file downloads. Click on the file title to download the document(s) you need.
 ```
 
-1. don’t forget to access and use templates on the [Forest Business Alliance website](https://www.forestbusinessalliance.org/general-5). FBA team members are available to assist you with this. Contact us at forestbusinessalliance@gmail.com if you have questions or need further assistance. 
-2. The Forest Business Alliance’s guidebook [chapter](https://forestbiz.info/chapters/project.html) on project and proposal development would be helpful at this stage for organizing your proposal narrative and budget development workflow. Before you start a proposal, review the chapter to establish how your proposed project fits into your business or strategic plan.
+1. Don’t forget to access and use templates on the [Forest Business Alliance website](https://www.forestbusinessalliance.org/general-5). FBA team members are available to assist you with this. Contact us at forestbusinessalliance@gmail.com if you have questions or need further assistance. 
+2. The Forest Business Alliance’s guidebook [Chapter](https://forestbiz.info/chapters/project.html) on project and proposal development would be helpful at this stage for organizing your proposal narrative and budget development workflow. Before you start a proposal, review the chapter to establish how your proposed project fits into your business or strategic plan.
 
 Follow the process in the Grants Portal Application Submittal User [Guide](http://gg.gg/1bt39w), which will take you step-by-step through creating an account and completing an application. This guide also provides a helpful overview of all application components:
 1. Profile (specific to your organization)
@@ -80,13 +80,13 @@ Invoicing and reporting involve a three-step process:
 Click on “My Awards” on the left side of the screen. A list of your awarded grants will appear. Under the “Actions” tab, you’ll see a button with three lines. Click it, and then click “Manage Award.” This will take you to your Award Dashboard.
 
 ```{note}
-Note: Th Activity Report is completed in addition to the Progress Report Form that you will submit online via Microsoft Forms.
+Note: The Activity Report is completed in addition to the Progress Report Form that you will submit online via Microsoft Forms.
 ```
 There are two different ways to create and submit Activity Reports:
 
-1. Locate the Activity Report due under Pending Tasks and click the button with three lines, then click “Create Activity Report.” ({numref}`pending`) This will take you to the Activity Report page where you will enter the reporting period, narrative, and metrics, as well as upload any deliverables for the reporting period. 
+1. Locate the Activity Report due under Pending Tasks and click the button with three lines, then click “Create Activity Report.” ({numref}`pending`). This will take you to the Activity Report page where you will enter the reporting period, narrative, and metrics, as well as upload any deliverables for the reporting period. 
 
-<br> OR
+OR
 
 2. Look for the “Submit Activity Report” button (in green) at the top of the Award Dashboard ({numref}`act_report`). Either enter the due date of the pending Activity Report or click “Continue with New Report.” Either option will take you to the Activity Report page. Enter the Reporting Period, Report Narrative, and Activity Report Metrics. If you have not completed any goals or objectives during the reporting period, leave the metrics section blank. Upload any deliverables at the bottom of the page. If you are ready to submit, click the red “Submit Report” button. You cannot undo submitting the report, so only click this button if the report is final. If you would like to save the report as a draft and come back to it, click the blue “Save & Close” button. If you have saved a draft, you can access it again in the “Award Activities” section.
 
