@@ -86,14 +86,14 @@ There are two different ways to create and submit Activity Reports:
 
 1. Locate the Activity Report due under Pending Tasks and click the button with three lines, then click “Create Activity Report.” ({numref}`pending`). This will take you to the Activity Report page where you will enter the reporting period, narrative, and metrics, as well as upload any deliverables for the reporting period. 
 
-OR
-
-2. Look for the “Submit Activity Report” button (in green) at the top of the Award Dashboard ({numref}`act_report`). Either enter the due date of the pending Activity Report or click “Continue with New Report.” Either option will take you to the Activity Report page. Enter the Reporting Period, Report Narrative, and Activity Report Metrics. If you have not completed any goals or objectives during the reporting period, leave the metrics section blank. Upload any deliverables at the bottom of the page. If you are ready to submit, click the red “Submit Report” button. You cannot undo submitting the report, so only click this button if the report is final. If you would like to save the report as a draft and come back to it, click the blue “Save & Close” button. If you have saved a draft, you can access it again in the “Award Activities” section.
-
 ```{figure} /figures/ecivis/pending.png
 :name: pending
 Option 1 for creating and submitting an Activity Report is to access it under Pending Tasks, on the Award Dashboard page on eCivis. 
 ```
+
+OR
+
+2. Look for the “Submit Activity Report” button (in green) at the top of the Award Dashboard ({numref}`act_report`). Either enter the due date of the pending Activity Report or click “Continue with New Report.” Either option will take you to the Activity Report page. Enter the Reporting Period, Report Narrative, and Activity Report Metrics. If you have not completed any goals or objectives during the reporting period, leave the metrics section blank. Upload any deliverables at the bottom of the page. If you are ready to submit, click the red “Submit Report” button. You cannot undo submitting the report, so only click this button if the report is final. If you would like to save the report as a draft and come back to it, click the blue “Save & Close” button. If you have saved a draft, you can access it again in the “Award Activities” section.
 
 ```{figure} /figures/ecivis/act_report.png
 :name: act_report
