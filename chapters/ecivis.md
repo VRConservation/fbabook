@@ -28,7 +28,7 @@ eCivis system log-in page.
 
 ```{figure} /figures/ecivis/login2.png
 :name: login2
-The page that appears after logging into the eCivis platform.
+The eCivis platform post login page.
 ```
 
 Before beginning your application in eCivis, download all the required forms and templates you will fill out and upload as part of your complete application (e.g., Work Plan and Environmental Compliance Worksheet, State of California Payee Data Record, Non-Discrimination Compliance Statement). These are provided on the Grantee Resources section of the BWD program website and within the Files tab of the application portal access page ({numref}`files`). 
