@@ -18,3 +18,16 @@ Access the eCivis portal for the Business & Workforce Development Grant Program 
 :name: application
 Application process
 ```
+
+Creating an eCivis account is a multi-step process that requires you to create a profile first and then start a proposal. Logging in to eCivis is a two-step process, which requires you to log onto eCivis first {numref}`login`, and then log onto your application page each time you use the site {numref}`login2`.
+
+```{figure} /figures/ecivis/loging.png
+:name: login
+eCivis system log-in page.
+```
+
+```{figure} /figures/ecivis/login2.png
+:name: login2
+Application log-in page on eCivis that appears after you have logged onto eCivis platform.
+```
+
