@@ -48,15 +48,16 @@ Follow the process in the Grants Portal Application Submittal User [Guide](http:
 4. Goals (project)
 
 ```{note}
-**Regarding project goals**: To capture the goals you have included in your proposal, create them in a Word document first and then enter the same content on eCivis or take a screenshot of your completed Application Goals page before submitting your application. This way, you will have a record of the goals you submitted, which you will report on if awarded a grant. This section of the eCivis page cannot be downloaded. 
+**Regarding project goals**: To capture the goals you have included in your proposal, create them in a Word document first. Then, enter the same content on eCivis or take a screenshot of your completed Application Goals page before submitting your application. This way, you will have a record of the goals you submitted, which you will report on if awarded a grant. This section of the eCivis page cannot be downloaded. 
 ```
 
 ## eCivis Budget Tips
+The following tips may be considered when developing budgets and using eCivis:
 - Use the Excel sheet provided in the budget template on the website to start writing your budget. The template has a sheet that is automatically populated when you complete the other budget sheets. You can cut and paste the numbers from this template into eCivis. FBA created this to make it as easy as possible to go from calculating a budget in Excel to filling out the eCivis form.
 - Please refer to the project/proposal chapter of the FBA guide for tips on developing your budget and the relationship between budget and scope development.
 - Indirect costs are not eligible for grant budgets for most applicants. If you are applying on behalf of a non-profit, you may include indirect costs. If you have questions about indirect costs or how to include them in your grant budget, contact Forest Business Alliance (forestbusinessalliance@gmail.com) to discuss. 
 - Project budgets in eCivis are shown in categories such as Salaries & Wages, Contractual, Equipment, Supplies, etc. To enter budget items into each category, click on the category name (e.g., Salaries & Wages), which will bring up additional boxes to fill in.
-Line items will automatically calculate the unit and unit cost the first time you enter them. However, if you change one of these amounts, the line item will not automatically update. You will need to manually recalculate the Costs and, if applicable, the Cost Share.
+Line items automatically calculate the unit and unit cost the first time you enter them. However, the line item will not automatically update if you change one of these amounts. You will need to manually recalculate the Costs and, if applicable, the Cost Share.
 - Disregard “Extended Cost.” This will automatically show a cost, but it does not impact your grant budget and does not apply to this grant program. 
 - Budget Narrative
     - The budget narrative is entered at the bottom of the budget page on eCivis. 
