@@ -1,11 +1,12 @@
 # Table of contents
 
 format: jb-book
-root: intro
+root: index
 parts:
   - caption: Chapters
     numbered: True
     chapters:
+      - file: chapters/intro
       - file: chapters/program
       - file: chapters/project
       - file: chapters/monitoring2
