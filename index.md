@@ -12,6 +12,6 @@ jupyter:
     name: python3
 ---
 
-# Welcome to the Forest Business Guide Book
+# Welcome!
 
 ![cover](fba_cover.png)

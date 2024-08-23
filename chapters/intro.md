@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the Forest Business Alliance guide to forest product business development, implementation and measuring success.
+The Forest Business Alliance guide to forest product business development, implementation and measuring success.
 
 ## About
 
