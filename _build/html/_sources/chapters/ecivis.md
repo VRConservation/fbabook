@@ -31,10 +31,10 @@ eCivis system log-in page.
 The eCivis platform post login page.
 ```
 
-Before beginning your application in eCivis, download all the required forms and templates you will fill out and upload as part of your complete application (e.g., Work Plan and Environmental Compliance Worksheet, State of California Payee Data Record, Non-Discrimination Compliance Statement). These are provided on the Grantee Resources section of the BWD program website and within the Files tab of the application portal access page ({numref}`files`). 
+Before beginning your application in eCivis, download all the required forms and templates you will fill out and upload as part of your complete application (e.g., Work Plan and Environmental Compliance Worksheet, State of California Payee Data Record, Non-Discrimination Compliance Statement). These are provided on the Grantee Resources section of the BWD program website and within the Files tab of the application portal access page ({numref}`fig3`). 
 
-```{figure} /figures/ecivis/login2.png
-:name: files
+```{figure} /figures/ecivis/fig3.png
+:name: fig3
 Screenshot of CAL FIRE file downloads. Click on the file title to download the document(s) you need.
 ```
 
@@ -52,7 +52,9 @@ Follow the process in the Grants Portal Application Submittal User [Guide](http:
 ```
 
 ## eCivis Budget Tips
-- Use the Excel sheet provided in the budget template on the website to start writing your budget. The template has a sheet that is automatically populated when you complete the other budget sheets. You can cut and paste the numbers from this template into eCivis. FBA created this to make it as easy as possible to go from calculating a budget in Excel to filling out the eCivis form.
+We recommend the following when developing a budget with eCivis:
+
+- Use the Excel sheet provided in the budget template on the Forest Business Alliance [website](https://www.forestbusinessalliance.org) to start developing your budget. The template has a sheet that is automatically populated when you complete the other budget sheets. You can cut and paste the numbers from this template into eCivis. FBA created this to make it as easy as possible to go from calculating a budget in Excel to filling out the eCivis form.
 - Please refer to the project/proposal chapter of the FBA guide for tips on developing your budget and the relationship between budget and scope development.
 - Indirect costs are not eligible for grant budgets for most applicants. If you are applying on behalf of a non-profit, you may include indirect costs. If you have questions about indirect costs or how to include them in your grant budget, contact Forest Business Alliance (forestbusinessalliance@gmail.com) to discuss. 
 - Project budgets in eCivis are shown in categories such as Salaries & Wages, Contractual, Equipment, Supplies, etc. To enter budget items into each category, click on the category name (e.g., Salaries & Wages), which will bring up additional boxes to fill in.
