@@ -9,7 +9,7 @@ parts:
       - file: chapters/intro
       - file: chapters/program
       - file: chapters/project
-      - file: chapters/monitoring2
+      - file: chapters/monitoring
       - file: chapters/ecivis
       - file: chapters/funding
       - file: chapters/ceqa
