@@ -1,27 +1,32 @@
-# Measuring Success
-Measuring project success and learning from implementation is critical to long-term organizational and business viability. Yet monitoring, analyzing, and communicating project outcomes and success is rarely prioritized by organizations and infrequently funded by donors. Given these realities, how do you implement measurement, analysis, and sharing results on a capacity and funding shoestring? We walk you through a quick-step guide to get started.
-
-## Takeaways
-- **Develop the big picture first**. There is a tendency to jump straight to metrics and indicators before developing a theory of change and programmatic goals and objectives. Monitoring plans should consider the big picture, so go through the process of developing the program strategy first. However, once created, feel free to change items, such as false assumptions or critical pathways that don't reflect reality.
-- **Link assessment & learning**. Link your assessment or theory of change to your monitoring and learning, e.g., Theory -> Monitoring -> Learning.
-- **Take time to learn**. Build learning into our organizational culture. Plan a retreat to analyze results and write about project learning that you publish in blogs, posts, and journals. Build learning into project closing and developing new projects.
-- **Big investment/big rewards**. Building a successful measurement system takes time, staff capacity, and investment. However, the rewards are huge, and the cost dramatically decreases once the system is in place. Don’t fall into the trap of processing, analyzing, and sharing data near the end of a project or phase.
-- **Participatory research and measurement**. Partner with science-based organizations to increase your learning and expand capacity, or use citizen science to engage and connect the general public to your mission and collect data/demystify conservation science at the same time. Employing participatory approaches at all levels of evaluation also takes more time but makes for more meaningful, longer-lasting, and effective results in the long term.
+# Monitoring on a shoestring
+How to measure organizational and business success when you have little to no budget
 
 ## Background
-Monitoring and evaluation (M&E) are essential components of any successful project or program because they provide valuable insights into progress and effectiveness, which organizations use to:
+Monitoring, Evaluation, Accountability, and Learning (MEAL) is crucial for ensuring the effectiveness and success of projects, as well as long-term organizational and business viability. MEAL enables organizations to make informed decisions and adapt strategies in real time by 
 
-🎯 Ensure accountability and demonstrate results to stakeholders; <br>
-🎯 Inform decision-making for improved program management and quality; and <br>
-🎯 Provide information to generate revenue (fundraising, marketing, loans, etc.).
+🎯 Systematically tracking progress <br>
+🎯 Assessing outcomes and analyzing data <br>
+🎯 Maintaining transparency <br>
+🎯 Creating a culture of learning, sharing results, and creating opportunities to compare projects across landscapes, hopefully finding solutions to broader conservation challenges <br>
 
-Monitoring and evaluation (M&E) are essential components of any successful project or program because they provide valuable insights into progress and effectiveness, which organizations use to:
+This comprehensive approach helps identify and address issues early and fosters a culture of continuous improvement. Effective MEAL practices enhance accountability to stakeholders, ensure resources are used efficiently, and contribute to the overall sustainability and impact of projects. Despite the importance of MEAL, donors rarely provide adequate funding for it. Given this reality, you must find ways to implement MEAL with whatever resources—personnel, time, and budget—are available. This quick-step guide will get you started.
 
-- Ensure accountability and demonstrate results to stakeholders;
-- Inform decision-making for improved program management and quality; and
-- Provide information needed to generate revenue (e.g., fundraising, marketing, and loans.).
 
-While M&E is undoubtedly necessary, organizations, especially nonprofits and small businesses, often do not adequately implement it because of resource constraints—lack of personnel, time, and budget. This document outlines five strategies for implementing M&E with limited resources.
+```{admonition} Definitions 
+🔭 **Monitoring** involves tracking project activities and progress.<br>
+🔍 **Evaluation** assesses the effectiveness and impact of the project.<br>
+🧮 **Accountability** ensures that the project is transparent and responsible to stakeholders.<br>
+✏️ **Learning** refers to using insights from monitoring and evaluation to improve future projects and practices.
+```
+
+## Takeaways
+Key points to monitoring, evaluation, accountability, and learning on a shoestring:
+
+- **Big picture first**. There is a tendency to jump straight to metrics and indicators before developing a theory of change and programmatic goals and objectives. Monitoring plans should consider the big picture, so go through the process of developing the program strategy first. However, once created, feel free to change items, such as false assumptions or critical pathways that don't reflect reality.
+- **Assessment & learning**. Link your assessment or theory of change to your monitoring and learning, e.g., Theory -> Monitoring -> Learning.
+- **Time to learn**. Build learning into our organizational culture. Plan a retreat to analyze results and write about project learning that you publish in blogs, posts, and journals. Build learning into project closing and developing new projects.
+- **Big investment/big rewards**. Building a successful measurement system takes time, staff capacity, and investment. However, the rewards are huge, and the cost dramatically decreases once the system is in place. Don’t fall into the trap of processing, analyzing, and sharing data near the end of a project or phase.
+- **Participatory research and measurement**. Partner with science-based organizations to increase your learning and expand capacity, or use citizen science to engage and connect the general public to your mission and collect data/demystify conservation science at the same time. Employing participatory approaches at all levels of evaluation also takes more time but makes for more meaningful, longer-lasting, and effective results in the long term.
 
 ## Challenges
 Monitoring could be the subject written about the most but implemented the least in the nonprofit world. Why is this? The challenges involved give an insight:
@@ -75,12 +80,26 @@ Resources
 Recipes for Conservation. A summary of how to develop the conservation standards within or among organizations. The recipes have some valuable sections for businesses but are nonprofit and agency-focused.
 
 Open Standards for the Practice of Conservation. Developed by the Conservation Measures Partnership, the Open Standards combine the principles and best practices of evidence-based conservation, adaptive management, and other decision-support approaches. They bring together common concepts, approaches, and terminology in conservation project management to help improve conservation practice. 
-CRS MEL framework.
 
 ## Yugo vs. Cadillac
-What is the absolute bare-bones monitoring system that could be implemented (Yugo) vs. a higher-end deal (Cadillac)? We suggest a couple of examples in the Cadillac and Yugo dropdowns because everybody needs a Yugo sometime!
+What is the absolute bare-bones monitoring system that could be implemented (Yugo) vs. a higher-end deal (Cadillac)? We suggest a couple of examples in the pulldowns below. Both examples are hypothetical stand-thinning projects with prescribed fire applied periodically after thinning for maintenance. The project assumption is that thinning will lead to increased forest health and reduced high-intensity wildfires. Sometimes you just need a Yugo:
 
 ![yugo](https://i.imgur.com/UFL0rYa.png)
+
+```{admonition} Yugo Monitoring Methods Checklist
+:class: dropdown
+
+Intervention is stand thinning to reduce wildfire risk followed by regular prescribed fire treatments.
+
+1. Stand inventory by species and dbh every ten years using Kobo Toolbox and QGIS
+2. Photo witness posts at reference and treatment sites
+3. Total acres treated, total acres burned
+4. Total $s spent
+```
+
+And sometimes you need a Cadillac:
+
+![caddy](https://i.imgur.com/vKt4eQG.png)
 
 ```{admonition} Cadillac Monitoring Methods Checklist
 :class: dropdown
@@ -96,18 +115,8 @@ Intervention is stand thinning to reduce wildfire risk followed by regular presc
 7. Understory vegetation survey every five years
 ```
 
-```{admonition} Yugo Monitoring Methods Checklist
-:class: dropdown
-
-Intervention is stand thinning to reduce wildfire risk followed by regular prescribed fire treatments.
-
-1. Stand inventory by species and dbh every ten years using Kobo Toolbox and QGIS
-2. Photo witness posts at reference and treatment sites
-3. Total acres treated, total acres burned
-4. Total $s spent
-```
-
 ## Resources
 - **[Recipes for Conservation](http://gg.gg/1anhaa)**. A summary of how to develop the conservation standards within or among organizations. The recipes have some valuable sections for businesses but are nonprofit and agency-focused.
-- **[Pause & Reflect Toolkit](https://biodiversitylinks.org/library/resources/pause-and-reflect-toolkit.pdf/view)**.
+- **[Pause & Reflect Toolkit](https://biodiversitylinks.org/library/resources/pause-and-reflect-toolkit.pdf/view)**. Pause and reflect is an organizational stop and step back to reflect on what you're doing and why as well as an evaluation of how it's going. This toolkit provides project leaders with a centralized collection of resources, enabling them to find everything they need to lead and support a pause and reflect process. More pause and reflect guidance can be found at [Are you making an impact?](https://fosonline.org/library/are-you-making-an-impact-how-to-pause-reflect-adapt-to-achieve-your-goals).
 - **[Measures of Success](https://fosonline.org/library/measures/)**. Practical guide (in English and Spanish) for designing, planning, and implementing conservation projects. The Spanish version is a free download, and the English version, Measures of Success, is available for purchase from Island Press {cite}`measures`.
+- The **[Open Standards for the Practice of Conservation](http://gg.gg/1agk6k)**, developed by the Conservation Measures Partnership {cite}`cmp` is a definitive resource for program and project design.

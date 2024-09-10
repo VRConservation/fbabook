@@ -7,7 +7,7 @@ Monitoring, Evaluation, Accountability, and Learning (MEAL) is crucial for ensur
 🎯 Systematically tracking progress <br>
 🎯 Assessing outcomes and analyzing data <br>
 🎯 Maintaining transparency <br>
-🎯 Creating a culture of learning, sharing results and creating opportunities to compare projects across landscapes, hopefully finding solutions to broader conservation challenges <br>
+🎯 Creating a culture of learning, sharing results, and creating opportunities to compare projects across landscapes, hopefully finding solutions to broader conservation challenges <br>
 
 This comprehensive approach helps identify and address issues early and fosters a culture of continuous improvement. Effective MEAL practices enhance accountability to stakeholders, ensure resources are used efficiently, and contribute to the overall sustainability and impact of projects. Despite the importance of MEAL, donors rarely provide adequate funding for it. Given this reality, you must find ways to implement MEAL with whatever resources—personnel, time, and budget—are available. This quick-step guide will get you started.
 
@@ -82,7 +82,7 @@ Recipes for Conservation. A summary of how to develop the conservation standards
 Open Standards for the Practice of Conservation. Developed by the Conservation Measures Partnership, the Open Standards combine the principles and best practices of evidence-based conservation, adaptive management, and other decision-support approaches. They bring together common concepts, approaches, and terminology in conservation project management to help improve conservation practice. 
 
 ## Yugo vs. Cadillac
-What is the absolute bare-bones monitoring system that could be implemented (Yugo) vs. a higher-end deal (Cadillac)? We suggest a couple of examples in the pulldowns below. Both examples are a hypothetical stand thinning project with prescribed fire applied periodically after thinning for maintenance. The project assumption is that thinning will lead to increased forest health and reduced high intensity wildfire. Sometimes you just need a Yugo:
+What is the absolute bare-bones monitoring system that could be implemented (Yugo) vs. a higher-end deal (Cadillac)? We suggest a couple of examples in the pulldowns below. Both examples are hypothetical stand-thinning projects with prescribed fire applied periodically after thinning for maintenance. The project assumption is that thinning will lead to increased forest health and reduced high-intensity wildfires. Sometimes you just need a Yugo:
 
 ![yugo](https://i.imgur.com/UFL0rYa.png)
 
@@ -117,6 +117,6 @@ Intervention is stand thinning to reduce wildfire risk followed by regular presc
 
 ## Resources
 - **[Recipes for Conservation](http://gg.gg/1anhaa)**. A summary of how to develop the conservation standards within or among organizations. The recipes have some valuable sections for businesses but are nonprofit and agency-focused.
-- **[Pause & Reflect Toolkit](https://biodiversitylinks.org/library/resources/pause-and-reflect-toolkit.pdf/view)**.
+- **[Pause & Reflect Toolkit](https://biodiversitylinks.org/library/resources/pause-and-reflect-toolkit.pdf/view)**. Pause and reflect is an organizational stop and step back to reflect on what you're doing and why as well as an evaluation of how it's going. This toolkit provides project leaders with a centralized collection of resources, enabling them to find everything they need to lead and support a pause and reflect process. More pause and reflect guidance can be found at [Are you making an impact?](https://fosonline.org/library/are-you-making-an-impact-how-to-pause-reflect-adapt-to-achieve-your-goals).
 - **[Measures of Success](https://fosonline.org/library/measures/)**. Practical guide (in English and Spanish) for designing, planning, and implementing conservation projects. The Spanish version is a free download, and the English version, Measures of Success, is available for purchase from Island Press {cite}`measures`.
-- The [Open Standards for the Practice of Conservation](http://gg.gg/1agk6k), developed by the Conservation Measures Partnership {cite}`cmp` is a definitive resource for program and project design.
+- The **[Open Standards for the Practice of Conservation](http://gg.gg/1agk6k)**, developed by the Conservation Measures Partnership {cite}`cmp` is a definitive resource for program and project design.
