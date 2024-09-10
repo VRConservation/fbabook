@@ -1,10 +1,17 @@
 # Measuring Success
-Measuring project success and learning from implementation is critical to long-term organizational and business viability. Yet monitoring, analyzing, and communicating project outcomes and success is rarely prioritized by organizations and infrequently funded by donors. Given these realities, how do you implement measurement, analysis, and sharing results on a capacity and funding shoestring? We walk you through a quick-step guide to get started.
+Monitoring, Evaluation, Accountability, and Learning (MEAL) is crucial for ensuring the effectiveness and success of projects, as well as long-term organizational and business viability. MEAL enables organizations to make informed decisions and adapt strategies in real time by systematically tracking progress, assessing outcomes, and maintaining transparency. This comprehensive approach helps identify and address issues early and fosters a culture of continuous improvement. Effective MEAL practices enhance accountability to stakeholders, ensure resources are used efficiently, and contribute to the overall sustainability and impact of projects. Despite the importance of MEAL, donors rarely provide adequate funding for it. Given this reality, you must find ways to implement MEAL with whatever resources - personnel, time, and budget - are available. This quick-step guide will get you started.
+
+```{admonition} Definitions 
+**Monitoring** involves tracking project activities and progress.
+**Evaluation** assesses the effectiveness and impact of the project.
+**Accountability** ensures that the project is transparent and responsible to stakeholders.
+**Learning** refers to using insights from monitoring and evaluation to improve future projects and practices.
+```
 
 ## Takeaways
-- **Develop the big picture first**. There is a tendency to jump straight to metrics and indicators before developing a theory of change and programmatic goals and objectives. Monitoring plans should consider the big picture, so go through the process of developing the program strategy first. However, once created, feel free to change items, such as false assumptions or critical pathways that don't reflect reality.
-- **Link assessment & learning**. Link your assessment or theory of change to your monitoring and learning, e.g., Theory -> Monitoring -> Learning.
-- **Take time to learn**. Build learning into our organizational culture. Plan a retreat to analyze results and write about project learning that you publish in blogs, posts, and journals. Build learning into project closing and developing new projects.
+- **Big picture first**. There is a tendency to jump straight to metrics and indicators before developing a theory of change and programmatic goals and objectives. Monitoring plans should consider the big picture, so go through the process of developing the program strategy first. However, once created, feel free to change items, such as false assumptions or critical pathways that don't reflect reality.
+- **Assessment & learning**. Link your assessment or theory of change to your monitoring and learning, e.g., Theory -> Monitoring -> Learning.
+- **Time to learn**. Build learning into our organizational culture. Plan a retreat to analyze results and write about project learning that you publish in blogs, posts, and journals. Build learning into project closing and developing new projects.
 - **Big investment/big rewards**. Building a successful measurement system takes time, staff capacity, and investment. However, the rewards are huge, and the cost dramatically decreases once the system is in place. Don’t fall into the trap of processing, analyzing, and sharing data near the end of a project or phase.
 - **Participatory research and measurement**. Partner with science-based organizations to increase your learning and expand capacity, or use citizen science to engage and connect the general public to your mission and collect data/demystify conservation science at the same time. Employing participatory approaches at all levels of evaluation also takes more time but makes for more meaningful, longer-lasting, and effective results in the long term.
 
