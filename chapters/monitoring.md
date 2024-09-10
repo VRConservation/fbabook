@@ -13,10 +13,10 @@ This comprehensive approach helps identify and address issues early and fosters 
 
 
 ```{admonition} Definitions 
-**Monitoring** involves tracking project activities and progress.<br>
-**Evaluation** assesses the effectiveness and impact of the project.<br>
-**Accountability** ensures that the project is transparent and responsible to stakeholders.<br>
-**Learning** refers to using insights from monitoring and evaluation to improve future projects and practices.
+🔭 **Monitoring** involves tracking project activities and progress.<br>
+🔍 **Evaluation** assesses the effectiveness and impact of the project.<br>
+🧮 **Accountability** ensures that the project is transparent and responsible to stakeholders.<br>
+✏️ **Learning** refers to using insights from monitoring and evaluation to improve future projects and practices.
 ```
 
 ## Takeaways
