@@ -38,7 +38,7 @@ Before beginning your application in eCivis, download all the required forms and
 Screenshot of CAL FIRE file downloads. Click on the file title to download the document(s) you need.
 ```
 
-1. Don’t forget to access and use the templates on the [Forest Business Alliance website](https://www.forestbusinessalliance.org/general-5). FBA team members are available to assist you with this. Contact us at forestbusinessalliance@gmail.com if you have questions or need further assistance. 
+1. Don’t forget to access and use the templates in the [Forest Business Alliance website](https://www.forestbusinessalliance.org/general-5). FBA team members are available to assist you with this. Contact us at forestbusinessalliance@gmail.com if you have questions or need further assistance. 
 2. The Forest Business Alliance’s guidebook [Chapter](https://forestbiz.info/chapters/project.html) on project and proposal development would be helpful at this stage for organizing your proposal narrative and budget development workflow. Before you start a proposal, review the chapter to establish how your proposed project fits into your business or strategic plan.
 
 Follow the process in the Grants Portal Application Submittal User [Guide](http://gg.gg/1bt39w), which will take you step-by-step through creating an account and completing an application. This guide also provides a helpful overview of all application components:
