@@ -2,9 +2,9 @@
 Monitoring, Evaluation, Accountability, and Learning (MEAL) is crucial for ensuring the effectiveness and success of projects, as well as long-term organizational and business viability. MEAL enables organizations to make informed decisions and adapt strategies in real time by systematically tracking progress, assessing outcomes, and maintaining transparency. This comprehensive approach helps identify and address issues early and fosters a culture of continuous improvement. Effective MEAL practices enhance accountability to stakeholders, ensure resources are used efficiently, and contribute to the overall sustainability and impact of projects. Despite the importance of MEAL, donors rarely provide adequate funding for it. Given this reality, you must find ways to implement MEAL with whatever resources - personnel, time, and budget - are available. This quick-step guide will get you started.
 
 ```{admonition} Definitions 
-**Monitoring** involves tracking project activities and progress.
-**Evaluation** assesses the effectiveness and impact of the project.
-**Accountability** ensures that the project is transparent and responsible to stakeholders.
+**Monitoring** involves tracking project activities and progress.<br>
+**Evaluation** assesses the effectiveness and impact of the project.<br>
+**Accountability** ensures that the project is transparent and responsible to stakeholders.<br>
 **Learning** refers to using insights from monitoring and evaluation to improve future projects and practices.
 ```
 
