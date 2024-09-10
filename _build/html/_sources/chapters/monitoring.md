@@ -1,5 +1,16 @@
-# Measuring Success
-Monitoring, Evaluation, Accountability, and Learning (MEAL) is crucial for ensuring the effectiveness and success of projects, as well as long-term organizational and business viability. MEAL enables organizations to make informed decisions and adapt strategies in real time by systematically tracking progress, assessing outcomes, and maintaining transparency. This comprehensive approach helps identify and address issues early and fosters a culture of continuous improvement. Effective MEAL practices enhance accountability to stakeholders, ensure resources are used efficiently, and contribute to the overall sustainability and impact of projects. Despite the importance of MEAL, donors rarely provide adequate funding for it. Given this reality, you must find ways to implement MEAL with whatever resources - personnel, time, and budget - are available. This quick-step guide will get you started.
+# Monitoring on a shoestring
+How to measure organizational and business success when you have little to no budget
+
+## Background
+Monitoring, Evaluation, Accountability, and Learning (MEAL) is crucial for ensuring the effectiveness and success of projects, as well as long-term organizational and business viability. MEAL enables organizations to make informed decisions and adapt strategies in real time by 
+
+🎯 Systematically tracking progress <br>
+🎯 Assessing outcomes and analyzing data <br>
+🎯 Maintaining transparency <br>
+🎯 Creating a culture of learning, sharing results and creating opportunities to compare projects across landscapes, hopefully finding solutions to broader conservation challenges <br>
+
+This comprehensive approach helps identify and address issues early and fosters a culture of continuous improvement. Effective MEAL practices enhance accountability to stakeholders, ensure resources are used efficiently, and contribute to the overall sustainability and impact of projects. Despite the importance of MEAL, donors rarely provide adequate funding for it. Given this reality, you must find ways to implement MEAL with whatever resources—personnel, time, and budget—are available. This quick-step guide will get you started.
+
 
 ```{admonition} Definitions 
 **Monitoring** involves tracking project activities and progress.<br>
@@ -9,20 +20,13 @@ Monitoring, Evaluation, Accountability, and Learning (MEAL) is crucial for ensur
 ```
 
 ## Takeaways
+Key points to monitoring, evaluation, accountability, and learning on a shoestring:
+
 - **Big picture first**. There is a tendency to jump straight to metrics and indicators before developing a theory of change and programmatic goals and objectives. Monitoring plans should consider the big picture, so go through the process of developing the program strategy first. However, once created, feel free to change items, such as false assumptions or critical pathways that don't reflect reality.
 - **Assessment & learning**. Link your assessment or theory of change to your monitoring and learning, e.g., Theory -> Monitoring -> Learning.
 - **Time to learn**. Build learning into our organizational culture. Plan a retreat to analyze results and write about project learning that you publish in blogs, posts, and journals. Build learning into project closing and developing new projects.
 - **Big investment/big rewards**. Building a successful measurement system takes time, staff capacity, and investment. However, the rewards are huge, and the cost dramatically decreases once the system is in place. Don’t fall into the trap of processing, analyzing, and sharing data near the end of a project or phase.
 - **Participatory research and measurement**. Partner with science-based organizations to increase your learning and expand capacity, or use citizen science to engage and connect the general public to your mission and collect data/demystify conservation science at the same time. Employing participatory approaches at all levels of evaluation also takes more time but makes for more meaningful, longer-lasting, and effective results in the long term.
-
-## Background
-Monitoring and evaluation (M&E) are essential components of any successful project or program because they provide valuable insights into progress and effectiveness, which organizations use to:
-
-🎯 Ensure accountability and demonstrate results to stakeholders; <br>
-🎯 Inform decision-making for improved program management and quality; and <br>
-🎯 Provide information to generate revenue (fundraising, marketing, loans, etc.).
-
-While M&E is undoubtedly necessary, organizations, especially nonprofits and small businesses, often do not adequately implement it because of resource constraints—lack of personnel, time, and budget. This document outlines five strategies for implementing M&E with limited resources.
 
 ## Challenges
 Monitoring could be the subject written about the most but implemented the least in the nonprofit world. Why is this? The challenges involved give an insight:
