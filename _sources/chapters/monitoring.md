@@ -1,5 +1,5 @@
-# Monitoring on a shoestring
-How to measure organizational and business success when you have little to no budget
+# Monitoring
+How to measure organizational and business success on a shoestring or when you have little to no budget
 
 ## Background
 Monitoring, Evaluation, Accountability, and Learning (MEAL) is crucial for ensuring the effectiveness and success of projects, as well as long-term organizational and business viability. MEAL enables organizations to make informed decisions and adapt strategies in real time by 
