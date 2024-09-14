@@ -1,5 +1,5 @@
-# Monitoring on a shoestring
-How to measure organizational and business success when you have little to no budget
+# Monitoring
+How to measure organizational and business success on a shoestring or when you have little to no budget
 
 ## Background
 Monitoring, Evaluation, Accountability, and Learning (MEAL) is crucial for ensuring the effectiveness and success of projects, as well as long-term organizational and business viability. MEAL enables organizations to make informed decisions and adapt strategies in real time by 
@@ -64,6 +64,16 @@ Participatory approaches may also employ apps to crowd-source data and engage ke
 Technology offers cost-effective and time-saving data collection, analysis, and reporting solutions. There are many open-source and low-cost software, mobile applications, and digital platforms that can streamline M&E data collection, facilitate data analysis, and enhance data visualization (See Russell, 2024). For instance, a conservation organization might use a mobile data app such as Survey123, QField, or Kobo Toolbox to collect real-time forest health indicators, utilize GIS software such as ArcGIS Pro and QGIS to analyze, and use cloud-based platforms to store data, eliminating manual data entry and paper-based reporting. App-based data collection also allows multiple users to collect and input data.
 
 ArcGIS Survey 123, from ESRI, is a good example of a mobile app for field data collection and mapping. It can be customized to collect various forest metrics such as tree species, diameter at breast height (DBH), and tree condition, and this information can be fed directly into ArcGIS software. It is easy to use and synchs effortlessly to your desktop or online GIS software. However, it does require a subscription, which can be expensive for some organizations.
+
+```{admonition} Emerging low-cost, high-tech monitoring options
+:class: dropdown
+
+Traditional methods for monitoring forestry, ecology, and fuels can be expensive, time-consuming, and prone to errors when deployed at scale. Additionally, conventional methods can be slow to implement, limiting their usefulness in detecting new ecological changes, and they often do not provide data with enough precision or in a format that can be easily analyzed without extensive human systematization. Despite these limitations, many forest managers continue to use traditional methods because high-tech methods have historically been too costly to deploy. Fortunately, relevant technologies – including terrestrial laser scanning (TLS) and unmanned aerial vehicle (UAV)-borne light detection and ranging (LIDAR) systems – are rapidly becoming affordable options due to advancements in manufacturing processes, increased competition, and economies of scale.
+
+USDA and USFWS researchers have successfully demonstrated using relatively low-cost (~25,000 USD), off-the-shelf TLS units like the Leica BLK360 for forest monitoring {cite}`pokswinski`. Their methodology combines TLS calibrated using traditional, physically sampled forest conditions to simplify and accelerate the extraction of forestry, fuels, and ecological data from a single TLS point cloud. It streamlines data collection, reduces sampling bias, and generates easily processed data for improved modeling and decision-making. 
+
+Other researchers have developed a very low-cost system (~1,500 USD) that integrates DJI Livox MID40 laser scanner with an off-the-shelf UAV, and evaluated its capability in estimating both individual tree-level and plot-level forest inventory attributes {cite}`hu`. They comprehensively compared their low-cost and four high-end UAV lidar systems equipped with high-end laser scanners to survey coniferous and broadleaved forest sites. The DJI Livox MID40 system performed comparably to the more expensive systems. Forest researchers and managers will find it hard to resist as technology improves and becomes even cheaper.
+```
  
 ### Build Internal Capacity
 Consider training existing staff to build internal M&E capacity, reducing your reliance on costly external consultants and service providers. By equipping staff with the necessary skills and knowledge, organizations can conduct M&E activities in-house, saving costs and ensuring sustainability. A small non-profit organization might provide M&E training workshops for its staff, empowering them to design surveys, analyze data, and generate reports independently, enhancing organizational efficiency and effectiveness.
@@ -79,10 +89,10 @@ Resources
 
 Recipes for Conservation. A summary of how to develop the conservation standards within or among organizations. The recipes have some valuable sections for businesses but are nonprofit and agency-focused.
 
-Open Standards for the Practice of Conservation. Developed by the Conservation Measures Partnership, the Open Standards combine the principles and best practices of evidence-based conservation, adaptive management, and other decision-support approaches. They bring together common concepts, approaches, and terminology in conservation project management to help improve conservation practice. 
+Open Standards for the Practice of Conservation. Developed by the Conservation Measures Partnership, the Open Standards combine the principles and best practices of evidence-based conservation, adaptive management, and other decision-support approaches. They combine common concepts, methods, and terminology in conservation project management to help improve conservation practice. 
 
 ## Yugo vs. Cadillac
-What is the absolute bare-bones monitoring system that could be implemented (Yugo) vs. a higher-end deal (Cadillac)? We suggest a couple of examples in the pulldowns below. Both examples are hypothetical stand-thinning projects with prescribed fire applied periodically after thinning for maintenance. The project assumption is that thinning will lead to increased forest health and reduced high-intensity wildfires. Sometimes you just need a Yugo:
+What is the absolute bare-bones monitoring system that could be implemented (Yugo) vs. a higher-end deal (Cadillac)? We suggest a couple of examples in the pulldowns below. Both examples are hypothetical stand-thinning projects with prescribed fire applied periodically after thinning for maintenance. The project assumption is that thinning will lead to increased forest health and reduced high-intensity wildfires. Sometimes you need a Yugo:
 
 ![yugo](https://i.imgur.com/UFL0rYa.png)
 
@@ -119,4 +129,4 @@ Intervention is stand thinning to reduce wildfire risk followed by regular presc
 - **[Recipes for Conservation](http://gg.gg/1anhaa)**. A summary of how to develop the conservation standards within or among organizations. The recipes have some valuable sections for businesses but are nonprofit and agency-focused.
 - **[Pause & Reflect Toolkit](https://biodiversitylinks.org/library/resources/pause-and-reflect-toolkit.pdf/view)**. Pause and reflect is an organizational stop and step back to reflect on what you're doing and why as well as an evaluation of how it's going. This toolkit provides project leaders with a centralized collection of resources, enabling them to find everything they need to lead and support a pause and reflect process. More pause and reflect guidance can be found at [Are you making an impact?](https://fosonline.org/library/are-you-making-an-impact-how-to-pause-reflect-adapt-to-achieve-your-goals).
 - **[Measures of Success](https://fosonline.org/library/measures/)**. Practical guide (in English and Spanish) for designing, planning, and implementing conservation projects. The Spanish version is a free download, and the English version, Measures of Success, is available for purchase from Island Press {cite}`measures`.
-- The **[Open Standards for the Practice of Conservation](http://gg.gg/1agk6k)**, developed by the Conservation Measures Partnership {cite}`cmp` is a definitive resource for program and project design.
+- The **[Open Standards for the Practice of Conservation](http://gg.gg/1agk6k)**, developed by the Conservation Measures Partnership {cite}`cmp`, is a definitive resource for program and project design.
