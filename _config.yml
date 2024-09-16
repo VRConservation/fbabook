@@ -31,3 +31,13 @@ html:
   use_issues_button: true
   use_repository_button: true
   favicon: "fba-square.png"
+
+# Sphinx settings
+sphinx:
+  config:
+    html_extra_path: ["CNAME"]
+
+    bibtex_reference_style: author_year
+
+bibtex_bibfiles:
+  - chapters/references.bib  
