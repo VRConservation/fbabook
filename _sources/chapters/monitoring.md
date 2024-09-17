@@ -36,6 +36,7 @@ Monitoring could be the subject written about the most but implemented the least
 - Your organization doesn’t have staff capacity or applied scientists who can conduct monitoring.
 - Project funding doesn't include monitoring, and it can be costly.
 - It could demonstrate that your theory of change, project assumptions/interventions, or organizational mission is incorrect. That's a big elephant in the room.
+- Your organization lacks a learning culture.
 
 ## Solutions
 How can these challenges be overcome without requiring massive institutional investment and resources? Let’s start with the big picture of starting with the whole and work through other recommendations.
