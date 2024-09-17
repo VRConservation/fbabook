@@ -191,7 +191,7 @@ Table 1: The distribution of percent of the total population by Federal Poverty 
 Merging poverty and private land data together, we see that using the 20%+ threshold, about 38,716,802 million acres (or 77%) of private land is in “high poverty.” Using the 40%+ threshold, about 17,098,382 million acres (or 34%) of private land is in “extreme poverty.” {numref}`fig5`
 
 ```{figure} /figures/resiliencefigs/fig5.png
-:height: 500px
+:height: 300px
 :name: fig5
 Sum of total and private acres by poverty rate.
 ```
@@ -221,7 +221,7 @@ Table 2: Population % in poverty on private lands.
 | 90-100% | 1,586 | 1,580 | 100% |
 | Total | 104,764,212 | 50,279,524 |     |
 
-Table 3: Counties that had at least 1 million private land acres or more in High Poverty or at least 500,000 private land acres in Extreme Poverty. Table is pre-sorted by largest to smallest for Extreme Poverty. Numbers in acres. A map of the same is shown in {numref}`fig8`.
+Table 3: Counties that had at least 1 million private land acres or more in High Poverty or at least 500,000 private land acres in Extreme Poverty. Table is pre-sorted by largest to smallest for Extreme Poverty. Numbers in acres. A map of the same is shown in {numref}`fig7`.
 
 | Counties | High Poverty | Extreme Poverty |
 | --- | ---: | ---: |
