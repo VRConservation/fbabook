@@ -7,7 +7,7 @@ This chapter explores the forest restoration needs within low-income and underse
 
 Our analysis synthesizes poverty and socioeconomic data from datasets at a census-tract and count level. To assess forest restoration needs, we utilized data from CAL FIRE’s Vegetation Treatment Plan to identify areas for land and forest treatment to address fire risk and mitigation efforts. By merging these datasets with GIS analysis and performing data analysis, we shed light on the low-income communities and regions most in need of support for forest health treatments.
 
-Our findings are as follows: Of California’s 17.9 million acres of private land that’s treatable, **14.5 million acres are in high poverty counties (poverty rates exceed 20%) and 4.7 million acres are in extreme poverty counties (where poverty rates exceed 40%)**. That’s one-third of identified regions with wildfire treatment needs that are in extreme poverty locations (and 80% in high poverty areas). Six counties make up 53% of treatable land in extreme poverty zones (Tehama, Mendocino, Humboldt, Kern, Siskiyou, Shasta) - they cumulatively have 2.5 million acres.
+Our findings are as follows: Of California’s 17.9 million acres of private land that’s treatable, **14.5 million acres are in high poverty counties (poverty rates exceed 20%) and 4.7 million acres are in extreme poverty counties (where poverty rates exceed 40%)**. That’s one-third of identified regions with wildfire treatment needs that are in extreme poverty locations (and 80% in high poverty areas). Six counties make up 53% of treatable land in extreme poverty zones (Tehama, Mendocino, Humboldt, Kern, Siskiyou, Shasta)—they cumulatively have 2.5 million acres.
 
 This comprehensive approach illuminates the intersection of socio-economic vulnerability and environmental priorities, underscoring the areas where additional funding and resources are essential to meet California’s state objectives for forest management and community resilience.
 
@@ -48,8 +48,112 @@ Some programs currently available to private landowners include:
 - My Sierra Woods: an American Forest Foundation program that provides financial aid to family forest landowners in Northern California.[^23]
 -	 A partnership with CAL FIRE, USFS, USDA Natural Resources Conservation Services, the American Forest Foundation, The Nature Conservancy, and UC Cooperative Extension is working to create a comprehensive program that assists small landowners in forest treatment and post-fire recovery. 
 
-Despite significant efforts, California's wildfire resilience strategy faces two major gaps: limited state funding and a lack of a common framework or shared goals [^24]. These gaps are critical, since not all regions have equal access to capital and resources necessary for effective wildfire management. Additionally, federal programs often require upfront capital from private landowners, posing challenges for those unable to afford restoration and management costs.
+Despite significant efforts, California's wildfire resilience strategy faces two major gaps: limited state funding and a lack of a common framework or shared goals.[^24] These gaps are critical, since not all regions have equal access to capital and resources necessary for effective wildfire management. Additionally, federal programs often require upfront capital from private landowners, posing challenges for those unable to afford restoration and management costs.
 
+## Research Methods & Approach
+The following section outlines methods and approach to the study.
+
+### Objective
+This research investigates the overlap of identified wildfire treatment needs and low-income communities. While it is well-established that wildfires disproportionately affect low-income communities, it is crucial to understand the extent to which California's fire reduction strategies and treatments currently cover private low-income lands. Previous studies have examined the relationship between populations and communities and past wildfires, but few have analyzed this issue at the acreage and census tract level with respect to opportunities and solutions, i.e., identified treatable lands.[^25] By focusing on the spatial distribution of wildfire treatment areas in low-income regions, this research aims to design more effective local solutions that target the most vulnerable communities. Understanding the acreage of treatment in these areas is essential for developing targeted strategies that not only mitigate wildfire risks but also address the underlying socioeconomic disparities.
+
+### Land Ownership Dataset
+We examine California’s land ownership profile through CAL FIRE’s California [Land Ownership dataset](https://data.ca.gov/dataset/california-land-ownership) and the California [Census Tract Dataset](https://koordinates.com/layer/96035-california-us-census-tracts/). These lands were identified as public acres using the CPAD (California Protected Areas Database), BIA (Bureau of Indian Affairs), DOD (Department of Defense), and FWS (The Fish and Wildlife Service).[^26] [^27] This dataset excludes following lands: lands under FWS leases or easement (excludes lands managed by FWS but not owned by FWS); BIA areas that represent mineral rights; CPAD areas that are privately owned (e.g., HOAs).
+
+As with most datasets, there are known gaps and discrepancies. One such gap is that there are missing BOR, ACE, and Navy lands that were not in CPAD nor DOD MIRTA datasets. Because this dataset is used to identify private lands, this gap may result in a slight overestimation of private land acreage. Additionally, due to data transformations and processes, there may be other data discrepancies. Nonetheless, the results are generally sound and within an acceptable range. For these data points, checks were available through online queries.[^28]
+
+In this research paper, we examine different variables (treatment lands and poverty) on private lands only. The Private Lands dataset was created by subtracting public lands from California’s total acres.
+
+### Poverty Dataset
+The poverty data used in this research comes from the [CalEnviroScreen4.](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40), which was created by the California Office of Environmental Health Hazard Assessment (OEHHA) to “identify communities that are disproportionately burdened by multiple sources of pollution”.[^29]
+
+- **OEHHA’s Poverty indicator Definition**: This is the percent of the population living below 2 times the federal poverty level (from a 5-year estimate for the years 2015-2019).[^30] This primary source for this data is the American Community Survey- US Census Bureau, which uses income thresholds based on family size to determine poverty level. It is important to note that OEHHA used a poverty threshold that’s 2 times the federal poverty level because California has a higher cost of living than most states. This is to account for the fact that methodology for determining federal poverty has not changed in the past 40+ years. NOTE: In this research, Poverty Rate = Population % in Poverty.
+
+- **Poverty Population Threshold: High Poverty 20%; Extreme Poverty 40%**. The USDA defines areas of “high poverty” as those with a poverty rate of 20%+ and “extreme poverty” as those with a poverty rate of 40%+.[^31] For this research, we will be examining in more detail areas that have 40%+ of the population in poverty since those are areas for high impact and need. 
+
+### Treatable Lands Dataset
+The CAL Vegetation Treatment Program Environmental Impact Report and dataset (California Vegetation Treatable Landscape) identifies treatable landscapes that would increase California’s wildfire resilience. This dataset uses the defined SRA (State Responsibility Areas) for which CAL FIREis legally responsible to provide Fire Protection to [^32] and wildland urban interface areas (WUI) and breaks it into vegetation types as identified by the California Wildlife Habitat Relationship (CWHR) system. Three levels of analysis were done to produce the final dataset which identified 20-23M acres of treatable lands within SRA’s 30M acres.[^33] Currently only 250,000 acres are annually treated; however, the goal is to increase the pace and scale of treatment to 500,000 acres annually.[^34]
+
+This dataset includes federal, public, and private lands (private lands adjacent to urban developments and in rural and undeveloped areas [^35]) but excludes the following types of land:
+- Vegetation types that have low or negligible wildfire risk (estuarine, wet meadows)[^36] 
+- Agricultural lands (since it is outside of SRA)[^37]
+
+The Treatable Lands Dataset includes the following definitions:
+
+**Treatment Definition**: Treatment includes “prescribed burning, mechanical treatment, manual treatments, herbicide application, and prescribed herbivory to reduce hazardous vegetation”, constructing fuel breaks, and ecological restoration.[^38]  
+
+**Treatment Overlap % Definition**: The treatable land dataset was overlapped with private land  ownership dataset (at a census tract level) to identify how much of private land was treatable. This proportion of treatable private land is defined in this research as Treatment Overlap %. 
+
+### Methodology
+QGIS was used for spatial analysis and all numerical analysis and data transformations were performed in Excel and Python. Almost all datasets had broken geometries and required geometry repairs. Data transformations were also performed to ensure that all datasets used the same coordinate systems and that the data was cleaned before performing analysis. This process may have resulted in data discrepancies. To address this, multiple and various types of checks were performed throughout the process to ensure that the results were within an acceptable range.
+
+## Key Findings
+This research has identified several critical insights that underscore the complex relationship between wildfire treatment needs and economic vulnerability in California. In doing so, it has also provided a way to identify high impact opportunity areas where financial assistance might have a greater socio-economic and environmental impact.
+
+California is about 104.7 million acres, of which 54 million acres (52% of the state) are public lands and about 50 million acres (48% of the state) are private lands. The total acreage of private lands that are treatable for wildfire reduction is: 17,966,967 acres (3,620,887 acres on public lands).
+
+Bivariate choropleth graph below only highlights the extreme poverty areas that have at least 40%+ overlap with treatment lands. This important intersection of treatment and economic need is represented in purple.
+
+For a higher level view of what counties have these high impact opportunity areas, see the county level map below (where the darker the purple the greater the treatable private acreage in that extreme poverty region).
+
+Below is a table that shows the top 10 California counties with the largest total treatable private acres in extreme poverty.
+
+The study had the following key findings:
+- There are approximately **18 million acres of private land in need of wildfire treatment** across the state.
+- 15 Million acres, or **86% of all treatable lands are concentrated in High Poverty Areas** (where the poverty rate exceeds 20%).
+- Nearly **5 million acres, about 30% of all treatable lands, are concentrated in Extreme Poverty zones** (where the poverty rate exceeds 40%).
+- **Six counties make up 53% of treatable land in Extreme Poverty Zones** (Tehama, Mendocino, Humboldt, Kern, Siskiyou, Shasta) cumulatively totalling 2.5 million acres.
+- **Tehama County has the most treatable land** (329,876 acres) in the extreme poverty category.
+
+## Next Steps
+The research confirms that low-income and underserved communities are critical in the fight against wildfires. They comprise a majority of the opportunity in private lands where treatment has been identified as necessary. These communities, however, are often less equipped to recover and adapt, exacerbating their vulnerability. Such research can guide capital to be allocated more effectively by focusing resources on high-need areas and implementing strategies that address both environmental and socio-economic vulnerabilities:
+
+- **Targeted Investment in High-Risk Areas**: Directing funds towards counties and census tracts with the highest concentration of treatable private lands in high and extreme poverty areas can maximize the impact of wildfire reduction efforts. By prioritizing these high-risk regions, capital can be used more efficiently to reduce fire hazards and enhance community resilience.
+- **Incentivizing Private Landowners**: Developing financial incentives and support programs for private landowners, particularly those in economically disadvantaged areas, can encourage more widespread adoption of wildfire mitigation practices. Grants, low-interest loans, and tax incentives could be tailored to support landowners in implementing prescribed burns, mechanical treatments, and other fire reduction strategies.
+- **Community-Led Stewardship Programs**: Investing in community-led stewardship programs can empower local residents, especially in low-income communities, to take an active role in wildfire prevention and land management. These programs can provide training, resources, and support to foster local expertise and ownership of fire resilience initiatives.
+- **Health and Economic Support**: Allocating funds to address the health and economic impacts of wildfires on low-income communities is crucial. This includes supporting healthcare services, improving air quality, and providing economic assistance to those affected by repeated fire events. These measures can help communities recover more quickly and build long-term resilience.
+- **Collaborative Public-Private Partnerships**: Encouraging collaboration between government entities, non-profit organizations, and private landowners can lead to more comprehensive and effective wildfire management strategies. Public-private partnerships can leverage diverse resources and expertise to implement large-scale, coordinated efforts that address both environmental and social challenges.
+- **Data-Driven Decision Making**: Utilizing detailed data on land ownership, poverty levels, and wildfire risks can enhance the precision of funding allocations. By continuously updating and refining this data, stakeholders can ensure that resources are directed to the areas of greatest need and potential impact.
+
+## Future Research
+Future research should delve deeper into several areas to enhance understanding and inform policy and intervention strategies:
+
+- **Granular Data on Private Landowners**: More detailed demographic data on private landowners, particularly distinguishing between industrial and non-industrial landowners, would provide a clearer picture of who controls treatable lands. This in turn can aid in structuring financial incentives, policies, and products for specific stakeholders within the larger private landowner group.
+- **Spatial Health Impact Studies**: Investigating the long-term health impacts of repeated wildfire exposure on low-income communities can offer insights into necessary public health interventions in conjunction with wildfire reduction efforts.
+- **Types of Wildfire Reduction Treatments**: Utilizing more granular information on the different treatment types across geographies can help evaluate the effectiveness of existing wildfire reduction treatments on private lands, especially in high and extreme poverty areas. It may guide strategists on identifying best practices and areas needing changes.
+- **Economic Resilience Measures**: Studying the economic resilience of low-income communities post-wildfire events to develop targeted support mechanisms that can help these communities recover and adapt more effectively. This pairs wonderfully with examining reforestation needs post-wildfire and how low-income communities can participate in recovery and climate resiliency.
+- **Policy and Funding Impact**: Analyzing the impact of current policies and funding on the implementation of wildfire treatment strategies, with a focus on increasing resources and access for low-income communities.
+
+## Conclusion
+The challenges faced by California's diverse ecosystems are compounded by the increasing frequency and intensity of wildfires, driven by climate change. This research illuminates the critical intersection between wildfire treatment needs and economic vulnerability, emphasizing the urgent need for targeted interventions.
+
+Low-income and underserved communities are disproportionately affected by wildfires, experiencing higher health and economic burdens. However, they also hold potential as key players in mitigating wildfire risks through community-led stewardship and restoration efforts. By aligning wildfire treatment strategies with socio-economic resilience measures, California can better safeguard both its natural landscapes and its most vulnerable populations. Future studies and policy developments should prioritize these high-risk, high-need areas to foster a more equitable and effective approach to wildfire management and climate adaptation.
+
+## Appendices
+
+### Appendix 1: Private Land
+Restoration efforts are readily implemented on California’s public lands (which range from 47%-52% of the state [^39]) however, given that the remainder of the state is in the hands of private landowners, government entities and organizations must collaborate with these stakeholders to implement wildfire reduction and climate mitigation solutions. Private landowners can be further broken down into industrial and non-industrial private landowners with 8.7 million acres of timberlands owned by small acreage non-industrial private landowners.[^40] In 2020, the state had around 200,000 non-industrial private forest landowners, of which approximately 60% are 65+ years or older and only 9% use their forest land for income.[^41] Although granular data on private landowner demographics is not readily available, it would be interesting for future research to utilize this level of detail. Regardless, given their sizable ownership, private landowners (industrial and non-industrial) are important players in the fight against wildfires. The California Land Ownership dataset paints a similar picture with the public lands at 52% and private at 48% (Table 1)
+
+Table 1: California land ownership breakdown.
+
+| Land Ownership | Acres |
+| :--- | ---: |
+| Public | 54,243,739 |
+| Private | 50,520,892 |
+| Total | 104,764,631    |
+
+INSERT MAP PNGS
+
+Figure 1. The green map at left illustrates all of the public lands as of April 2024. The red map at right shows all private lands. It does not differentiate between industrial private lands and non-industrial private lands. A future study may explore this research topic with this additional granularity- looking only at non-industrial private lands.
+
+### Appendix 2: Population in Poverty on Private Land
+In 2022 in the US, the poverty rate was 11.5%, which accounted for 37.9 million people living below the federal poverty level threshold.[^42] The federal poverty level is based on household size, location, and income. As a result it has various income thresholds for various conditions[^43]  (e.g. the threshold for a family of four is $25,700).[^44] 
+
+Table 1: The distribution of percent of total population by Federal Poverty level[^45].
+
+| Federal Poverty Level | <100% | 100-200% | 200-399% | > 400% |
+| :--- | ---: |  ---: |  ---: |
+| United States | 12.6 | 15.8 | 29.6 | 42 |
+| California | 12.1 | 15.3 | 27.5 | 45.1 |
 
 
 
