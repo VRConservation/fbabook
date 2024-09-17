@@ -188,7 +188,7 @@ Table 1: The distribution of percent of the total population by Federal Poverty 
 | United States | 12.6 | 15.8 | 29.6 | 42 |
 | California | 12.1 | 15.3 | 27.5 | 45.1 |
 
-Merging poverty and private land data together, we see that using the 20%+ threshold, about 38,716,802 million acres (or 77%) of private land is in “high poverty.” Using the 40%+ threshold, about 17,098,382 million acres (or 34%) of private land is in “extreme poverty.” {numref}'`fig5`
+Merging poverty and private land data together, we see that using the 20%+ threshold, about 38,716,802 million acres (or 77%) of private land is in “high poverty.” Using the 40%+ threshold, about 17,098,382 million acres (or 34%) of private land is in “extreme poverty.” {numref}`fig5`
 
 ```{figure} /figures/resiliencefigs/fig5.png
 :height: 500px
@@ -196,7 +196,7 @@ Merging poverty and private land data together, we see that using the 20%+ thres
 Sum of total and private acres by poverty rate.
 ```
 
-The map visually represents the areas that fall within the high-poverty and extreme-poverty buckets ({numref}`fig6).
+The map visually represents the areas that fall within the high-poverty and extreme-poverty buckets ({numref}`fig6`).
 
 ```{figure} /figures/resiliencefigs/fig6.png
 :height: 500px
