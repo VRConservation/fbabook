@@ -159,8 +159,61 @@ Merging poverty and private land data together, we see that using the 20%+ thres
 
 The map visually represents the areas that fall within the high-poverty and extreme-poverty buckets.
 
+Table 2: Population % in poverty on private lands.
+
+| Poverty Rate | Total Land by Poverty bins | Private Land acres in Poverty bins | % Private Land by Poverty bin |
+| --- | ---: | ---: | ---: |
+| 0-10% | 5,818,291 | 4,642,135 | 80% |
+| 10-20% | 11,594,438 | 6,920,586 | 60% |
+| 20-30% | 17,034,936 | 8,972,946 | 53% |
+| 30-40% | 27,346,684 | 12,645,475 | 46% |
+| 40-50% | 30,229,451 | 9,769,814 | 32% |
+| 50-60% | 7,685,091 | 3,866,813 | 50% |
+| 60-70% | 4,093,453 | 2,656,449 | 65% |
+| 70-80% | 809,307 | 659,917 g | 82% |
+| 80-90% | 150,975 | 143,809 | 95% |
+| 90-100% | 1,586 | 1,580 | 100% |
+| Total | 104,764,212 | 50,279,524 |     |
+
+Table 3: Counties that had at least 1 million private land acres or more in High Poverty or at least 500,000 private land acres in Extreme Poverty (table is pre-sorted by largest to smallest for Extreme Poverty).
+
+| Counties | Private Land High Poverty (acres) | Private Land Extreme Poverty (acres) |
+| --- | ---: | ---: |
+| Kern | 3,326,429 | 2,270,582 |
+| Fresno | 2,032,959 | 1,697,758 |
+| Tehama | 1,345,247 | 1,246,834 |
+| San Bernardino | 2,035,994 | 1,233,671 |
+| Tulare | 1,222,123 | 1,119,839 |
+| Mendocino | 1,701,244 | 994,960 |
+| Merced | 1,139,123 | 875,044 |
+| Riverside | 1,223,392 | 789,093 |
+| Kings | 765,001 | 758,073 |
+| Imperial | 705,551 | 536,974 |
+| Humboldt | 1,624,878 | 492,361 |
+| Modoc | 953,928 | 481,309 |
+| Monterey | 1,386,346 | 405,022 |
+| Siskiyou | 1,482,653 | 403,244 |
+| Los Angeles | 1,328,041 | 372,803 |
+| Shasta | 1,383,236 | 326,970 |
+| Lassen | 1,222,532 | 20,916 |
+
 ### Appendix 3: Treatable Lands
 California has invested a lot of resources and effort into planning and designing fire reduction strategies. The CAL Vegetation Treatable Lands dataset, along with the private land mapping, shows us that **the total acreage of private lands that are treatable for wildfire reduction is 17,966,967 acres** (3,620,887 acres on public lands).
+
+Table 1: Counties with the largest private treatable acreage.
+
+| County | Private Acres | Treatable Private Acres | % Treatable |
+| --- | ---: | ---: | ---: |
+| Humboldt | 1,624,878 | 1,150,834 | 71% |
+| Shasta | 1,414,723 | 1,109,051 | 78% |
+| Mendocino | 1,701,244 | 1,088,346 | 64% |
+| Siskiyou | 1,482,653 | 1,000,335 | 67% |
+| Lassen | 1,222,532 | 815,736 | 67% |
+| Kern | 3,558,529 | 783,365 | 22% |
+| Tehama | 1,345,247 | 749,383 | 56% |
+| San Luis Obispo | 1,535,587 | 666,571 | 43% |
+| Monterey | 1,488,030 | 665,228 | 45% |
+| Sonoma | 894,567 | 527,494 | 59% |
 
 ## Endnotes
 [^1]: [Air temperatures. OEHHA](https://oehha.ca.gov/climate-change/epic-2022/changes-climate/air-temperatures#:~:text=Statewide%20annual%20mean%20temperatures%20have,leading%20to%20exacerbated%20drought%20conditions).
