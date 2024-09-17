@@ -161,7 +161,7 @@ The map visually represents the areas that fall within the high-poverty and extr
 
 Table 2: Population % in poverty on private lands.
 
-| Poverty Rate | Total Land by Poverty bins | Private Land acres in Poverty bins | % Private Land by Poverty bin |
+| Poverty Rate | Total Land | Private Land | % Private Land |
 | --- | ---: | ---: | ---: |
 | 0-10% | 5,818,291 | 4,642,135 | 80% |
 | 10-20% | 11,594,438 | 6,920,586 | 60% |
@@ -175,9 +175,9 @@ Table 2: Population % in poverty on private lands.
 | 90-100% | 1,586 | 1,580 | 100% |
 | Total | 104,764,212 | 50,279,524 |     |
 
-Table 3: Counties that had at least 1 million private land acres or more in High Poverty or at least 500,000 private land acres in Extreme Poverty (table is pre-sorted by largest to smallest for Extreme Poverty).
+Table 3: Counties that had at least 1 million private land acres or more in High Poverty or at least 500,000 private land acres in Extreme Poverty (table is pre-sorted by largest to smallest for Extreme Poverty). Numbers in acres.
 
-| Counties | Private Land High Poverty (acres) | Private Land Extreme Poverty (acres) |
+| Counties | High Poverty | Extreme Poverty |
 | --- | ---: | ---: |
 | Kern | 3,326,429 | 2,270,582 |
 | Fresno | 2,032,959 | 1,697,758 |
