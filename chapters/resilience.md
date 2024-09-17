@@ -130,7 +130,7 @@ Low-income and underserved communities are disproportionately affected by wildfi
 
 ## Appendices
 
-### Appendix 1: Private Land
+### Appendix 1: Land Ownership
 Restoration efforts are readily implemented on California’s public lands (which range from 47%-52% of the state [^39]) however, given that the remainder of the state is in the hands of private landowners, government entities and organizations must collaborate with these stakeholders to implement wildfire reduction and climate mitigation solutions. Private landowners can be further broken down into industrial and non-industrial private landowners with 8.7 million acres of timberlands owned by small acreage non-industrial private landowners.[^40] In 2020, the state had around 200,000 non-industrial private forest landowners, of which approximately 60% are 65+ years or older and only 9% use their forest land for income.[^41] Although granular data on private landowner demographics is not readily available, it would be interesting for future research to utilize this level of detail. Regardless, given their sizable ownership, private landowners (industrial and non-industrial) are important players in the fight against wildfires. The California Land Ownership dataset paints a similar picture with the public lands at 52% and private at 48% (Table 1)
 
 Table 1: California land ownership breakdown.
@@ -145,7 +145,7 @@ INSERT MAP PNGS
 
 Figure 1. The green map at left illustrates all of the public lands as of April 2024. The red map at right shows all private lands. It does not differentiate between industrial private lands and non-industrial private lands. A future study may explore this research topic with this additional granularity- looking only at non-industrial private lands.
 
-### Appendix 2: Population in Poverty on Private Land
+### Appendix 2: Poverty on Private Land
 In 2022 in the US, the poverty rate was 11.5%, which accounted for 37.9 million people living below the federal poverty level threshold.[^42] The federal poverty level is based on household size, location, and income. As a result it has various income thresholds for various conditions[^43]  (e.g. the threshold for a family of four is $25,700).[^44] 
 
 Table 1: The distribution of percent of total population by Federal Poverty level[^45].
