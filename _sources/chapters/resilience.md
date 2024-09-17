@@ -25,7 +25,7 @@ These challenges are exacerbated in the face of climate change. Over the past ei
 This year alone, California has witnessed 3,500 wildfires burning through 219,247 acres, a staggering 20-fold increase in acreage burned compared to last year ({numref}`burned`).[^3] While wildfires are a natural part of forest management, human activities, land use changes, fire management practices, and climate change have intensified their frequency and severity.[^4] Although human activities cause most wildfires, their likelihood of occurring and intensity has increased dramatically due to global warming changes to aridity, seasonality, and severe weather [^5]. The recent scorching dry summers readily set anything ablaze with little spark. Sadly, this trend is only heading upward with experts “warning that the region has entered an era of ‘megafires’”.[^6]
 
 ```{figure} /figures/resiliencefigs/fig1.png
-:height: 500px
+:height: 300px
 :name: burned
 California statewide acres burned 1950-2023. Source CAL FIRE.
 ```
@@ -103,7 +103,7 @@ Table 1. Acres and percent treatable by poverty level in California.
 | Extreme (>40%)    | 4.7 (26% total)     |
 
 ```{figure} /figures/resiliencefigs/treatable.png
-:height: 500px
+:height: 300px
 :name: treatable
 Treatable private acres by poverty rate.
 ```
