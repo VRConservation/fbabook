@@ -22,9 +22,13 @@ The state's geography spans coastal regions, the Sierra Nevada, desert regions, 
 These challenges are exacerbated in the face of climate change. Over the past eight years, California has experienced record-high summers, with the average annual temperature increasing by 2.5 degrees Fahrenheit (since 1895).[^1] Consequently, the state faces severe impacts from sea level rise, coastal flooding and erosion, loss of water supply, higher risk and frequency of wildfires, agricultural loss, and deleterious impact on public health, ecosystems, economy, and natural resources.[^2]
 
 ### Wildfire Crisis
-This year alone, California has witnessed 3,500 wildfires burning through 219,247 acres, a staggering 20-fold increase in acreage burned compared to last year.[^3] While wildfires are a natural part of forest management, human activities, land use changes, fire management practices, and climate change have intensified their frequency and severity.[^4] Although human activities cause most wildfires, their likelihood of occurring and intensity has increased dramatically due to global warming changes to aridity, seasonality, and severe weather [^5]. The recent scorching dry summers readily set anything ablaze with little spark. Sadly, this trend is only heading upward with experts “warning that the region has entered an era of ‘megafires’”.[^6]
+This year alone, California has witnessed 3,500 wildfires burning through 219,247 acres, a staggering 20-fold increase in acreage burned compared to last year{numref}`burned`.[^3] While wildfires are a natural part of forest management, human activities, land use changes, fire management practices, and climate change have intensified their frequency and severity.[^4] Although human activities cause most wildfires, their likelihood of occurring and intensity has increased dramatically due to global warming changes to aridity, seasonality, and severe weather [^5]. The recent scorching dry summers readily set anything ablaze with little spark. Sadly, this trend is only heading upward with experts “warning that the region has entered an era of ‘megafires’”.[^6]
 
-Statewide acres burned chart
+```{figure} /figures/resiliencefigs/fig1.png
+:height: 500px
+:name: burned
+California statewide acres burned 1950-2023. Source CAL FIRE.
+```
 
 ### Socioeconomic disparities
 Frequent and intense wildfires have significant implications, particularly for low-income and underserved communities. Research indicates that these communities experience more frequent wildfires and face greater challenges in fire prevention and response; thus, fire-prevention planning should consider them when designing strategies.[^7] Traditional "high-hazard" zones, often affluent areas with high property damage costs, overshadow the critical "high-risk" zones—low-income communities that suffer repeated fires and subsequent health impacts from persistent air pollution.[^8]
@@ -200,9 +204,9 @@ Table 3: Counties that had at least 1 million private land acres or more in High
 ### Appendix 3: Treatable Lands
 California has invested a lot of resources and effort into planning and designing fire reduction strategies. The CAL Vegetation Treatable Lands dataset, along with the private land mapping, shows us that **the total acreage of private lands that are treatable for wildfire reduction is 17,966,967 acres** (3,620,887 acres on public lands).
 
-Table 1: Counties with the largest private treatable acreage.
+Table 1: Counties with the largest private treatable acreage. Figures in acres.
 
-| County | Private Acres | Treatable Private Acres | % Treatable |
+| County | Private | Treatable Private | % Treatable |
 | --- | ---: | ---: | ---: |
 | Humboldt | 1,624,878 | 1,150,834 | 71% |
 | Shasta | 1,414,723 | 1,109,051 | 78% |
