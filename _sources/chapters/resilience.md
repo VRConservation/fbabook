@@ -150,13 +150,19 @@ In 2022 in the US, the poverty rate was 11.5%, which accounted for 37.9 million 
 
 Table 1: The distribution of percent of total population by Federal Poverty level[^45].
 
-| Federal Poverty Level | <100% | 100-200% | 200-399% | > 400% |
-| :--- | ---: |  ---: |  ---: |
+| Federal Poverty Level | <100%      | 100-200%            | 200-399% | >400%
+| :------- | ------:  | -------:        | ----: |----: |
 | United States | 12.6 | 15.8 | 29.6 | 42 |
 | California | 12.1 | 15.3 | 27.5 | 45.1 |
 
+Merging poverty and private land data together, we see that using the 20%+ threshold, there is about 38,716,802 million acres (or 77%) of private land in “high poverty”. Using the 40%+ threshold, there is about 17,098,382 million acres (or 34%) of private land in “extreme poverty”.
 
+The map provides a visual representation of the areas that fall within the high poverty and extreme poverty buckets.
 
+### Appendix 3: Treatable Lands
+California has invested a lot of resources and effort into planning and designing fire reduction strategies. The CAL Vegetation Treatable Lands dataset along with the private land mapping shows us that **the total acreage of private lands that are treatable for wildfire reduction is: 17,966,967 acres** (3,620,887 acres on public lands).
+
+## Endnotes
 [^1]: [Air temperatures. OEHHA](https://oehha.ca.gov/climate-change/epic-2022/changes-climate/air-temperatures#:~:text=Statewide%20annual%20mean%20temperatures%20have,leading%20to%20exacerbated%20drought%20conditions).
 [^2]: [Climate Change Impacts in California | State of California - Department of Justice - Office of the Attorney General](https://oag.ca.gov/environment/impact).
 [^3]: ['A fire year': California wildfires burn 20 times more acres than 2023 - Los Angeles Times](https://www.latimes.com/california/story/2024-07-12/california-wildfires-burn-20-times-as-much-land-as-last-year).
