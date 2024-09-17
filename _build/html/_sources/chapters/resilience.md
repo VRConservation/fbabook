@@ -22,7 +22,7 @@ The state's geography spans coastal regions, the Sierra Nevada, desert regions, 
 These challenges are exacerbated in the face of climate change. Over the past eight years, California has experienced record-high summers, with the average annual temperature increasing by 2.5 degrees Fahrenheit (since 1895).[^1] Consequently, the state faces severe impacts from sea level rise, coastal flooding and erosion, loss of water supply, higher risk and frequency of wildfires, agricultural loss, and deleterious impact on public health, ecosystems, economy, and natural resources.[^2]
 
 ### Wildfire Crisis
-This year alone, California has witnessed 3,500 wildfires burning through 219,247 acres, a staggering 20-fold increase in acreage burned compared to last year{numref}`burned`.[^3] While wildfires are a natural part of forest management, human activities, land use changes, fire management practices, and climate change have intensified their frequency and severity.[^4] Although human activities cause most wildfires, their likelihood of occurring and intensity has increased dramatically due to global warming changes to aridity, seasonality, and severe weather [^5]. The recent scorching dry summers readily set anything ablaze with little spark. Sadly, this trend is only heading upward with experts “warning that the region has entered an era of ‘megafires’”.[^6]
+This year alone, California has witnessed 3,500 wildfires burning through 219,247 acres, a staggering 20-fold increase in acreage burned compared to last year ({numref}`burned`).[^3] While wildfires are a natural part of forest management, human activities, land use changes, fire management practices, and climate change have intensified their frequency and severity.[^4] Although human activities cause most wildfires, their likelihood of occurring and intensity has increased dramatically due to global warming changes to aridity, seasonality, and severe weather [^5]. The recent scorching dry summers readily set anything ablaze with little spark. Sadly, this trend is only heading upward with experts “warning that the region has entered an era of ‘megafires’”.[^6]
 
 ```{figure} /figures/resiliencefigs/fig1.png
 :height: 500px
@@ -93,11 +93,36 @@ QGIS was used for spatial analysis, and all numerical analysis and data transfor
 ## Key Findings
 This research has identified several critical insights that underscore the complex relationship between wildfire treatment needs and economic vulnerability in California. It has also provided a way to identify high-impact opportunity areas where financial assistance might have a greater socio-economic and environmental impact.
 
-California has about 104.7 million acres, of which 54 million (52% of the state) are public lands and about 50 million (48% of the state) are private lands. The total acreage of private lands that are treatable for wildfire reduction is 17,966,967 acres (3,620,887 acres on public lands).
+California has about 104.7 million acres, of which 54 million (52% of the state) are public lands and about 50 million (48% of the state) are private lands. The total acreage of private lands that are treatable for wildfire reduction is 17,966,967 acres with 3,620,887 acres on public lands ({numref}`treatable`).
 
-The bivariate choropleth graph below only highlights the extreme poverty areas with at least 40%+ overlap with treatment lands. This important intersection of treatment and economic need is represented in purple.
+Table 1. Acres and percent treatable by poverty level in California.
 
-For a higher-level view of which counties have these high-impact opportunity areas, see the county-level map below (where the darker the purple, the greater the treatable private acreage in that extreme poverty region).
+| Poverty Level    | Private Treatable Acres (Millions)    |
+| :--- | ---: |
+| High (20-39%)    | 14.5 (86% total)     |
+| Extreme (>40%)    | 4.7 (26% total)     |
+
+```{figure} /figures/resiliencefigs/treatable.png
+:height: 500px
+:name: treatable
+Treatable private acres by poverty rate.
+```
+
+The bivariate choropleth map highlights the extreme poverty areas with at least 40%+ overlap with treatment lands ({numref}`fig2`). This important intersection of treatment and economic need is represented in purple.
+
+```{figure} /figures/resiliencefigs/fig2.png
+:height: 500px
+:name: fig2
+Bivariate choropleth highlighting extreme poverty areas that have >40%+ overlap with treatment lands.
+```
+
+For a higher-level view of which counties have these high-impact opportunity areas, {numref}`fig3` shows treatable private acres where the darker the purple, the greater the treatable private acreage in that extreme poverty region.
+
+```{figure} /figures/resiliencefigs/fig3.png
+:height: 500px
+:name: fig3
+Treatable private acreage in extreme poverty regions.
+```
 
 Below is a table that shows the top 10 California counties with the largest total treatable private acres in extreme poverty.
 
