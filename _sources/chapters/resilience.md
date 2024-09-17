@@ -160,7 +160,7 @@ Low-income and underserved communities are disproportionately affected by wildfi
 ## Appendices
 
 ### Appendix 1: Land Ownership
-Restoration efforts are readily implemented on California’s public lands (which range from 47%-52% of the state [^39]); however, given that the remainder of the state is in the hands of private landowners, government entities and organizations must collaborate with these stakeholders to implement wildfire reduction and climate mitigation solutions. Private landowners can be further broken down into industrial and non-industrial private landowners, with 8.7 million acres of timberlands owned by small acreage non-industrial private landowners.[^40] In 2020, the state had around 200,000 non-industrial private forest landowners, of which approximately 60% are 65+ years or older, and only 9% use their forest land for income.[^41] Although granular data on private landowner demographics is not readily available, it would be interesting for future research to utilize this level of detail. Regardless, given their sizable ownership, private landowners (industrial and non-industrial) are important players in the fight against wildfires. The California Land Ownership dataset paints a similar picture, with public lands at 52% and private at 48% (Table 1)
+Restoration efforts are readily implemented on California’s public lands (which range from 47%-52% of the state [^39]); however, given that the remainder of the state is in the hands of private landowners, government entities and organizations must collaborate with these stakeholders to implement wildfire reduction and climate mitigation solutions. Private landowners can be further broken down into industrial and non-industrial private landowners, with 8.7 million acres of timberlands owned by small acreage non-industrial private landowners.[^40] In 2020, the state had around 200,000 non-industrial private forest landowners, of which approximately 60% are 65+ years or older, and only 9% use their forest land for income.[^41] Although granular data on private landowner demographics is not readily available, it would be interesting for future research to utilize this level of detail. Regardless, given their sizable ownership, private landowners (industrial and non-industrial) are important players in the fight against wildfires. The California Land Ownership dataset paints a similar picture, with public lands at 52% and private at 48% (Table 1). A visual depiction of the landownership split is shown in {numref}`fig4`. 
 
 Table 1: California land ownership breakdown.
 
@@ -170,9 +170,13 @@ Table 1: California land ownership breakdown.
 | Private | 50,520,892 |
 | Total | 104,764,631    |
 
-INSERT MAP PNGS
+```{figure} /figures/resiliencefigs/fig4.png
+:height: 500px
+:name: fig4
+All public lands (left) and all private lands (right) in California as of April 2024. Maps do not differentiate between industrial and non-industrial private lands.
+```
 
-Figure 1. The green map at left illustrates all of the public lands as of April 2024. The red map at right shows all private lands. It does not differentiate between industrial and non-industrial private lands. A future study may explore this research topic with this additional granularity, looking only at non-industrial private lands.
+A future study may explore this research topic with this additional granularity, looking only at non-industrial private lands.
 
 ### Appendix 2: Poverty on Private Land
 In the US, the poverty rate in 2022 was 11.5%, accounting for 37.9 million people living below the federal poverty level threshold.[^42] The federal poverty level is based on household size, location, and income. As a result, it has various income thresholds for various conditions[^43] (e.g., the threshold for a family of four is $25,700).[^44] 
@@ -184,9 +188,22 @@ Table 1: The distribution of percent of the total population by Federal Poverty 
 | United States | 12.6 | 15.8 | 29.6 | 42 |
 | California | 12.1 | 15.3 | 27.5 | 45.1 |
 
-Merging poverty and private land data together, we see that using the 20%+ threshold, about 38,716,802 million acres (or 77%) of private land is in “high poverty.” Using the 40%+ threshold, about 17,098,382 million acres (or 34%) of private land is in “extreme poverty.”
+Merging poverty and private land data together, we see that using the 20%+ threshold, about 38,716,802 million acres (or 77%) of private land is in “high poverty.” Using the 40%+ threshold, about 17,098,382 million acres (or 34%) of private land is in “extreme poverty.” {numref}'`fig5`
 
-The map visually represents the areas that fall within the high-poverty and extreme-poverty buckets.
+```{figure} /figures/resiliencefigs/fig5.png
+:height: 500px
+:name: fig5
+Sum of total and private acres by poverty rate.
+```
+
+The map visually represents the areas that fall within the high-poverty and extreme-poverty buckets ({numref}`fig6).
+
+```{figure} /figures/resiliencefigs/fig6.png
+:height: 500px
+:name: fig6
+Visual representation of the areas that fall within the high poverty and extreme poverty buckets.
+```
+Table 2 shows the population % in poverty on private lands and Table 3 shows counties with at least 1 mn private land acres in high poverty. 
 
 Table 2: Population % in poverty on private lands.
 
@@ -204,7 +221,7 @@ Table 2: Population % in poverty on private lands.
 | 90-100% | 1,586 | 1,580 | 100% |
 | Total | 104,764,212 | 50,279,524 |     |
 
-Table 3: Counties that had at least 1 million private land acres or more in High Poverty or at least 500,000 private land acres in Extreme Poverty (table is pre-sorted by largest to smallest for Extreme Poverty). Numbers in acres.
+Table 3: Counties that had at least 1 million private land acres or more in High Poverty or at least 500,000 private land acres in Extreme Poverty. Table is pre-sorted by largest to smallest for Extreme Poverty. Numbers in acres. A map of the same is shown in {numref}`fig8`.
 
 | Counties | High Poverty | Extreme Poverty |
 | --- | ---: | ---: |
@@ -226,8 +243,20 @@ Table 3: Counties that had at least 1 million private land acres or more in High
 | Shasta | 1,383,236 | 326,970 |
 | Lassen | 1,222,532 | 20,916 |
 
+```{figure} /figures/resiliencefigs/fig7.png
+:height: 500px
+:name: fig7
+Private Lands in High Poverty (left) and extreme poverty (right).
+```
+
 ### Appendix 3: Treatable Lands
-California has invested a lot of resources and effort into planning and designing fire reduction strategies. The CAL Vegetation Treatable Lands dataset, along with the private land mapping, shows us that **the total acreage of private lands that are treatable for wildfire reduction is 17,966,967 acres** (3,620,887 acres on public lands).
+California has invested a lot of resources and effort into planning and designing fire reduction strategies. The CAL Vegetation Treatable Lands dataset, along with the private land mapping, shows us that **the total acreage of private lands that are treatable for wildfire reduction is 17,966,967 acres with 3,620,887 acres on public lands** ({numref}`fig8`).
+
+```{figure} /figures/resiliencefigs/fig8.png
+:height: 500px
+:name: fig8
+Private Lands by percent overlap with Treatable Lands
+```
 
 Table 1: Counties with the largest private treatable acreage. Figures in acres.
 
