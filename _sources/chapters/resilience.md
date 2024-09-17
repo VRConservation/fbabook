@@ -13,10 +13,21 @@ This comprehensive approach illuminates the intersection of socio-economic vulne
 
 We hope our findings inform businesses, policymakers, and stakeholders, advocating for prioritizing disadvantaged communities in forest restoration and land treatment efforts to foster equitable environmental stewardship and enhance overall environmental health.
 
-## Ecosystems & Climate Change
-California's environment is a mosaic of diverse ecosystems, each contributing uniquely to the state's ecological richness and economic vitality. The state's geography spans coastal regions, the Sierra Nevada, desert regions, forested areas, chaparral and shrublands, grasslands, wetlands, the central valley, and many more landscapes and water bodies, fostering a variety of climatic conditions and habitats. This diversity is both a strength and a vulnerability, as it creates unique challenges in managing natural resources and mitigating environmental hazards.
+## California Context
+California's environment is a mosaic of diverse ecosystems, each contributing uniquely to the state's ecological richness and economic vitality.
+
+### Ecosystems & Climate Change
+The state's geography spans coastal regions, the Sierra Nevada, desert regions, forested areas, chaparral and shrublands, grasslands, wetlands, the central valley, and many more landscapes and water bodies, fostering a variety of climatic conditions and habitats. This diversity is both a strength and a vulnerability, as it creates unique challenges in managing natural resources and mitigating environmental hazards.
 
 These challenges are exacerbated in the face of climate change. Over the past eight years, California has experienced record high summers, with the average annual temperature increasing by 2.5 degrees Fahrenheit (since 1895) [^1]. Consequently, the state faces severe impacts from sea level rise, coastal flooding and erosion, loss of water supply, higher risk and frequency of wildfires, agricultural loss, and deleterious impact on public health, ecosystems, economy, and natural resources.[^2]
+
+### Wildfire Crisis
+This year alone, California has witnessed 3,500 wildfires burning through 219,247 acres, a staggering 20-fold increase in acreage burned compared to last year [^3]. While wildfires are a natural part of forest management, human activities, land use changes, fire management practices, and climate change has intensified their frequency and severity [^4]. Although most wildfires are caused by human activities, their likelihood of occuring and intensity has increased dramatically as a result of global warming changes to aridity, seasonality, and severe weather [^5]. The recent scorching dry summers readily set anything ablaze with little spark. Sadly, this trend is only heading upward with experts “warning that the region has entered an era of ‘megafires’” [^6].
+
+Statewide acres burned chart
+
+### Socioeconomic disparities
+Frequent and intense wildfires have significant implications, particularly for low-income and underserved communities. Research indicates that these communities experience more frequent wildfires and face greater challenges in fire prevention and response; thus fire-prevention planning should consider them when designing strategies [^7]. Traditional "high-hazard" zones, often affluent areas with high property damage costs, overshadow the critical "high-risk" zones—low-income communities that suffer repeated fires and subsequent health impacts from persistent air pollution [^8].
 
 [^1]: [Air temperatures. OEHHA](https://oehha.ca.gov/climate-change/epic-2022/changes-climate/air-temperatures#:~:text=Statewide%20annual%20mean%20temperatures%20have,leading%20to%20exacerbated%20drought%20conditions).
 [^2]: [Climate Change Impacts in California | State of California - Department of Justice - Office of the Attorney General](https://oag.ca.gov/environment/impact).
