@@ -57,6 +57,8 @@
     <script async="async" src="../_static/sphinx-thebe.js?v=c100c467"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <script>DOCUMENTATION_OPTIONS.pagename = 'chapters/resilience';</script>
     <link rel="icon" href="../_static/fba-square.png"/>
     <link rel="index" title="Index" href="../genindex.html" />
@@ -393,31 +395,22 @@ document.write(`
                 <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#abstract">9.1. Abstract</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#california-context">9.2. California Context</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#ecosystems-climate">9.2.1. Ecosystems &amp; Climate</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#wildfire-crisis">9.2.2. Wildfire Crisis</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#socioeconomic-disparities">9.2.3. Socioeconomic disparities</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#solutions-programs-and-gaps">9.2.4. Solutions, Programs, and Gaps</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#wildfire-crisis">9.2.1. Wildfire Crisis</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#socioeconomic-disparities">9.2.2. Socioeconomic disparities</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#treatment-needs">9.2.3. Treatment Needs</a></li>
 </ul>
 </li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#research-methods-approach">9.3. Research Methods &amp; Approach</a><ul class="nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#methods">9.3. Methods</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#objective">9.3.1. Objective</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#land-ownership-dataset">9.3.2. Land Ownership Dataset</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#poverty-dataset">9.3.3. Poverty Dataset</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#treatable-lands-dataset">9.3.4. Treatable Lands Dataset</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#methodology">9.3.5. Methodology</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#definitions">9.3.2. Definitions</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#methodology">9.3.3. Methodology</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#datasets">9.3.4. Datasets</a></li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#key-findings">9.4. Key Findings</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#next-steps">9.5. Next Steps</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#future-research">9.6. Future Research</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#conclusion">9.7. Conclusion</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#appendices">9.8. Appendices</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#appendix-1-land-ownership">9.8.1. Appendix 1: Land Ownership</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#appendix-2-poverty-on-private-land">9.8.2. Appendix 2: Poverty on Private Land</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#appendix-3-treatable-lands">9.8.3. Appendix 3: Treatable Lands</a></li>
-</ul>
-</li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#endnotes">9.9. Endnotes</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#appendix">9.6. Appendix</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#endnotes">9.7. Endnotes</a></li>
 </ul>
             </nav>
         </div>
@@ -434,656 +427,580 @@ document.write(`
 <p>Veenu King, Michael Kent | New Leaf Climate Partners</p>
 <section id="abstract">
 <h2><span class="section-number">9.1. </span>Abstract<a class="headerlink" href="#abstract" title="Link to this heading">#</a></h2>
-<p>This chapter explores the forest restoration needs within low-income and underserved communities in California, integrating socio-economic and environmental data to identify areas requiring urgent attention.</p>
-<p>Our analysis synthesizes poverty and socioeconomic data from datasets at the census tract and county levels. To assess forest restoration needs, we utilized data from CAL FIRE’s Vegetation Treatment Plan to identify land and forest treatment areas to address fire risk and mitigation efforts. By merging these datasets with GIS and data analysis, we shed light on the low-income communities and regions most in need of support for forest health treatments.</p>
-<p>Our findings are: Of California’s 17.9 million acres of private land that’s treatable, <strong>14.5 million acres are in high-poverty counties (poverty rates exceed 20%), and 4.7 million acres are in extreme-poverty counties (where poverty rates exceed 40%)</strong>. That’s one-third of identified regions with wildfire treatment needs in extreme poverty locations (and 80% in high-poverty areas). Six counties comprise 53% of treatable land in extreme poverty zones (Tehama, Mendocino, Humboldt, Kern, Siskiyou, Shasta)—they have 2.5 million acres.</p>
-<p>This comprehensive approach illuminates the intersection of socio-economic vulnerability and environmental priorities, underscoring the areas where additional funding and resources are essential to meet California’s state objectives for forest management and community resilience.</p>
-<p>We hope our findings inform businesses, policymakers, and stakeholders, advocating for prioritizing disadvantaged communities in forest restoration and land treatment efforts to foster equitable environmental stewardship and enhance overall environmental health.</p>
+<p>This chapter explores fuel reduction needs to decrease risks of severe wildfire for private forest owners in low-income communities in California. The spatial analysis combines poverty data, land ownership, and landscape treatment needs at the census and county levels.</p>
+<p>Our findings show that of California’s 6.7 million acres of private forest land that need fuel treatment, 4.0 million acres are within high-poverty counties (where poverty rates exceed 20%), and 1.6 million acres are within extreme poverty counties (where poverty rates exceed 40%). Nearly one-quarter of total private forest wildfire treatment needs fall within counties with extreme poverty. Three counties comprise approximately half of the treatment needs in extreme poverty areas: Mendocino, Humboldt, and Tehama. While these counties require 822,000 acres of treatment, only 8,658 acres were treated in 2022, a rate that would take 95 years to meet the total treatment needs.</p>
+<p>This research highlights areas where additional resources may be essential to meet California’s dual forest management and community resilience objectives. Future research extensions include mapping anticipated funding allocations to high treatment-need and low-income communities, exploring the holistic benefits of wildfire reduction treatments on low-income communities, and collecting granular, parcel-level private landowner information to further inform treatment prioritization.</p>
 </section>
 <section id="california-context">
 <h2><span class="section-number">9.2. </span>California Context<a class="headerlink" href="#california-context" title="Link to this heading">#</a></h2>
 <p>California’s environment is a mosaic of diverse ecosystems, each contributing uniquely to the state’s ecological richness and economic vitality.</p>
-<section id="ecosystems-climate">
-<h3><span class="section-number">9.2.1. </span>Ecosystems &amp; Climate<a class="headerlink" href="#ecosystems-climate" title="Link to this heading">#</a></h3>
-<p>The state’s geography spans coastal regions, the Sierra Nevada, desert regions, forested areas, chaparral and shrublands, grasslands, wetlands, the central valley, and many more landscapes and water bodies, fostering various climatic conditions and habitats. This diversity is both a strength and a vulnerability, as it creates unique challenges in managing natural resources and mitigating environmental hazards.</p>
-<p>These challenges are exacerbated in the face of climate change. Over the past eight years, California has experienced record-high summers, with the average annual temperature increasing by 2.5 degrees Fahrenheit (since 1895).<a class="footnote-reference brackets" href="#id45" id="id1" role="doc-noteref"><span class="fn-bracket">[</span>1<span class="fn-bracket">]</span></a> Consequently, the state faces severe impacts from sea level rise, coastal flooding and erosion, loss of water supply, higher risk and frequency of wildfires, agricultural loss, and deleterious impact on public health, ecosystems, economy, and natural resources.<a class="footnote-reference brackets" href="#id46" id="id2" role="doc-noteref"><span class="fn-bracket">[</span>2<span class="fn-bracket">]</span></a></p>
-</section>
 <section id="wildfire-crisis">
-<h3><span class="section-number">9.2.2. </span>Wildfire Crisis<a class="headerlink" href="#wildfire-crisis" title="Link to this heading">#</a></h3>
-<p>This year alone, California has witnessed 3,500 wildfires burning through 219,247 acres, a staggering 20-fold increase in acreage burned compared to last year (<a class="reference internal" href="#burned"><span class="std std-numref">Fig. 9.1</span></a>).<a class="footnote-reference brackets" href="#id47" id="id3" role="doc-noteref"><span class="fn-bracket">[</span>3<span class="fn-bracket">]</span></a> While wildfires are a natural part of forest management, human activities, land use changes, fire management practices, and climate change have intensified their frequency and severity.<a class="footnote-reference brackets" href="#id48" id="id4" role="doc-noteref"><span class="fn-bracket">[</span>4<span class="fn-bracket">]</span></a> Although human activities cause most wildfires, their likelihood of occurring and intensity has increased dramatically due to global warming changes to aridity, seasonality, and severe weather <a class="footnote-reference brackets" href="#id49" id="id5" role="doc-noteref"><span class="fn-bracket">[</span>5<span class="fn-bracket">]</span></a>. The recent scorching dry summers readily set anything ablaze with little spark. Sadly, this trend is only heading upward with experts “warning that the region has entered an era of ‘megafires’”.<a class="footnote-reference brackets" href="#id50" id="id6" role="doc-noteref"><span class="fn-bracket">[</span>6<span class="fn-bracket">]</span></a></p>
-<figure class="align-default" id="burned">
+<h3><span class="section-number">9.2.1. </span>Wildfire Crisis<a class="headerlink" href="#wildfire-crisis" title="Link to this heading">#</a></h3>
+<p>California’s diverse landscapes encompass forests, grasslands, chaparral, and urban-wildland interfaces, each playing a critical role in the state’s ecological and economic vitality. Its 33 million acres of forests span the Coast, Cascade, and Sierra Nevada ranges. Ownership is mixed across public and private, with 60% of forestland publicly owned—mostly National Forests followed by State and BLM lands. The remaining forest lands are split between private industrial and private non-industrial. The bulk of California forests are made up of mixed conifers—dominated by douglas-fir, giant sequoia, Jeffrey pine, pinyon, and ponderosa pine –  followed by western oak woodlands (California Forestland). These forests are fire-adapted. While wildfires are a natural element of California’s forests, human activities, land use changes, fire suppression practices, and climate change have intensified the frequency and severity of wildfires.(<code class="xref std std-numref docutils literal notranslate"><span class="pre">fig</span></code>)</p>
+<figure class="align-default" id="fig1">
 <a class="reference internal image-reference" href="../_images/fig1.png"><img alt="../_images/fig1.png" src="../_images/fig1.png" style="height: 300px;" /></a>
 <figcaption>
-<p><span class="caption-number">Fig. 9.1 </span><span class="caption-text">California statewide acres burned 1950-2023. Source CAL FIRE.</span><a class="headerlink" href="#burned" title="Link to this image">#</a></p>
+<p><span class="caption-number">Fig. 9.1 </span><span class="caption-text">Annual acres burned statewide. Source: California Environmental Protection Agency’s Office of Environmental Health Hazard Assessment (OEHHA).</span><a class="headerlink" href="#fig1" title="Link to this image">#</a></p>
 </figcaption>
 </figure>
+<p>In 2023, California experienced over 4,500 wildfires that burned through 116,399 acres. Midway through the 2024 wildfire season, the state has already experienced 5,383 wildfires burning through 827,880 acres (CAL FIRE). This trend has shown no signs of slowing, with experts warning that the region has entered an era of megafires (OEHHA).</p>
 </section>
 <section id="socioeconomic-disparities">
-<h3><span class="section-number">9.2.3. </span>Socioeconomic disparities<a class="headerlink" href="#socioeconomic-disparities" title="Link to this heading">#</a></h3>
-<p>Frequent and intense wildfires have significant implications, particularly for low-income and underserved communities. Research indicates that these communities experience more frequent wildfires and face greater challenges in fire prevention and response; thus, fire-prevention planning should consider them when designing strategies.<a class="footnote-reference brackets" href="#id51" id="id7" role="doc-noteref"><span class="fn-bracket">[</span>7<span class="fn-bracket">]</span></a> Traditional “high-hazard” zones, often affluent areas with high property damage costs, overshadow the critical “high-risk” zones—low-income communities that suffer repeated fires and subsequent health impacts from persistent air pollution.<a class="footnote-reference brackets" href="#id52" id="id8" role="doc-noteref"><span class="fn-bracket">[</span>8<span class="fn-bracket">]</span></a></p>
-<p>Studies have shown how these fires disproportionately impact the health of low-income communities with higher daily cardiovascular hospitalization in areas that had lower education, lower health insurance coverage, lower tree canopy coverage, and higher density of racially marginalized residents.<a class="footnote-reference brackets" href="#id53" id="id9" role="doc-noteref"><span class="fn-bracket">[</span>9<span class="fn-bracket">]</span></a> The health implications of repeated air pollution and smoke exposure extend to Indigenous people who experience a higher volume of acres burned.<a class="footnote-reference brackets" href="#id54" id="id10" role="doc-noteref"><span class="fn-bracket">[</span>10<span class="fn-bracket">]</span></a>. To summarize, underserved, low-income, and disadvantaged communities are not only the victims of wildfires but also part of the key to reducing wildfires and their impacts. They have fewer resources and less access to capital necessary to adapt to climate and wildfire resiliency; however, that could change based on policies and increased capital. As individuals who are close to the problem, they could be instrumental in implementing fire reduction solutions and mitigating climate impacts by being stewards of lands through restoration efforts.</p>
+<h3><span class="section-number">9.2.2. </span>Socioeconomic disparities<a class="headerlink" href="#socioeconomic-disparities" title="Link to this heading">#</a></h3>
+<p>California’s megafires significantly destroy homes, infrastructure, and natural habitats, leading to loss of life, displacement, and billions of dollars in damages. They worsen air pollution, degrade water quality, and release large amounts of carbon dioxide, exacerbating climate change.</p>
+<p>These impacts disproportionately affect low-income and Indigenous communities. Studies have examined the relationship between fire hazard <a class="footnote-reference brackets" href="#id5" id="id1" role="doc-noteref"><span class="fn-bracket">[</span>1<span class="fn-bracket">]</span></a>, fire experience, and income in California communities, showing that communities experiencing higher fire frequency have lower incomes (<a class="reference internal" href="#fig2"><span class="std std-numref">Fig. 9.2</span></a>). This result could be due to the lack of investment and resources in those areas or the repeated fires have changed the communities over time.</p>
+<figure class="align-default" id="fig2">
+<a class="reference internal image-reference" href="../_images/fig2.png"><img alt="../_images/fig2.png" src="../_images/fig2.png" style="height: 500px;" /></a>
+<figcaption>
+<p><span class="caption-number">Fig. 9.2 </span><span class="caption-text">Fire experience by census tracts and corresponding median income by experience group. Source: Hino, Field: “Fire frequency and vulnerability in California.”</span><a class="headerlink" href="#fig2" title="Link to this image">#</a></p>
+</figcaption>
+</figure>
+<p>Additionally, this study’s analysis on fire suppression has found that communities with high property values stop the spread of wildfires, thus reducing their deleterious impact (Hino and Field). California’s low-income communities suffer repeated fires and subsequent health impacts from persistent air pollution as well as higher daily cardiovascular hospitalization (Secaira, Chen, Pohl).</p>
 </section>
-<section id="solutions-programs-and-gaps">
-<h3><span class="section-number">9.2.4. </span>Solutions, Programs, and Gaps<a class="headerlink" href="#solutions-programs-and-gaps" title="Link to this heading">#</a></h3>
-<p>A great deal of work (on both the capital and policy side) is being done to address the wildfire challenges across the state. In collaboration with the State of California, the California Natural Resource Agency, the California Environmental Protection Agency, the Department of Forestry and Fire Protection, and many other federal, state, local, and non-government entities, the Forest Management Task Force published California’s Wildfire and Forest Resilience Action Plan.<a class="footnote-reference brackets" href="#id55" id="id11" role="doc-noteref"><span class="fn-bracket">[</span>11<span class="fn-bracket">]</span></a> This comprehensive report sheds light on the strategies and key actions that these organizations hope to achieve, such as treating 500,000 Acres of USFS Land annually by 2025 (as part of the Forest Carbon Plan and Shared Stewardship Agreement), increasing sustainable timber harvest, identifying strategic fire management zones, and many more.<a class="footnote-reference brackets" href="#id56" id="id12" role="doc-noteref"><span class="fn-bracket">[</span>12<span class="fn-bracket">]</span></a></p>
-<p>To meet this goal, private landowners are key. Since 2016, CAL FIRE has increased its forest thinning and prescribed fire activities from 30,000 to 50,000+ acres. <a class="footnote-reference brackets" href="#id57" id="id13" role="doc-noteref"><span class="fn-bracket">[</span>13<span class="fn-bracket">]</span></a> Other state-funded partners have treated 30,000+ acres (in 2020) <a class="footnote-reference brackets" href="#id58" id="id14" role="doc-noteref"><span class="fn-bracket">[</span>14<span class="fn-bracket">]</span></a>. Private landowners manage 250,000-300,000 acres through various mechanisms and treatments. <a class="footnote-reference brackets" href="#id59" id="id15" role="doc-noteref"><span class="fn-bracket">[</span>15<span class="fn-bracket">]</span></a> This is still short of the 500,000 acres of annual treatment; hence, California plans to expand assistance to private landowners, implement forest resiliency projects, and support sustainable harvest.</p>
-<p>Some programs currently available to private landowners include:</p>
-<ul class="simple">
-<li><p>California Forest Improvement Program: provides private forest landowners with technical and cost-share financial assistance for forest management.<a class="footnote-reference brackets" href="#id60" id="id16" role="doc-noteref"><span class="fn-bracket">[</span>16<span class="fn-bracket">]</span></a></p></li>
-<li><p>Forest Stewardship Program: provide forest landowners with funding for best forest management practices. <a class="footnote-reference brackets" href="#id61" id="id17" role="doc-noteref"><span class="fn-bracket">[</span>17<span class="fn-bracket">]</span></a></p></li>
-<li><p>Wildfire Resilience Program: a grant program that improves forests and reduces fire risk (priority projects benefit disadvantaged communities and public or protected lands).<a class="footnote-reference brackets" href="#id62" id="id18" role="doc-noteref"><span class="fn-bracket">[</span>18<span class="fn-bracket">]</span></a></p></li>
-<li><p>CAL FIRE grants: provide funding for initial fuel treatments and follow-up maintenance to landowners that contribute 10% of costs.<a class="footnote-reference brackets" href="#id63" id="id19" role="doc-noteref"><span class="fn-bracket">[</span>19<span class="fn-bracket">]</span></a></p></li>
-<li><p>The CAL FIRE program will directly fund tribal governments to support cultural burning and other traditional forest practices.<a class="footnote-reference brackets" href="#id64" id="id20" role="doc-noteref"><span class="fn-bracket">[</span>20<span class="fn-bracket">]</span></a></p></li>
-<li><p>Natural Resources Conservation Service (NRCS) Environmental Quality Incentives Program (EQIP): provides forest landowners with cost-share funding for management practices.<a class="footnote-reference brackets" href="#id65" id="id21" role="doc-noteref"><span class="fn-bracket">[</span>21<span class="fn-bracket">]</span></a></p></li>
-<li><p>Emergency Forest Program (EFRP): provides private landowners cost-share payments to restore forests damaged by natural disasters.<a class="footnote-reference brackets" href="#id66" id="id22" role="doc-noteref"><span class="fn-bracket">[</span>22<span class="fn-bracket">]</span></a></p></li>
-<li><p>My Sierra Woods: an American Forest Foundation program that provides financial aid to family forest landowners in Northern California.<a class="footnote-reference brackets" href="#id67" id="id23" role="doc-noteref"><span class="fn-bracket">[</span>23<span class="fn-bracket">]</span></a></p></li>
-<li><p>A partnership with CAL FIRE, USFS, USDA Natural Resources Conservation Services, the American Forest Foundation, The Nature Conservancy, and UC Cooperative Extension is working to create a comprehensive program that assists small landowners in forest treatment and post-fire recovery.</p></li>
-</ul>
-<p>Despite significant efforts, California’s wildfire resilience strategy faces two major gaps: limited state funding and a lack of a common framework or shared goals.<a class="footnote-reference brackets" href="#id68" id="id24" role="doc-noteref"><span class="fn-bracket">[</span>24<span class="fn-bracket">]</span></a> These gaps are critical since not all regions have equal access to capital and resources necessary for effective wildfire management. Additionally, federal programs often require upfront capital from private landowners, posing challenges for those unable to afford restoration and management costs.</p>
+<section id="treatment-needs">
+<h3><span class="section-number">9.2.3. </span>Treatment Needs<a class="headerlink" href="#treatment-needs" title="Link to this heading">#</a></h3>
+<p>California has identified more than 20 million acres that need fuel treatment across various landscape types to reduce hazardous vegetation. For this analysis, treatment needs are narrowed to private forest lands and privately owned forested areas with 20% or more canopy cover. Treatment for forests includes prescribed burning, selective harvesting and thinning, herbicide applications, and constructing fuel breaks. These interventions reduce fuels that generate catastrophic fire conditions and slow-burning fires, provide buffer zones to limit crown fires and return forest lands to a state that can support low-intensity fires. In collaboration with many federal, state, local, and non-government entities, the Forest Management Task Force published California’s Wildfire and Forest Resilience Action <a class="reference external" href="https://wildfiretaskforce.org/wp-content/uploads/2022/04/californiawildfireandforestresilienceactionplan.pdf">Plan</a>, which aims to treat one million acres of state and federal land annually by 2025.</p>
 </section>
 </section>
-<section id="research-methods-approach">
-<h2><span class="section-number">9.3. </span>Research Methods &amp; Approach<a class="headerlink" href="#research-methods-approach" title="Link to this heading">#</a></h2>
-<p>The following section outlines the methods and approach to the study.</p>
+<section id="methods">
+<h2><span class="section-number">9.3. </span>Methods<a class="headerlink" href="#methods" title="Link to this heading">#</a></h2>
+<p>The following section outlines the study’s objectives, definitions, methods, and datasets.</p>
 <section id="objective">
 <h3><span class="section-number">9.3.1. </span>Objective<a class="headerlink" href="#objective" title="Link to this heading">#</a></h3>
-<p>This research investigates the overlap of identified wildfire treatment needs and low-income communities. While it is well-established that wildfires disproportionately affect low-income communities, it is crucial to understand the extent to which California’s fire reduction strategies and treatments currently cover private low-income lands. Previous studies have examined the relationship between populations and communities and past wildfires. Still, few have analyzed this issue at the acreage and census tract level concerning opportunities and solutions, i.e., identified treatable lands.<a class="footnote-reference brackets" href="#id69" id="id25" role="doc-noteref"><span class="fn-bracket">[</span>25<span class="fn-bracket">]</span></a> By focusing on the spatial distribution of wildfire treatment areas in low-income regions, this research aims to design more effective local solutions that target the most vulnerable communities. Understanding the acreage of treatment in these areas is essential for developing targeted strategies that mitigate wildfire risks and address the underlying socioeconomic disparities.</p>
+<p>This research investigates the overlap of identified wildfire treatment needs and low-income communities. While it is well-established that wildfires disproportionately affect low-income communities, it is crucial to understand the extent to which California’s fire reduction strategies and treatments currently cover private low-income lands. Previous studies have examined the relationship between populations and communities and past wildfires. Still, few have analyzed this issue at the acreage and census tract level concerning opportunities and solutions, i.e., identified treatable lands. By focusing on the spatial distribution of wildfire treatment areas in low-income regions, this research aims to design more effective local solutions that target the most vulnerable communities. Understanding the acreage of treatment in these areas is essential for developing targeted strategies that mitigate wildfire risks and address the underlying socioeconomic disparities.</p>
 </section>
-<section id="land-ownership-dataset">
-<h3><span class="section-number">9.3.2. </span>Land Ownership Dataset<a class="headerlink" href="#land-ownership-dataset" title="Link to this heading">#</a></h3>
-<p>We examine California’s land ownership profile through CAL FIRE’s California <a class="reference external" href="https://data.ca.gov/dataset/california-land-ownership">Land Ownership dataset</a> and the California <a class="reference external" href="https://koordinates.com/layer/96035-california-us-census-tracts/">Census Tract Dataset</a>. These lands were identified as public acres using the CPAD (California Protected Areas Database), BIA (Bureau of Indian Affairs), DOD (Department of Defense), and FWS (The Fish and Wildlife Service).<a class="footnote-reference brackets" href="#id70" id="id26" role="doc-noteref"><span class="fn-bracket">[</span>26<span class="fn-bracket">]</span></a> <a class="footnote-reference brackets" href="#id71" id="id27" role="doc-noteref"><span class="fn-bracket">[</span>27<span class="fn-bracket">]</span></a> This dataset excludes the following lands: lands under FWS leases or easement (excludes lands managed by FWS but not owned by FWS); BIA areas that represent mineral rights; CPAD areas that are privately owned (e.g., HOAs).</p>
-<p>As with most datasets, there are known gaps and discrepancies. One such gap is missing BOR, ACE, and Navy lands not in the CPAD or DOD MIRTA datasets. Because this dataset is used to identify private lands, this gap may slightly overestimate private land acreage. Additionally, there may be other data discrepancies due to data transformations and processes. Nonetheless, the results are generally sound and within an acceptable range. Checks were available for these data points through online queries.<a class="footnote-reference brackets" href="#id72" id="id28" role="doc-noteref"><span class="fn-bracket">[</span>28<span class="fn-bracket">]</span></a></p>
-<p>In this research paper, we only examine different variables (treatment lands and poverty) on private lands. The Private Lands dataset was created by subtracting public lands from California’s total acres.</p>
-</section>
-<section id="poverty-dataset">
-<h3><span class="section-number">9.3.3. </span>Poverty Dataset<a class="headerlink" href="#poverty-dataset" title="Link to this heading">#</a></h3>
-<p>The poverty data used in this research comes from the <a class="reference external" href="https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40">CalEnviroScreen4.</a>, which was created by the California Office of Environmental Health Hazard Assessment (OEHHA) to “identify communities that are disproportionately burdened by multiple sources of pollution”.<a class="footnote-reference brackets" href="#id73" id="id29" role="doc-noteref"><span class="fn-bracket">[</span>29<span class="fn-bracket">]</span></a></p>
+<section id="definitions">
+<h3><span class="section-number">9.3.2. </span>Definitions<a class="headerlink" href="#definitions" title="Link to this heading">#</a></h3>
 <ul class="simple">
-<li><p><strong>OEHHA’s Poverty Indicator Definition</strong>: This is the percent of the population living below two times the federal poverty level (from a 5-year estimate for 2015-2019).<a class="footnote-reference brackets" href="#id74" id="id30" role="doc-noteref"><span class="fn-bracket">[</span>30<span class="fn-bracket">]</span></a> The primary source for this data is the American Community Survey- US Census Bureau, which uses income thresholds based on family size to determine poverty level. It is important to note that OEHHA used a poverty threshold two times the federal poverty level because California has a higher cost of living than most states. This is to account for the fact that the methodology for determining federal poverty has not changed in the past 40+ years. NOTE: In this research, Poverty Rate = Population % in Poverty.</p></li>
-<li><p><strong>Poverty Population Threshold: High Poverty 20%; Extreme Poverty 40%</strong>. The USDA defines areas of “high poverty” as those with a poverty rate of 20%+ and “extreme poverty” as those with a poverty rate of 40%+.[31] For this research, we examined areas where 40%+ of the population is in poverty since those are areas of high impact and need.</p></li>
+<li><p>Forest and Wildfire Fuel Treatment: Treatment includes prescribed burning, mechanical treatment, manual treatments, herbicide application, and prescribed herbivory to reduce hazardous vegetation, constructing fuel breaks, and ecological restoration (CalVTP Storymap).<a class="footnote-reference brackets" href="#id6" id="id2" role="doc-noteref"><span class="fn-bracket">[</span>2<span class="fn-bracket">]</span></a></p></li>
+<li><p>Poverty Rate: California Environmental Protection Agency’s Office of Environmental Health Hazard Assessment (OEHHA) defines this as the percent of the population living below two times the federal poverty level (from a 5-year estimate for the years 2015-2019). Dataset: CalEnviroScreen4.0,</p></li>
+<li><p>Poverty Population Threshold: High Poverty 20%; Extreme Poverty 40%. The USDA defines areas of “high poverty” as those with a poverty rate of 20%+ and “extreme poverty” as those with a poverty rate of 40%+ (“Poverty Area Measures”).</p></li>
 </ul>
-</section>
-<section id="treatable-lands-dataset">
-<h3><span class="section-number">9.3.4. </span>Treatable Lands Dataset<a class="headerlink" href="#treatable-lands-dataset" title="Link to this heading">#</a></h3>
-<p>The CAL Vegetation Treatment Program Environmental Impact Report and dataset (California Vegetation Treatable Landscape) identifies treatable landscapes that would increase California’s wildfire resilience. This dataset uses the defined SRA (State Responsibility Areas) for which CAL FIREis legally responsible for providing Fire Protection to <a class="footnote-reference brackets" href="#id75" id="id31" role="doc-noteref"><span class="fn-bracket">[</span>32<span class="fn-bracket">]</span></a> and wildland-urban interface areas (WUI) and breaks it into vegetation types as identified by the California Wildlife Habitat Relationship (CWHR) system. Three levels of analysis were done to produce the final dataset, which identified 20-23M acres of treatable lands within SRA’s 30M acres.<a class="footnote-reference brackets" href="#id76" id="id32" role="doc-noteref"><span class="fn-bracket">[</span>33<span class="fn-bracket">]</span></a> Currently, only 250,000 acres are treated annually; however, the goal is to increase the pace and scale of treatment to 500,000 acres annually.<a class="footnote-reference brackets" href="#id77" id="id33" role="doc-noteref"><span class="fn-bracket">[</span>34<span class="fn-bracket">]</span></a></p>
-<p>This dataset includes federal, public, and private lands (private lands adjacent to urban developments and in rural and undeveloped areas <a class="footnote-reference brackets" href="#id78" id="id34" role="doc-noteref"><span class="fn-bracket">[</span>35<span class="fn-bracket">]</span></a>) but excludes the following types of land:</p>
-<ul class="simple">
-<li><p>Vegetation types that have low or negligible wildfire risk (estuarine, wet meadows)<a class="footnote-reference brackets" href="#id79" id="id35" role="doc-noteref"><span class="fn-bracket">[</span>36<span class="fn-bracket">]</span></a></p></li>
-<li><p>Agricultural lands (since it is outside of SRA)<a class="footnote-reference brackets" href="#id80" id="id36" role="doc-noteref"><span class="fn-bracket">[</span>37<span class="fn-bracket">]</span></a></p></li>
-</ul>
-<p>The Treatable Lands Dataset includes the following definitions:</p>
-<p><strong>Treatment Definition</strong>: Treatment includes “prescribed burning, mechanical treatment, manual treatments, herbicide application, and prescribed herbivory to reduce hazardous vegetation,” constructing fuel breaks, and ecological restoration.<a class="footnote-reference brackets" href="#id81" id="id37" role="doc-noteref"><span class="fn-bracket">[</span>38<span class="fn-bracket">]</span></a></p>
-<p><strong>Treatment Overlap % Definition</strong>: The treatable land dataset overlapped with the private land ownership dataset (at a census tract level) to identify how much private land was treatable. This proportion of treatable private land is defined in this research as Treatment Overlap %.</p>
 </section>
 <section id="methodology">
-<h3><span class="section-number">9.3.5. </span>Methodology<a class="headerlink" href="#methodology" title="Link to this heading">#</a></h3>
+<h3><span class="section-number">9.3.3. </span>Methodology<a class="headerlink" href="#methodology" title="Link to this heading">#</a></h3>
 <p>QGIS was used for spatial analysis, and all numerical analysis and data transformations were performed using Excel and Python. Almost all datasets had broken geometries and required geometry repairs. Data transformations were also performed to ensure that all datasets used the same coordinate systems and that the data was cleaned before analysis. This process may have resulted in data discrepancies. Multiple and various types of checks were performed throughout the process to ensure the results were within an acceptable range.</p>
+</section>
+<section id="datasets">
+<h3><span class="section-number">9.3.4. </span>Datasets<a class="headerlink" href="#datasets" title="Link to this heading">#</a></h3>
+<p>The following datasets were used for the study:</p>
+<ul class="simple">
+<li><p>Land Ownership Dataset: CAL FIRE’s California Land Ownership dataset and the California Census Tract Dataset identify public lands.</p></li>
+<li><p>Forest Dataset: the 2021 National Land Cover Database (NLCD). It is critical to note that the National Land Cover Database has identified three types of forests: Deciduous forests, evergreen forests, and mixed forests. To be labeled a forest, these regions’ trees must comprise more than 20% of the total vegetation cover. This definition of a forest differs from that of USDA’s Forest Inventory Analysis (FIA), which defines a forest as an area with at least 10% canopy cover and is for forestry use. As a result, the total acres of forest in California from FIA and NLCD are different, 19 million acres and 31 million acres, respectively. Additionally, in the NLCD dataset, there is no distinction between industrial private and non-industrial private forest lands.</p></li>
+<li><p>Forest and Wildfire Fuel Treatment Dataset: CAL Vegetation Treatment Program Environmental Impact Report and dataset California Vegetation Treatable Landscape</p></li>
+<li><p>Acres Treated Dataset: California Wildfire &amp; Forest Resilience Task Force’s Beta Interagency Treatment Dashboard. Most of the information captured in this dashboard related to forest treatment activities was used to identify the number of forest acres treated. There were 93,000 acres of targeted grazing (of the total 751,467 acres treated); however, it was unclear if it was forest-related and was included nonetheless.</p></li>
+</ul>
 </section>
 </section>
 <section id="key-findings">
 <h2><span class="section-number">9.4. </span>Key Findings<a class="headerlink" href="#key-findings" title="Link to this heading">#</a></h2>
 <p>This research has identified several critical insights that underscore the complex relationship between wildfire treatment needs and economic vulnerability in California. It has also provided a way to identify high-impact opportunity areas where financial assistance might have a greater socio-economic and environmental impact.</p>
-<p>California has about 104.7 million acres, of which 54 million (52% of the state) are public lands and about 50 million (48% of the state) are private lands. The total acreage of private lands that are treatable for wildfire reduction is 17,966,967 acres with 3,620,887 acres on public lands (<a class="reference internal" href="#treatable"><span class="std std-numref">Fig. 9.2</span></a>).</p>
-<p>Table 1. Acres and percent treatable by poverty level in California.</p>
-<div class="pst-scrollable-table-container"><table class="table">
-<thead>
-<tr class="row-odd"><th class="head text-left"><p>Poverty Level</p></th>
-<th class="head text-right"><p>Private Treatable Acres (Millions)</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="row-even"><td class="text-left"><p>High (20-39%)</p></td>
-<td class="text-right"><p>14.5 (86% total)</p></td>
-</tr>
-<tr class="row-odd"><td class="text-left"><p>Extreme (&gt;40%)</p></td>
-<td class="text-right"><p>4.7 (26% total)</p></td>
-</tr>
-</tbody>
-</table>
-</div>
-<figure class="align-default" id="treatable">
-<a class="reference internal image-reference" href="../_images/treatable.png"><img alt="../_images/treatable.png" src="../_images/treatable.png" style="height: 300px;" /></a>
-<figcaption>
-<p><span class="caption-number">Fig. 9.2 </span><span class="caption-text">Treatable private acres by poverty rate.</span><a class="headerlink" href="#treatable" title="Link to this image">#</a></p>
-</figcaption>
-</figure>
-<p>The bivariate choropleth map highlights the extreme poverty areas with at least 40%+ overlap with treatment lands (<a class="reference internal" href="#fig2"><span class="std std-numref">Fig. 9.3</span></a>). This important intersection of treatment and economic need is represented in purple.</p>
-<figure class="align-default" id="fig2">
-<a class="reference internal image-reference" href="../_images/fig2.png"><img alt="../_images/fig2.png" src="../_images/fig2.png" style="height: 500px;" /></a>
-<figcaption>
-<p><span class="caption-number">Fig. 9.3 </span><span class="caption-text">Bivariate choropleth highlighting extreme poverty areas that have &gt;40%+ overlap with treatment lands.</span><a class="headerlink" href="#fig2" title="Link to this image">#</a></p>
-</figcaption>
-</figure>
-<p>For a higher-level view of which counties have these high-impact opportunity areas, <a class="reference internal" href="#fig3"><span class="std std-numref">Fig. 9.4</span></a> shows treatable private acres where the darker the purple, the greater the treatable private acreage in that extreme poverty region.</p>
-<figure class="align-default" id="fig3">
-<a class="reference internal image-reference" href="../_images/fig31.png"><img alt="../_images/fig31.png" src="../_images/fig31.png" style="height: 500px;" /></a>
-<figcaption>
-<p><span class="caption-number">Fig. 9.4 </span><span class="caption-text">Treatable private acreage in extreme poverty regions.</span><a class="headerlink" href="#fig3" title="Link to this image">#</a></p>
-</figcaption>
-</figure>
-<p>Below is a table that shows the top 10 California counties with the largest total treatable private acres in extreme poverty.</p>
-<p>The study had the following key findings:</p>
 <ul class="simple">
-<li><p>There are approximately <strong>18 million acres of private land in need of wildfire treatment</strong> across the state.</p></li>
-<li><p>15 million acres, or <strong>86% of all treatable lands, are concentrated in High Poverty Areas</strong> (where the poverty rate exceeds 20%).</p></li>
-<li><p>Nearly <strong>5 million acres, about 30% of all treatable lands, are concentrated in Extreme Poverty zones</strong> (where the poverty rate exceeds 40%).</p></li>
-<li><p><strong>Six counties comprise 53% of treatable land in Extreme Poverty Zones</strong> (Tehama, Mendocino, Humboldt, Kern, Siskiyou, Shasta), cumulatively totaling 2.5 million acres.</p></li>
-<li><p><strong>Tehama County has the most treatable land</strong> (329,876 acres) in the extreme poverty category.</p></li>
+<li><p><strong>More than 33% of the state’s wildfire treatment needs are on private forest land</strong>. Of the roughly 20 million acres of treatable lands across landscape types, 18 million acres are private lands; of that, 6.7 million acres are private forests (<a class="reference internal" href="#fig3-4"><span class="std std-numref">Fig. 9.3</span></a>).</p></li>
+<li><p>Of the 6.7 million private forest treatable acres, <strong>4 million acres are concentrated in High Poverty Census Tracts</strong>. That is, 60% of total private treatment needs are concentrated in areas where the poverty rate exceeds 20%—2x the national average.</p></li>
+<li><p>Of the 6.7 million private forest treatable acres, <strong>over 1.6 million acres are concentrated in Extreme Poverty Census Tracts</strong> (<a class="reference internal" href="#fig3-4"><span class="std std-numref">Fig. 9.3</span></a>). About 25% of total private treatment needs are located in areas where the poverty rate exceeds 40%—4x the national average.</p></li>
+<li><p><strong>Three of 58 counties make up half of treatable forests in Extreme Poverty Zones</strong>. Mendocino, Humboldt, and Tehama have nearly 822,000 acres of private forest in Extreme Poverty lands requiring fuel reduction.</p></li>
+<li><p><strong>Current treatment levels are falling short</strong>. In 2022, 86,000 acres were treated on private lands. If California continues at this rate, addressing the total private forest need will take more than 75 years.</p></li>
 </ul>
-</section>
-<section id="next-steps">
-<h2><span class="section-number">9.5. </span>Next Steps<a class="headerlink" href="#next-steps" title="Link to this heading">#</a></h2>
-<p>The research confirms that low-income and underserved communities are critical in the fight against wildfires. They comprise most of the opportunity in private lands where treatment has been identified as necessary. These communities, however, are often less equipped to recover and adapt, exacerbating their vulnerability. Such research can guide capital to be allocated more effectively by focusing resources on high-need areas and implementing strategies that address both environmental and socio-economic vulnerabilities:</p>
-<ul class="simple">
-<li><p><strong>Targeted Investment in High-Risk Areas</strong>: Directing funds toward counties and census tracts with the highest concentration of treatable private lands in high and extreme-poverty areas can maximize the impact of wildfire reduction efforts. By prioritizing these high-risk regions, capital can be used more efficiently to reduce fire hazards and enhance community resilience.</p></li>
-<li><p><strong>Incentivizing Private Landowners</strong>: Developing financial incentives and support programs for private landowners, particularly those in economically disadvantaged areas, can encourage widespread adoption of wildfire mitigation practices. Grants, low-interest loans, and tax incentives could be tailored to support landowners in implementing prescribed burns, mechanical treatments, and other fire reduction strategies.</p></li>
-<li><p><strong>Community-Led Stewardship Programs</strong>: Investing in community-led stewardship programs can empower residents, especially in low-income communities, to take an active role in wildfire prevention and land management. These programs can provide training, resources, and support to foster local expertise and ownership of fire resilience initiatives.</p></li>
-<li><p><strong>Health and Economic Support</strong>: It is crucial to allocate funds to address the health and economic impacts of wildfires on low-income communities. This includes supporting healthcare services, improving air quality, and providing economic assistance to those affected by repeated fires. These measures can help communities recover more quickly and build long-term resilience.</p></li>
-<li><p><strong>Collaborative Public-Private Partnerships</strong>: Encouraging collaboration between government entities, non-profit organizations, and private landowners can lead to more comprehensive and effective wildfire management strategies. Public-private partnerships can leverage diverse resources and expertise to implement large-scale, coordinated efforts addressing environmental and social challenges.</p></li>
-<li><p><strong>Data-Driven Decision Making</strong>: Utilizing detailed data on land ownership, poverty levels, and wildfire risks can enhance the precision of funding allocations. By continuously updating and refining this data, stakeholders can ensure that resources are directed to the areas of greatest need and potential impact.</p></li>
-</ul>
-</section>
-<section id="future-research">
-<h2><span class="section-number">9.6. </span>Future Research<a class="headerlink" href="#future-research" title="Link to this heading">#</a></h2>
-<p>Future research should delve deeper into several areas to enhance understanding and inform policy and intervention strategies:</p>
-<ul class="simple">
-<li><p><strong>Granular Data on Private Landowners</strong>: More detailed demographic data on private landowners, particularly distinguishing between industrial and non-industrial landowners, would provide a clearer picture of who controls treatable lands. This, in turn, can aid in structuring financial incentives, policies, and products for specific stakeholders within the larger private landowner group.</p></li>
-<li><p><strong>Spatial Health Impact Studies</strong>: Investigating the long-term health impacts of repeated wildfire exposure on low-income communities can offer insights into necessary public health interventions in conjunction with wildfire reduction efforts.</p></li>
-<li><p><strong>Types of Wildfire Reduction Treatments</strong>: Utilizing more granular information on the different treatment types across geographies can help evaluate the effectiveness of existing wildfire reduction treatments on private lands, especially in high—and extreme-poverty areas. It may guide strategists in identifying best practices and areas needing changes.</p></li>
-<li><p><strong>Economic Resilience Measures</strong>: Studying the economic resilience of low-income communities post-wildfire events to develop targeted support mechanisms to help these communities recover and adapt more effectively. This pairs wonderfully with examining reforestation needs post-wildfire and how low-income communities can participate in recovery and climate resiliency.</p></li>
-<li><p><strong>Policy and Funding Impact</strong>: Analyzing the impact of current policies and funding on implementing wildfire treatment strategies, focusing on increasing resources and access for low-income communities.</p></li>
-</ul>
-</section>
-<section id="conclusion">
-<h2><span class="section-number">9.7. </span>Conclusion<a class="headerlink" href="#conclusion" title="Link to this heading">#</a></h2>
-<p>The challenges California’s diverse ecosystems face are compounded by the increasing frequency and intensity of wildfires driven by climate change. This research illuminates the critical intersection between wildfire treatment needs and economic vulnerability, emphasizing the urgent need for targeted interventions.</p>
-<p>Low-income and underserved communities are disproportionately affected by wildfires, experiencing higher health and economic burdens. However, they also hold potential as key players in mitigating wildfire risks through community-led stewardship and restoration efforts. California can better safeguard its natural landscapes and most vulnerable populations by aligning wildfire treatment strategies with socio-economic resilience measures. Future studies and policy developments should prioritize these high-risk, high-need areas to foster a more equitable and effective approach to wildfire management and climate adaptation.</p>
-</section>
-<section id="appendices">
-<h2><span class="section-number">9.8. </span>Appendices<a class="headerlink" href="#appendices" title="Link to this heading">#</a></h2>
-<section id="appendix-1-land-ownership">
-<h3><span class="section-number">9.8.1. </span>Appendix 1: Land Ownership<a class="headerlink" href="#appendix-1-land-ownership" title="Link to this heading">#</a></h3>
-<p>Restoration efforts are readily implemented on California’s public lands (which range from 47%-52% of the state <a class="footnote-reference brackets" href="#id82" id="id38" role="doc-noteref"><span class="fn-bracket">[</span>39<span class="fn-bracket">]</span></a>); however, given that the remainder of the state is in the hands of private landowners, government entities and organizations must collaborate with these stakeholders to implement wildfire reduction and climate mitigation solutions. Private landowners can be further broken down into industrial and non-industrial private landowners, with 8.7 million acres of timberlands owned by small acreage non-industrial private landowners.<a class="footnote-reference brackets" href="#id83" id="id39" role="doc-noteref"><span class="fn-bracket">[</span>40<span class="fn-bracket">]</span></a> In 2020, the state had around 200,000 non-industrial private forest landowners, of which approximately 60% are 65+ years or older, and only 9% use their forest land for income.<a class="footnote-reference brackets" href="#id84" id="id40" role="doc-noteref"><span class="fn-bracket">[</span>41<span class="fn-bracket">]</span></a> Although granular data on private landowner demographics is not readily available, it would be interesting for future research to utilize this level of detail. Regardless, given their sizable ownership, private landowners (industrial and non-industrial) are important players in the fight against wildfires. The California Land Ownership dataset paints a similar picture, with public lands at 52% and private at 48% (Table 1). A visual depiction of the landownership split is shown in <a class="reference internal" href="#fig4"><span class="std std-numref">Fig. 9.5</span></a>.</p>
-<p>Table 1: California land ownership breakdown.</p>
-<div class="pst-scrollable-table-container"><table class="table">
-<thead>
-<tr class="row-odd"><th class="head text-left"><p>Land Ownership</p></th>
-<th class="head text-right"><p>Acres</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="row-even"><td class="text-left"><p>Public</p></td>
-<td class="text-right"><p>54,243,739</p></td>
-</tr>
-<tr class="row-odd"><td class="text-left"><p>Private</p></td>
-<td class="text-right"><p>50,520,892</p></td>
-</tr>
-<tr class="row-even"><td class="text-left"><p>Total</p></td>
-<td class="text-right"><p>104,764,631</p></td>
-</tr>
-</tbody>
-</table>
-</div>
-<figure class="align-default" id="fig4">
-<a class="reference internal image-reference" href="../_images/fig4.png"><img alt="../_images/fig4.png" src="../_images/fig4.png" style="height: 500px;" /></a>
+<figure class="align-default" id="fig3-4">
+<a class="reference internal image-reference" href="../_images/fig3-4.png"><img alt="../_images/fig3-4.png" src="../_images/fig3-4.png" style="height: 500px;" /></a>
 <figcaption>
-<p><span class="caption-number">Fig. 9.5 </span><span class="caption-text">All public lands (left) and all private lands (right) in California as of April 2024. Maps do not differentiate between industrial and non-industrial private lands.</span><a class="headerlink" href="#fig4" title="Link to this image">#</a></p>
+<p><span class="caption-number">Fig. 9.3 </span><span class="caption-text">Private forest treatment needs by total acres within counties at left and private forest treatment needs by total acres within extreme poverty counties at right.</span><a class="headerlink" href="#fig3-4" title="Link to this image">#</a></p>
 </figcaption>
 </figure>
-<p>A future study may explore this research topic with this additional granularity, looking only at non-industrial private lands.</p>
-</section>
-<section id="appendix-2-poverty-on-private-land">
-<h3><span class="section-number">9.8.2. </span>Appendix 2: Poverty on Private Land<a class="headerlink" href="#appendix-2-poverty-on-private-land" title="Link to this heading">#</a></h3>
-<p>In the US, the poverty rate in 2022 was 11.5%, accounting for 37.9 million people living below the federal poverty level threshold.<a class="footnote-reference brackets" href="#id85" id="id41" role="doc-noteref"><span class="fn-bracket">[</span>42<span class="fn-bracket">]</span></a> The federal poverty level is based on household size, location, and income. As a result, it has various income thresholds for various conditions<a class="footnote-reference brackets" href="#id86" id="id42" role="doc-noteref"><span class="fn-bracket">[</span>43<span class="fn-bracket">]</span></a> (e.g., the threshold for a family of four is $25,700).<a class="footnote-reference brackets" href="#id87" id="id43" role="doc-noteref"><span class="fn-bracket">[</span>44<span class="fn-bracket">]</span></a></p>
-<p>Table 1: The distribution of percent of the total population by Federal Poverty level<a class="footnote-reference brackets" href="#id88" id="id44" role="doc-noteref"><span class="fn-bracket">[</span>45<span class="fn-bracket">]</span></a>.</p>
-<div class="pst-scrollable-table-container"><table class="table">
-<thead>
-<tr class="row-odd"><th class="head text-left"><p>Federal Poverty Level</p></th>
-<th class="head text-right"><p>&lt;100%</p></th>
-<th class="head text-right"><p>100-200%</p></th>
-<th class="head text-right"><p>200-399%</p></th>
-<th class="head text-right"><p>&gt;400%</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="row-even"><td class="text-left"><p>United States</p></td>
-<td class="text-right"><p>12.6</p></td>
-<td class="text-right"><p>15.8</p></td>
-<td class="text-right"><p>29.6</p></td>
-<td class="text-right"><p>42</p></td>
-</tr>
-<tr class="row-odd"><td class="text-left"><p>California</p></td>
-<td class="text-right"><p>12.1</p></td>
-<td class="text-right"><p>15.3</p></td>
-<td class="text-right"><p>27.5</p></td>
-<td class="text-right"><p>45.1</p></td>
-</tr>
-</tbody>
-</table>
-</div>
-<p>Merging poverty and private land data together, we see that using the 20%+ threshold, about 38,716,802 million acres (or 77%) of private land is in “high poverty.” Using the 40%+ threshold, about 17,098,382 million acres (or 34%) of private land is in “extreme poverty.” <a class="reference internal" href="#fig5"><span class="std std-numref">Fig. 9.6</span></a></p>
-<figure class="align-default" id="fig5">
-<a class="reference internal image-reference" href="../_images/fig5.png"><img alt="../_images/fig5.png" src="../_images/fig5.png" style="height: 300px;" /></a>
-<figcaption>
-<p><span class="caption-number">Fig. 9.6 </span><span class="caption-text">Sum of total and private acres by poverty rate.</span><a class="headerlink" href="#fig5" title="Link to this image">#</a></p>
-</figcaption>
-</figure>
-<p>The map visually represents the areas that fall within the high-poverty and extreme-poverty buckets (<a class="reference internal" href="#fig6"><span class="std std-numref">Fig. 9.7</span></a>).</p>
-<figure class="align-default" id="fig6">
-<a class="reference internal image-reference" href="../_images/fig6.png"><img alt="../_images/fig6.png" src="../_images/fig6.png" style="height: 500px;" /></a>
-<figcaption>
-<p><span class="caption-number">Fig. 9.7 </span><span class="caption-text">Visual representation of the areas that fall within the high poverty and extreme poverty buckets.</span><a class="headerlink" href="#fig6" title="Link to this image">#</a></p>
-</figcaption>
-</figure>
-<p>Table 2 shows the population % in poverty on private lands and Table 3 shows counties with at least 1 mn private land acres in high poverty.</p>
-<p>Table 2: Population % in poverty on private lands.</p>
-<div class="pst-scrollable-table-container"><table class="table">
-<thead>
-<tr class="row-odd"><th class="head"><p>Poverty Rate</p></th>
-<th class="head text-right"><p>Total Land</p></th>
-<th class="head text-right"><p>Private Land</p></th>
-<th class="head text-right"><p>% Private Land</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="row-even"><td><p>0-10%</p></td>
-<td class="text-right"><p>5,818,291</p></td>
-<td class="text-right"><p>4,642,135</p></td>
-<td class="text-right"><p>80%</p></td>
-</tr>
-<tr class="row-odd"><td><p>10-20%</p></td>
-<td class="text-right"><p>11,594,438</p></td>
-<td class="text-right"><p>6,920,586</p></td>
-<td class="text-right"><p>60%</p></td>
-</tr>
-<tr class="row-even"><td><p>20-30%</p></td>
-<td class="text-right"><p>17,034,936</p></td>
-<td class="text-right"><p>8,972,946</p></td>
-<td class="text-right"><p>53%</p></td>
-</tr>
-<tr class="row-odd"><td><p>30-40%</p></td>
-<td class="text-right"><p>27,346,684</p></td>
-<td class="text-right"><p>12,645,475</p></td>
-<td class="text-right"><p>46%</p></td>
-</tr>
-<tr class="row-even"><td><p>40-50%</p></td>
-<td class="text-right"><p>30,229,451</p></td>
-<td class="text-right"><p>9,769,814</p></td>
-<td class="text-right"><p>32%</p></td>
-</tr>
-<tr class="row-odd"><td><p>50-60%</p></td>
-<td class="text-right"><p>7,685,091</p></td>
-<td class="text-right"><p>3,866,813</p></td>
-<td class="text-right"><p>50%</p></td>
-</tr>
-<tr class="row-even"><td><p>60-70%</p></td>
-<td class="text-right"><p>4,093,453</p></td>
-<td class="text-right"><p>2,656,449</p></td>
-<td class="text-right"><p>65%</p></td>
-</tr>
-<tr class="row-odd"><td><p>70-80%</p></td>
-<td class="text-right"><p>809,307</p></td>
-<td class="text-right"><p>659,917 g</p></td>
-<td class="text-right"><p>82%</p></td>
-</tr>
-<tr class="row-even"><td><p>80-90%</p></td>
-<td class="text-right"><p>150,975</p></td>
-<td class="text-right"><p>143,809</p></td>
-<td class="text-right"><p>95%</p></td>
-</tr>
-<tr class="row-odd"><td><p>90-100%</p></td>
-<td class="text-right"><p>1,586</p></td>
-<td class="text-right"><p>1,580</p></td>
-<td class="text-right"><p>100%</p></td>
-</tr>
-<tr class="row-even"><td><p>Total</p></td>
-<td class="text-right"><p>104,764,212</p></td>
-<td class="text-right"><p>50,279,524</p></td>
-<td class="text-right"><p></p></td>
-</tr>
-</tbody>
-</table>
-</div>
-<p>Table 3: Counties that had at least 1 million private land acres or more in High Poverty or at least 500,000 private land acres in Extreme Poverty. Table is pre-sorted by largest to smallest for Extreme Poverty. Numbers in acres. A map of the same is shown in <a class="reference internal" href="#fig7"><span class="std std-numref">Fig. 9.8</span></a>.</p>
-<div class="pst-scrollable-table-container"><table class="table">
-<thead>
-<tr class="row-odd"><th class="head"><p>Counties</p></th>
-<th class="head text-right"><p>High Poverty</p></th>
-<th class="head text-right"><p>Extreme Poverty</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="row-even"><td><p>Kern</p></td>
-<td class="text-right"><p>3,326,429</p></td>
-<td class="text-right"><p>2,270,582</p></td>
-</tr>
-<tr class="row-odd"><td><p>Fresno</p></td>
-<td class="text-right"><p>2,032,959</p></td>
-<td class="text-right"><p>1,697,758</p></td>
-</tr>
-<tr class="row-even"><td><p>Tehama</p></td>
-<td class="text-right"><p>1,345,247</p></td>
-<td class="text-right"><p>1,246,834</p></td>
-</tr>
-<tr class="row-odd"><td><p>San Bernardino</p></td>
-<td class="text-right"><p>2,035,994</p></td>
-<td class="text-right"><p>1,233,671</p></td>
-</tr>
-<tr class="row-even"><td><p>Tulare</p></td>
-<td class="text-right"><p>1,222,123</p></td>
-<td class="text-right"><p>1,119,839</p></td>
-</tr>
-<tr class="row-odd"><td><p>Mendocino</p></td>
-<td class="text-right"><p>1,701,244</p></td>
-<td class="text-right"><p>994,960</p></td>
-</tr>
-<tr class="row-even"><td><p>Merced</p></td>
-<td class="text-right"><p>1,139,123</p></td>
-<td class="text-right"><p>875,044</p></td>
-</tr>
-<tr class="row-odd"><td><p>Riverside</p></td>
-<td class="text-right"><p>1,223,392</p></td>
-<td class="text-right"><p>789,093</p></td>
-</tr>
-<tr class="row-even"><td><p>Kings</p></td>
-<td class="text-right"><p>765,001</p></td>
-<td class="text-right"><p>758,073</p></td>
-</tr>
-<tr class="row-odd"><td><p>Imperial</p></td>
-<td class="text-right"><p>705,551</p></td>
-<td class="text-right"><p>536,974</p></td>
-</tr>
-<tr class="row-even"><td><p>Humboldt</p></td>
-<td class="text-right"><p>1,624,878</p></td>
-<td class="text-right"><p>492,361</p></td>
-</tr>
-<tr class="row-odd"><td><p>Modoc</p></td>
-<td class="text-right"><p>953,928</p></td>
-<td class="text-right"><p>481,309</p></td>
-</tr>
-<tr class="row-even"><td><p>Monterey</p></td>
-<td class="text-right"><p>1,386,346</p></td>
-<td class="text-right"><p>405,022</p></td>
-</tr>
-<tr class="row-odd"><td><p>Siskiyou</p></td>
-<td class="text-right"><p>1,482,653</p></td>
-<td class="text-right"><p>403,244</p></td>
-</tr>
-<tr class="row-even"><td><p>Los Angeles</p></td>
-<td class="text-right"><p>1,328,041</p></td>
-<td class="text-right"><p>372,803</p></td>
-</tr>
-<tr class="row-odd"><td><p>Shasta</p></td>
-<td class="text-right"><p>1,383,236</p></td>
-<td class="text-right"><p>326,970</p></td>
-</tr>
-<tr class="row-even"><td><p>Lassen</p></td>
-<td class="text-right"><p>1,222,532</p></td>
-<td class="text-right"><p>20,916</p></td>
-</tr>
-</tbody>
-</table>
-</div>
-<figure class="align-default" id="fig7">
-<a class="reference internal image-reference" href="../_images/fig7.png"><img alt="../_images/fig7.png" src="../_images/fig7.png" style="height: 500px;" /></a>
-<figcaption>
-<p><span class="caption-number">Fig. 9.8 </span><span class="caption-text">Private Lands in High Poverty (left) and extreme poverty (right).</span><a class="headerlink" href="#fig7" title="Link to this image">#</a></p>
-</figcaption>
-</figure>
-</section>
-<section id="appendix-3-treatable-lands">
-<h3><span class="section-number">9.8.3. </span>Appendix 3: Treatable Lands<a class="headerlink" href="#appendix-3-treatable-lands" title="Link to this heading">#</a></h3>
-<p>California has invested a lot of resources and effort into planning and designing fire reduction strategies. The CAL Vegetation Treatable Lands dataset, along with the private land mapping, shows us that <strong>the total acreage of private lands that are treatable for wildfire reduction is 17,966,967 acres with 3,620,887 acres on public lands</strong> (<a class="reference internal" href="#fig8"><span class="std std-numref">Fig. 9.9</span></a>).</p>
-<figure class="align-default" id="fig8">
-<a class="reference internal image-reference" href="../_images/fig8.png"><img alt="../_images/fig8.png" src="../_images/fig8.png" style="height: 500px;" /></a>
-<figcaption>
-<p><span class="caption-number">Fig. 9.9 </span><span class="caption-text">Private Lands by percent overlap with Treatable Lands</span><a class="headerlink" href="#fig8" title="Link to this image">#</a></p>
-</figcaption>
-</figure>
-<p>Table 1: Counties with the largest private treatable acreage. Figures in acres.</p>
+<p>Top 5 countries with the greatest total acres of private treatable lands in extreme poverty (poverty rate &gt; 40), their acres in high poverty (poverty rate &gt; 20), and their acres treated in 2022 (Table 1).</p>
+<p>Table 1: Top 5 countries with the greatest total acres of private treatable lands in extreme poverty (poverty rate &gt; 40%), their acres in high poverty (poverty rate &gt; 20%), and their acres treated in 2022.<a class="footnote-reference brackets" href="#id7" id="id3" role="doc-noteref"><span class="fn-bracket">[</span>3<span class="fn-bracket">]</span></a></p>
 <div class="pst-scrollable-table-container"><table class="table">
 <thead>
 <tr class="row-odd"><th class="head"><p>County</p></th>
-<th class="head text-right"><p>Private</p></th>
-<th class="head text-right"><p>Treatable Private</p></th>
-<th class="head text-right"><p>% Treatable</p></th>
+<th class="head text-right"><p>Total Forest Acres in Treatment Need</p></th>
+<th class="head text-right"><p>High Poverty</p></th>
+<th class="head text-right"><p>Extreme Poverty</p></th>
+<th class="head text-right"><p>2022 Acres Treated</p></th>
+<th class="head text-right"><p>% Treatment Gap</p></th>
 </tr>
 </thead>
 <tbody>
-<tr class="row-even"><td><p>Humboldt</p></td>
-<td class="text-right"><p>1,624,878</p></td>
-<td class="text-right"><p>1,150,834</p></td>
-<td class="text-right"><p>71%</p></td>
-</tr>
-<tr class="row-odd"><td><p>Shasta</p></td>
-<td class="text-right"><p>1,414,723</p></td>
-<td class="text-right"><p>1,109,051</p></td>
-<td class="text-right"><p>78%</p></td>
-</tr>
 <tr class="row-even"><td><p>Mendocino</p></td>
-<td class="text-right"><p>1,701,244</p></td>
-<td class="text-right"><p>1,088,346</p></td>
-<td class="text-right"><p>64%</p></td>
+<td class="text-right"><p>690,543</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>58</p></td>
+<td class="text-right"><p>714</p></td>
+<td class="text-right"><p>99.9</p></td>
 </tr>
-<tr class="row-odd"><td><p>Siskiyou</p></td>
-<td class="text-right"><p>1,482,653</p></td>
-<td class="text-right"><p>1,000,335</p></td>
-<td class="text-right"><p>67%</p></td>
-</tr>
-<tr class="row-even"><td><p>Lassen</p></td>
-<td class="text-right"><p>1,222,532</p></td>
-<td class="text-right"><p>815,736</p></td>
-<td class="text-right"><p>67%</p></td>
-</tr>
-<tr class="row-odd"><td><p>Kern</p></td>
-<td class="text-right"><p>3,558,529</p></td>
-<td class="text-right"><p>783,365</p></td>
-<td class="text-right"><p>22%</p></td>
+<tr class="row-odd"><td><p>Humboldt</p></td>
+<td class="text-right"><p>921,938</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>28</p></td>
+<td class="text-right"><p>1573</p></td>
+<td class="text-right"><p>99.8</p></td>
 </tr>
 <tr class="row-even"><td><p>Tehama</p></td>
-<td class="text-right"><p>1,345,247</p></td>
-<td class="text-right"><p>749,383</p></td>
-<td class="text-right"><p>56%</p></td>
+<td class="text-right"><p>165,836</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>6371</p></td>
+<td class="text-right"><p>96.2</p></td>
 </tr>
-<tr class="row-odd"><td><p>San Luis Obispo</p></td>
-<td class="text-right"><p>1,535,587</p></td>
-<td class="text-right"><p>666,571</p></td>
-<td class="text-right"><p>43%</p></td>
+<tr class="row-odd"><td><p>Shasta</p></td>
+<td class="text-right"><p>556,829</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>29</p></td>
+<td class="text-right"><p>7156</p></td>
+<td class="text-right"><p>98.7</p></td>
 </tr>
-<tr class="row-even"><td><p>Monterey</p></td>
-<td class="text-right"><p>1,488,030</p></td>
-<td class="text-right"><p>665,228</p></td>
-<td class="text-right"><p>45%</p></td>
-</tr>
-<tr class="row-odd"><td><p>Sonoma</p></td>
-<td class="text-right"><p>894,567</p></td>
-<td class="text-right"><p>527,494</p></td>
-<td class="text-right"><p>59%</p></td>
+<tr class="row-even"><td><p>Siskiyou</p></td>
+<td class="text-right"><p>523,573</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>22</p></td>
+<td class="text-right"><p>4727</p></td>
+<td class="text-right"><p>99.1</p></td>
 </tr>
 </tbody>
 </table>
 </div>
 </section>
+<section id="next-steps">
+<h2><span class="section-number">9.5. </span>Next Steps<a class="headerlink" href="#next-steps" title="Link to this heading">#</a></h2>
+<p>The challenges California’s diverse ecosystems face are compounded by the increasing frequency and intensity of wildfires driven by climate change. Low-income communities have been disproportionately affected by wildfires, experiencing higher health and economic burdens. This research confirms that low-income and underserved communities comprise most of California’s fuel treatment needs but treat landscapes at rates that would take decades, if not centuries, to complete.</p>
+<p>California can better safeguard its natural landscapes and most vulnerable populations by aligning wildfire treatment strategies with socio-economic resilience measures. Future studies and policy developments should prioritize these high-risk, high-need areas to foster a more equitable and effective approach to wildfire management and climate adaptation. Future research can delve deeper into granular information on the different treatment types across geographies, gather parcel-level data, and explore permitting, planning, and aggregation issues to conduct larger-scale fuel treatments in the state.</p>
+</section>
+<section id="appendix">
+<h2><span class="section-number">9.6. </span>Appendix<a class="headerlink" href="#appendix" title="Link to this heading">#</a></h2>
+<p>Table 2. Treatable privately owned acres in high and extreme poverty, total activity acres, and total activity acres on private land.<a class="footnote-reference brackets" href="#id8" id="id4" role="doc-noteref"><span class="fn-bracket">[</span>4<span class="fn-bracket">]</span></a></p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>County</p></th>
+<th class="head text-right"><p>Total Acres in Treatment Need</p></th>
+<th class="head text-right"><p>% High Poverty</p></th>
+<th class="head text-right"><p>% Extreme Poverty</p></th>
+<th class="head text-right"><p>2022 Acres Treated</p></th>
+<th class="head text-right"><p>% Treatment Gap</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Alameda</p></td>
+<td class="text-right"><p>31,109</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>129</p></td>
+<td class="text-right"><p>99.6</p></td>
+</tr>
+<tr class="row-odd"><td><p>Alpine</p></td>
+<td class="text-right"><p>3,963</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>13</p></td>
+<td class="text-right"><p>99.7</p></td>
+</tr>
+<tr class="row-even"><td><p>Amador</p></td>
+<td class="text-right"><p>106,109</p></td>
+<td class="text-right"><p>84</p></td>
+<td class="text-right"><p>20</p></td>
+<td class="text-right"><p>342</p></td>
+<td class="text-right"><p>99.7</p></td>
+</tr>
+<tr class="row-odd"><td><p>Butte</p></td>
+<td class="text-right"><p>153,314</p></td>
+<td class="text-right"><p>64</p></td>
+<td class="text-right"><p>53</p></td>
+<td class="text-right"><p>2400</p></td>
+<td class="text-right"><p>98.4</p></td>
+</tr>
+<tr class="row-even"><td><p>Calaveras</p></td>
+<td class="text-right"><p>141,309</p></td>
+<td class="text-right"><p>96</p></td>
+<td class="text-right"><p>47</p></td>
+<td class="text-right"><p>2782</p></td>
+<td class="text-right"><p>98.0</p></td>
+</tr>
+<tr class="row-odd"><td><p>Colusa</p></td>
+<td class="text-right"><p>696</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>66</p></td>
+<td class="text-right"><p>1264</p></td>
+<td class="text-right"><p>0.0</p></td>
+</tr>
+<tr class="row-even"><td><p>Contra Costa</p></td>
+<td class="text-right"><p>15,563</p></td>
+<td class="text-right"><p>1</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>100.0</p></td>
+</tr>
+<tr class="row-odd"><td><p>Del Norte</p></td>
+<td class="text-right"><p>83,019</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>48</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>100.0</p></td>
+</tr>
+<tr class="row-even"><td><p>El Dorado</p></td>
+<td class="text-right"><p>281,940</p></td>
+<td class="text-right"><p>71</p></td>
+<td class="text-right"><p>15</p></td>
+<td class="text-right"><p>1821</p></td>
+<td class="text-right"><p>99.4</p></td>
+</tr>
+<tr class="row-odd"><td><p>Fresno</p></td>
+<td class="text-right"><p>89,896</p></td>
+<td class="text-right"><p>53</p></td>
+<td class="text-right"><p>11</p></td>
+<td class="text-right"><p>2129</p></td>
+<td class="text-right"><p>97.6</p></td>
+</tr>
+<tr class="row-even"><td><p>Glenn</p></td>
+<td class="text-right"><p>526</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>163</p></td>
+<td class="text-right"><p>69.1</p></td>
+</tr>
+<tr class="row-odd"><td><p>Humboldt</p></td>
+<td class="text-right"><p>921,938</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>28</p></td>
+<td class="text-right"><p>1573</p></td>
+<td class="text-right"><p>99.8</p></td>
+</tr>
+<tr class="row-even"><td><p>Imperial</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>377</p></td>
+<td class="text-right"><p>0.0</p></td>
+</tr>
+<tr class="row-odd"><td><p>Inyo</p></td>
+<td class="text-right"><p>242</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>17</p></td>
+<td class="text-right"><p>18</p></td>
+<td class="text-right"><p>92.6</p></td>
+</tr>
+<tr class="row-even"><td><p>Kern</p></td>
+<td class="text-right"><p>102,736</p></td>
+<td class="text-right"><p>90</p></td>
+<td class="text-right"><p>14</p></td>
+<td class="text-right"><p>397</p></td>
+<td class="text-right"><p>99.6</p></td>
+</tr>
+<tr class="row-odd"><td><p>Kings</p></td>
+<td class="text-right"><p>48</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>100.0</p></td>
+</tr>
+<tr class="row-even"><td><p>Lake</p></td>
+<td class="text-right"><p>52,480</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>17</p></td>
+<td class="text-right"><p>422</p></td>
+<td class="text-right"><p>99.2</p></td>
+</tr>
+<tr class="row-odd"><td><p>Lassen</p></td>
+<td class="text-right"><p>284,718</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>1</p></td>
+<td class="text-right"><p>5948</p></td>
+<td class="text-right"><p>97.9</p></td>
+</tr>
+<tr class="row-even"><td><p>Los Angeles</p></td>
+<td class="text-right"><p>5,289</p></td>
+<td class="text-right"><p>31</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>100.0</p></td>
+</tr>
+<tr class="row-odd"><td><p>Madera</p></td>
+<td class="text-right"><p>120,475</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>11</p></td>
+<td class="text-right"><p>739</p></td>
+<td class="text-right"><p>99.4</p></td>
+</tr>
+<tr class="row-even"><td><p>Marin</p></td>
+<td class="text-right"><p>36,009</p></td>
+<td class="text-right"><p>6</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>249</p></td>
+<td class="text-right"><p>99.3</p></td>
+</tr>
+<tr class="row-odd"><td><p>Mariposa</p></td>
+<td class="text-right"><p>116,805</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>17</p></td>
+<td class="text-right"><p>585</p></td>
+<td class="text-right"><p>99.5</p></td>
+</tr>
+<tr class="row-even"><td><p>Mendocino</p></td>
+<td class="text-right"><p>690,543</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>58</p></td>
+<td class="text-right"><p>714</p></td>
+<td class="text-right"><p>99.9</p></td>
+</tr>
+<tr class="row-odd"><td><p>Merced</p></td>
+<td class="text-right"><p>11,094</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>100.0</p></td>
+</tr>
+<tr class="row-even"><td><p>Modoc</p></td>
+<td class="text-right"><p>175,399</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>55</p></td>
+<td class="text-right"><p>15702</p></td>
+<td class="text-right"><p>91.0</p></td>
+</tr>
+<tr class="row-odd"><td><p>Mono</p></td>
+<td class="text-right"><p>7,076</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>134</p></td>
+<td class="text-right"><p>98.1</p></td>
+</tr>
+<tr class="row-even"><td><p>Monterey</p></td>
+<td class="text-right"><p>133,512</p></td>
+<td class="text-right"><p>83</p></td>
+<td class="text-right"><p>16</p></td>
+<td class="text-right"><p>2705</p></td>
+<td class="text-right"><p>98.0</p></td>
+</tr>
+<tr class="row-odd"><td><p>Napa</p></td>
+<td class="text-right"><p>50,045</p></td>
+<td class="text-right"><p>8</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>615</p></td>
+<td class="text-right"><p>98.8</p></td>
+</tr>
+<tr class="row-even"><td><p>Nevada</p></td>
+<td class="text-right"><p>188,880</p></td>
+<td class="text-right"><p>79</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>1109</p></td>
+<td class="text-right"><p>99.4</p></td>
+</tr>
+<tr class="row-odd"><td><p>Orange</p></td>
+<td class="text-right"><p>899</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>1738</p></td>
+<td class="text-right"><p>-93.4</p></td>
+</tr>
+<tr class="row-even"><td><p>Placer</p></td>
+<td class="text-right"><p>117,489</p></td>
+<td class="text-right"><p>76</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>1614</p></td>
+<td class="text-right"><p>98.6</p></td>
+</tr>
+<tr class="row-odd"><td><p>Plumas</p></td>
+<td class="text-right"><p>175,870</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>8309</p></td>
+<td class="text-right"><p>95.3</p></td>
+</tr>
+<tr class="row-even"><td><p>Riverside</p></td>
+<td class="text-right"><p>6,512</p></td>
+<td class="text-right"><p>56</p></td>
+<td class="text-right"><p>21</p></td>
+<td class="text-right"><p>414</p></td>
+<td class="text-right"><p>93.6</p></td>
+</tr>
+<tr class="row-odd"><td><p>Sacramento</p></td>
+<td class="text-right"><p>332</p></td>
+<td class="text-right"><p>9</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>390</p></td>
+<td class="text-right"><p>0.0</p></td>
+</tr>
+<tr class="row-even"><td><p>San Benito</p></td>
+<td class="text-right"><p>66,498</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>1066</p></td>
+<td class="text-right"><p>98.4</p></td>
+</tr>
+<tr class="row-odd"><td><p>San Bernardino</p></td>
+<td class="text-right"><p>14,323</p></td>
+<td class="text-right"><p>95</p></td>
+<td class="text-right"><p>12</p></td>
+<td class="text-right"><p>193</p></td>
+<td class="text-right"><p>98.7</p></td>
+</tr>
+<tr class="row-even"><td><p>San Diego</p></td>
+<td class="text-right"><p>21,645</p></td>
+<td class="text-right"><p>88</p></td>
+<td class="text-right"><p>67</p></td>
+<td class="text-right"><p>1238</p></td>
+<td class="text-right"><p>94.3</p></td>
+</tr>
+<tr class="row-odd"><td><p>San Joaquin</p></td>
+<td class="text-right"><p>2,133</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>100.0</p></td>
+</tr>
+<tr class="row-even"><td><p>San Luis Obispo</p></td>
+<td class="text-right"><p>167,135</p></td>
+<td class="text-right"><p>13</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>758</p></td>
+<td class="text-right"><p>99.5</p></td>
+</tr>
+<tr class="row-odd"><td><p>San Mateo</p></td>
+<td class="text-right"><p>43,832</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>55</p></td>
+<td class="text-right"><p>99.9</p></td>
+</tr>
+<tr class="row-even"><td><p>Santa Barbara</p></td>
+<td class="text-right"><p>87,194</p></td>
+<td class="text-right"><p>67</p></td>
+<td class="text-right"><p>1</p></td>
+<td class="text-right"><p>1770</p></td>
+<td class="text-right"><p>98.0</p></td>
+</tr>
+<tr class="row-odd"><td><p>Santa Clara</p></td>
+<td class="text-right"><p>99,380</p></td>
+<td class="text-right"><p>5</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>61</p></td>
+<td class="text-right"><p>99.9</p></td>
+</tr>
+<tr class="row-even"><td><p>Santa Cruz</p></td>
+<td class="text-right"><p>86,831</p></td>
+<td class="text-right"><p>14</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>432</p></td>
+<td class="text-right"><p>99.5</p></td>
+</tr>
+<tr class="row-odd"><td><p>Shasta</p></td>
+<td class="text-right"><p>556,829</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>29</p></td>
+<td class="text-right"><p>7156</p></td>
+<td class="text-right"><p>98.7</p></td>
+</tr>
+<tr class="row-even"><td><p>Sierra</p></td>
+<td class="text-right"><p>49,791</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>289</p></td>
+<td class="text-right"><p>99.4</p></td>
+</tr>
+<tr class="row-odd"><td><p>Siskiyou</p></td>
+<td class="text-right"><p>523,573</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>22</p></td>
+<td class="text-right"><p>4727</p></td>
+<td class="text-right"><p>99.1</p></td>
+</tr>
+<tr class="row-even"><td><p>Solano</p></td>
+<td class="text-right"><p>3,562</p></td>
+<td class="text-right"><p>13</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>69</p></td>
+<td class="text-right"><p>98.1</p></td>
+</tr>
+<tr class="row-odd"><td><p>Sonoma</p></td>
+<td class="text-right"><p>231,000</p></td>
+<td class="text-right"><p>71</p></td>
+<td class="text-right"><p>1</p></td>
+<td class="text-right"><p>648</p></td>
+<td class="text-right"><p>99.7</p></td>
+</tr>
+<tr class="row-even"><td><p>Stanislaus</p></td>
+<td class="text-right"><p>14,168</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>72</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>100.0</p></td>
+</tr>
+<tr class="row-odd"><td><p>Sutter</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>0.0</p></td>
+</tr>
+<tr class="row-even"><td><p>Tehama</p></td>
+<td class="text-right"><p>165,836</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>6371</p></td>
+<td class="text-right"><p>96.2</p></td>
+</tr>
+<tr class="row-odd"><td><p>Trinity</p></td>
+<td class="text-right"><p>247,192</p></td>
+<td class="text-right"><p>100</p></td>
+<td class="text-right"><p>30</p></td>
+<td class="text-right"><p>297</p></td>
+<td class="text-right"><p>99.9</p></td>
+</tr>
+<tr class="row-even"><td><p>Tulare</p></td>
+<td class="text-right"><p>38,178</p></td>
+<td class="text-right"><p>36</p></td>
+<td class="text-right"><p>36</p></td>
+<td class="text-right"><p>1179</p></td>
+<td class="text-right"><p>96.9</p></td>
+</tr>
+<tr class="row-odd"><td><p>Tuolumne</p></td>
+<td class="text-right"><p>100,628</p></td>
+<td class="text-right"><p>84</p></td>
+<td class="text-right"><p>1</p></td>
+<td class="text-right"><p>229</p></td>
+<td class="text-right"><p>99.8</p></td>
+</tr>
+<tr class="row-even"><td><p>Ventura</p></td>
+<td class="text-right"><p>17,972</p></td>
+<td class="text-right"><p>52</p></td>
+<td class="text-right"><p>2</p></td>
+<td class="text-right"><p>568</p></td>
+<td class="text-right"><p>96.8</p></td>
+</tr>
+<tr class="row-odd"><td><p>Yolo</p></td>
+<td class="text-right"><p>2,144</p></td>
+<td class="text-right"><p>55</p></td>
+<td class="text-right"><p>55</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>100.0</p></td>
+</tr>
+<tr class="row-even"><td><p>Yuba</p></td>
+<td class="text-right"><p>71,432</p></td>
+<td class="text-right"><p>78</p></td>
+<td class="text-right"><p>0</p></td>
+<td class="text-right"><p>4174</p></td>
+<td class="text-right"><p>94.2</p></td>
+</tr>
+</tbody>
+</table>
+</div>
 </section>
 <section id="endnotes">
-<h2><span class="section-number">9.9. </span>Endnotes<a class="headerlink" href="#endnotes" title="Link to this heading">#</a></h2>
+<h2><span class="section-number">9.7. </span>Endnotes<a class="headerlink" href="#endnotes" title="Link to this heading">#</a></h2>
 <hr class="footnotes docutils" />
 <aside class="footnote-list brackets">
-<aside class="footnote brackets" id="id45" role="doc-footnote">
+<aside class="footnote brackets" id="id5" role="doc-footnote">
 <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id1">1</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://oehha.ca.gov/climate-change/epic-2022/changes-climate/air-temperatures#:~:text=Statewide%20annual%20mean%20temperatures%20have,leading%20to%20exacerbated%20drought%20conditions">Air temperatures. OEHHA</a>.</p>
+<p>Fire hazard is fire damage (property damage) whereas fire experience is frequency of fires. Median income in communities that have had 6 or more fires since 1990 is <span class="math notranslate nohighlight">\(66,128 whereas those with 1-2 fires have a median income of \)</span>100,063 (Hino and Field).</p>
 </aside>
-<aside class="footnote brackets" id="id46" role="doc-footnote">
+<aside class="footnote brackets" id="id6" role="doc-footnote">
 <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id2">2</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://oag.ca.gov/environment/impact">Climate Change Impacts in California | State of California - Department of Justice - Office of the Attorney General</a>.</p>
+<p>More details in <a class="reference external" href="https://view.officeapps.live.com/op/view.aspx?src=https3A2F2Fbof.fire.ca.gov2Fmedia2F93542F00-exec-summary.docx&amp;amp;wdOrigin=BROWSELINK">this</a> executive summary.</p>
 </aside>
-<aside class="footnote brackets" id="id47" role="doc-footnote">
+<aside class="footnote brackets" id="id7" role="doc-footnote">
 <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id3">3</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://www.latimes.com/california/story/2024-07-12/california-wildfires-burn-20-times-as-much-land-as-last-year">‘A fire year’: California wildfires burn 20 times more acres than 2023 - Los Angeles Times</a>.</p>
+<p>Utilized data from the Wildfire and Forest Resilience Task Force’s Beta Treatment Tracker <a class="reference external" href="https://gsal.sig-gis.com/portal/apps/experiencebuilder/experience/?id=95be34ea351b440f9e4ce0f9d3826a77&amp;amp;page=Activity">Dashboard</a> to determine acres in treatment and percent of those acres that are privately owned.</p>
 </aside>
-<aside class="footnote brackets" id="id48" role="doc-footnote">
+<aside class="footnote brackets" id="id8" role="doc-footnote">
 <span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id4">4</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://oehha.ca.gov/climate-change/epic-2022/impacts-vegetation-and-wildlife/wildfires#:~:text=Annual%20number%20of%20large%20wildfires%2C%201950%2D2023&amp;amp;text=The%20number%20of%20large%20fires%20(10%2C000%20acres%20or%20more)%20has,burned%20in%202020%20and%202021">Wildfires - OEHHA</a>.</p>
-</aside>
-<aside class="footnote brackets" id="id49" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id5">5</a><span class="fn-bracket">]</span></span>
 <p>Ibid.</p>
-</aside>
-<aside class="footnote brackets" id="id50" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id6">6</a><span class="fn-bracket">]</span></span>
-<p>Ibid.</p>
-</aside>
-<aside class="footnote brackets" id="id51" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id7">7</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://www.capradio.org/articles/2023/02/15/frequent-wildfires-more-likely-to-hit-low-income-communities-new-report-finds/#:~:text=A%20new%20report%20authored%20by,when%20evaluating%20at%2Drisk%20areas">Frequent wildfires more likely to hit low-income communities, new report finds</a>.</p>
-</aside>
-<aside class="footnote brackets" id="id52" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id8">8</a><span class="fn-bracket">]</span></span>
-<p>Ibid.</p>
-</aside>
-<aside class="footnote brackets" id="id53" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id9">9</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://www.science.org/doi/10.1126/sciadv.adj7264">Exploring spatial heterogeneity in synergistic effects of compound climate hazards: Extreme heat and wildfire smoke on cardiorespiratory hospitalizations in California</a>.</p>
-</aside>
-<aside class="footnote brackets" id="id54" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id10">10</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://news.berkeley.edu/2024/02/29/wildfire-smoke-disproportionately-affects-california-s-indigenous-communities-new-research-shows/">Wildfire smoke disproportionately affects California’s Indigenous communities, new research shows</a>.</p>
-</aside>
-<aside class="footnote brackets" id="id55" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id11">11</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://wildfiretaskforce.org/wp-content/uploads/2022/04/californiawildfireandforestresilienceactionplan.pdf">California’s Wildfire and Forest Resilience Action Plan: Recommendations of the Governor’s Forest Management Task Force</a>.</p>
-</aside>
-<aside class="footnote brackets" id="id56" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id12">12</a><span class="fn-bracket">]</span></span>
-<p>Ibid.</p>
-</aside>
-<aside class="footnote brackets" id="id57" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id13">13</a><span class="fn-bracket">]</span></span>
-<p>Ibid.</p>
-</aside>
-<aside class="footnote brackets" id="id58" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id14">14</a><span class="fn-bracket">]</span></span>
-<p>Ibid.</p>
-</aside>
-<aside class="footnote brackets" id="id59" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id15">15</a><span class="fn-bracket">]</span></span>
-<p>Ibid.</p>
-</aside>
-<aside class="footnote brackets" id="id60" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id16">16</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://wildfiretaskforce.org/about/action-areas/private-landowner-assistance/">PRIVATE LANDOWNER ASSISTANCE - California Wildfire &amp; Forest Resilience</a>.</p>
-</aside>
-<aside class="footnote brackets" id="id61" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id17">17</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://www.fire.ca.gov/what-we-do/natural-resource-management/wildfire-resilience/forest-stewardship#:~:text=The%20program%20provides%20technical%20information,for%20the%20Forest%20Stewardship%20Program">Forest Stewardship, CAL FIRE</a>.</p>
-</aside>
-<aside class="footnote brackets" id="id62" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id18">18</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://scc.ca.gov/wildfire-resilience-program/">Wildfire Resilience Program – California State Coastal Conservancy</a>.</p>
-</aside>
-<aside class="footnote brackets" id="id63" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id19">19</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://wildfiretaskforce.org/about/action-areas/private-landowner-assistance/">PRIVATE LANDOWNER ASSISTANCE - California Wildfire &amp; Forest Resilience)</a>.</p>
-</aside>
-<aside class="footnote brackets" id="id64" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id20">20</a><span class="fn-bracket">]</span></span>
-<p>Ibid.</p>
-</aside>
-<aside class="footnote brackets" id="id65" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id21">21</a><span class="fn-bracket">]</span></span>
-<p>Ibid.</p>
-</aside>
-<aside class="footnote brackets" id="id66" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id22">22</a><span class="fn-bracket">]</span></span>
-<p>Ibid.</p>
-</aside>
-<aside class="footnote brackets" id="id67" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id23">23</a><span class="fn-bracket">]</span></span>
-<p>Ibid.</p>
-</aside>
-<aside class="footnote brackets" id="id68" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id24">24</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://wildfiretaskforce.org/wp-content/uploads/2022/04/californiawildfireandforestresilienceactionplan.pdf">California’s Wildfire and Forest Resilience Action Plan: Recommendations of the Governor’s Forest Management Task Force</a>.</p>
-</aside>
-<aside class="footnote brackets" id="id69" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id25">25</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8068328/">Wildfire &amp; Poverty partial; Disproportionate Impacts of Wildfires among Elderly and Low-Income Communities in California from 2000–2020 - PMC</a>.</p>
-</aside>
-<aside class="footnote brackets" id="id70" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id26">26</a><span class="fn-bracket">]</span></span>
-<p>[Data Sources:] GreenInfo Network’s California Protected Areas Database (CPAD2023a). <a class="reference external" href="https://www.calands.org/cpad/">https://www.calands.org/cpad/</a>; <a class="reference external" href="https://www.calands.org/wp-content/uploads/2023/06/CPAD-2023a-Database-Manual.pdf">https://www.calands.org/wp-content/uploads/2023/06/CPAD-2023a-Database-Manual.pdf</a> US Fish and Wildlife Service FWSInterest dataset (updated December 2023). <a class="reference external" href="https://gis-fws.opendata.arcgis.com/datasets/9c49bd03b8dc4b9188a8c84062792cff_0/explore">https://gis-fws.opendata.arcgis.com/datasets/9c49bd03b8dc4b9188a8c84062792cff_0/explore</a> Department of Defense Military Bases dataset (updated September 2023) <a class="reference external" href="https://catalog.data.gov/dataset/military-bases">https://catalog.data.gov/dataset/military-bases</a> Bureau of Indian Affairs, Pacific Region, Surface Trust and Pacific Region Office (PRO) land boundaries data (2023) via John Mosley <a class="reference external" href="mailto:John&#46;Mosley&#37;&#52;&#48;bia&#46;gov">John<span>&#46;</span>Mosley<span>&#64;</span>bia<span>&#46;</span>gov</a> Bureau of Indian Affairs, Land Area Representations (LAR) and BIA Regions datasets (updated Oct 2019) <a class="reference external" href="https://biamaps.doi.gov/bogs/datadownload.htmlData">https://biamaps.doi.gov/bogs/datadownload.htmlData</a>.</p>
-</aside>
-<aside class="footnote brackets" id="id71" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id27">27</a><span class="fn-bracket">]</span></span>
-<p>Please see <a class="reference external" href="https://data.ca.gov/dataset/california-land-ownership">this</a> link for more details on the methodology behind the construction and design of this dataset.</p>
-</aside>
-<aside class="footnote brackets" id="id72" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id28">28</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://www.summitpost.org/public-and-private-land-percentages-by-us-states/186111">Public and Private Land Percentages by US States: Facts &amp; Information: SummitPost</a>.</p>
-</aside>
-<aside class="footnote brackets" id="id73" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id29">29</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://oehha.ca.gov/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf">CalEnviroScreen 4.0</a>.</p>
-</aside>
-<aside class="footnote brackets" id="id74" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id30">30</a><span class="fn-bracket">]</span></span>
-<p>Ibid.</p>
-</aside>
-<aside class="footnote brackets" id="id75" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id31">32</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://www.arcgis.com/home/item.html?id=5ac1dae3cb2544629a845d9a19e83991%2F1000">California State Responsibility Areas</a>.</p>
-</aside>
-<aside class="footnote brackets" id="id76" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id32">33</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://services1.arcgis.com/jUJYIo9tSA7EHvfZ/arcgis/rest/services/TreatableLandscapes/FeatureServer/0">Layer: Treatable_Landscape</a>.</p>
-</aside>
-<aside class="footnote brackets" id="id77" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id33">34</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://wildfiretaskforce.org/wp-content/uploads/2022/04/californiawildfireandforestresilienceactionplan.pdf">California’s Wildfire and Forest Resilience Action Plan: Recommendations of the Governor’s Forest Management Task Force</a>.</p>
-</aside>
-<aside class="footnote brackets" id="id78" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id34">35</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fbof.fire.ca.gov%2Fmedia%2F9358%2F32-aes-vis-res.docx&amp;amp;wdOrigin=BROWSELINK">Aesthetics and visual resources</a>.</p>
-</aside>
-<aside class="footnote brackets" id="id79" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id35">36</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://gis.data.ca.gov/datasets/CALFIRE-Forestry::cal-vtp-treatable-landscape-1/about">CAL VTP Treatable Landscape</a>.</p>
-</aside>
-<aside class="footnote brackets" id="id80" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id36">37</a><span class="fn-bracket">]</span></span>
-<p>Ibid.</p>
-</aside>
-<aside class="footnote brackets" id="id81" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id37">38</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://bof.fire.ca.gov/projects-and-programs/calvtp-homepage-and-storymap/">CalVTP Homepage and Storymap. More details in this executive summary: 00-exec-summary.docx</a>.</p>
-</aside>
-<aside class="footnote brackets" id="id82" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id38">39</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://www.summitpost.org/public-and-private-land-percentages-by-us-states/186111">Federal land policy in California - Ballotpedia; Public and Private Land Percentages by US States : Facts &amp; Information : SummitPost</a>.</p>
-</aside>
-<aside class="footnote brackets" id="id83" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id39">40</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://apps.fs.usda.gov/nicportal/temppdf/sfs/naweb/CA_std.pdf">California State and Private Forestry Fact Sheet 2024</a>.</p>
-</aside>
-<aside class="footnote brackets" id="id84" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id40">41</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://wildfiretaskforce.org/wp-content/uploads/2022/04/californiawildfireandforestresilienceactionplan.pdf">California’s Wildfire and Forest Resilience Action Plan: Recommendations of the Governor’s Forest Management Task Force</a>.</p>
-</aside>
-<aside class="footnote brackets" id="id85" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id41">42</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://www.census.gov/library/publications/2023/demo/p60-280.html#:~:text=Highlights-,Official%20Poverty%20Measure,37.9%20million%20people%20in%20poverty.">Poverty in the United States: 2022</a>.</p>
-</aside>
-<aside class="footnote brackets" id="id86" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id42">43</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://texaslawhelp.org/article/federal-poverty-guidelines">Federal Poverty Guidelines</a>.</p>
-</aside>
-<aside class="footnote brackets" id="id87" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id43">44</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://www.povertyusa.org/facts">Poverty Facts</a>.</p>
-</aside>
-<aside class="footnote brackets" id="id88" role="doc-footnote">
-<span class="label"><span class="fn-bracket">[</span><a role="doc-backlink" href="#id44">45</a><span class="fn-bracket">]</span></span>
-<p><a class="reference external" href="https://www.kff.org/other/state-indicator/distribution-by-fpl/?currentTimeframe=0&amp;amp;sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D">Distribution of total population by federal poverty level. This uses the American Community Survey</a>.</p>
 </aside>
 </aside>
 </section>
@@ -1155,31 +1072,22 @@ document.write(`
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#abstract">9.1. Abstract</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#california-context">9.2. California Context</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#ecosystems-climate">9.2.1. Ecosystems &amp; Climate</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#wildfire-crisis">9.2.2. Wildfire Crisis</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#socioeconomic-disparities">9.2.3. Socioeconomic disparities</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#solutions-programs-and-gaps">9.2.4. Solutions, Programs, and Gaps</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#wildfire-crisis">9.2.1. Wildfire Crisis</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#socioeconomic-disparities">9.2.2. Socioeconomic disparities</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#treatment-needs">9.2.3. Treatment Needs</a></li>
 </ul>
 </li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#research-methods-approach">9.3. Research Methods &amp; Approach</a><ul class="nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#methods">9.3. Methods</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#objective">9.3.1. Objective</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#land-ownership-dataset">9.3.2. Land Ownership Dataset</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#poverty-dataset">9.3.3. Poverty Dataset</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#treatable-lands-dataset">9.3.4. Treatable Lands Dataset</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#methodology">9.3.5. Methodology</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#definitions">9.3.2. Definitions</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#methodology">9.3.3. Methodology</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#datasets">9.3.4. Datasets</a></li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#key-findings">9.4. Key Findings</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#next-steps">9.5. Next Steps</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#future-research">9.6. Future Research</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#conclusion">9.7. Conclusion</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#appendices">9.8. Appendices</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#appendix-1-land-ownership">9.8.1. Appendix 1: Land Ownership</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#appendix-2-poverty-on-private-land">9.8.2. Appendix 2: Poverty on Private Land</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#appendix-3-treatable-lands">9.8.3. Appendix 3: Treatable Lands</a></li>
-</ul>
-</li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#endnotes">9.9. Endnotes</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#appendix">9.6. Appendix</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#endnotes">9.7. Endnotes</a></li>
 </ul>
   </nav></div>
 
