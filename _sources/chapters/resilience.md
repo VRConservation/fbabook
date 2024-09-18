@@ -306,7 +306,7 @@ Table 1: Counties with the largest private treatable acreage. Figures in acres.
 [^30]: Ibid.
 [^31]: [USDA Poverty Area Measures](https://www.ers.usda.gov/data-products/poverty-area-measures/#:~:text=Definitions,in%20a%20single%20time%20period).
 [^32]: [California State Responsibility Areas](https://www.arcgis.com/home/item.html?id=5ac1dae3cb2544629a845d9a19e83991%2F1000).
-[^33]: [Layer: Treatable_Landscape (ID:0)](https://services1.arcgis.com/jUJYIo9tSA7EHvfZ/arcgis/rest/services/TreatableLandscapes/FeatureServer/0).
+[^33]: [Layer: Treatable_Landscape](https://services1.arcgis.com/jUJYIo9tSA7EHvfZ/arcgis/rest/services/TreatableLandscapes/FeatureServer/0).
 [^34]: [California’s Wildfire and Forest Resilience Action Plan: Recommendations of the Governor’s Forest Management Task Force](https://wildfiretaskforce.org/wp-content/uploads/2022/04/californiawildfireandforestresilienceactionplan.pdf).
 [^35]: [Aesthetics and visual resources](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fbof.fire.ca.gov%2Fmedia%2F9358%2F32-aes-vis-res.docx&wdOrigin=BROWSELINK).
 [^36]: [CAL VTP Treatable Landscape](https://gis.data.ca.gov/datasets/CALFIRE-Forestry::cal-vtp-treatable-landscape-1/about).
@@ -318,4 +318,4 @@ Table 1: Counties with the largest private treatable acreage. Figures in acres.
 [^42]: [Poverty in the United States: 2022](https://www.census.gov/library/publications/2023/demo/p60-280.html#:~:text=Highlights-,Official%20Poverty%20Measure,37.9%20million%20people%20in%20poverty. ).
 [^43]: [Federal Poverty Guidelines](https://texaslawhelp.org/article/federal-poverty-guidelines ).
 [^44]: [Poverty Facts](https://www.povertyusa.org/facts).
-[^45]: [Distribution of Total Population by Federal Poverty Level, KFF. This uses the American Community Survey](https://www.kff.org/other/state-indicator/distribution-by-fpl/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D).
+[^45]: [Distribution of total population by federal poverty level. This uses the American Community Survey](https://www.kff.org/other/state-indicator/distribution-by-fpl/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D).
