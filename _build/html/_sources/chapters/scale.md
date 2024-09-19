@@ -10,9 +10,11 @@ Pace and scale of forest health and resilience
 - Gov efforts focused mostly on nonprofits, RCDs and agencies. Deploying capital to businesses and startups is slow and doesn't always focus on what's needed most, e.g., operating capital, or support during the most challenging phases of startup or scaling when needed the most.
 - Agreements, contracting and compliance may also slow scaling.
 - Public capital is not being leveraged with private.
-- Coordination across multiple actors in a region is challenging, but do-able. Look at projects in the CNRA tracking and they look puny compared to the 
+- Coordination across multiple actors in a region is challenging, but do-able. Look at projects in the CNRA tracking and they look puny compared to the actual task at hand of 1 million acres treated
+
 ## Scaling frameworks
-- Notes from call with Kent
+- Notes from call with Mike Kent
+
 ## Funding
 
 ## Lessons

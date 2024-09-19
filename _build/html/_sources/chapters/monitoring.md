@@ -85,19 +85,22 @@ Collaborating with other organizations, academic institutions, and government ag
 ### Seek Creative Ways to Fund Monitoring
 Many funders don’t provide funding for monitoring, but they almost always require project reporting. Incorporating your measurement into reporting may help cover the costs. Educate the funders, too. For example, don’t let them require reporting on ‘acres and bucks’ and explain why those metrics are okay, but don’t tell the full picture about complex states such as forest health or resilience. 
 
-Going back to partnering with other organizations might be critical here. For example, you could partner with a university on a research project. First, create a research agenda for your work to point researchers to what data and information you need (rather than them coming to you with pre-formed research). Academic researchers will want specific outcomes that might not connect with your data and outcomes needs, but they could help develop technology or collect some data you need.
-Resources
+Going back to partnering with other organizations is critical here. For example, you could partner with a university on a research project. First, create a research agenda for your work to point researchers to what data and information you need (rather than them coming to you with pre-formed research). Academic researchers will want specific outcomes that might not connect with your data and outcomes needs, but they could help develop technology or collect some data you need.
 
-Recipes for Conservation. A summary of how to develop the conservation standards within or among organizations. The recipes have some valuable sections for businesses but are nonprofit and agency-focused.
+## Car Analogies
+Originally we framed organizational monitoring approaches as the extremes between owning a Yugo vs. a Cadillac. Realizing this is a poor analogy since Yugos were cheap, broke down frequently, and some consider them the worst car of all time. On the opposite end of the spectrum, Cadillacs are expensive and beyond the purchasing power of many individuals. 
 
-Open Standards for the Practice of Conservation. Developed by the Conservation Measures Partnership, the Open Standards combine the principles and best practices of evidence-based conservation, adaptive management, and other decision-support approaches. They combine common concepts, methods, and terminology in conservation project management to help improve conservation practice. 
+When I was at university, starting my senior or 4th year, I owned a simple red Honda Civic hatchback. It was plain but incredibly dependable and gas efficient. I never had a single engine problem with that car and it always started, even during the dark cold months of winter when some autos from the 70s and 80s rebelled and would not turn over in frigid northern US temperatures.
 
-## Yugo vs. Cadillac
-What is the absolute bare-bones monitoring system that could be implemented (Yugo) vs. a higher-end deal (Cadillac)? We suggest a couple of examples in the pulldowns below. Both examples are hypothetical stand-thinning projects with prescribed fire applied periodically after thinning for maintenance. The project assumption is that thinning will lead to increased forest health and reduced high-intensity wildfires. Sometimes you need a Yugo:
+![civic](https://upload.wikimedia.org/wikipedia/commons/8/82/1986_Honda_Civic_Si_in_Victoria_Red%2C_rear_left%2C_7-18-2021.jpg)
 
-![yugo](https://i.imgur.com/UFL0rYa.png)
+On the other hand, you may need something equally dependable, affordable, and expansive, such as the widely loathed (by non-parents) minivan. In fact, I rented a Kia minivan once when the rental agency at the San Diego airport ran out of cars. That thing was a a rocket. I had it going 90 mph several times (don't tell CHP) driving through the Cleveland National Forest. Vroom vroom!
 
-```{admonition} Yugo Monitoring Methods Checklist
+![minivan](https://i.imgur.com/JkE13Hi.png)
+
+What is the absolute bare-bones, dependable monitoring system that could be implemented (Civic) vs. more expansive version (Minivan)? We suggest a couple of examples in the pulldowns below. Both examples are hypothetical stand-thinning projects with prescribed fire applied periodically after thinning for maintenance. The project assumption is that thinning will lead to increased forest health and reduced high-intensity wildfires. Sometimes you need a Yugo:
+
+```{admonition} Honda Civic Monitoring Methods Checklist
 :class: dropdown
 
 Intervention is stand thinning to reduce wildfire risk followed by regular prescribed fire treatments.
@@ -108,11 +111,11 @@ Intervention is stand thinning to reduce wildfire risk followed by regular presc
 4. Total $s spent
 ```
 
-And sometimes you need a Cadillac:
+And sometimes you need a Minivan:
 
 ![caddy](https://i.imgur.com/vKt4eQG.png)
 
-```{admonition} Cadillac Monitoring Methods Checklist
+```{admonition} Minivan Monitoring Methods Checklist
 :class: dropdown
 
 Intervention is stand thinning to reduce wildfire risk followed by regular prescribed fire treatments.
