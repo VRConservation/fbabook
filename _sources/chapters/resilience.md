@@ -9,7 +9,7 @@ Our findings show that of California's 6.7 million acres of private forest land 
 
 This research highlights areas where additional resources may be essential to meet California’s dual forest management and community resilience objectives. Future research extensions include mapping anticipated funding allocations to high treatment-need and low-income communities, exploring the holistic benefits of wildfire reduction treatments on low-income communities, and collecting granular, parcel-level private landowner information to further inform treatment prioritization.
 
-## Wildfire Crisis
+## Wildfire
 California’s diverse landscapes encompass forests, grasslands, chaparral, and urban-wildland interfaces, each playing a critical role in the state’s ecological and economic vitality. Its 33 million acres of forests span the Coast, Cascade, and Sierra Nevada ranges. Ownership is mixed across public and private, with 60% of forestland publicly owned—mostly National Forests followed by State and BLM lands. The remaining forest lands are split between private industrial and private non-industrial. The bulk of California forests are made up of mixed conifers—dominated by douglas-fir, giant sequoia, Jeffrey pine, pinyon, and ponderosa pine –  followed by western oak woodlands (California Forestland). These forests are fire-adapted. While wildfires are a natural element of California's forests, human activities, land use changes, fire suppression practices, and climate change have intensified the frequency and severity of wildfires.({numref}`fig`)
 
 ```{figure} /figures/resiliencefigs/draft2/fig1.png
@@ -20,7 +20,7 @@ Annual acres burned statewide. Source: California Environmental Protection Agenc
 
 In 2023, California experienced over 4,500 wildfires that burned through 116,399 acres. Midway through the 2024 wildfire season, the state has already experienced 5,383 wildfires burning through 827,880 acres (CAL FIRE). This trend has shown no signs of slowing, with experts warning that the region has entered an era of megafires (OEHHA).
 
-## Socioeconomic disparities
+## Disparities
 California’s megafires significantly destroy homes, infrastructure, and natural habitats, leading to loss of life, displacement, and billions of dollars in damages. They worsen air pollution, degrade water quality, and release large amounts of carbon dioxide, exacerbating climate change. 
 
 These impacts disproportionately affect low-income and Indigenous communities. Studies have examined the relationship between fire hazard [^1], fire experience, and income in California communities, showing that communities experiencing higher fire frequency have lower incomes ({numref}`fig2`). This result could be due to the lack of investment and resources in those areas or the repeated fires have changed the communities over time.
@@ -33,7 +33,7 @@ Fire experience by census tracts and corresponding median income by experience g
 
 Additionally, this study’s analysis on fire suppression has found that communities with high property values stop the spread of wildfires, thus reducing their deleterious impact (Hino and Field). California’s low-income communities suffer repeated fires and subsequent health impacts from persistent air pollution as well as higher daily cardiovascular hospitalization (Secaira, Chen, Pohl). 
 
-## Treatment Needs
+## Treatments
 California has identified more than 20 million acres that need fuel treatment across various landscape types to reduce hazardous vegetation. For this analysis, treatment needs are narrowed to private forest lands and privately owned forested areas with 20% or more canopy cover. Treatment for forests includes prescribed burning, selective harvesting and thinning, herbicide applications, and constructing fuel breaks. These interventions reduce fuels that generate catastrophic fire conditions and slow-burning fires, provide buffer zones to limit crown fires and return forest lands to a state that can support low-intensity fires. In collaboration with many federal, state, local, and non-government entities, the Forest Management Task Force published California’s Wildfire and Forest Resilience Action [Plan](https://wildfiretaskforce.org/wp-content/uploads/2022/04/californiawildfireandforestresilienceactionplan.pdf), which aims to treat one million acres of state and federal land annually by 2025. 
 
 ## Methods
@@ -58,7 +58,7 @@ The following datasets were used for the study:
 - Acres Treated Dataset: California Wildfire & Forest Resilience Task Force’s Beta Interagency Treatment Dashboard. Most of the information captured in this dashboard related to forest treatment activities was used to identify the number of forest acres treated. There were 93,000 acres of targeted grazing (of the total 751,467 acres treated); however, it was unclear if it was forest-related and was included nonetheless.
 
 ## Key Findings
-This research has identified several critical insights that underscore the complex relationship between wildfire treatment needs and economic vulnerability in California. It has also provided a way to identify high-impact opportunity areas where financial assistance might have a greater socio-economic and environmental impact.
+This research has identified several critical insights that underscore the complex relationship between wildfire treatment needs and economic vulnerability in California. It has also provided a way to identify high-impact opportunity areas where financial assistance might have a greater socio-economic and environmental impact. Key findings include
 
 - **More than 33% of the state’s wildfire treatment needs are on private forest land**. Of the roughly 20 million acres of treatable lands across landscape types, 18 million acres are private lands; of that, 6.7 million acres are private forests ({numref}`fig3-4`). 
 - Of the 6.7 million private forest treatable acres, **4 million acres are concentrated in High Poverty Census Tracts**. That is, 60% of total private treatment needs are concentrated in areas where the poverty rate exceeds 20%—2x the national average.
