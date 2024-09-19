@@ -36,6 +36,7 @@ Monitoring could be the subject written about the most but implemented the least
 - Your organization doesn’t have staff capacity or applied scientists who can conduct monitoring.
 - Project funding doesn't include monitoring, and it can be costly.
 - It could demonstrate that your theory of change, project assumptions/interventions, or organizational mission is incorrect. That's a big elephant in the room.
+- Your organization lacks a learning culture.
 
 ## Solutions
 How can these challenges be overcome without requiring massive institutional investment and resources? Let’s start with the big picture of starting with the whole and work through other recommendations.
@@ -61,7 +62,7 @@ Engaging stakeholders in the M&E process enhances data validity and relevance an
 Participatory approaches may also employ apps to crowd-source data and engage key audiences in your mission. See the next section for suggestions.
 
 ### Embrace Technology
-Technology offers cost-effective and time-saving data collection, analysis, and reporting solutions. There are many open-source and low-cost software, mobile applications, and digital platforms that can streamline M&E data collection, facilitate data analysis, and enhance data visualization (See Russell, 2024). For instance, a conservation organization might use a mobile data app such as Survey123, QField, or Kobo Toolbox to collect real-time forest health indicators, utilize GIS software such as ArcGIS Pro and QGIS to analyze, and use cloud-based platforms to store data, eliminating manual data entry and paper-based reporting. App-based data collection also allows multiple users to collect and input data.
+Technology offers cost-effective and time-saving data collection, analysis, and reporting solutions. Many open-source and low-cost software, mobile applications, and digital platforms can streamline M&E data collection, facilitate data analysis, and enhance data visualization {cite}`russell`. For instance, a conservation organization might use a mobile data app such as Survey123, QField, or Kobo Toolbox to collect real-time forest health indicators, utilize GIS software such as ArcGIS Pro and QGIS to analyze, and use cloud-based platforms to store data, eliminating manual data entry and paper-based reporting. App-based data collection also allows multiple users to collect and input data.
 
 ArcGIS Survey 123, from ESRI, is a good example of a mobile app for field data collection and mapping. It can be customized to collect various forest metrics such as tree species, diameter at breast height (DBH), and tree condition, and this information can be fed directly into ArcGIS software. It is easy to use and synchs effortlessly to your desktop or online GIS software. However, it does require a subscription, which can be expensive for some organizations.
 
@@ -72,7 +73,7 @@ Traditional methods for monitoring forestry, ecology, and fuels can be expensive
 
 USDA and USFWS researchers have successfully demonstrated using relatively low-cost (~25,000 USD), off-the-shelf TLS units like the Leica BLK360 for forest monitoring {cite}`pokswinski`. Their methodology combines TLS calibrated using traditional, physically sampled forest conditions to simplify and accelerate the extraction of forestry, fuels, and ecological data from a single TLS point cloud. It streamlines data collection, reduces sampling bias, and generates easily processed data for improved modeling and decision-making. 
 
-Other researchers have developed a very low-cost system (~1,500 USD) that integrates DJI Livox MID40 laser scanner with an off-the-shelf UAV, and evaluated its capability in estimating both individual tree-level and plot-level forest inventory attributes {cite}`hu`. They comprehensively compared their low-cost and four high-end UAV lidar systems equipped with high-end laser scanners to survey coniferous and broadleaved forest sites. The DJI Livox MID40 system performed comparably to the more expensive systems. Forest researchers and managers will find it hard to resist as technology improves and becomes even cheaper.
+Other researchers have developed a very low-cost system (~1,500 USD) that integrates DJI Livox MID40 laser scanner with an off-the-shelf UAV, and evaluated its capability in estimating both individual tree-level and plot-level forest inventory attributes {cite}`hu`. They comprehensively compared their low-cost and four high-end UAV lidar systems equipped with high-end laser scanners to survey coniferous and broadleaved forest sites. The DJI Livox MID40 system performed comparably to the more expensive systems. Forest researchers and managers will struggle to resist as technology improves and becomes even cheaper.
 ```
  
 ### Build Internal Capacity
@@ -84,19 +85,22 @@ Collaborating with other organizations, academic institutions, and government ag
 ### Seek Creative Ways to Fund Monitoring
 Many funders don’t provide funding for monitoring, but they almost always require project reporting. Incorporating your measurement into reporting may help cover the costs. Educate the funders, too. For example, don’t let them require reporting on ‘acres and bucks’ and explain why those metrics are okay, but don’t tell the full picture about complex states such as forest health or resilience. 
 
-Going back to partnering with other organizations might be critical here. For example, you could partner with a university on a research project. First, create a research agenda for your work to point researchers to what data and information you need (rather than them coming to you with pre-formed research). Academic researchers will want specific outcomes that might not connect with your data and outcomes needs, but they could help develop technology or collect some data you need.
-Resources
+Going back to partnering with other organizations is critical here. For example, you could partner with a university on a research project. First, create a research agenda for your work to point researchers to what data and information you need (rather than them coming to you with pre-formed research). Academic researchers will want specific outcomes that might not connect with your data and outcomes needs, but they could help develop technology or collect some data you need.
 
-Recipes for Conservation. A summary of how to develop the conservation standards within or among organizations. The recipes have some valuable sections for businesses but are nonprofit and agency-focused.
+## Car Analogies
+Originally, we framed organizational monitoring approaches as the extremes of owning a Yugo vs. a Cadillac. This is a poor analogy since Yugos were cheap, broke down frequently, and some consider them the worst cars ever. On the opposite end of the spectrum, Cadillacs are expensive and beyond the purchasing power of many individuals. 
 
-Open Standards for the Practice of Conservation. Developed by the Conservation Measures Partnership, the Open Standards combine the principles and best practices of evidence-based conservation, adaptive management, and other decision-support approaches. They combine common concepts, methods, and terminology in conservation project management to help improve conservation practice. 
+When I was at university, starting my senior or fourth year, I owned a simple red Honda Civic hatchback. It was plain but incredibly dependable and gas efficient. I never had a single-engine problem with that car, and it always started, even during the dark, cold months of winter when some autos from the 1970s and 80s rebelled and would not turn over in frigid northern US temperatures.
 
-## Yugo vs. Cadillac
-What is the absolute bare-bones monitoring system that could be implemented (Yugo) vs. a higher-end deal (Cadillac)? We suggest a couple of examples in the pulldowns below. Both examples are hypothetical stand-thinning projects with prescribed fire applied periodically after thinning for maintenance. The project assumption is that thinning will lead to increased forest health and reduced high-intensity wildfires. Sometimes you need a Yugo:
+![civic](https://upload.wikimedia.org/wikipedia/commons/8/82/1986_Honda_Civic_Si_in_Victoria_Red%2C_rear_left%2C_7-18-2021.jpg)
 
-![yugo](https://i.imgur.com/UFL0rYa.png)
+On the other hand, you may need something equally dependable, affordable, and expansive, such as the widely loathed (by non-parents) minivan. I rented a Kia minivan once when the rental agency at the San Diego airport ran out of cars. That thing was a rocket. I had it going 90 mph several times (don't tell CHP) driving through the Cleveland National Forest. Vroom vroom!
 
-```{admonition} Yugo Monitoring Methods Checklist
+![minivan](https://i.imgur.com/JkE13Hi.png)
+
+What is the absolute bare-bones, dependable monitoring system that could be implemented (Civic) vs. a more expansive version (Minivan)? We suggest a couple of examples in the pulldowns below. Both examples are hypothetical stand-thinning projects with prescribed fire applied periodically after thinning for maintenance. The project assumption is that thinning will lead to increased forest health and reduced high-intensity wildfires. Sometimes, you need a dependable Honda Civic:
+
+```{admonition} Honda Civic Monitoring Methods Checklist
 :class: dropdown
 
 Intervention is stand thinning to reduce wildfire risk followed by regular prescribed fire treatments.
@@ -107,11 +111,11 @@ Intervention is stand thinning to reduce wildfire risk followed by regular presc
 4. Total $s spent
 ```
 
-And sometimes you need a Cadillac:
+And sometimes you need a Minivan:
 
 ![caddy](https://i.imgur.com/vKt4eQG.png)
 
-```{admonition} Cadillac Monitoring Methods Checklist
+```{admonition} Minivan Monitoring Methods Checklist
 :class: dropdown
 
 Intervention is stand thinning to reduce wildfire risk followed by regular prescribed fire treatments.
