@@ -12,6 +12,6 @@ jupyter:
     name: python3
 ---
 
-# Welcome!
+# Welcome to the FBA Guide!
 
 ![cover](fba_cover.png)
