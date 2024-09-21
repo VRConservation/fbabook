@@ -106,7 +106,7 @@ Intervention is stand thinning to reduce wildfire risk followed by regular presc
 1. Stand inventory by species and dbh every ten years using Kobo Toolbox and QGIS
 2. Photo witness posts at reference and treatment sites
 3. Total acres treated, total acres burned
-4. Total $s spent
+4. Total dollars spent
 ```
 
 And sometimes you need a Minivan:

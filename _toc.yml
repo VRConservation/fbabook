@@ -11,10 +11,11 @@ parts:
       - file: chapters/project
       - file: chapters/monitoring
       - file: chapters/ecivis
-      - file: chapters/funding
       - file: chapters/ceqa
-      - file: chapters/scale2
       - file: chapters/resilience
+      - file: chapters/funding
+      - file: chapters/scale2
+
   - caption: Appendices
     numbered: False
     chapters:
