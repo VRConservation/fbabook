@@ -94,7 +94,7 @@ When I was at university, starting my senior or fourth year, I owned a simple re
 
 ![civic](https://upload.wikimedia.org/wikipedia/commons/8/82/1986_Honda_Civic_Si_in_Victoria_Red%2C_rear_left%2C_7-18-2021.jpg)
 
-On the other hand, you may need something equally dependable, affordable, and expansive, such as the widely loathed (by non-parents) minivan. I rented a Kia minivan once when the rental agency at the San Diego airport ran out of cars. That thing was a rocket. I had it going 90 mph several times (don't tell CHP) driving through the Cleveland National Forest. Vroom vroom!
+On the other hand, you may need something equally dependable, affordable, and expansive, such as the workhorse minivan. A Civic will get you reliably where you need to go, whereas a min-van will do that and allow you to bring along your kids, their friends, and all their stuff. I rented a Kia minivan once when the rental agency at the San Diego airport ran out of cars. That thing was a rocket. I had it going 90 mph several times (don't tell CHP) while driving through the Cleveland National Forest. Vroom vroom!
 
 What is the absolute bare-bones, dependable monitoring system that could be implemented (Civic) vs. a more expansive version (Minivan)? We suggest a couple of examples in the pulldowns below. Both examples are hypothetical stand-thinning projects with prescribed fire applied periodically after thinning for maintenance. The project assumption is that thinning will lead to increased forest health and reduced high-intensity wildfires. Sometimes, you need a dependable Honda Civic:
 
