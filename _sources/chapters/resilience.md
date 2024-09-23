@@ -1,6 +1,6 @@
 # Resilience Gap
 
-Veenu King, Michael Kent | New Leaf Climate Partners
+Veenu King and Michael Kent | New Leaf Climate Partners
 
 ## Abstract
 This chapter explores fuel reduction needs to decrease risks of severe wildfire for private forest owners in low-income communities in California. The spatial analysis combines poverty data, land ownership, and landscape treatment needs at the census and county levels. 
