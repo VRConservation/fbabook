@@ -92,7 +92,7 @@ California can better safeguard its natural landscapes and most vulnerable popul
 
 ## Appendix
 
-Table 2. Treatable privately owned acres in high and extreme poverty, total activity acres, and total activity acres on private land [Wildfire Resilience Task Force Dashboard]([Dashboard](https://gsal.sig-gis.com/portal/apps/experiencebuilder/experience/?id=95be34ea351b440f9e4ce0f9d3826a77&page=Activity).
+Table 2. Treatable privately owned acres in high and extreme poverty, total activity acres, and total activity acres on private land ([Wildfire Resilience Task Force Dashboard](https://gsal.sig-gis.com/portal/apps/experiencebuilder/experience/?id=95be34ea351b440f9e4ce0f9d3826a77&page=Activity)).
 
 | County | Treatment Need (acres) |  % High Poverty | % Extreme Poverty | Treated (acres) | % Treatment Gap |
 | --- | ---: | ---: | ---: | ---: | ---: |
