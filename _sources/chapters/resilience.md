@@ -85,6 +85,12 @@ The challenges California's diverse ecosystems face are compounded by the increa
 
 California can better safeguard its natural landscapes and most vulnerable populations by aligning wildfire treatment strategies with socio-economic resilience measures. Future studies and policy developments should prioritize these high-risk, high-need areas to foster a more equitable and effective approach to wildfire management and climate adaptation. Future research can delve deeper into granular information on the different treatment types across geographies, gather parcel-level data, and explore permitting, planning, and aggregation issues to conduct larger-scale fuel treatments in the state.
 
+## Endnotes
+[^1]: Fire hazard is fire damage (property damage) whereas fire experience is frequency of fires. Median income in communities that have had 6 or more fires since 1990 is \$66,128 whereas those with 1-2 fires have a median income of $100,063 (Hino and Field).
+[^2]: More details in [this](https://view.officeapps.live.com/op/view.aspx?src=https3A2F2Fbof.fire.ca.gov2Fmedia2F93542F00-exec-summary.docx&wdOrigin=BROWSELINK) executive summary.
+[^3]: Utilized data from the Wildfire and Forest Resilience Task Force’s Beta Treatment Tracker [Dashboard](https://gsal.sig-gis.com/portal/apps/experiencebuilder/experience/?id=95be34ea351b440f9e4ce0f9d3826a77&page=Activity) to determine acres in treatment and percent of those acres that are privately owned {cite}`WildfireDashboard`.
+[^4]: Ibid.
+
 ## Appendix
 Table 2. Treatable privately owned acres in high and extreme poverty, total activity acres, and total activity acres on private land [^4].
 
@@ -147,9 +153,3 @@ Table 2. Treatable privately owned acres in high and extreme poverty, total acti
 | Ventura | 17,972 | 52 | 2  | 568 | 96.8 |
 | Yolo | 2,144 | 55 | 55 | 0   | 100.0 |
 | Yuba | 71,432 | 78 | 0  | 4174 | 94.2 |
-
-## Endnotes
-[^1]: Fire hazard is fire damage (property damage) whereas fire experience is frequency of fires. Median income in communities that have had 6 or more fires since 1990 is \$66,128 whereas those with 1-2 fires have a median income of $100,063 (Hino and Field).
-[^2]: More details in [this](https://view.officeapps.live.com/op/view.aspx?src=https3A2F2Fbof.fire.ca.gov2Fmedia2F93542F00-exec-summary.docx&wdOrigin=BROWSELINK) executive summary.
-[^3]: Utilized data from the Wildfire and Forest Resilience Task Force’s Beta Treatment Tracker [Dashboard](https://gsal.sig-gis.com/portal/apps/experiencebuilder/experience/?id=95be34ea351b440f9e4ce0f9d3826a77&page=Activity) to determine acres in treatment and percent of those acres that are privately owned {cite}`WildfireDashboard`.
-[^4]: Ibid.
