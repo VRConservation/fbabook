@@ -14,6 +14,7 @@ Pace and scale of forest health and resilience
 
 ## Scaling frameworks
 - Notes from call with Mike Kent
+- [this](https://review.firstround.com/make-friends-with-the-monster-chewing-on-your-leg-and-other-tips-for-surviving-startups/) article on scaling tech companies called 'make friends with the monster'. 
 
 ## Funding
 
