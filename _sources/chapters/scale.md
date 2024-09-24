@@ -1,10 +1,10 @@
 # Scaling
-A short guide to scaling forest businesses and organizations from local, regional, and statewide
+A short guide to scaling forest businesses and organizations from local to landscape
 
 ## Takeaways
 
 ## Background
-Pace and scale of forest health and resilience
+Surprisingly little is written on scaling nonprofits. Overwhelmingly, a lot is written on scaling businesses. Few to none of this _oevre_ is connected to forest health, with the majority of articles focused on scaling tech startups.
 
 ## Challenges
 - Gov efforts focused mostly on nonprofits, RCDs and agencies. Deploying capital to businesses and startups is slow and doesn't always focus on what's needed most, e.g., operating capital, or support during the most challenging phases of startup or scaling when needed the most.
