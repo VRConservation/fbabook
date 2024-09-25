@@ -15,7 +15,7 @@ subprocess.run(["git", "add", "."], check=True)
 subprocess.run(["git", "commit", "-m", "scale draft"], check=True)
 subprocess.run(["git", "push"], check=True)
 
-# Open local index file in web browser
+# Open local build in web browser
 # Define the path to the intro.html file
 file_path = r'file://D:\OneDrive\1_Consulting\CAL FIRE Biz Devo\CAL FIRE Biz Devo Shared\Communications\fbabook\_build\html\index.html'
 
