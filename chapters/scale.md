@@ -37,26 +37,35 @@ As more farmers do more experiments and successful strategies are chosen, diffus
 Funding is an important factor in scaling not covered in the the agricultural examples above. In the check your scaling assumptions {cite}`scaling` provide an excellent example of developing realistic budgets based on strategic plan goals and costing those out over time. They show that for a hypothetical organization to reach a seemingly realistic, but ambitious goal, of 500,000 tons of CO2e sequestered, the organization will have to carry out 250 projects over a decade. This is when s*%t gets semi-real. They then create a financial model to work out total projects, costs, tons of C sequestered and cost/ton. The up front work clearly demonstrates the value of testing assumptions made to successfully carry out a plan {cite}`scaling`. A similar analysis could be completed simultaneously that focuses on staffing and workforce needed to carry out the plan.
 
 ### Business
+Scaling businesses is a dual edged sword in that it's a well-worn pathway with many examples of success, yet the pressure to scale takes place from the get go with expectations for profit and system-level success.
+
 Markets/new markets
 Capital outlay/loans/finance
 Quality control
 Leadership/ownership
 Maintenance
-Sustainability?
+Sustainability? and triple bottom line
 
-Quotes from business
+Quotes from business owners
 
 ## Challenges
-Scaling needed for mills, biomass, workforce. Particularly acute for finding skilled labor.
+Rapid scaling is a huge challenge, particularly for nonprofit organizations that are often not able to scale rapidly due to funding, workforce, and governance issues. Looking at these issues can seem overwhelming, but each individually is not insurmountable. Executing agreements could be fixed immediately, for instance. In fact, it does seem that some agencies have made great strides here in recent years, although others lag behind.
 
-- Gov efforts focused mostly on nonprofits, RCDs and agencies. Deploying capital to businesses and startups is slow and doesn't always focus on what's needed most, e.g., operating capital, or support during the most challenging phases of startup or scaling when needed the most.
-- Nonprofits do not scale quickly. It's impossible to scale when you fund many project based on a reimbursable format such as the funding from most state and federal agencies.
-- Agreements, contracting and compliance may also slow scaling.
-- Public capital is not being leveraged with private.
-- Coordination across multiple actors in a region is challenging, but do-able. Look at projects in the CNRA tracking and they look puny compared to the actual task at hand of 1 million acres treated
+- **Workforce**. Finding qualified employees is a major challenge for the private and public sector. RPFs are in short supply, knowledgeable mill operators are difficult to find and challenging to train. Even putting together qualified thinning or prescribed fire crews led by experienced individuals is very challenging. For nonprofits that offer lower salaries than the private sector, challenges are increased.
+- **Chicken and egg finance**. Banks are no longer experienced in-house with the due diligence required to review loans for forest health and infrastructure projects. To compensate, they ask businesses to come back once the business is functioning. This chicken and egg situation, akin to not being able to apply for a job out of college w/o experience, is trying for new businesses or existing businesses trialing new technologies. This challenge may decline over time but certainly does not help accelerating the pace and scale of forest health treatments in the present moment.
+- **Funding & scale**. Funders often ask for a scalable projects, but don't provide the necessary funding to do so, or provide enough for startup and not scaling. Also public investment through grants, fantastic for trialing new and innovative programs or equipment, is not being leveraged with private funding.
+- **Nonprofits scaling speed**. Nonprofits typically do not scale quickly. It's impossible to scale when you fund many project based on a reimbursable format such as the funding from most state and federal agencies.
+- **Agency agreements impede scale**. At the moment, the slow speed of executing agency agreements, some may take upwards of one year follow grant awards, significantly impedes pace and scale of forest health implementation. The cost and speed of environmental compliance is a similar issue putting the brakes on project implementation.
+- **NIMBY**. Alpenglow Timber example
+- **Project size ≠ need**. Coordination across multiple actors in a region is challenging, but do-able. Look at projects in the CNRA tracking and they look puny compared to the actual task at hand of 1 million acres treated
+- **One size doesn't fit all**. And this makes for a conundrum that prevents scaling since every effort to scale requires bespoke changes in policy, funding, workforce, behavioral and institutional change {cite}`churches`. 
+- **Effectiveness & scalability**. Total impact = effectiveness + scalability {cite}`pienkowski`. Evidence of scaling effectiveness, readiness, and risk evaluation is often lacking.
 
-## Lessons
-- Consider scaling from the start of your program design
-- Rough out costs of scaling your work and assess feasibility
-- Total impact = effectiveness + scalability {cite}`pienkowski`. Evidence of scaling effectiveness, readiness, and risk evaluation is often lacking.
-- One size doesn't fit all {cite}`churches`. And this makes for a conundrum that prevents scaling since every effort to scale requires bespoke changes in policy, funding, workforce, behavioral and instutional change. 
+## Recommendations
+Considerations to incorporate scale when developing your business, project, and programs for forest health:
+
+- **Scale from the outset**. Consider scaling from the start of your program design.
+- **Calculate scale costs**. Rough out costs of scaling your work and assess feasibility.
+- **Emotional scale**. Be aware of the emotional cost of scale on you as a business owner or nonprofit manager as well as the impact it may have on your staff.
+- **Replication & adoption**. Replication and adoption are moving targets and change as you scale.
+- **Effectiveness**. Measuring success becomes more complicated with scale, but infinitely more valuable for learning and determining what is working or not.
