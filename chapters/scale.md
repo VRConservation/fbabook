@@ -37,16 +37,16 @@ As more farmers do more experiments and successful strategies are chosen, diffus
 Funding is an important factor in scaling not covered in the the agricultural examples above. In the check your scaling assumptions {cite}`scaling` provide an excellent example of developing realistic budgets based on strategic plan goals and costing those out over time. They show that for a hypothetical organization to reach a seemingly realistic, but ambitious goal, of 500,000 tons of CO2e sequestered, the organization will have to carry out 250 projects over a decade. This is when s*%t gets semi-real. They then create a financial model to work out total projects, costs, tons of C sequestered and cost/ton. The up front work clearly demonstrates the value of testing assumptions made to successfully carry out a plan {cite}`scaling`. A similar analysis could be completed simultaneously that focuses on staffing and workforce needed to carry out the plan.
 
 ### Business
-Scaling businesses is a dual edged sword in that it's a well-worn pathway with many examples of success, yet the pressure to scale takes place from the get go with expectations for profit and system-level success.
+Scaling businesses is a dual edged sword in that it's a well-worn pathway with many examples of success, yet the pressure to scale takes place from the get go with expectations for profit and system-level success. Factors business owners may want to consider when planning to scale include (will flesh these out)
 
-Markets/new markets
-Capital outlay/loans/finance
+Markets. Including new markets
+Finance. Capital outlay/loans/finance
 Quality control
 Leadership/ownership
 Maintenance
 Sustainability? and triple bottom line
 
-Quotes from business owners
+Quotes from business owners?
 
 ## Challenges
 Rapid scaling is a huge challenge, particularly for nonprofit organizations that are often not able to scale rapidly due to funding, workforce, and governance issues. Looking at these issues can seem overwhelming, but each individually is not insurmountable. Executing agreements could be fixed immediately, for instance. In fact, it does seem that some agencies have made great strides here in recent years, although others lag behind.
