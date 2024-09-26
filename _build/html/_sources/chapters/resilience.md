@@ -39,7 +39,7 @@ Additionally, this study’s analysis on fire suppression has found that communi
 California has identified more than 20 million acres that need fuel treatment across various landscape types to reduce hazardous vegetation. For this analysis, treatment needs are narrowed to private forest lands and privately owned forested areas with 20% or more canopy cover. Treatment for forests includes prescribed burning, selective harvesting and thinning, herbicide applications, and constructing fuel breaks. These interventions reduce fuels that generate catastrophic fire conditions and slow-burning fires, provide buffer zones to limit crown fires and return forest lands to a state that can support low-intensity fires. In collaboration with many federal, state, local, and non-government entities, the Forest Management Task Force published California’s Wildfire and Forest Resilience Action Plan, which aims to treat one million acres of state and federal land annually by 2025 {cite}`ForestResilience`. 
 
 ## Methods
-This research focuses on the spatial overlap of wildfire treatment needs within private forests in low-income regions. QGIS was used to create spatial overlaps of different maps, including land ownership, poverty and treatment datasets, forest mapping and Python was used for statistical analysis. Previous studies have examined the relationship between populations and past wildfires, but few have analyzed the forward-looking treatment needs at a census tract level {cite}`Wildfire&Poverty` {cite}`Masri`.
+This research focuses on the spatial overlap of wildfire treatment needs within private forests in low-income regions. QGIS was used to create spatial overlaps of different maps, including land ownership, poverty, treatment, and forest mapping datasets. Python was used for statistical analysis. Previous studies have examined the relationship between populations and past wildfires, but few have analyzed the forward-looking treatment needs at a census tract level {cite}`Wildfire&Poverty` {cite}`Masri`.
 
 ### Definitions
 - Forest and Wildfire Fuel Treatment: Treatment includes prescribed burning, mechanical treatment, manual treatments, herbicide application, and prescribed herbivory to reduce hazardous vegetation, constructing fuel breaks, and ecological restoration {cite}`CalVTPStorymap`.[^2]  
@@ -68,9 +68,9 @@ This research has identified several critical insights that underscore the compl
 Private forest treatment needs by total acres within counties at left and private forest treatment needs by total acres within extreme poverty counties at right.
 ```
 
-Top 5 countries with the greatest total acres of private treatable lands in extreme poverty (poverty rate > 40), their acres in high poverty (poverty rate > 20), and their acres treated in 2022 (Table 1).
+Top 5 counties with the greatest total acres of private treatable lands in extreme poverty (poverty rate > 40), their acres in high poverty (poverty rate > 20), and their acres treated in 2022 (Table 1).
 
-Table 1: Top 5 countries with the greatest total acres of private treatable lands in extreme poverty (poverty rate > 40%), their acres in high poverty (poverty rate > 20%), and their acres treated in 2022.[^3]
+Table 1: Top 5 counties with the greatest total acres of private treatable lands in extreme poverty (poverty rate > 40%), their acres in high poverty (poverty rate > 20%), and their acres treated in 2022.[^3]
 
 | County | Treatment Need (acres) |  % High Poverty |  % Extreme Poverty | Treated (acres)  |  % Treatment Gap |
 | --- | ---: | ---: | ---: | ---: | ---: |
