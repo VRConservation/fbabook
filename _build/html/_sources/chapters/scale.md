@@ -2,6 +2,11 @@
 A short guide to scaling forest businesses and organizations from local to landscape
 
 ## Takeaways
+1. **Tailoring strategies**. When it comes to scaling your organization, there is a need to tailor strategies, always. Off-the-shelf solutions do not exist, especially in the forest health arena.
+2. **Pilots may not be the way to go anymore**. Pilot and pray, pilot with small-scale experimentation. Beyond piloting.
+3. **Measuring outcomes**.
+4. **Workforce**.
+5. **Leadership & succession**.
 
 ## Background
 Surprisingly, little is written on scaling nonprofits. Overwhelmingly, a lot is written on scaling businesses. Few to none of this _oevre_ is connected to forest health, with the majority of articles focused on scaling tech startups and most exploring scaling nuts and bolts. 
@@ -15,11 +20,11 @@ Acknowledging and responding to the monster chewing on your leg is critical for 
 ```
 
 ### Up/out/deep
-In the conservation arena, {cite}`scaling` adapted a framework created by {cite}`moore` for scaling conservation nonprofits. Based on their literature review there are five scaling approaches:
+In the conservation arena, {cite:t}`scaling` adapted a framework created by {cite:t}`moore` for scaling conservation nonprofits. Based on their literature review there are three scaling approaches:
 
 1. **Scaling out**. This involves replicating the initial pilot with three options of 1. expanding the scope, 2. replicating pilots within a program, and 3. promoting innovation diffusion by capturing and communicating what you've learned and getting other organizations to adopt your strategies.
 2. **Scaling up**. This type of scaling, e.g., policy change, takes a systems-level approach to leverage scale across a greater area rather than testing and replicating pilots.
-3. **Scaling deep**. Scaling deep is a behavioral change approach that changes the underlying values of the actors in a system. For example, it might involve building a stewardship ethic among landowners or creating and communicating stories that convey the needed values to key audiences.
+3. **Scaling deep**. Scaling deep is a behavioral change approach that changes the underlying values of the actors in a system. For example, it might involve building a stewardship ethic among landowners or creating and communicating stories that convey the needed values to key audiences. It's best to take a careful, measured approach with scaling deep, in many cases this type of strategy takes a lot of time and require many touch points and well-thought out strategies to succeed. Simply running radio spots to bolster messaging isn't enough to change behavior.
 
 Piloting projects has several downsides, from risk to cost, and ultimately leads to what many conservation projects follow the 'pilot and pray' approach {cite}`pathways`. In other words, "supporting conservation actions based on effectiveness, yet ignoring their scalability risks, promoting approaches that limit total benefit" {cite}`pienkowski`. A bottom line reality is that we may frequently be beyond the pilot stage for forest or biodiversity conservation due to the advanced state of wildfires, climate change, and habitat loss. {cite}`pienkowski` go on to say the inverse can be true, e.g., promoting scalability over effectiveness, and that effectiveness can change with scale, possibly requiring different methods to measure outcomes. For example, voluntary carbon markets have failed to deliver benefits due to inadequate methods to measure additionality {cite}`west`.
 
@@ -64,7 +69,7 @@ Rapid scaling is a huge challenge, particularly for nonprofit organizations that
 - **Effectiveness & scalability**. Total impact = effectiveness + scalability {cite}`pienkowski`. Evidence of scaling effectiveness, readiness, and risk evaluation is often lacking.
 
 ## Recommendations
-Considerations to incorporate scale when developing your business, project, and programs for forest health:
+Overall, there is a need to tailor strategies always. Considerations to incorporate scale when developing your business, project, and programs for forest health:
 
 - **Scale from the outset**. Consider scaling from the start of your program design.
 - **Calculate scale costs**. Rough out the costs of scaling your work and assess feasibility.
