@@ -14,7 +14,7 @@ parts:
       - file: chapters/ceqa
       - file: chapters/resilience
       - file: chapters/funding
-      - file: chapters/scale
+      - file: chapters/scale2
 
   - caption: Appendices
     numbered: False
