@@ -39,14 +39,14 @@ Funding is an important factor in scaling not covered in the the agricultural ex
 ### Business
 Scaling businesses is a dual edged sword in that it's a well-worn pathway with many examples of success, yet the pressure to scale takes place from the get go with expectations for profit and system-level success. Factors business owners may want to consider when planning to scale include
 
-**Finance**. Different timings, amounts, and for different items may take place as a business scales, further complicated by changes in markets and other external factors. Financing from traditional institutions for new products and approaches may take longer to develop, but should become easier as more forest health businesses come on line with successful track records.
-**Funding**. Gov grants to test, loans to scale. Somewhat similar to {cite}`ears` small-scale experimentation, in that government grants could be used to test new ideas, practices, and equpement, grant funding is a powerful innovation and scaling tool. Phased properly, grants, can allow pilots that can be rapidly scaled. As highlighted in [Chapter 2][program] .
-**Leadership/ownership**. Leadership expansion and succession. Ownership from founders or creators of programs when expanded and others take over.
-**Quality control**. Maintaining quality control with 'franchises'.
-**Markets**. Including new markets. Marketing new wood products. Working with associations and cooperatives.
-**Maintenance**. Maintenance of existing sites.
-**Sustainability**. Triple bottom line
-**Measuring outcomes**. Monitoring system that measures outcomes or impacts of forest health projects.
+- **Finance**. Different timings, amounts, and for different items may take place as a business scales, further complicated by changes in markets and other external factors. Financing from traditional institutions for new products and approaches may take longer to develop, but should become easier as more forest health businesses come on line with successful track records.
+- **Funding**. Gov grants to test, loans to scale. Somewhat similar to {cite}`ears` small-scale experimentation, in that government grants could be used to test new ideas, practices, and equipment, grant funding is a powerful innovation and scaling tool. Phased properly, grants, can allow pilots that can be rapidly scaled. As highlighted in {ref}`program` use your business or strategic plan to prioritize the grants you pursue rather than allowing the grant programs change your priorities and vision.
+- **Leadership/ownership**. Leadership expansion and succession. Ownership from founders or creators of programs when expanded and others take over.
+- **Quality control**. Maintaining quality control with 'franchises'.
+-**Markets**. Including new markets. Marketing new wood products. Working with associations and cooperatives.
+- **Maintenance**. Maintenance of existing sites.
+- **Sustainability**. Triple bottom line
+- **Measuring outcomes**. Monitoring system that measures outcomes or impacts of forest health projects.
 
 Quotes from business owners?
 
