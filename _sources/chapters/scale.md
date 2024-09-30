@@ -1,5 +1,5 @@
 # Scaling
-A short guide to scaling forest businesses and organizations from local to landscape
+A brief guide to scaling forest businesses and organizations from local to landscape
 
 ## Takeaways
 1. **Tailoring strategies**. When it comes to scaling your organization, there is a need to tailor strategies, always. Off-the-shelf solutions do not exist, especially in the forest health arena.
