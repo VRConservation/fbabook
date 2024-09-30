@@ -4,9 +4,9 @@ A short guide to scaling forest businesses and organizations from local to lands
 ## Takeaways
 1. **Tailoring strategies**. When it comes to scaling your organization, there is a need to tailor strategies, always. Off-the-shelf solutions do not exist, especially in the forest health arena.
 2. **Pilots may not be the way to go anymore**. Pilot and pray, pilot with small-scale experimentation. Beyond piloting.
-3. **Measuring outcomes**.
-4. **Workforce**.
-5. **Leadership & succession**.
+3. **Measuring outcomes**. Create monitoring and measurement systems that measures outcomes or impacts of forest health projects as well as your company's success. See [Chapter 4](monit:reference) for more details on creating a system to measure your business success.
+4. **Workforce**. Finding qualified employees is a major challenge for the private and public sector. RPFs are in short supply, knowledgeable mill operators are difficult to find and challenging to train. Even putting together qualified thinning or prescribed fire crews led by experienced individuals is very challenging. For nonprofits that offer lower salaries than the private sector, challenges are increased.
+5. **Leadership**. Company leadership can be tricky from both an ownership/ideas perspective, e.g., letting go as the business expands and new leadership is needed to manage satellite businesses and hiring the right leadership to maintain corporate culture.
 
 ## Background
 Surprisingly, little is written on scaling nonprofits. Overwhelmingly, a lot is written on scaling businesses. Few to none of this _oevre_ is connected to forest health, with the majority of articles focused on scaling tech startups and most exploring scaling nuts and bolts. 
@@ -39,9 +39,9 @@ As more farmers do more experiments and successful strategies are chosen, the di
 2. **Breadth**. Breadth is known as horizontal scaling and can be achieved when practices are spread across many households and communities.
 3. **Verticality**. Comes into play when enabling farming practices across networks and movements and linking community farmers to markets and supportive policies.
 
-Funding is an important factor in scaling not covered in the the agricultural examples above. In the check your scaling assumptions {cite:t}`scaling` provide an excellent example of developing realistic budgets based on strategic plan goals and costing those out over time. They show that for a hypothetical organization to reach a seemingly realistic, but ambitious goal, of 500,000 tons of CO2e sequestered, the organization will have to carry out 250 projects over a decade. This is when s*%t gets semi-real. They then create a financial model to work out total projects, costs, tons of C sequestered and cost/ton. The up front work clearly demonstrates the value of testing assumptions made to successfully carry out a plan {cite}`scaling`. A similar analysis could be completed simultaneously that focuses on staffing and workforce needed to carry out the plan.
+Funding is an important factor in scaling not covered in the the agricultural examples above. In the check your scaling assumptions {cite:t}`scaling` provide an excellent example of developing realistic budgets based on strategic plan goals and costing those out over time. They show that for a hypothetical organization to reach a seemingly realistic, but ambitious goal, of 500,000 tons of CO2e sequestered, the organization will have to carry out 250 projects over a decade. This is when s*%t gets real. They then create a financial model to work out total projects, costs, tons of C sequestered and cost/ton. The up front work clearly demonstrates the value of testing assumptions made to successfully carry out a plan {cite}`scaling`. A similar analysis could be completed simultaneously that focuses on staffing and workforce needed to carry out the plan.
 
-### Business
+## Forest Businesses
 Scaling businesses is a dual edged sword in that it's a well-worn pathway with many examples of success, yet the pressure to scale takes place from the get go with expectations for profit and system-level success. Factors business owners may want to consider when planning to scale include
 
 - **Finance**. Different timings, amounts, and for different items may take place as a business scales, further complicated by changes in markets and other external factors. Financing from traditional institutions for new products and approaches may take longer to develop, but should become easier as more forest health businesses come on line with successful track records.
