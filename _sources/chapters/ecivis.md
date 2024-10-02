@@ -130,7 +130,7 @@ The items below the Financial Report Details heading describe the different budg
 :name: fin_report_details
 Financial report details
 ```
-For reimbursement requests, the box next to “Reimbursement Request” must be checked for the submittal to go through. The Financial Report Narrative is marked as mandatory, but it is unnecessary to enter extensive text here if there is nothing to report ({numre}`narrative`). A short sentence, such as “Activity Report submitted separately,” will suffice.
+For reimbursement requests, the box next to “Reimbursement Request” must be checked for the submittal to go through. The Financial Report Narrative is marked as mandatory, but it is unnecessary to enter extensive text here if there is nothing to report ({numref}`narrative`). A short sentence, such as “Activity Report submitted separately,” will suffice.
 
 ```{figure} /figures/ecivis/narrative.png
 :name: narrative
