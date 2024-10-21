@@ -16,7 +16,7 @@ Molly Graham, from her experience of scaling at Google, Facebook, and Quip, take
 
 ```{figure} /figures/scale/monster.png
 :name: monster
-Acknowledging and responding to the monster chewing on your leg is critical for managing scaling. Graphic credit {cite}`graham`.
+Acknowledging and responding to the monster chewing on your leg is critical for managing scaling. Graphic credit: {cite}`graham`.
 ```
 
 ### Up/out/deep
