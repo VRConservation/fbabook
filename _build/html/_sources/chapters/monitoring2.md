@@ -1,3 +1,0 @@
-# Measuring Success
-
-Coming Soon!
