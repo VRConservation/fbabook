@@ -1,3 +1,9 @@
 {
   "cSpell.words": ["additionality", "Yugos"]
 }
+
+{
+"python.condaPath": "C:\\Users\\vance\\miniconda3\\Scripts\\conda.exe",
+"python.terminal.activateEnvironment": true,
+"terminal.integrated.defaultProfile.windows": "Command Prompt"
+}
