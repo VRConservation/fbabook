@@ -10,9 +10,9 @@ subprocess.run(["ghp-import", "-n", "-p", "-f", "_build/html"], check=True)
 # Run the command jb build --all . after the loop
 subprocess.run(["jb", "build", "--all", "."], check=True)
 
-# Push and sync the repository to GitHub make sure to change the 'Update repo' message
+# Push and sync the repository to GitHub make sure to change the 'Update repo' message on line 15
 subprocess.run(["git", "add", "."], check=True)
-subprocess.run(["git", "commit", "-m", "Adding umami tag to index.html"], check=True)
+subprocess.run(["git", "commit", "-m", "Chapter 8 spelling error"], check=True)
 subprocess.run(["git", "push"], check=True)
 
 # Open local build in web browser
