@@ -7,7 +7,7 @@ The Business of Forest Health Is Booming: An Analysis of CAL FIRE's Business and
 Updated to include 2024q1 grants
 
 ## Findings
-To better understand the geographic distribution, success rates, and funding gaps/needs, the Forest Business Alliance undertook a preliminary study examining CAL FIRE's Business and Workforce Development Grants from the first quarter of 2022 through the third quarter of 2023 (new data and analysis will be added when available). The initial analysis of CAL FIRE's Business and Workforce Development Grants Program found the following:
+To better understand the geographic distribution, success rates, and funding gaps/needs, the Forest Business Alliance undertook a preliminary study examining CAL FIRE's Business and Workforce Development Grants from the first quarter of 2022 through the first quarter of 2024 (new data and analysis will be added when available). The initial analysis of CAL FIRE's Business and Workforce Development Grants Program found the following:
 
 - More funding is needed for the Program; funding requests or needs far outstrip the grant funds awarded. As of Q1 2024, approximately \$82 million in requests were funded, but the total requests were nearly \$330 million. Sustainable infrastructure to process wood biomass in California and workforce development are critical elements of the <a href="http://gg.gg/1a38lc" target="_blank">Roadmap to a Million Acres</a>.
 - The top 10 grant-receiving counties in order were Tuolumne, Shasta, Plumas, Tulare, Humboldt, Yolo, Placer, Siskiyou, Fresno, and Mariposa Counties. 
