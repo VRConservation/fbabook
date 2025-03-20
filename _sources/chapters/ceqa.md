@@ -23,7 +23,7 @@ The types of CEQA documents are many but generally encompass the following broad
 
 ## CalVTP
 
-[The California Vegetation Treatment Program](http://gg.gg/1anhib) includes the use of prescribed burning, mechanical treatments, manual treatments (including reforestation), herbicide application, and prescribed herbivory as tools to reduce hazardous vegetation around communities in the Wildland-Urban Interface (WUI), to construct fuel breaks (shaded or non-shaded), and to promote ecological restoration. A general VTP process flowchart is shown in {numref}`vtp`.
+[The California Vegetation Treatment Program](https://bof.fire.ca.gov/projects-and-programs/calvtp-homepage-and-storymap) includes the use of prescribed burning, mechanical treatments, manual treatments (including reforestation), herbicide application, and prescribed herbivory as tools to reduce hazardous vegetation around communities in the Wildland-Urban Interface (WUI), to construct fuel breaks (shaded or non-shaded), and to promote ecological restoration. A general VTP process flowchart is shown in {numref}`vtp`.
 
 ```{figure} /figures/vtp.png
 :name: vtp
