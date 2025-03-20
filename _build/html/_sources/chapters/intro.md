@@ -24,7 +24,7 @@ We will be adding new chapters when they are ready. Please check back regularly!
 
 ## Acknowledgements
 
-Funding for the Forest Business Alliance is provided by the [CAL FIRE Business and Workforce Development Grant Program](http://gg.gg/1a1i7n).
+Funding for the Forest Business Alliance is provided by the [CAL FIRE Business and Workforce Development Grant Program](https://www.fire.ca.gov/what-we-do/natural-resource-management/climate-and-energy-program/wood-products-and-bioenergy).
 
 The FBA guide is powered by [jupyter book](https://jupyterbook.org/en/stable/intro.html) and Github pages.
 

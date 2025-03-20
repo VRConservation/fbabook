@@ -6,12 +6,12 @@ CAL FIRE uses an online system called eCivis to receive applications and adminis
 
 The following information covers two stages at which you will use eCivis: 1) the proposal stage, during which you will create a profile and submit all proposal materials; and 2) the post-award stage, during which you will manage your project and use eCivis to submit Activity and Financial Reports. 
 
-It is important to note that this guide is meant to be used in conjunction with the Business & Workforce Development resources provided on CAL FIRE’s [website](http://gg.gg/1bt38l) and eCivis-specific materials (in particular, the Grants Portal Application Submittal User [Guide](http://gg.gg/1bt39w) and eCivis Grants Portal Applicant Troubleshooting [Guide](http://gg.gg/1bt3ak).
+It is important to note that this guide is meant to be used in conjunction with the Business & Workforce Development resources provided on CAL FIRE’s Wood Products and Bioenergy [website](https://www.fire.ca.gov/what-we-do/natural-resource-management/climate-and-energy-program/wood-products-and-bioenergy) and eCivis-specific materials. In particular, the Grants Portal Application Submittal User [Guide](https://shorturl.at/GmCOy) and the eCivis Grants Portal Applicant Troubleshooting [Guide](https://shorturl.at/ETFdi).
 
 ## Proposal Stage
 Access the eCivis portal for the Business & Workforce Development Grant Program through the link in the CAL FIRE guidelines for the solicitation you are applying to. Note that this link is updated for each solicitation, so we are not including it here. Guidelines are on the grant program-specific webpage on CAL FIRE’s website {numref}`application`.
 
-1. The eCivis link is provided in the Application Process section of the guidelines document (again, guidelines can be found on the Business & Workforce Development [website](http://gg.gg/1bt38l)).
+1. The eCivis link is provided in the Application Process section of the guidelines document (guidelines can be found on the Wood Products and Bioenergy [website](https://www.fire.ca.gov/what-we-do/natural-resource-management/climate-and-energy-program/wood-products-and-bioenergy)).
 2. It is important to create your account through the link in the grant guidelines because this will ensure that you are accessing the correct website and creating an application in the correct solicitation window. Your account will be used for your application and also to administer your grant, should your application be awarded funding.
 
 ```{figure} /figures/ecivis/application.png
@@ -38,10 +38,10 @@ Before beginning your application in eCivis, download all the required forms and
 Screenshot of CAL FIRE file downloads. Click on the file title to download the document(s) you need.
 ```
 
-1. Don’t forget to access and use the templates in the [Forest Business Alliance website](https://www.forestbusinessalliance.org/general-5). FBA team members are available to assist you with this. Contact us at forestbusinessalliance@gmail.com if you have questions or need further assistance. 
+1. Don’t forget to access and use the templates in the [Forest Business Alliance website](https://www.forestbusinessalliance.org/templates). FBA team members are available to assist you with this. Contact us at forestbusinessalliance@gmail.com if you have questions or need further assistance. 
 2. The Forest Business Alliance’s guidebook [Chapter](https://forestbiz.info/chapters/project.html) on project and proposal development would be helpful at this stage for organizing your proposal narrative and budget development workflow. Before you start a proposal, review the chapter to establish how your proposed project fits into your business or strategic plan.
 
-Follow the process in the Grants Portal Application Submittal User [Guide](http://gg.gg/1bt39w), which will take you step-by-step through creating an account and completing an application. This guide also provides a helpful overview of all application components:
+Follow the process in the Grants Portal Application Submittal User [Guide](https://shorturl.at/GmCOy), which will take you step-by-step through creating an account and completing an application. This guide also provides a helpful overview of all application components:
 1. Profile (specific to your organization)
 2. Application (specific to your project)
 3. Budget (project)
@@ -72,7 +72,7 @@ CAL FIRE requires a minimum of quarterly reporting; however, you can invoice and
 
 Invoicing and reporting involve a three-step process: 
 
-1. Complete the online Progress Report [Form](http://gg.gg/1bt3em). CAL FIRE will provide a template and guidance on this document as part of your onboarding process if you are awarded a grant.
+1. Complete the online Progress Report Form. CAL FIRE will provide a template and guidance on this document as part of your onboarding process if you are awarded a grant.
 2. Complete the Activity Report in eCivis (described below).
 3. Complete the Financial Report in eCivis (described below).
 

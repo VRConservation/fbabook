@@ -42,7 +42,7 @@ California has identified more than 20 million acres that need fuel treatment ac
 This research focuses on the spatial overlap of wildfire treatment needs within private forests in low-income regions. QGIS was used to create spatial overlaps of different maps, including land ownership, poverty, treatment, and forest mapping datasets. Python was used for statistical analysis. Previous studies have examined the relationship between populations and past wildfires, but few have analyzed the forward-looking treatment needs at a census tract level {cite}`Wildfire&Poverty` {cite}`Masri`.
 
 ### Definitions
-- Forest and Wildfire Fuel Treatment: Treatment includes prescribed burning, mechanical treatment, manual treatments, herbicide application, and prescribed herbivory to reduce hazardous vegetation, constructing fuel breaks, and ecological restoration {cite}`CalVTPStorymap`.[^2]  
+- Forest and Wildfire Fuel Treatment: Treatment includes prescribed burning, mechanical treatment, manual treatments, herbicide application, and prescribed herbivory to reduce hazardous vegetation, constructing fuel breaks, and ecological restoration {cite}`CalVTPStorymap`.  
 - Poverty Rate: California Environmental Protection Agency's Office of Environmental Health Hazard Assessment defines this as the percent of the population living below two times the federal poverty level from a 5-year estimate for the years 2015-2019 {cite}`OEHHAPoverty` .
 - Poverty Population Threshold: High Poverty 20%; Extreme Poverty 40%. The USDA defines areas of “high poverty” as those with a poverty rate of 20%+ and “extreme poverty” as those with a poverty rate of 40%+ {cite}`PovertyMeasure`.
 
@@ -70,7 +70,7 @@ Private forest treatment needs by total acres within counties at left and privat
 
 Top 5 counties with the greatest total acres of private treatable lands in extreme poverty (poverty rate > 40), their acres in high poverty (poverty rate > 20), and their acres treated in 2022 (Table 1).
 
-Table 1: Top 5 counties with the greatest total acres of private treatable lands in extreme poverty (poverty rate > 40%), their acres in high poverty (poverty rate > 20%), and their acres treated in 2022.[^3]
+Table 1: Top 5 counties with the greatest total acres of private treatable lands in extreme poverty (poverty rate > 40%), their acres in high poverty (poverty rate > 20%), and their acres treated in 2022.[^2]
 
 | County | Treatment Need (acres) |  % High Poverty |  % Extreme Poverty | Treated (acres)  |  % Treatment Gap |
 | --- | ---: | ---: | ---: | ---: | ---: |
@@ -150,6 +150,5 @@ Table 2. Treatable privately owned acres in high and extreme poverty, total acti
 
 ## Endnotes
 [^1]: Fire hazard is fire damage (property damage) whereas fire experience is frequency of fires. Median income in communities that have had 6 or more fires since 1990 is \$66,128 whereas those with 1-2 fires have a median income of $100,063 (Hino and Field).
-[^2]: More details in [this](https://view.officeapps.live.com/op/view.aspx?src=https3A2F2Fbof.fire.ca.gov2Fmedia2F93542F00-exec-summary.docx&wdOrigin=BROWSELINK) executive summary.
-[^3]: Utilized data from the Wildfire and Forest Resilience Task Force’s Beta Treatment Tracker [Dashboard](https://gsal.sig-gis.com/portal/apps/experiencebuilder/experience/?id=95be34ea351b440f9e4ce0f9d3826a77&page=Activity) to determine acres in treatment and percent of those acres that are privately owned {cite}`WildfireDashboard`.
-[^4]: Ibid.
+[^2]: Utilized data from the Wildfire and Forest Resilience Task Force’s Beta Treatment Tracker [Dashboard](https://gsal.sig-gis.com/portal/apps/experiencebuilder/experience/?id=95be34ea351b440f9e4ce0f9d3826a77&page=Activity) to determine acres in treatment and percent of those acres that are privately owned {cite}`WildfireDashboard`.
+[^3]: Ibid.

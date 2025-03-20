@@ -12,7 +12,7 @@ subprocess.run(["jb", "build", "--all", "."], check=True)
 
 # Push and sync the repository to GitHub make sure to change the 'Update repo' message on line 15
 subprocess.run(["git", "add", "."], check=True)
-subprocess.run(["git", "commit", "-m", "Chapter 8 spelling error"], check=True)
+subprocess.run(["git", "commit", "-m", "URL updates"], check=True)
 subprocess.run(["git", "push"], check=True)
 
 # Open local build in web browser
