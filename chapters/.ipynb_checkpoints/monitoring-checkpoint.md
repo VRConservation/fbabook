@@ -1,6 +1,7 @@
 # Monitoring
 How to measure organizational and business success on a shoestring or when you have little to no budget
 
+(monit:reference)=
 ## Background
 Monitoring, Evaluation, Accountability, and Learning (MEAL) is crucial for ensuring the effectiveness and success of projects, as well as long-term organizational and business viability. MEAL enables organizations to make informed decisions and adapt strategies in real time by 
 
@@ -10,7 +11,6 @@ Monitoring, Evaluation, Accountability, and Learning (MEAL) is crucial for ensur
 🎯 Creating a culture of learning, sharing results, and creating opportunities to compare projects across landscapes, hopefully finding solutions to broader conservation challenges <br>
 
 This comprehensive approach helps identify and address issues early and fosters a culture of continuous improvement. Effective MEAL practices enhance accountability to stakeholders, ensure resources are used efficiently, and contribute to the overall sustainability and impact of projects. Despite the importance of MEAL, donors rarely provide adequate funding for it. Given this reality, you must find ways to implement MEAL with whatever resources—personnel, time, and budget—are available. This quick-step guide will get you started.
-
 
 ```{admonition} Definitions 
 🔭 **Monitoring** involves tracking project activities and progress.<br>
@@ -69,7 +69,7 @@ ArcGIS Survey 123, from ESRI, is a good example of a mobile app for field data c
 ```{admonition} Emerging low-cost, high-tech monitoring options
 :class: dropdown
 
-Traditional methods for monitoring forestry, ecology, and fuels can be expensive, time-consuming, and prone to errors when deployed at scale. Additionally, conventional methods can be slow to implement, limiting their usefulness in detecting new ecological changes, and they often do not provide data with enough precision or in a format that can be easily analyzed without extensive human systematization. Despite these limitations, many forest managers continue to use traditional methods because high-tech methods have historically been too costly to deploy. Fortunately, relevant technologies – including terrestrial laser scanning (TLS) and unmanned aerial vehicle (UAV)-borne light detection and ranging (LIDAR) systems – are rapidly becoming affordable options due to advancements in manufacturing processes, increased competition, and economies of scale.
+Traditional methods for monitoring forestry, ecology, and fuels can be expensive, time-consuming, and prone to errors when deployed at scale. Additionally, conventional methods can be slow to implement, limiting their usefulness in detecting new ecological changes, and they often do not provide data with enough precision or in a format that can be easily analyzed without extensive human systematization. Despite these limitations, many forest managers continue to use traditional methods because high-tech methods have historically been too costly to deploy. Fortunately, relevant technologies – including terrestrial laser scanning (TLS), unmanned aerial vehicles (UAVs), and light detection and ranging (LIDAR) systems – are rapidly becoming affordable options due to advancements in manufacturing processes, increased competition, and economies of scale.
 
 USDA and USFWS researchers have successfully demonstrated using relatively low-cost (~25,000 USD), off-the-shelf TLS units like the Leica BLK360 for forest monitoring {cite}`pokswinski`. Their methodology combines TLS calibrated using traditional, physically sampled forest conditions to simplify and accelerate the extraction of forestry, fuels, and ecological data from a single TLS point cloud. It streamlines data collection, reduces sampling bias, and generates easily processed data for improved modeling and decision-making. 
 
@@ -94,9 +94,7 @@ When I was at university, starting my senior or fourth year, I owned a simple re
 
 ![civic](https://upload.wikimedia.org/wikipedia/commons/8/82/1986_Honda_Civic_Si_in_Victoria_Red%2C_rear_left%2C_7-18-2021.jpg)
 
-On the other hand, you may need something equally dependable, affordable, and expansive, such as the widely loathed (by non-parents) minivan. I rented a Kia minivan once when the rental agency at the San Diego airport ran out of cars. That thing was a rocket. I had it going 90 mph several times (don't tell CHP) driving through the Cleveland National Forest. Vroom vroom!
-
-![minivan](https://i.imgur.com/JkE13Hi.png)
+On the other hand, you may need something equally dependable, affordable, and expansive, such as the workhorse minivan. A Civic will get you reliably where you need to go, whereas a min-van will do that and allow you to bring along your kids, their friends, and all their stuff. I rented a Kia minivan once when the rental agency at the San Diego airport ran out of cars. That thing was a rocket. I had it going 90 mph several times (don't tell CHP) while driving through the Cleveland National Forest. Vroom vroom!
 
 What is the absolute bare-bones, dependable monitoring system that could be implemented (Civic) vs. a more expansive version (Minivan)? We suggest a couple of examples in the pulldowns below. Both examples are hypothetical stand-thinning projects with prescribed fire applied periodically after thinning for maintenance. The project assumption is that thinning will lead to increased forest health and reduced high-intensity wildfires. Sometimes, you need a dependable Honda Civic:
 
@@ -108,12 +106,12 @@ Intervention is stand thinning to reduce wildfire risk followed by regular presc
 1. Stand inventory by species and dbh every ten years using Kobo Toolbox and QGIS
 2. Photo witness posts at reference and treatment sites
 3. Total acres treated, total acres burned
-4. Total $s spent
+4. Total dollars spent
 ```
 
 And sometimes you need a Minivan:
 
-![caddy](https://i.imgur.com/vKt4eQG.png)
+![minivan](https://i.imgur.com/JkE13Hi.png)
 
 ```{admonition} Minivan Monitoring Methods Checklist
 :class: dropdown
@@ -130,7 +128,7 @@ Intervention is stand thinning to reduce wildfire risk followed by regular presc
 ```
 
 ## Resources
-- **[Recipes for Conservation](http://gg.gg/1anhaa)**. A summary of how to develop the conservation standards within or among organizations. The recipes have some valuable sections for businesses but are nonprofit and agency-focused.
-- **[Pause & Reflect Toolkit](https://biodiversitylinks.org/library/resources/pause-and-reflect-toolkit.pdf/view)**. Pause and reflect is an organizational stop and step back to reflect on what you're doing and why as well as an evaluation of how it's going. This toolkit provides project leaders with a centralized collection of resources, enabling them to find everything they need to lead and support a pause and reflect process. More pause and reflect guidance can be found at [Are you making an impact?](https://fosonline.org/library/are-you-making-an-impact-how-to-pause-reflect-adapt-to-achieve-your-goals).
-- **[Measures of Success](https://fosonline.org/library/measures/)**. Practical guide (in English and Spanish) for designing, planning, and implementing conservation projects. The Spanish version is a free download, and the English version, Measures of Success, is available for purchase from Island Press {cite}`measures`.
-- The **[Open Standards for the Practice of Conservation](http://gg.gg/1agk6k)**, developed by the Conservation Measures Partnership {cite}`cmp`, is a definitive resource for program and project design.
+- **[Recipes for Conservation](https://conservationstandards.org/library-item/cs-toolkit)**. A summary of how to develop the conservation standards within or among organizations. The recipes have some valuable sections for businesses but are nonprofit and agency-focused.
+- **[Pause & Reflect Toolkit](https://conservationstandards.org/library-item/pause-and-reflect-toolkit/)**. Pause and reflect is an organizational stop and step back to reflect on what you're doing and why as well as an evaluation of how it's going. This toolkit provides project leaders with a centralized collection of resources, enabling them to find everything they need to lead and support a pause and reflect process.
+- **Measures of Success**. Practical guide (in English and Spanish) for designing, planning, and implementing conservation projects. The Spanish version can be found as a free download, and the English version is available for purchase from Island Press {cite}`measures`.
+- The **[Open Standards for the Practice of Conservation](https://conservationstandards.org/wp-content/uploads/sites/3/2020/10/CMP-Open-Standards-for-the-Practice-of-Conservation-v4.0.pdf)**, developed by the Conservation Measures Partnership {cite}`cmp`, is a definitive resource for program and project design.
