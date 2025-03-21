@@ -25,7 +25,7 @@ In 2023, California experienced over 4,500 wildfires that burned through 116,399
 ## Disparities
 California’s megafires significantly destroy homes, infrastructure, and natural habitats, leading to loss of life, displacement, and billions of dollars in damages. They worsen air pollution, degrade water quality, and release large amounts of carbon dioxide, exacerbating climate change. 
 
-These impacts disproportionately affect low-income and Indigenous communities. Studies have examined the relationship between fire hazard [^1], fire experience, and income in California communities, showing that communities experiencing higher fire frequency have lower incomes ({numref}`fig2`). This result could be due to the lack of investment and resources in those areas or the repeated fires have changed the communities over time.
+These impacts disproportionately affect low-income and Indigenous communities. Studies have examined the relationship between fire hazard [^1], fire experience, and income in California communities, showing that communities experiencing higher fire frequency have lower incomes ({numref}`fig2`). This result could be due to the lack of investment and resources in those areas or the repeated fires that have changed the communities over time.
 
 ```{figure} /figures/resiliencefigs/draft2/fig2.png
 :height: 500px
@@ -43,7 +43,7 @@ This research focuses on the spatial overlap of wildfire treatment needs within 
 
 ### Definitions
 - Forest and Wildfire Fuel Treatment: Treatment includes prescribed burning, mechanical treatment, manual treatments, herbicide application, and prescribed herbivory to reduce hazardous vegetation, constructing fuel breaks, and ecological restoration {cite}`CalVTPStorymap`.  
-- Poverty Rate: California Environmental Protection Agency's Office of Environmental Health Hazard Assessment defines this as the percent of the population living below two times the federal poverty level from a 5-year estimate for the years 2015-2019 {cite}`OEHHAPoverty` .
+- Poverty Rate: California Environmental Protection Agency's Office of Environmental Health Hazard Assessment defines this as the percent of the population living below two times the federal poverty level from a 5-year estimate for 2015-2019 {cite}`OEHHAPoverty`.
 - Poverty Population Threshold: High Poverty 20%; Extreme Poverty 40%. The USDA defines areas of “high poverty” as those with a poverty rate of 20%+ and “extreme poverty” as those with a poverty rate of 40%+ {cite}`PovertyMeasure`.
 
 ### Datasets

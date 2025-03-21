@@ -1,6 +1,6 @@
 # Introduction
 
-The Forest Business Alliance guide to forest product business development, implementation and measuring success.
+The Forest Business Alliance guide to forest product business development, implementation, and measuring success.
 
 ## About
 
@@ -14,11 +14,11 @@ Businesses, Tribal organizations, nonprofits, and other entities creating sustai
 
 We will be adding new chapters when they are ready. Please check back regularly!
 
-- **Funding Analysis**. Examines funding distribution to date of the CAL FIRE Business and Workforce Development Grants Program.
+- **Funding Analysis**. Examines funding distribution for the CAL FIRE Business and Workforce Development Grants Program.
 - **Program Design**. How to create a program or strategy for your organization/business.
-- **Proposals**. A startup guide for project design and writing proposal.
+- **Proposals**. A startup guide for project design and writing proposals.
 - **Measuring Success**. Monitoring and evaluation of your program and projects. Testing assumptions inherent in your theory of change.
-- **CEQA**. Overview of the California Environmental Quality Act and how it applies to forest based business/organization projects.
+- **CEQA**. Overview of the California Environmental Quality Act and its application to forest-based business/organization projects.
 - **Scale**. Scaling forest business and organizational reach and impact.
 - **Cases**. Case studies of successful business and workforce development in California's forest health sector.
 

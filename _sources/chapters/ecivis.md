@@ -4,40 +4,40 @@ A cheat sheet to assist you in applying online and managing your approved projec
 ## Background
 CAL FIRE uses an online system called eCivis to receive applications and administer grants. You will use this system to apply for a CAL FIRE grant and manage and report on that grant if your application is successful. 
 
-The following information covers two stages at which you will use eCivis: The proposal stage, during which you will create a profile and submit all proposal materials; and the post-award stage, during which you will manage your project and use eCivis to submit Activity and Financial Reports. 
+The following information covers two stages at which you will use eCivis: The proposal stage, during which you will create a profile and submit all proposal materials, and the post-award stage, during which you will manage your project and use eCivis to submit Activity and Financial Reports. 
 
 It is important to note that this guide is meant to be used in conjunction with the Business & Workforce Development resources provided on CAL FIRE’s Wood Products and Bioenergy [website](https://www.fire.ca.gov/what-we-do/natural-resource-management/climate-and-energy-program/wood-products-and-bioenergy) and eCivis-specific materials. In particular, the Grants Portal Application Submittal User [Guide](https://shorturl.at/GmCOy) and the eCivis Grants Portal Applicant Troubleshooting [Guide](https://shorturl.at/ETFdi).
 
 ## Proposal Stage
-Access the eCivis portal for the Business & Workforce Development Grant Program through the link in the CAL FIRE guidelines for the solicitation ({numref}`application`). Note that this link is updated for each solicitation, so we are not including it here. For the Wood Products and Bioenergy Program, the solicitation guidelines are posted on the right side of the page under 'RECENT UPDATES'. It is important to create your account through the link in the grant guidelines because this will ensure that you are accessing the correct website and creating an application in the correct solicitation window. Your account will be used for your application and also to administer your grant, should your application be awarded funding.
+Access the eCivis portal for the Business & Workforce Development Grant Program through the link in the CAL FIRE guidelines for the solicitation ({numref}`application`). Note that this link is updated for each solicitation, so we are not including it here. For the Wood Products and Bioenergy Program, the solicitation guidelines are posted on the right side of the page under 'RECENT UPDATES'. It is important to create your account using the link in the grant guidelines. This will ensure you access the correct website and create an application in the correct solicitation window. Your account will be used for your application and to administer your grant, should your application be awarded funding.
 
 ```{figure} /figures/ecivis/application.png
 :name: application
 Application process.
 ```
 
-Clicking the lkink in the first sentence of {numref}`application` takes you to a landing page with summary information about the solicitation ({numref}`landing`). Before beginning your application in eCivis, download all the required forms and templates you will fill out and upload as part of your complete application (e.g., Work Plan and Environmental Compliance Worksheet, State of California Payee Data Record, Non-Discrimination Compliance Statement). These are provided on the Grantee Resources section of the Program website and at the Files tab on the far right of {numref}`landing`.
+Clicking the link in the first sentence of {numref}`application` takes you to a landing page with summary information about the solicitation ({numref}`landing`). Before beginning your application in eCivis, download all the required forms and templates you will fill out and upload as part of your complete application (e.g., Work Plan and Environmental Compliance Worksheet, State of California Payee Data Record, Non-Discrimination Compliance Statement). These are provided on the Grantee Resources section of the Program website and at the Files tab on the far right of {numref}`landing`.
 
 ```{figure} /figures/ecivis/landing.png
 :name: landing
 Initial solicitation landing page.
 ```
 
-Click the Apply checkbox below the CAL FIRE logo leading you to a login page ({numref}`login`). Click create an account if you do not already have one or login if you do. Use the portal login. 
+Click the Apply checkbox below the CAL FIRE logo, leading you to a login page ({numref}`login`). Click Create an Account if you do not already have one, or log in if you do. Use the portal login. 
 
 ```{figure} /figures/ecivis/login.png
 :name: login
 eCivis system log-in page.
 ```
 
-This will lead you to the submission portal where you can start a new application or continue working on a previously saved application ({numref}`portal`).
+This will lead you to the submission portal, where you can start a new application or continue working on a previously saved application ({numref}`portal`).
 
 ```{figure} /figures/ecivis/portal.png
 :name: portal
 The eCivis submission portal.
 ```
 
-1. Don’t forget to access and use the templates in the [Forest Business Alliance website](https://www.forestbusinessalliance.org/templates). FBA team members are available to assist you with this. Contact us at forestbusinessalliance@gmail.com if you have questions or need further assistance. 
+1. Don’t forget to access and use the templates at the [Forest Business Alliance website](https://www.forestbusinessalliance.org/templates). FBA team members are available to assist you with this. Contact us at forestbusinessalliance@gmail.com if you have questions or need further assistance. 
 2. The Forest Business Alliance’s guidebook [Chapter](https://forestbiz.info/chapters/project.html) on project and proposal development would be helpful at this stage for organizing your proposal narrative and budget development workflow. Before you start a proposal, review the chapter to establish how your proposed project fits into your business or strategic plan.
 
 Follow the process in the Grants Portal Application Submittal User [Guide](https://shorturl.at/GmCOy), which will take you step-by-step through creating an account and completing an application.
@@ -47,8 +47,8 @@ Follow the process in the Grants Portal Application Submittal User [Guide](https
 - Please refer to the project/proposal chapter of the FBA guide for tips on developing your budget and the relationship between budget and scope development.
 - If you are applying on behalf of a non-profit or Tribe, you may include indirect costs. Indirect costs are not eligible for grant budgets for most applicants. If you have questions about indirect costs or how to include them in your grant budget, refer to the grant solicitation guidelines and the eCivis template. 
 - Project budgets in eCivis are shown in categories such as Salaries & Wages, Contractual, Travel & Per diem, Equipment, Other Costs, Indirect Cost. To enter budget items into each category, click on the category name (e.g., Salaries & Wages), which will bring up additional boxes to fill in.
-Line items automatically calculate the unit and unit cost the first time you enter them. However, the line item will not automatically update if you change one of these amounts. You will need to manually recalculate the Costs and, if applicable, the Cost Share.
-- Both extended and cost are calculated from multiplying units by unit cost and are not distinguished from each other in eCivis.
+Line items automatically calculate the unit and unit cost the first time you enter them. However, the line item will not automatically update if you change one of these amounts. You will need to recalculate the Costs manually and, if applicable, the Cost Share.
+- Both extended and cost are calculated by multiplying units by unit cost and are not distinguished in eCivis.
 - Budget Narrative
     - The budget narrative is entered at the bottom of the budget page on eCivis. 
     - It has a limit of 8,000 characters, which includes spaces.
