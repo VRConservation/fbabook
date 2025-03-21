@@ -86,7 +86,7 @@ The challenges California's diverse ecosystems face are compounded by the increa
 California can better safeguard its natural landscapes and most vulnerable populations by aligning wildfire treatment strategies with socio-economic resilience measures. Future studies and policy developments should prioritize these high-risk, high-need areas to foster a more equitable and effective approach to wildfire management and climate adaptation. Future research can delve deeper into granular information on the different treatment types across geographies, gather parcel-level data, and explore permitting, planning, and aggregation issues to conduct larger-scale fuel treatments in the state.
 
 ## Appendix
-Table 2. Treatable privately owned acres in high and extreme poverty, total activity acres, and total activity acres on private land [^3].
+Table 2. Treatable privately owned acres in high and extreme poverty, total activity acres, and total activity acres on private land. [^3]
 
 | County | Treatment Need (acres) |  % High Poverty | % Extreme Poverty | Treated (acres) | % Treatment Gap |
 | --- | ---: | ---: | ---: | ---: | ---: |
