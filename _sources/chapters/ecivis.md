@@ -103,11 +103,11 @@ These PDF file packets contain invoicing backup documentation for your expenditu
 
 When you are ready to submit your Financial Report, click on the green “Submit Financial Report” button on the Award Dashboard, and then click “Continue with New Report” when prompted.
 
-Your Award Financial Overview totals are displayed in the top section ({numref}`fin_report1`).
+Your Financial Overview totals are displayed in the top section ({numref}`fin_report1`).
 
 ```{figure} /figures/ecivis/fin_report1.png
 :name: fin_report1
-Award financial overview. Note that amounts have been redacted for privacy reasons.
+Financial overview. Note that amounts have been redacted for privacy reasons.
 ```
 
 Below that, enter the reporting period for your reimbursement. This Reporting Period should match the Invoice Period you entered on your CAL FIRE Invoice Form. The Invoice Period must include all dates mentioned in all parts of your invoice. For example, if a person submits reimbursement for a receipt dated January 19, the Invoice Period must include January 19. It is reasonable to expect these invoicing periods to overlap from invoice to invoice.
