@@ -11,20 +11,22 @@ The [Forest Business Alliance](https://www.forestbusinessalliance.org/) provides
 Businesses, Tribal organizations, nonprofits, and other entities creating sustainable wood product facilities and businesses. The guide offers key insights and advice to access funds. More information and templates for the CAL FIRE Business and Workforce Development and USDA Forest Service Wood Innovation Grants can be found at the [Forest Business Alliance](https://www.forestbusinessalliance.org/) website. Feedback is welcome. Contact us directly at [forestbusinessalliance@gmail.com](mailto:'forestbusinessalliance.com').
 
 ## Contents
-
 We will be adding new chapters when they are ready. Please check back regularly!
 
-- **Funding Analysis**. Examines funding distribution for the CAL FIRE Business and Workforce Development Grants Program.
-- **Program Design**. How to create a program or strategy for your organization/business.
-- **Proposals**. A startup guide for project design and writing proposals.
-- **Measuring Success**. Monitoring and evaluation of your program and projects. Testing assumptions inherent in your theory of change.
-- **CEQA**. Overview of the California Environmental Quality Act and its application to forest-based business/organization projects.
-- **Scale**. Scaling forest business and organizational reach and impact.
-- **Cases**. Case studies of successful business and workforce development in California's forest health sector.
+- **1. Introduction**. This chapter.
+- **2. Program Design**. How to create a program or strategy for your organization/business.
+- **3. Proposals**. A startup guide for project design and writing proposals.
+- **4. Monitoring**. Monitoring and evaluation of your program and projects. Testing assumptions inherent in your theory of change.
+- **5. eCivis**. Managing your application and project using eCivis.
+- **6. Compliance Pathways**. Overview of the California Environmental Quality Act and its application to forest-based business/organization projects.
+- **7. Resilience Gap**. An analysis by New Leaf Climate Partners examining fuel reduction needs to decrease risks of severe wildfire for private forest owners in low-income communities in California.
+- **8. Funding Analysis**. Examines funding distribution for the CAL FIRE Business and Workforce Development Grants Program.
+- **9. Scaling**. Scaling forest business and organizational reach and impact.
+- **10. Grant Management**. [coming soon!] Now that you have a grant how do you successfully manage it?
+- **11. Cases**. [coming soon!] Case studies of successful business and workforce development in California's forest health sector.
 
 ## Acknowledgements
-
-Funding for the Forest Business Alliance is provided by the [CAL FIRE Business and Workforce Development Grant Program](https://www.fire.ca.gov/what-we-do/natural-resource-management/climate-and-energy-program/wood-products-and-bioenergy).
+Funding for the Forest Business Alliance is provided by the [CAL FIRE Business and Workforce Development Grant Program](https://www.fire.ca.gov/what-we-do/natural-resource-management/climate-and-energy-program/wood-products-and-bioenergy) and [Yuba Water Agency](https://www.yubawater.org).
 
 The FBA guide is powered by [jupyter book](https://jupyterbook.org/en/stable/intro.html) and Github pages.
 
