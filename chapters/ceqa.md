@@ -2,7 +2,7 @@
 Environmental compliance can range from simple to complex, costing nominal amounts to 'a lot'. If you have not started on compliance, we offer some pathways and ideas to get you started.
 
 ## Background
-Compliance and documentation with the California Environmental Quality Act (CEQA) and the National Environmental Protection Act (NEPA) are required for all planned projects. Projects on federal lands require NEPA; everything else requires CEQA. However, most California state-funded projects may require CEQA regardless of project location. A comprehensive handbook for bioenergy and wood products businesses is available from CLERE, Inc and the California Board of Forestry and Fire Protection ({cite}`ceqahandbook`).
+Compliance and documentation with the California Environmental Quality Act (CEQA) and the National Environmental Protection Act (NEPA) are required for all planned projects. Projects on federal lands require NEPA; everything else requires CEQA. However, most California state-funded projects may require CEQA regardless of project location. A comprehensive handbook for bioenergy and wood products businesses is available from CLERE, Inc and the California Board of Forestry and Fire Protection {cite}`ceqahandbook`.
 
 ## CEQA
 A general flowchart showing the decision-making process for the California Environmental Quality Act (CEQA) for any project on nonfederal land in California ({numref}`ceqa`). This flowchart is a general CEQA process for any project requiring CEQA compliance. With forest health and wood products projects, please use the diagram as an overall environmental frame of reference rather than the exact process to obtain compliance for your project.
