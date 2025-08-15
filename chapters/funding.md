@@ -4,7 +4,7 @@ The Business of Forest Health Is Booming: An Analysis of CAL FIRE's Business and
 
 [Forest Business Alliance](https://www.forestbusinessalliance.org/)
 
-Updated to include 2024q1 grants
+A NEW UPDATE TO INCLUDE 2025q1 GRANTS IS COMING SOON. 
 
 ## Findings
 To better understand the geographic distribution, success rates, and funding gaps/needs, the Forest Business Alliance undertook a preliminary study examining CAL FIRE's Business and Workforce Development Grants from the first quarter of 2022 through the first quarter of 2024 (new data and analysis will be added when available). The initial analysis of CAL FIRE's Business and Workforce Development Grants Program found the following:
