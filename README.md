@@ -1,3 +1,2 @@
 # fbabook
-
-Forest Business Alliance [Guide](https://forestbiz.info/)
+THIS IS THE ORIGINAL JUPYTER BOOK FBA GUIDE THAT IS NOW RETIRED AND REPLACED BY fba-guide in myst
